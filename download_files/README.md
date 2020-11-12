@@ -29,4 +29,4 @@ After all files are downloaded, we need to read these lipd files and extract the
 5. Interpretation Variable
 6. Interpretation Variable Detail
 
-Run the Notebook - table_com_notebook.ipynb to read the lipd files and extract attributes.
+Run the Notebook - table_com.ipynb to read the lipd files and extract attributes.
