@@ -6,7 +6,7 @@ pip install requests bs4 lxml beautifulsoup4 html5lib
 ```
 Run the python file
 ```
-py download.py
+py temp.py
 ```
 
 Common errors and Fixes
@@ -28,3 +28,5 @@ After all files are downloaded, we need to read these lipd files and extract the
 4. Inferred Variable Type
 5. Interpretation Variable
 6. Interpretation Variable Detail
+
+Run the Notebook - table_com_notebook.ipynb to read the lipd files and extract attributes.
