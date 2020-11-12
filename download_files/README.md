@@ -28,3 +28,5 @@ After all files are downloaded, we need to read these lipd files and extract the
 4. Inferred Variable Type
 5. Interpretation Variable
 6. Interpretation Variable Detail
+
+Run the Notebook - table_com.ipynb to read the lipd files and extract attributes.
