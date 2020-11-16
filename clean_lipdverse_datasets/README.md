@@ -14,7 +14,7 @@
 #### What are we trying to achieve
  
 1. Get archiveType from Linked Earth Wiki Queries and the LinkedEarth Ontology and generate a mapping of archiveType : correctArchiveType<br>
-eg. {'marine sediment': 'MarineSediment', 'lake sediment': 'LakeSediment', 'glacier ice': 'GlacierIce', 'documents': 'Documents', 'borehole': 'Rock', 'tree': 'Wood', 'bivalve': 'MollusckShell'}
+eg. {'marine sediment': 'MarineSediment', 'lake sediment': 'LakeSediment', 'glacier ice': 'GlacierIce', 'documents': 'Documents', 'borehole': 'Rock', 'tree': 'Wood', 'bivalve': 'MollusckShell'}. This is used to get the predicted archiveType value as an effort to standardize the naming conventions across all the datasets.
 2. Get proxyObservationType from LLinked Earth Wiki Queries and the LinkedEarth Ontology and generate a mapping of proxyObsType : correctProxyObsType<br>
 eg. {'C37.concentration': '37:2AlkenoneConcentration', 'trsgi': 'Trsgi', 'd-excess': 'deuteriumExcess', 'deuteriumExcess': 'deuteriumExcess', 'd2H': 'dD', 'dD': 'dD', 'd18o': 'd18O'}
 3. Similar mapping for Inferred Variable Type is generated.
