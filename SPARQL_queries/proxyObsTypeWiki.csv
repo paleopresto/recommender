@@ -1,0 +1,489 @@
+dataset name,archiveType,proxyObservationType,units,proxySystem
+NAm-SnowBowlSanFranciscoPeak.Briffa.2002,tree,segment,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SnowBowlSanFranciscoPeak.Briffa.2002,tree,MXD,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.MXDDefaultSensor.MXD
+NAm-SnowBowlSanFranciscoPeak.Briffa.2002,tree,residual,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SnowBowlSanFranciscoPeak.Briffa.2002,tree,ARS,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SnowBowlSanFranciscoPeak.Briffa.2002,tree,RBar,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SnowBowlSanFranciscoPeak.Briffa.2002,tree,SD,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SnowBowlSanFranciscoPeak.Briffa.2002,tree,SE,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+Ocn-AbrahamReef.Druffel.1999,coral,d13C,permil,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Coral.Porites_porites_austraiensis.D13C
+Ocn-CH07-98-MC-22.Saenger.2011,marine sediment,Mg_Ca,NA,NA
+NAm-Bonif.Schweingruber.1996,tree,density,g/cm3,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-Bonif.Schweingruber.1996,tree,MXD,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.MXDDefaultSensor.MXD
+NAm-Bonif.Schweingruber.1996,tree,EPS,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SunwaptaPass.Schweingruber.1996,tree,MXD,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.MXDDefaultSensor.MXD
+NAm-SunwaptaPass.Schweingruber.1996,tree,ARS,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SunwaptaPass.Schweingruber.1996,tree,corrs,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SunwaptaPass.Schweingruber.1996,tree,SD,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SunwaptaPass.Schweingruber.1996,tree,core,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SpruceCreek.Church.1981,tree,EPS,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SpruceCreek.Church.1981,tree,ARS,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SpruceCreek.Church.1981,tree,SD,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SpruceCreek.Church.1981,tree,SE,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+SAm-CentralAndes11.PAGES2k.2011,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+SAm-CentralAndes11.PAGES2k.2011,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Ocn-SWCoastOfIndia.Saraswat.2013,marine sediment,ghostMeasured,NA,NA
+M77-2_056.Nurnberg.2015,marine sediment,u. peregrina d13c,per mil,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.Uvigirina_peregrina.D13C
+M77-2_056.Nurnberg.2015,marine sediment,g. ruber w d13c,per mil,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.Globigerinoides_ruber.D13C
+Asi-CHIN044.Brauning.2013,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Asi-CHIN044.Brauning.2013,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Ocn-CariacoBasin.Black.2007,marine sediment,Mg_Ca,NA,NA
+Eur-SpanishPyrenees.Dorado-Linan.2012,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Eur-SpanishPyrenees.Dorado-Linan.2012,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+NAm-CraterLakeNE.Briffa.2002,tree,segment,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-CraterLakeNE.Briffa.2002,tree,density,g/cm3,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-CraterLakeNE.Briffa.2002,tree,MXD,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.MXDDefaultSensor.MXD
+NAm-CraterLakeNE.Briffa.2002,tree,residual,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-CraterLakeNE.Briffa.2002,tree,corrs,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-CraterLakeNE.Briffa.2002,tree,SD,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-CraterLakeNE.Briffa.2002,tree,SE,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-CraterLakeNE.Briffa.2002,tree,EPS,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+Ant-US-ITASE-2002-4.Steig.2013,glacier ice,d18O,permil,http://wiki.linked.earth/Special:URIResolver/ProxySystem.GlacierIce.D18ODefaultSensor.D18O
+Arc-PennyIceCapP96.Okuyama.2003,glacier ice,melt,percent,http://wiki.linked.earth/Special:URIResolver/ProxySystem.GlacierIce.MeltDefaultSensor.Melt
+Juxtlahuaca.Lachniet.2012,speleothem,distance_from_top,mm,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Speleothem.DistanceDefaultSensor.Distance
+Arc-Agassiz.Vinther.2008,glacier ice,d18O,permil,http://wiki.linked.earth/Special:URIResolver/ProxySystem.GlacierIce.D18ODefaultSensor.D18O
+Asi-NOGSAK.PAGES2k.2013,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Asi-NOGSAK.PAGES2k.2013,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Ocn-AmedeeIsland.DeLong.2012,coral,Sr_Ca,mmol/mol,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Coral.Porites_lutea.Sr/Ca
+Ocn-AmedeeIsland.DeLong.2012,coral,Sr_Ca,mmol/mol,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Coral.Porites_lutea.Sr/Ca
+ODP1019.Barron.2003,marine sediment,a. nodulifer,percent,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.Azpeitia_nodulifer.Floral
+ODP1019.Barron.2003,marine sediment,n. interruptestriata,percent,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.Nitzschia_interruptestriata.Floral
+ODP1019.Barron.2003,marine sediment,nitzschia sp.,percent,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.Nitzschia.Floral
+ODP1019.Barron.2003,marine sediment,rhizosolenia spp.,percent,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.Rhizosolenia.Floral
+ODP1019.Barron.2003,marine sediment,stephanopyxis spp.,percent,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.Stephanopyxis.Floral
+ODP1019.Barron.2003,marine sediment,t. nitzschioides,percent,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.Thalassionema_nitzschioides.Floral
+ODP1019.Barron.2003,marine sediment,t. eccentrica,percent,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.Thalassiosira_eccentrica.Floral
+ODP1019.Barron.2003,marine sediment,t. pacifica,percent,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.Thalassiosira_pacifica.Floral
+ODP1019.Barron.2003,marine sediment,t. longissima,percent,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.Thalassiothrix_longissima.Floral
+ODP1019.Barron.2003,marine sediment,p. sulcata,percent,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.Paralia_sulcata.Floral
+ODP1019.Barron.2003,marine sediment,diatom benthic,percent,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.FloralDefaultSensor.Floral
+ODP1019.Barron.2003,marine sediment,diatom rew,percent,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.FloralDefaultSensor.Floral
+ODP1019.Barron.2003,marine sediment,diatoms,#,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.FloralDefaultSensor.Floral
+ODP1019.Barron.2003,marine sediment,dbd,g/cm^3,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.DryBulkDensityDefaultSensor.DryBulkDensity
+ODP1019.Barron.2003,marine sediment,artemisia,percent,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.FloralDefaultSensor.Floral
+ODP1019.Barron.2003,marine sediment,cyperaceae,percent,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.FloralDefaultSensor.Floral
+ODP1019.Barron.2003,marine sediment,gramineae,percent,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.FloralDefaultSensor.Floral
+ODP1019.Barron.2003,marine sediment,picea,percent,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.FloralDefaultSensor.Floral
+ODP1019.Barron.2003,marine sediment,sequoia,percent,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.FloralDefaultSensor.Floral
+ODP1019.Barron.2003,marine sediment,tct,percent,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.FloralDefaultSensor.Floral
+ODP1019.Barron.2003,marine sediment,pollen tot,#,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.FloralDefaultSensor.Floral
+Asi-MONG030.Jacoby.2010,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Asi-MONG030.Jacoby.2010,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Asi-Hushre.PAGES2k.2013,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Asi-Hushre.PAGES2k.2013,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Aus-TakapariCedar.Xiong.2000,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Aus-TakapariCedar.Xiong.2000,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+MD01-2390.Steinke.2008,marine sediment,d18oss,per mil,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.Globigerinoides_ruber.D18O
+MD01-2390.Steinke.2008,marine sediment,mgcass,mmol/mol,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.Globigerinoides_ruber.Mg/Ca
+MD01-2390.Steinke.2008,marine sediment,mgcasl,mmol/mol,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.Globigerinoides_ruber.Mg/Ca
+MD01-2390.Steinke.2008,marine sediment,mgca,mmol/mol,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.Globigerinoides_ruber.Mg/Ca
+NAm-HerringAlpine.Fritts.1995,tree,sampleCount,count,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-HerringAlpine.Fritts.1995,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+NAm-HerringAlpine.Fritts.1995,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+NAm-HerringAlpine.Fritts.1995,tree,SD,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-HerringAlpine.Fritts.1995,tree,EPS,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+Asi-TW001.Wright.2010,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Asi-TW001.Wright.2010,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+NAm-MtLemon.Briffa.2002,tree,density,g/cm3,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-MtLemon.Briffa.2002,tree,ARS,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-MtLemon.Briffa.2002,tree,corrs,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-MtLemon.Briffa.2002,tree,core,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-MtLemon.Briffa.2002,tree,ARS,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-MtLemon.Briffa.2002,tree,ringWidth,cm,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-MtLemon.Briffa.2002,tree,corrs,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-RedMountainPassSilverton.Graybill.1994,tree,sampleCount,count,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-RedMountainPassSilverton.Graybill.1994,tree,segment,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-RedMountainPassSilverton.Graybill.1994,tree,ringWidth,cm,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-RedMountainPassSilverton.Graybill.1994,tree,residual,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-RedMountainPassSilverton.Graybill.1994,tree,SD,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-RedMountainPassSilverton.Graybill.1994,tree,core,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-Bennington.Luckman.2013,tree,SE,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+Arc-LakeNataujärvi.Ojala.2005,lake sediment,X_radiograph_dark_layer,dark_sum,http://wiki.linked.earth/Special:URIResolver/ProxySystem.LakeSediment.VarvePropertyDefaultSensor.VarveProperty
+Arc-LakeNataujärvi.Ojala.2005,lake sediment,X_radiograph_dark_layer,dark_sum,http://wiki.linked.earth/Special:URIResolver/ProxySystem.LakeSediment.VarvePropertyDefaultSensor.VarveProperty
+NAm-CanyonCreek.Lloyd.2002,tree,sampleCount,count,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-CanyonCreek.Lloyd.2002,tree,EPS,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-CanyonCreek.Lloyd.2002,tree,core,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+GeoB10069-3.Gibbons.2014,marine sediment,mg/ca,mmol/mol,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.Globigerinoides_ruber.Mg/Ca
+SAm-CentralAndes6.Villalba.2014,tree,trsgi2,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+SAm-CentralAndes6.Villalba.2014,tree,trsgi2,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+SAm-CentralAndes6.Villalba.2014,tree,trsgi3,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+SAm-CentralAndes6.Villalba.2014,tree,trsgi3,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+SAm-CentralAndes6.Villalba.2014,tree,trsgi4,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+SAm-CentralAndes6.Villalba.2014,tree,trsgi4,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+NAm-PyramidMountain.Luckman.2001,tree,segment,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-PyramidMountain.Luckman.2001,tree,SE,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-PyramidMountain.Luckman.2001,tree,EPS,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-PyramidMountain.Luckman.2001,tree,core,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+Asi-PAKI030.Cook.2013,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Asi-PAKI030.Cook.2013,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Ocn-NorthIceland.Sicre.2011,marine sediment,ghostMeasured,NA,NA
+Afr-LakeTanganyika.Tierney.2010,lake sediment,TEX86,degC,http://wiki.linked.earth/Special:URIResolver/ProxySystem.LakeSediment.TEX86DefaultSensor.TEX86
+Eur-CentralandEasternPyrenees.Pla.2004,lake sediment,sampleID,NA,NA
+Ocn-Rabaul.Quinn.2006,coral,d18O,permil,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Coral.Porites_lobata.D18O
+Ocn-AlboranSea384B.Nieto-Moreno.2013,marine sediment,ghostMeasured,NA,NA
+NAm-SunshineMeadows.Colenutt.1995,tree,sampleCount,count,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SunshineMeadows.Colenutt.1995,tree,segment,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SunshineMeadows.Colenutt.1995,tree,MXD,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.MXDDefaultSensor.MXD
+NAm-SunshineMeadows.Colenutt.1995,tree,corrs,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SunshineMeadows.Colenutt.1995,tree,EPS,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SunshineMeadows.Colenutt.1995,tree,core,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SunshineMeadows.Colenutt.1995,tree,sampleCount,count,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SunshineMeadows.Colenutt.1995,tree,segment,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SunshineMeadows.Colenutt.1995,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+NAm-SunshineMeadows.Colenutt.1995,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+NAm-SunshineMeadows.Colenutt.1995,tree,ARS,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SunshineMeadows.Colenutt.1995,tree,SD,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SunshineMeadows.Colenutt.1995,tree,EPS,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SunshineMeadows.Colenutt.1995,tree,core,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+Asi-CHIN049.Brauning.2013,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Asi-CHIN049.Brauning.2013,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Asi-CHIN004.Wu.2013,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Asi-CHIN004.Wu.2013,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Asi-RUSS219.Jacoby.2010,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Asi-RUSS219.Jacoby.2010,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Asi-BT009.Cook.2010,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Asi-BT009.Cook.2010,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Asi-CHIN063.Shao.2013,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Asi-CHIN063.Shao.2013,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+NAm-Arapahoe.Kienast.1996,tree,ringWidth,cm,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-Arapahoe.Kienast.1996,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+NAm-Arapahoe.Kienast.1996,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+NAm-Arapahoe.Kienast.1996,tree,SE,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-Arapahoe.Kienast.1996,tree,EPS,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-Arapahoe.Kienast.1996,tree,core,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-Sugarloaf.Kenigsberg.2013,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+NAm-Sugarloaf.Kenigsberg.2013,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+SK168-GC1.Gebregiorgis.2016,marine sediment,n. dutertrei d18o,per mil,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.Neogloboquadrina_dutertrei.D18O
+NAm-MedicineBowPeak.Briffa.1996,tree,segment,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-MedicineBowPeak.Briffa.1996,tree,ARS,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-MedicineBowPeak.Briffa.1996,tree,SD,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-MedicineBowPeak.Briffa.1996,tree,SE,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-MedicineBowPeak.Briffa.1996,tree,EPS,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-FoolCreek.Brown.2005,tree,sampleCount,count,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-FoolCreek.Brown.2005,tree,corrs,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-FoolCreek.Brown.2005,tree,SD,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-FoolCreek.Brown.2005,tree,EPS,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-FoolCreek.Brown.2005,tree,core,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-FoolCreek.Brown.2005,tree,MXD,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.MXDDefaultSensor.MXD
+NAm-FoolCreek.Brown.2005,tree,sampleCount,count,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-FoolCreek.Brown.2005,tree,residual,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-FoolCreek.Brown.2005,tree,corrs,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-FoolCreek.Brown.2005,tree,SE,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-FoolCreek.Brown.2005,tree,EPS,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-FoolCreek.Brown.2005,tree,core,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+Asi-SO90-39KG_SO130-275KL.Munz.2015,marine sediment,ageMin,AD,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.Globigerinoides_ruber
+Afr-LakeMalawi.Powers.2011,lake sediment,core,NA,NA
+Afr-LakeMalawi.Powers.2011,lake sediment,TEX86,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.LakeSediment.TEX86DefaultSensor.TEX86
+NAm-CottonwoodPass.Briffa.1996,tree,ARS,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-CottonwoodPass.Briffa.1996,tree,corrs,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-CottonwoodPass.Briffa.1996,tree,RBar,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-CottonwoodPass.Briffa.1996,tree,SD,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-CottonwoodPass.Briffa.1996,tree,core,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+Ocn-Rarotonga_d18O2R.Linsley.2006,coral,d18O,permil,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Coral.Porites_lutea.D18O
+Ocn-Rarotonga_d18O2R.Linsley.2006,coral,d13C,permil,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Coral.Porites_lutea.D13C
+Ocn-PalauRockIslands.Osborne.2014,coral,d18O,permil,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Coral.Porites_porites_lutea.D18O
+NAm-ParkMountain.Wilson.2005,tree,sampleCount,count,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-ParkMountain.Wilson.2005,tree,segment,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-ParkMountain.Wilson.2005,tree,ringWidth,cm,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-ParkMountain.Wilson.2005,tree,RBar,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+Eur-EasternCarpathianMountains.Popa.2008,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Eur-EasternCarpathianMountains.Popa.2008,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Ocn-WesternAntarcticPeninsula.Shevenell.2011,marine sediment,TEX86,NA,NA
+NAm-BlanchardRiver.Luckman.2013,tree,sampleCount,count,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-BlanchardRiver.Luckman.2013,tree,ringWidth,cm,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-BlanchardRiver.Luckman.2013,tree,residual,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+Ocn-GingerbreadsBahamas.Saenger.2009,coral,calcification,cm/yr,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Coral.Siderastrea_siderea.Calcification
+Asi-Guliya.Thompson.1997,glacier ice,Reconstructed,cm/yr,http://wiki.linked.earth/Special:URIResolver/ProxySystem.GlacierIce.DefaultSensor
+Asi-Guliya.Thompson.1997,glacier ice,ageMax,AD,http://wiki.linked.earth/Special:URIResolver/ProxySystem.GlacierIce.DefaultSensor
+Asi-Guliya.Thompson.1997,glacier ice,dust,count/mL,http://wiki.linked.earth/Special:URIResolver/ProxySystem.GlacierIce.DefaultSensor
+Asi-Guliya.Thompson.1997,glacier ice,chloride,ppb,http://wiki.linked.earth/Special:URIResolver/ProxySystem.GlacierIce.DefaultSensor
+Asi-Guliya.Thompson.1997,glacier ice,sulfate,ppb,http://wiki.linked.earth/Special:URIResolver/ProxySystem.GlacierIce.DefaultSensor
+Eur-CentralEurope.Dobrovolný.2009,documents,ghostMeasured,NA,NA
+M25_4-KL1.Emeis.2000,marine sediment,uk37prime,NA,NA
+NAm-SmallRiver.Luckman.2001,tree,sampleCount,count,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SmallRiver.Luckman.2001,tree,segment,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SmallRiver.Luckman.2001,tree,ringWidth,cm,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SmallRiver.Luckman.2001,tree,residual,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SmallRiver.Luckman.2001,tree,SD,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SmallRiver.Luckman.2001,tree,core,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+Asi-KYRG010.Shiyatov.2013,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Asi-KYRG010.Shiyatov.2013,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+NAm-wa071.Peterson.1994,tree,ringWidth,cm,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-wa071.Peterson.1994,tree,corrs,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-wa071.Peterson.1994,tree,RBar,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-wa071.Peterson.1994,tree,SD,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-wa071.Peterson.1994,tree,EPS,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-AthabascaGlacier2.Luckman.2005,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+NAm-AthabascaGlacier2.Luckman.2005,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+NAm-AthabascaGlacier2.Luckman.2005,tree,corrs,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-AthabascaGlacier2.Luckman.2005,tree,RBar,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-AthabascaGlacier2.Luckman.2005,tree,SD,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-AthabascaGlacier2.Luckman.2005,tree,EPS,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-FrenchGlacier.Colenutt.1995,tree,sampleCount,count,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-FrenchGlacier.Colenutt.1995,tree,residual,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-FrenchGlacier.Colenutt.1995,tree,corrs,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-FrenchGlacier.Colenutt.1995,tree,SD,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-FrenchGlacier.Colenutt.1995,tree,SE,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-FrenchGlacier.Colenutt.1995,tree,core,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+Asi-PAKI009.Esper.2007,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Asi-PAKI009.Esper.2007,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Asi-PAKI031.Cook.2013,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Asi-PAKI031.Cook.2013,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+NAm-PintlersTwo.Littell.2011,tree,sampleCount,count,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-PintlersTwo.Littell.2011,tree,ringWidth,cm,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-PintlersTwo.Littell.2011,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+NAm-PintlersTwo.Littell.2011,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+NAm-PintlersTwo.Littell.2011,tree,RBar,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-PintlersTwo.Littell.2011,tree,SD,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-PintlersTwo.Littell.2011,tree,SE,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-PintlersTwo.Littell.2011,tree,EPS,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SylvanPassbeiCody.Briffa.1996,tree,ringWidth,cm,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+Asi-RUSS236.Sano.2009,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Asi-RUSS236.Sano.2009,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Arc-Lomonosovfonna.Divine.2011,glacier ice,d18O,permil,http://wiki.linked.earth/Special:URIResolver/ProxySystem.GlacierIce.D18ODefaultSensor.D18O
+KNR195-5-CDH23.Bova.2015,marine sediment,c37total,NA,NA
+GeoB12610-2.Rippert.2015,marine sediment,n. dutertrei d18o,per mil,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.Neogloboquadrina_dutertrei.D18O
+NAm-SnowBowlSanFranciscoPeak.Briffa.2002,tree,segment,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SnowBowlSanFranciscoPeak.Briffa.2002,tree,MXD,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.MXDDefaultSensor.MXD
+NAm-SnowBowlSanFranciscoPeak.Briffa.2002,tree,residual,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SnowBowlSanFranciscoPeak.Briffa.2002,tree,ARS,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SnowBowlSanFranciscoPeak.Briffa.2002,tree,RBar,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SnowBowlSanFranciscoPeak.Briffa.2002,tree,SD,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SnowBowlSanFranciscoPeak.Briffa.2002,tree,SE,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+Ocn-AbrahamReef.Druffel.1999,coral,d13C,permil,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Coral.Porites_porites_austraiensis.D13C
+Ocn-CH07-98-MC-22.Saenger.2011,marine sediment,Mg_Ca,NA,NA
+NAm-Bonif.Schweingruber.1996,tree,density,g/cm3,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-Bonif.Schweingruber.1996,tree,MXD,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.MXDDefaultSensor.MXD
+NAm-Bonif.Schweingruber.1996,tree,EPS,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SunwaptaPass.Schweingruber.1996,tree,MXD,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.MXDDefaultSensor.MXD
+NAm-SunwaptaPass.Schweingruber.1996,tree,ARS,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SunwaptaPass.Schweingruber.1996,tree,corrs,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SunwaptaPass.Schweingruber.1996,tree,SD,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SunwaptaPass.Schweingruber.1996,tree,core,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SpruceCreek.Church.1981,tree,EPS,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SpruceCreek.Church.1981,tree,ARS,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SpruceCreek.Church.1981,tree,SD,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SpruceCreek.Church.1981,tree,SE,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+SAm-CentralAndes11.PAGES2k.2011,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+SAm-CentralAndes11.PAGES2k.2011,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Ocn-SWCoastOfIndia.Saraswat.2013,marine sediment,ghostMeasured,NA,NA
+M77-2_056.Nurnberg.2015,marine sediment,u. peregrina d13c,per mil,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.Uvigirina_peregrina.D13C
+M77-2_056.Nurnberg.2015,marine sediment,g. ruber w d13c,per mil,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.Globigerinoides_ruber.D13C
+Asi-CHIN044.Brauning.2013,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Asi-CHIN044.Brauning.2013,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Ocn-CariacoBasin.Black.2007,marine sediment,Mg_Ca,NA,NA
+Eur-SpanishPyrenees.Dorado-Linan.2012,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Eur-SpanishPyrenees.Dorado-Linan.2012,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+NAm-CraterLakeNE.Briffa.2002,tree,segment,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-CraterLakeNE.Briffa.2002,tree,density,g/cm3,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-CraterLakeNE.Briffa.2002,tree,MXD,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.MXDDefaultSensor.MXD
+NAm-CraterLakeNE.Briffa.2002,tree,residual,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-CraterLakeNE.Briffa.2002,tree,corrs,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-CraterLakeNE.Briffa.2002,tree,SD,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-CraterLakeNE.Briffa.2002,tree,SE,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-CraterLakeNE.Briffa.2002,tree,EPS,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+Ant-US-ITASE-2002-4.Steig.2013,glacier ice,d18O,permil,http://wiki.linked.earth/Special:URIResolver/ProxySystem.GlacierIce.D18ODefaultSensor.D18O
+Arc-PennyIceCapP96.Okuyama.2003,glacier ice,melt,percent,http://wiki.linked.earth/Special:URIResolver/ProxySystem.GlacierIce.MeltDefaultSensor.Melt
+Juxtlahuaca.Lachniet.2012,speleothem,distance_from_top,mm,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Speleothem.DistanceDefaultSensor.Distance
+Arc-Agassiz.Vinther.2008,glacier ice,d18O,permil,http://wiki.linked.earth/Special:URIResolver/ProxySystem.GlacierIce.D18ODefaultSensor.D18O
+Asi-NOGSAK.PAGES2k.2013,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Asi-NOGSAK.PAGES2k.2013,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Ocn-AmedeeIsland.DeLong.2012,coral,Sr_Ca,mmol/mol,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Coral.Porites_lutea.Sr/Ca
+Ocn-AmedeeIsland.DeLong.2012,coral,Sr_Ca,mmol/mol,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Coral.Porites_lutea.Sr/Ca
+ODP1019.Barron.2003,marine sediment,a. nodulifer,percent,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.Azpeitia_nodulifer.Floral
+ODP1019.Barron.2003,marine sediment,n. interruptestriata,percent,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.Nitzschia_interruptestriata.Floral
+ODP1019.Barron.2003,marine sediment,nitzschia sp.,percent,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.Nitzschia.Floral
+ODP1019.Barron.2003,marine sediment,rhizosolenia spp.,percent,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.Rhizosolenia.Floral
+ODP1019.Barron.2003,marine sediment,stephanopyxis spp.,percent,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.Stephanopyxis.Floral
+ODP1019.Barron.2003,marine sediment,t. nitzschioides,percent,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.Thalassionema_nitzschioides.Floral
+ODP1019.Barron.2003,marine sediment,t. eccentrica,percent,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.Thalassiosira_eccentrica.Floral
+ODP1019.Barron.2003,marine sediment,t. pacifica,percent,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.Thalassiosira_pacifica.Floral
+ODP1019.Barron.2003,marine sediment,t. longissima,percent,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.Thalassiothrix_longissima.Floral
+ODP1019.Barron.2003,marine sediment,p. sulcata,percent,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.Paralia_sulcata.Floral
+ODP1019.Barron.2003,marine sediment,diatom benthic,percent,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.FloralDefaultSensor.Floral
+ODP1019.Barron.2003,marine sediment,diatom rew,percent,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.FloralDefaultSensor.Floral
+ODP1019.Barron.2003,marine sediment,diatoms,#,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.FloralDefaultSensor.Floral
+ODP1019.Barron.2003,marine sediment,dbd,g/cm^3,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.DryBulkDensityDefaultSensor.DryBulkDensity
+ODP1019.Barron.2003,marine sediment,artemisia,percent,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.FloralDefaultSensor.Floral
+ODP1019.Barron.2003,marine sediment,cyperaceae,percent,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.FloralDefaultSensor.Floral
+ODP1019.Barron.2003,marine sediment,gramineae,percent,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.FloralDefaultSensor.Floral
+ODP1019.Barron.2003,marine sediment,picea,percent,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.FloralDefaultSensor.Floral
+ODP1019.Barron.2003,marine sediment,sequoia,percent,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.FloralDefaultSensor.Floral
+ODP1019.Barron.2003,marine sediment,tct,percent,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.FloralDefaultSensor.Floral
+ODP1019.Barron.2003,marine sediment,pollen tot,#,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.FloralDefaultSensor.Floral
+Asi-MONG030.Jacoby.2010,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Asi-MONG030.Jacoby.2010,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Asi-Hushre.PAGES2k.2013,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Asi-Hushre.PAGES2k.2013,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Aus-TakapariCedar.Xiong.2000,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Aus-TakapariCedar.Xiong.2000,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+MD01-2390.Steinke.2008,marine sediment,d18oss,per mil,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.Globigerinoides_ruber.D18O
+MD01-2390.Steinke.2008,marine sediment,mgcass,mmol/mol,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.Globigerinoides_ruber.Mg/Ca
+MD01-2390.Steinke.2008,marine sediment,mgcasl,mmol/mol,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.Globigerinoides_ruber.Mg/Ca
+MD01-2390.Steinke.2008,marine sediment,mgca,mmol/mol,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.Globigerinoides_ruber.Mg/Ca
+NAm-HerringAlpine.Fritts.1995,tree,sampleCount,count,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-HerringAlpine.Fritts.1995,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+NAm-HerringAlpine.Fritts.1995,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+NAm-HerringAlpine.Fritts.1995,tree,SD,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-HerringAlpine.Fritts.1995,tree,EPS,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+Asi-TW001.Wright.2010,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Asi-TW001.Wright.2010,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+NAm-MtLemon.Briffa.2002,tree,density,g/cm3,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-MtLemon.Briffa.2002,tree,ARS,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-MtLemon.Briffa.2002,tree,corrs,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-MtLemon.Briffa.2002,tree,core,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-MtLemon.Briffa.2002,tree,ARS,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-MtLemon.Briffa.2002,tree,ringWidth,cm,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-MtLemon.Briffa.2002,tree,corrs,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-RedMountainPassSilverton.Graybill.1994,tree,sampleCount,count,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-RedMountainPassSilverton.Graybill.1994,tree,segment,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-RedMountainPassSilverton.Graybill.1994,tree,ringWidth,cm,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-RedMountainPassSilverton.Graybill.1994,tree,residual,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-RedMountainPassSilverton.Graybill.1994,tree,SD,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-RedMountainPassSilverton.Graybill.1994,tree,core,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-Bennington.Luckman.2013,tree,SE,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+Arc-LakeNataujärvi.Ojala.2005,lake sediment,X_radiograph_dark_layer,dark_sum,http://wiki.linked.earth/Special:URIResolver/ProxySystem.LakeSediment.VarvePropertyDefaultSensor.VarveProperty
+Arc-LakeNataujärvi.Ojala.2005,lake sediment,X_radiograph_dark_layer,dark_sum,http://wiki.linked.earth/Special:URIResolver/ProxySystem.LakeSediment.VarvePropertyDefaultSensor.VarveProperty
+NAm-CanyonCreek.Lloyd.2002,tree,sampleCount,count,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-CanyonCreek.Lloyd.2002,tree,EPS,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-CanyonCreek.Lloyd.2002,tree,core,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+GeoB10069-3.Gibbons.2014,marine sediment,mg/ca,mmol/mol,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.Globigerinoides_ruber.Mg/Ca
+SAm-CentralAndes6.Villalba.2014,tree,trsgi2,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+SAm-CentralAndes6.Villalba.2014,tree,trsgi2,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+SAm-CentralAndes6.Villalba.2014,tree,trsgi3,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+SAm-CentralAndes6.Villalba.2014,tree,trsgi3,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+SAm-CentralAndes6.Villalba.2014,tree,trsgi4,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+SAm-CentralAndes6.Villalba.2014,tree,trsgi4,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+NAm-PyramidMountain.Luckman.2001,tree,segment,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-PyramidMountain.Luckman.2001,tree,SE,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-PyramidMountain.Luckman.2001,tree,EPS,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-PyramidMountain.Luckman.2001,tree,core,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+Asi-PAKI030.Cook.2013,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Asi-PAKI030.Cook.2013,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Ocn-NorthIceland.Sicre.2011,marine sediment,ghostMeasured,NA,NA
+Afr-LakeTanganyika.Tierney.2010,lake sediment,TEX86,degC,http://wiki.linked.earth/Special:URIResolver/ProxySystem.LakeSediment.TEX86DefaultSensor.TEX86
+Eur-CentralandEasternPyrenees.Pla.2004,lake sediment,sampleID,NA,NA
+Ocn-Rabaul.Quinn.2006,coral,d18O,permil,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Coral.Porites_lobata.D18O
+Ocn-AlboranSea384B.Nieto-Moreno.2013,marine sediment,ghostMeasured,NA,NA
+NAm-SunshineMeadows.Colenutt.1995,tree,sampleCount,count,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SunshineMeadows.Colenutt.1995,tree,segment,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SunshineMeadows.Colenutt.1995,tree,MXD,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.MXDDefaultSensor.MXD
+NAm-SunshineMeadows.Colenutt.1995,tree,corrs,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SunshineMeadows.Colenutt.1995,tree,EPS,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SunshineMeadows.Colenutt.1995,tree,core,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SunshineMeadows.Colenutt.1995,tree,sampleCount,count,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SunshineMeadows.Colenutt.1995,tree,segment,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SunshineMeadows.Colenutt.1995,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+NAm-SunshineMeadows.Colenutt.1995,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+NAm-SunshineMeadows.Colenutt.1995,tree,ARS,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SunshineMeadows.Colenutt.1995,tree,SD,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SunshineMeadows.Colenutt.1995,tree,EPS,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SunshineMeadows.Colenutt.1995,tree,core,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+Asi-CHIN049.Brauning.2013,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Asi-CHIN049.Brauning.2013,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Asi-CHIN004.Wu.2013,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Asi-CHIN004.Wu.2013,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Asi-RUSS219.Jacoby.2010,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Asi-RUSS219.Jacoby.2010,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Asi-BT009.Cook.2010,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Asi-BT009.Cook.2010,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Asi-CHIN063.Shao.2013,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Asi-CHIN063.Shao.2013,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+NAm-Arapahoe.Kienast.1996,tree,ringWidth,cm,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-Arapahoe.Kienast.1996,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+NAm-Arapahoe.Kienast.1996,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+NAm-Arapahoe.Kienast.1996,tree,SE,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-Arapahoe.Kienast.1996,tree,EPS,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-Arapahoe.Kienast.1996,tree,core,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-Sugarloaf.Kenigsberg.2013,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+NAm-Sugarloaf.Kenigsberg.2013,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+SK168-GC1.Gebregiorgis.2016,marine sediment,n. dutertrei d18o,per mil,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.Neogloboquadrina_dutertrei.D18O
+NAm-MedicineBowPeak.Briffa.1996,tree,segment,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-MedicineBowPeak.Briffa.1996,tree,ARS,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-MedicineBowPeak.Briffa.1996,tree,SD,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-MedicineBowPeak.Briffa.1996,tree,SE,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-MedicineBowPeak.Briffa.1996,tree,EPS,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-FoolCreek.Brown.2005,tree,sampleCount,count,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-FoolCreek.Brown.2005,tree,corrs,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-FoolCreek.Brown.2005,tree,SD,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-FoolCreek.Brown.2005,tree,EPS,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-FoolCreek.Brown.2005,tree,core,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-FoolCreek.Brown.2005,tree,MXD,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.MXDDefaultSensor.MXD
+NAm-FoolCreek.Brown.2005,tree,sampleCount,count,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-FoolCreek.Brown.2005,tree,residual,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-FoolCreek.Brown.2005,tree,corrs,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-FoolCreek.Brown.2005,tree,SE,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-FoolCreek.Brown.2005,tree,EPS,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-FoolCreek.Brown.2005,tree,core,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+Asi-SO90-39KG_SO130-275KL.Munz.2015,marine sediment,ageMin,AD,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.Globigerinoides_ruber
+Afr-LakeMalawi.Powers.2011,lake sediment,core,NA,NA
+Afr-LakeMalawi.Powers.2011,lake sediment,TEX86,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.LakeSediment.TEX86DefaultSensor.TEX86
+NAm-CottonwoodPass.Briffa.1996,tree,ARS,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-CottonwoodPass.Briffa.1996,tree,corrs,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-CottonwoodPass.Briffa.1996,tree,RBar,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-CottonwoodPass.Briffa.1996,tree,SD,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-CottonwoodPass.Briffa.1996,tree,core,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+Ocn-Rarotonga_d18O2R.Linsley.2006,coral,d18O,permil,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Coral.Porites_lutea.D18O
+Ocn-Rarotonga_d18O2R.Linsley.2006,coral,d13C,permil,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Coral.Porites_lutea.D13C
+Ocn-PalauRockIslands.Osborne.2014,coral,d18O,permil,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Coral.Porites_porites_lutea.D18O
+NAm-ParkMountain.Wilson.2005,tree,sampleCount,count,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-ParkMountain.Wilson.2005,tree,segment,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-ParkMountain.Wilson.2005,tree,ringWidth,cm,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-ParkMountain.Wilson.2005,tree,RBar,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+Eur-EasternCarpathianMountains.Popa.2008,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Eur-EasternCarpathianMountains.Popa.2008,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Ocn-WesternAntarcticPeninsula.Shevenell.2011,marine sediment,TEX86,NA,NA
+NAm-BlanchardRiver.Luckman.2013,tree,sampleCount,count,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-BlanchardRiver.Luckman.2013,tree,ringWidth,cm,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-BlanchardRiver.Luckman.2013,tree,residual,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+Ocn-GingerbreadsBahamas.Saenger.2009,coral,calcification,cm/yr,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Coral.Siderastrea_siderea.Calcification
+Asi-Guliya.Thompson.1997,glacier ice,Reconstructed,cm/yr,http://wiki.linked.earth/Special:URIResolver/ProxySystem.GlacierIce.DefaultSensor
+Asi-Guliya.Thompson.1997,glacier ice,ageMax,AD,http://wiki.linked.earth/Special:URIResolver/ProxySystem.GlacierIce.DefaultSensor
+Asi-Guliya.Thompson.1997,glacier ice,dust,count/mL,http://wiki.linked.earth/Special:URIResolver/ProxySystem.GlacierIce.DefaultSensor
+Asi-Guliya.Thompson.1997,glacier ice,chloride,ppb,http://wiki.linked.earth/Special:URIResolver/ProxySystem.GlacierIce.DefaultSensor
+Asi-Guliya.Thompson.1997,glacier ice,sulfate,ppb,http://wiki.linked.earth/Special:URIResolver/ProxySystem.GlacierIce.DefaultSensor
+Eur-CentralEurope.Dobrovolný.2009,documents,ghostMeasured,NA,NA
+M25_4-KL1.Emeis.2000,marine sediment,uk37prime,NA,NA
+NAm-SmallRiver.Luckman.2001,tree,sampleCount,count,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SmallRiver.Luckman.2001,tree,segment,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SmallRiver.Luckman.2001,tree,ringWidth,cm,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SmallRiver.Luckman.2001,tree,residual,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SmallRiver.Luckman.2001,tree,SD,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SmallRiver.Luckman.2001,tree,core,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+Asi-KYRG010.Shiyatov.2013,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Asi-KYRG010.Shiyatov.2013,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+NAm-wa071.Peterson.1994,tree,ringWidth,cm,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-wa071.Peterson.1994,tree,corrs,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-wa071.Peterson.1994,tree,RBar,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-wa071.Peterson.1994,tree,SD,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-wa071.Peterson.1994,tree,EPS,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-AthabascaGlacier2.Luckman.2005,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+NAm-AthabascaGlacier2.Luckman.2005,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+NAm-AthabascaGlacier2.Luckman.2005,tree,corrs,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-AthabascaGlacier2.Luckman.2005,tree,RBar,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-AthabascaGlacier2.Luckman.2005,tree,SD,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-AthabascaGlacier2.Luckman.2005,tree,EPS,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-FrenchGlacier.Colenutt.1995,tree,sampleCount,count,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-FrenchGlacier.Colenutt.1995,tree,residual,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-FrenchGlacier.Colenutt.1995,tree,corrs,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-FrenchGlacier.Colenutt.1995,tree,SD,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-FrenchGlacier.Colenutt.1995,tree,SE,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-FrenchGlacier.Colenutt.1995,tree,core,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+Asi-PAKI009.Esper.2007,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Asi-PAKI009.Esper.2007,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Asi-PAKI031.Cook.2013,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Asi-PAKI031.Cook.2013,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+NAm-PintlersTwo.Littell.2011,tree,sampleCount,count,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-PintlersTwo.Littell.2011,tree,ringWidth,cm,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-PintlersTwo.Littell.2011,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+NAm-PintlersTwo.Littell.2011,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+NAm-PintlersTwo.Littell.2011,tree,RBar,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-PintlersTwo.Littell.2011,tree,SD,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-PintlersTwo.Littell.2011,tree,SE,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-PintlersTwo.Littell.2011,tree,EPS,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+NAm-SylvanPassbeiCody.Briffa.1996,tree,ringWidth,cm,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.DefaultSensor
+Asi-RUSS236.Sano.2009,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Asi-RUSS236.Sano.2009,tree,trsgi,NA,http://wiki.linked.earth/Special:URIResolver/ProxySystem.Wood.TRWDefaultSensor.TRW
+Arc-Lomonosovfonna.Divine.2011,glacier ice,d18O,permil,http://wiki.linked.earth/Special:URIResolver/ProxySystem.GlacierIce.D18ODefaultSensor.D18O
+KNR195-5-CDH23.Bova.2015,marine sediment,c37total,NA,NA
+GeoB12610-2.Rippert.2015,marine sediment,n. dutertrei d18o,per mil,http://wiki.linked.earth/Special:URIResolver/ProxySystem.MarineSediment.Neogloboquadrina_dutertrei.D18O
