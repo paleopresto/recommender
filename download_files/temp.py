@@ -5,9 +5,9 @@ url = 'http://wiki.linked.earth/Special:WTLiPD'
 
 response = requests.get(url)
 data = response.text
-soup = bs(data,features = 'lxml')
+# soup = bs(data,features = 'lxml')
 # soup = bs(html, "html5lib")
-# soup = bs(data, 'html.parser')
+soup = bs(data, 'html.parser')
 
 l_list = []
 for link in soup.find_all('a') :

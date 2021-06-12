@@ -1,0 +1,256 @@
+{
+    "geo": {
+        "geometry": {
+            "coordinates": [
+                44.3,
+                11.955,
+                -869
+            ],
+            "type": "Point"
+        },
+        "properties": {
+            "siteName": "P178-15P",
+            "pages2kRegion": "Ocean"
+        },
+        "type": "Feature"
+    },
+    "collectionName": "P178-15P and P178-15 BC1 past 2000 year biomarker data",
+    "investigator": [
+        {
+            "name": "Jessica Tierney"
+        },
+        {
+            "name": "Caroline Ummenhofer"
+        },
+        {
+            "name": "Peter deMenocal"
+        }
+    ],
+    "earliestSampleDate": 131,
+    "googleDataURL": "https:\/\/docs.google.com\/spreadsheets\/d\/1AACjsikZ0jJHrrcUnQvqUApF3rV6YWF3RBNxUSRH5hk",
+    "googleMetadataWorksheet": "o1k7eph",
+    "originalDataURL": "https:\/\/www.ncdc.noaa.gov\/paleo\/study\/19200",
+    "googleSpreadSheetKey": "1AACjsikZ0jJHrrcUnQvqUApF3rV6YWF3RBNxUSRH5hk",
+    "paleoData": [
+        {
+            "measurementTable": [
+                {
+                    "googleWorkSheetKey": "o3g1pw2",
+                    "filename": "Afr-P178-15P.Tierney.2015.paleo1measurement1.csv",
+                    "columns": [
+                        {
+                            "calibration": [
+                                {
+                                    "equation": "BAYSPAR Bayesian calibration",
+                                    "reference": "10.1038\/sdata.2015.29"
+                                }
+                            ],
+                            "dataType": "float",
+                            "description": "median calibrated ssts from tex86, using BAYSPAR-NRS (Tierney & Tingley, 2014, GCA)",
+                            "number": "1",
+                            "hasMaxValue": 27.8932,
+                            "hasMeanValue": 27.344578301887,
+                            "hasMedianValue": 27.37305,
+                            "hasMinValue": 26.7173,
+                            "resolution": null,
+                            "units": "degC",
+                            "TSid": "LPD53e179ad",
+                            "inferredVariableType": "Temperature",
+                            "measurementMethod": "BAYSPAR Bayesian calibration",
+                            "variableName": "temperature",
+                            "notes": "; paleoData_variableName changed - was originally sst; paleoData_units changed - was originally deg C; climateInterpretation_seasonality changed - was originally Annual",
+                            "pages2kID": "Ocn_137",
+                            "qCCertification": "JET",
+                            "useInGlobalTemperatureAnalysis": "t",
+                            "variableType": "inferred"
+                        },
+                        {
+                            "dataType": "float",
+                            "description": "Year AD",
+                            "number": "2",
+                            "hasMaxValue": 1980,
+                            "hasMeanValue": 1127.116745283,
+                            "hasMedianValue": 1181.875,
+                            "hasMinValue": 131,
+                            "units": "AD",
+                            "TSid": "PYTHCZK7IUA",
+                            "inferredVariableType": "Year",
+                            "variableName": "year",
+                            "variableType": "inferred"
+                        }
+                    ],
+                    "missingValue": "nan",
+                    "paleoDataTableName": "Data_P",
+                    "paleoMeasurementTableName": "measurementTable1",
+                    "paleoMeasurementTableNumber": 1,
+                    "paleoNumber": 2
+                }
+            ]
+        },
+        {
+            "measurementTable": [
+                {
+                    "googleWorkSheetKey": "ow8p6br",
+                    "filename": "Afr-P178-15P.Tierney.2015.paleo2measurement1.csv",
+                    "columns": [
+                        {
+                            "calibration": [
+                                {
+                                    "equation": "BAYSPAR Bayesian calibration",
+                                    "reference": "10.1038\/sdata.2015.29"
+                                }
+                            ],
+                            "dataType": "float",
+                            "description": "median calibrated ssts from tex86, using BAYSPAR-NRS (Tierney & Tingley, 2014, GCA)",
+                            "number": "1",
+                            "hasMaxValue": 28.3286,
+                            "hasMeanValue": 27.497060869565,
+                            "hasMedianValue": 27.39475,
+                            "hasMinValue": 26.9584,
+                            "resolution": null,
+                            "units": "degC",
+                            "TSid": "LPD81e53153",
+                            "inferredVariableType": "Temperature",
+                            "measurementMethod": "BAYSPAR Bayesian calibration",
+                            "variableName": "temperature",
+                            "notes": "; paleoData_variableName changed - was originally sst; paleoData_units changed - was originally deg C; climateInterpretation_seasonality changed - was originally Annual",
+                            "pages2kID": "Ocn_136",
+                            "qCCertification": "JET",
+                            "useInGlobalTemperatureAnalysis": "t",
+                            "variableType": "inferred"
+                        },
+                        {
+                            "dataType": "float",
+                            "description": "Year AD",
+                            "number": "2",
+                            "hasMaxValue": 2000,
+                            "hasMeanValue": 1844.5471,
+                            "hasMedianValue": 1862.5,
+                            "hasMinValue": 1628,
+                            "units": "AD",
+                            "TSid": "PYTVKRKFD4R",
+                            "inferredVariableType": "Year",
+                            "variableName": "year",
+                            "variableType": "inferred"
+                        }
+                    ],
+                    "missingValue": "nan",
+                    "paleoDataTableName": "Data_BC1",
+                    "paleoMeasurementTableName": "measurementTable1",
+                    "paleoMeasurementTableNumber": 1,
+                    "paleoNumber": 1
+                }
+            ]
+        },
+        {
+            "measurementTable": [
+                {
+                    "filename": "Afr-P178-15P.Tierney.2015.paleo3measurement1.csv",
+                    "columns": [
+                        {
+                            "calibration": [
+                                {
+                                    "equation": "BAYSPAR Bayesian calibration",
+                                    "reference": "10.1038\/sdata.2015.29"
+                                }
+                            ],
+                            "number": "1",
+                            "TSid": "PYT790VSCEN",
+                            "inferredVariableType": "Temperature",
+                            "variableName": "ghostMeasured",
+                            "proxyObservationType": "GhostMeasured",
+                            "useInGlobalTemperatureAnalysis": "f",
+                            "variableType": "inferred"
+                        },
+                        {
+                            "dataType": "float",
+                            "description": "Year AD",
+                            "number": "2",
+                            "hasMaxValue": 2000,
+                            "hasMeanValue": 1844.5471,
+                            "hasMedianValue": 1862.5,
+                            "hasMinValue": 1628,
+                            "units": "AD",
+                            "TSid": "PYT82CW5HNC",
+                            "inferredVariableType": "Year",
+                            "variableName": "year",
+                            "variableType": "inferred"
+                        }
+                    ],
+                    "missingValue": "nan",
+                    "paleoDataTableName": "pt1_1",
+                    "paleoMeasurementTableName": "measurementTable1",
+                    "paleoMeasurementTableNumber": 1,
+                    "paleoNumber": 3
+                }
+            ]
+        }
+    ],
+    "latestSampleDate": 1980,
+    "liPDVersion": 1.2,
+    "dataSetName": "Afr-P178-15P.Tierney.2015",
+    "partOfCompilation": {
+        "author": [
+            "Darrell",
+            "Lucien von Gunten",
+            "Kevin Anchukaitis",
+            "PAGES2k consortium"
+        ],
+        "compilationCitation": "PAGES2k Consortium, A global multiproxy database for temperature reconstructions of the Common Era, Scientific Data, in press",
+        "compilationName": "PAGES2k",
+        "compilationVersion": "2.0.0",
+        "fundedBy": "National Science Foundation.ICER-1541029",
+        "hasLink": [
+            "http:\/\/www.ncdc.noaa.gov\/paleo-search\/study\/21171",
+            "https:\/\/figshare.com\/s\/d327a0367bb908a4c4f2"
+        ],
+        "modeledBy": {
+            "hasCode": {
+                "hasExecutionEnvironment": [
+                    "iPython",
+                    "Jupyter Notebook"
+                ],
+                "hasLink": [
+                    "https:\/\/binder.pangeo.io\/v2\/gh\/LinkedEarth\/notebooks\/master",
+                    "https:\/\/github.com\/LinkedEarth\/notebooks"
+                ],
+                "programmedIn": "Python 3"
+            }
+        },
+        "publishedIn": "Publication.10.1038\/sdata.2017.88"
+    },
+    "pub": [
+        {
+            "citeKey": "tierney2015pastandfuturerainfallinth",
+            "dataUrl": "doi.org",
+            "issue": 9,
+            "journal": "Science Advances",
+            "pages": "e1500682",
+            "year": 2015,
+            "publisher": "American Association for the Advancement of Science (AAAS)",
+            "title": "Past and future rainfall in the Horn of Africa",
+            "type": "article",
+            "volume": "1",
+            "identifier": [
+                {
+                    "type": "doi",
+                    "id": "10.1126\/sciadv.1500682",
+                    "url": "http:\/\/dx.doi.org\/10.1126\/sciadv.1500682"
+                }
+            ]
+        },
+        {
+            "citeKey": "tierney2015httpswwwncdcnoaagovpaleostudy19200DataCitation",
+            "institution": "World Data Center for Paleoclimatology",
+            "title": "World Data Center for Paleoclimatology",
+            "type": "dataCitation",
+            "url": "https:\/\/www.ncdc.noaa.gov\/paleo\/study\/19200",
+            "urldate": 2015,
+            "identifier": []
+        }
+    ],
+    "studyName": "Gulf of Aden past 2000 year dDwax, d13Cwax, TEX86 data",
+    "wDCPaleoUrl": "https:\/\/www1.ncdc.noaa.gov\/pub\/data\/paleo\/pages2k\/pages2k-temperature-v2-2017\/Africa-P178-15.Tierney.2015.txt",
+    "archiveType": "marine sediment",
+    "createdBy": "wiki"
+}

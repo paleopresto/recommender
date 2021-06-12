@@ -1,0 +1,3 @@
+17fce6c4ca21447993101993662fdc48 data/NAm-BakerLake.Hughes.2005.paleo1measurement1.csv
+dfd5dbf88e83d117773c37c687c759d6 data/NAm-BakerLake.Hughes.2005.paleo2measurement1.csv
+4b8e6dc708c649597860bda91478b28b data/metadata.jsonld

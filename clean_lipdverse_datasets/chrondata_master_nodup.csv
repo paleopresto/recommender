@@ -1,0 +1,390 @@
+dataset name,compilation name,archiveType,predicted archiveType,TSid,variableType,variableName,predicted proxyObsType,remainder(variableName),proxyObservationType,final proxyValue,proxyValue from,units,interpretation/variable,interpretation/variableDetail
+FanLake.Foster.2016.lpd,Temp12k1_0_1,LakeSediment,LakeSediment,WEB7579d829,measured,midpointDepth,Depth,midpoint,NA,Depth,2,cm,NA,NA
+FanLake.Foster.2016.lpd,Temp12k1_0_1,LakeSediment,LakeSediment,WEB9e076f55,measured,thickness,Thickness,NA,NA,Thickness,2,cm,NA,NA
+FanLake.Foster.2016.lpd,Temp12k1_0_1,LakeSediment,LakeSediment,WEB5985647b,measured,14Cuncertainty,NA,NA,NA,14Cuncertainty,3,year 14C,NA,NA
+AwengCo.Li.2017.lpd,Temp12k1_0_1,LakeSediment,LakeSediment,WEBe18c54c0,measured,depth_top,depth top,NA,NA,depth top,2,cm,NA,NA
+AwengCo.Li.2017.lpd,Temp12k1_0_1,LakeSediment,LakeSediment,WEBa42209ec,measured,depth_bottom,depth bottom,NA,NA,depth bottom,2,cm,NA,NA
+AwengCo.Li.2017.lpd,Temp12k1_0_1,LakeSediment,LakeSediment,WEB903a027e,measured,1SD,NA,NA,NA,1SD,3,yr,NA,NA
+TanaLake.Loomis.2015.lpd,Temp12k1_0_1,LakeSediment,LakeSediment,WEB68aca4b9,measured,d13C,d13C,NA,NA,d13C,2,per mil,NA,NA
+KinderlinskayaCave.Baker.2017.lpd,Temp12k1_0_1,Speleothem,Speleothem,WEB5c4c9a71,measured,238U,238U,NA,NA,238U,2,ng/g,NA,NA
+KinderlinskayaCave.Baker.2017.lpd,Temp12k1_0_1,Speleothem,Speleothem,WEB46fa1e2c,measured,238U_error,NA,NA,NA,238U_error,3,ng/g,NA,NA
+KinderlinskayaCave.Baker.2017.lpd,Temp12k1_0_1,Speleothem,Speleothem,WEB2a14544b,measured,232Th,232Th,NA,NA,232Th,2,pg/g,NA,NA
+GeoB33131.Lamy.2002.lpd,Temp12k1_0_1,MarineSediment,MarineSediment,WEB5198aa62,measured,depth top,depth top,NA,NA,depth top,2,cm,NA,NA
+GeoB33131.Lamy.2002.lpd,Temp12k1_0_1,MarineSediment,MarineSediment,WEB20257298,measured,depth bottom,depth bottom,NA,NA,depth bottom,2,cm,NA,NA
+TN057-17.Nielsen.2004.lpd,Temp12k1_0_1,MarineSediment,MarineSediment,WEBf901efb3,measured,SD,NA,NA,NA,SD,3,yr,NA,NA
+TN057-17.Nielsen.2004.lpd,Temp12k1_0_1,MarineSediment,MarineSediment,WEB93e1515b,measured,reservoir,NA,NA,NA,reservoir,3,yr,NA,NA
+TN057-17.Nielsen.2004.lpd,Temp12k1_0_1,MarineSediment,MarineSediment,R2DNz7WnKCV,measured,age_type,NA,NA,NA,age_type,3,unitless,NA,NA
+JPC67.Bertrand.2017.lpd,Temp12k1_0_1,MarineSediment,MarineSediment,WEB925a21db,measured,13C,NA,NA,NA,13C,3,permit,NA,NA
+Mackenzie.Woltering.2014.lpd,Temp12k1_0_1,LakeSediment,LakeSediment,WEBbf62c58f,measured,depth_bottom,depth bottom,NA,NA,depth bottom,2,cm,NA,NA
+RC12-10.Poore.2003.lpd,Temp12k1_0_1,MarineSediment,MarineSediment,WEB880aec73,measured,SD,NA,NA,NA,SD,3,yr,NA,NA
+RC12-10.Poore.2003.lpd,Temp12k1_0_1,MarineSediment,MarineSediment,WEB258e6996,measured,age_corrected,NA,NA,NA,age_corrected,3,yr BP,NA,NA
+RC12-10.Poore.2003.lpd,Temp12k1_0_1,MarineSediment,MarineSediment,RAcJWmZ0SDZ,measured,age_type,NA,NA,NA,age_type,3,unitless,NA,NA
+JinchueanBog.Yu.2013.lpd,Temp12k1_0_1,Peat,Peat,WEB501fffa2,measured,depth_top,depth top,NA,NA,depth top,2,cm,NA,NA
+JinchueanBog.Yu.2013.lpd,Temp12k1_0_1,Peat,Peat,WEB427c25eb,measured,depth_bottom,depth bottom,NA,NA,depth bottom,2,cm,NA,NA
+PolevaCave.Constantin.2007.lpd,Temp12k1_0_1,Speleothem,Speleothem,WEBfe64a33d,measured,depth_top,depth top,NA,NA,depth top,2,cm,NA,NA
+PolevaCave.Constantin.2007.lpd,Temp12k1_0_1,Speleothem,Speleothem,WEBccb01568,measured,depth_bottom,depth bottom,NA,NA,depth bottom,2,cm,NA,NA
+PolevaCave.Constantin.2007.lpd,Temp12k1_0_1,Speleothem,Speleothem,WEB43376eab,measured,U,NA,NA,NA,U,3,ppm,NA,NA
+PolevaCave.Constantin.2007.lpd,Temp12k1_0_1,Speleothem,Speleothem,WEB131a10b4,measured,U_error,NA,NA,NA,U_error,3,ppm,NA,NA
+PolevaCave.Constantin.2007.lpd,Temp12k1_0_1,Speleothem,Speleothem,WEB9e8b5067,measured,age_type,NA,NA,NA,age_type,3,unitless,NA,NA
+HAP0212.vanderBilt.2016.lpd,Temp12k1_0_1,LakeSediment,LakeSediment,LPD96499b34,measured,SD,NA,NA,NA,SD,3,yr,NA,NA
+HAP0212.vanderBilt.2016.lpd,Temp12k1_0_1,LakeSediment,LakeSediment,LPD046a9bee,measured,mass carbon,NA,NA,NA,mass carbon,3,mg,NA,NA
+HAP0212.vanderBilt.2016.lpd,Temp12k1_0_1,LakeSediment,LakeSediment,WEB00a0668c,measured,age_type,NA,NA,NA,age_type,3,NA,NA,NA
+WhitePond.Krause.2019.lpd,Temp12k1_0_1,LakeSediment,LakeSediment,RtXNdWwt44B,measured,age_type,NA,NA,NA,age_type,3,unitless,NA,NA
+HjortSo.Wagner.2008.lpd,Temp12k1_0_1,LakeSediment,LakeSediment,WEBf5bdef66,measured,depth_top,depth top,NA,NA,depth top,2,cm,NA,NA
+HjortSo.Wagner.2008.lpd,Temp12k1_0_1,LakeSediment,LakeSediment,WEBde5b42de,measured,depth_bottom,depth bottom,NA,NA,depth bottom,2,cm,NA,NA
+HjortSo.Wagner.2008.lpd,Temp12k1_0_1,LakeSediment,LakeSediment,WEBbb16f2f4,measured,age_type,NA,NA,NA,age_type,3,NA,NA,NA
+LagoDellAccesa.Finsinger.2010.lpd,Temp12k1_0_1,LakeSediment,LakeSediment,LPDa78525a8,measured,depth (top),NA,NA,NA,depth (top),3,cm,NA,NA
+LagoDellAccesa.Finsinger.2010.lpd,Temp12k1_0_1,LakeSediment,LakeSediment,LPD9b28b5da,measured,depth (bottom),NA,NA,NA,depth (bottom),3,cm,NA,NA
+SaharaSandWetland.Rao.2019.lpd,Temp12k1_0_1,Peat,Peat,WEB59b23305,measured,SD,NA,NA,NA,SD,3,yr,NA,NA
+BrayaSo.vonGunten.2012.lpd,Temp12k1_0_1,LakeSediment,LakeSediment,WEBeb5d9d05,measured,1SD,NA,NA,NA,1SD,3,yr,NA,NA
+BrayaSo.vonGunten.2012.lpd,Temp12k1_0_1,LakeSediment,LakeSediment,WEBf9ea42f9,measured,materialDated,NA,NA,NA,materialDated,3,unitless,NA,NA
+HeshangCave.Wang.2018.lpd,Temp12k1_0_1,Speleothem,Speleothem,RoXzETjKyTV,measured,age_type,NA,NA,NA,age_type,3,NA,NA,NA
+Victoria.Berke.2012.lpd,Temp12k1_0_1,LakeSediment,LakeSediment,WEB58d3e591,measured,depth_range in core,NA,NA,NA,depth_range in core,3,cm,NA,NA
+Victoria.Berke.2012.lpd,Temp12k1_0_1,LakeSediment,LakeSediment,WEB7bdb2b28,measured,depth_blf,NA,NA,NA,depth_blf,3,cm,NA,NA
+VuolepNjakajaure.Heinrichs.2006.lpd,Temp12k1_0_1,LakeSediment,LakeSediment,WEB5fa283fb,measured,1SD,NA,NA,NA,1SD,3,yr,NA,NA
+Yanou.Foster.2016.lpd,Temp12k1_0_1,LakeSediment,LakeSediment,WEBdb3a640b,measured,midpointDepth,Depth,midpoint,NA,Depth,2,cm,NA,NA
+Yanou.Foster.2016.lpd,Temp12k1_0_1,LakeSediment,LakeSediment,WEB7bfc2aec,measured,thickness,Thickness,NA,NA,Thickness,2,cm,NA,NA
+Yanou.Foster.2016.lpd,Temp12k1_0_1,LakeSediment,LakeSediment,WEB53d2d10a,measured,14Cuncertainty,NA,NA,NA,14Cuncertainty,3,14C year,NA,NA
+AMP112.vanderBilt.2016.lpd,Temp12k1_0_1,LakeSediment,LakeSediment,LPDa18816cc,measured,LabID,NA,NA,NA,LabID,3,unitless,NA,NA
+AMP112.vanderBilt.2016.lpd,Temp12k1_0_1,LakeSediment,LakeSediment,LPD27c470ad,measured,depth_top,depth top,NA,NA,depth top,2,cm,NA,NA
+AMP112.vanderBilt.2016.lpd,Temp12k1_0_1,LakeSediment,LakeSediment,LPDa5844c77,measured,depth_bottom,depth bottom,NA,NA,depth bottom,2,cm,NA,NA
+AMP112.vanderBilt.2016.lpd,Temp12k1_0_1,LakeSediment,LakeSediment,LPDfc7c718d,measured,material,NA,NA,NA,material,3,unitless,NA,NA
+AMP112.vanderBilt.2016.lpd,Temp12k1_0_1,LakeSediment,LakeSediment,LPD6315f935,measured,1SD,NA,NA,NA,1SD,3,yr,NA,NA
+AMP112.vanderBilt.2016.lpd,Temp12k1_0_1,LakeSediment,LakeSediment,WEB6aa8c2fa,measured,d13C,d13C,NA,NA,d13C,2,per mil,NA,NA
+AMP112.vanderBilt.2016.lpd,Temp12k1_0_1,LakeSediment,LakeSediment,WEBc8fa2273,measured,mass C,C,mass ,NA,C,2,mg,NA,NA
+ChallaLake.Damst.2012.lpd,Temp12k1_0_1,LakeSediment,LakeSediment,WEB7454f152,measured,LabID,NA,NA,NA,LabID,3,unitless,NA,NA
+ChallaLake.Damst.2012.lpd,Temp12k1_0_1,LakeSediment,LakeSediment,WEB07cea253,measured,TopDepth,Depth,Top,NA,Depth,2,cm,NA,NA
+ChallaLake.Damst.2012.lpd,Temp12k1_0_1,LakeSediment,LakeSediment,WEB0a73274b,measured,BottomDepth,Depth,Bottom,NA,Depth,2,cm,NA,NA
+GIK17748-2.Kim.2002.lpd,Temp12k1_0_1,MarineSediment,MarineSediment,PYT5K8S14DU,measured,lab code,NA,NA,NA,lab code,3,unitless,NA,NA
+DajiuhuPeatland.Huang.2013.lpd,Temp12k1_0_1,Peat,Peat,WEB21e750f5,measured,depth_top,depth top,NA,NA,depth top,2,cm,NA,NA
+DajiuhuPeatland.Huang.2013.lpd,Temp12k1_0_1,Peat,Peat,WEBb09ca16e,measured,depth_bottom,depth bottom,NA,NA,depth bottom,2,cm,NA,NA
+DajiuhuPeatland.Huang.2013.lpd,Temp12k1_0_1,Peat,Peat,WEB034961e7,measured,age_type,NA,NA,NA,age_type,3,NA,NA,NA
+DajiuhuPeatland.Huang.2013.lpd,Temp12k1_0_1,Peat,Peat,WEB05878642,measured,error_plus,NA,NA,NA,error_plus,3,yr,NA,NA
+DajiuhuPeatland.Huang.2013.lpd,Temp12k1_0_1,Peat,Peat,WEB696a4ac7,measured,error_minus,NA,NA,NA,error_minus,3,yr,NA,NA
+LakeoftheWoods.Palmer.2002.lpd,Temp12k1_0_1,LakeSediment,LakeSediment,WEB02b90560,measured,Top Depth of Date,NA,NA,NA,Top Depth of Date,3,mm,NA,NA
+LakeoftheWoods.Palmer.2002.lpd,Temp12k1_0_1,LakeSediment,LakeSediment,WEBc2b9b635,measured,Bottom Depth of Date,NA,NA,NA,Bottom Depth of Date,3,mm,NA,NA
+LakeoftheWoods.Palmer.2002.lpd,Temp12k1_0_1,LakeSediment,LakeSediment,WEBf4620165,measured,Uncertainty plus,NA,NA,NA,Uncertainty plus,3,years,NA,NA
+LakeoftheWoods.Palmer.2002.lpd,Temp12k1_0_1,LakeSediment,LakeSediment,WEBa74bc124,measured,Uncertainty minus,NA,NA,NA,Uncertainty minus,3,years,NA,NA
+ElGygytgynCrater.Schwamborn.2006.lpd,Temp12k1_0_1,Ice-other,Ice-other,WEB646f14d2,measured,depth_bottom,depth bottom,NA,NA,depth bottom,2,cm,NA,NA
+ElGygytgynCrater.Schwamborn.2006.lpd,Temp12k1_0_1,Ice-other,Ice-other,WEBfd23272e,measured,uncertainty_old,NA,NA,NA,uncertainty_old,3,yr bp,NA,NA
+ElGygytgynCrater.Schwamborn.2006.lpd,Temp12k1_0_1,Ice-other,Ice-other,WEBf313ef11,measured,uncertainty_young,NA,NA,NA,uncertainty_young,3,yr bp,NA,NA
+VestreOykjamytjorn.Velle.2005.lpd,Temp12k1_0_1,LakeSediment,LakeSediment,WEB0dbf8959,measured,Top Depth of Date,NA,NA,NA,Top Depth of Date,3,mm,NA,NA
+VestreOykjamytjorn.Velle.2005.lpd,Temp12k1_0_1,LakeSediment,LakeSediment,WEB4b13c529,measured,Bottom Depth of Date,NA,NA,NA,Bottom Depth of Date,3,mm,NA,NA
+VestreOykjamytjorn.Velle.2005.lpd,Temp12k1_0_1,LakeSediment,LakeSediment,WEB501ce84d,measured,Uncertainty plus,NA,NA,NA,Uncertainty plus,3,years,NA,NA
+Qinghai.Hou.2016.lpd,Temp12k1_0_1,LakeSediment,LakeSediment,LPD17196a79,measured,depht,NA,NA,NA,depht,3,cm,NA,NA
+MD03-2601.Kim.2012.lpd,Temp12k1_0_1,MarineSediment,MarineSediment,PYTJR1X2YUK,measured,material,NA,NA,NA,material,3,unitless,NA,NA
+HurlegLake.Zhao.2013.lpd,Temp12k1_0_1,LakeSediment,LakeSediment,WEB5ba9e8fa,measured,midpointDepthOriginalCore,Core,midpointDepthOriginal,NA,Core,2,cm,NA,NA
+HurlegLake.Zhao.2013.lpd,Temp12k1_0_1,LakeSediment,LakeSediment,WEB05c159a6,measured,thickness,Thickness,NA,NA,Thickness,2,cm,NA,NA
+HurlegLake.Zhao.2013.lpd,Temp12k1_0_1,LakeSediment,LakeSediment,WEB223c6d3f,measured,sampleMass,NA,NA,NA,sampleMass,3,mg,NA,NA
+HurlegLake.Zhao.2013.lpd,Temp12k1_0_1,LakeSediment,LakeSediment,WEBbed6d7f4,measured,d13C,d13C,NA,NA,d13C,2,permil,NA,NA
+MD982176.Stott.2004.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTEPCZE501,measured,mid-depth,NA,NA,NA,mid-depth,3,cm,NA,NA
+MD982176.Stott.2004.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT26W2S5Y3,measured,ams number,NA,NA,NA,ams number,3,NA,NA,NA
+MD982176.Stott.2004.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTVTF3S7TS,measured,age14c,NA,NA,Radiocarbon,Radiocarbon,1,yrs BP,Age,calendar
+MD982176.Stott.2004.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTVOG73K2U,measured,age14cuncertainty,NA,NA,Radiocarbon,Radiocarbon,1,yrs BP,NA,NA
+GeoB3911-3.Weldeab.2006.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT6VDYDP7H,measured,age14c,NA,NA,Radiocarbon,Radiocarbon,1,kyr BP,Age,calendar
+GeoB3911-3.Weldeab.2006.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTSYKZ5OJO,measured,age14cuncertainty,NA,NA,Radiocarbon,Radiocarbon,1,kyr BP,NA,NA
+Juxtlahuaca.Lachniet.2017.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYTU7P4KKQB,measured,dating_min_sample_weight,NA,NA,Min sample,Min sample,1,mg,NA,NA
+Juxtlahuaca.Lachniet.2017.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYTOV8XSWPQ,measured,dating_max_sample_weight,NA,NA,Max sample,Max sample,1,mg,NA,NA
+Juxtlahuaca.Lachniet.2017.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYT98TD5O2B,measured,age_uncertainty,NA,NA,Age uncertainty,Age uncertainty,1,year,NA,NA
+Juxtlahuaca.Lachniet.2017.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYT0EILRYSL,measured,is_date_used_original_model,NA,NA,Is date used original model,Is date used original model,1,NA,NA,NA
+Juxtlahuaca.Lachniet.2017.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYT1XO5WLTW,measured,238u_content,NA,NA,238U content,238U content,1,ppb,NA,NA
+Juxtlahuaca.Lachniet.2017.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYTOJ0TSO5W,measured,238u_uncertainty,NA,NA,238U uncertainty,238U uncertainty,1,ppb,NA,NA
+Juxtlahuaca.Lachniet.2017.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYT4MZS1QYA,measured,232th_content,NA,NA,232Th content,232Th content,1,ppt,NA,NA
+Juxtlahuaca.Lachniet.2017.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYTRWW70VYE,measured,232th_uncertainty,NA,NA,232Th uncertainty,232Th uncertainty,1,ppt,NA,NA
+Juxtlahuaca.Lachniet.2017.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYTJQAB5PQ4,measured,230th_232th_ratio,NA,NA,230Th 232Th ratio,230Th 232Th ratio,1,NA,NA,NA
+Juxtlahuaca.Lachniet.2017.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYTJQDWAYVW,measured,230th_232th_ratio_uncertainty,NA,NA,230Th 232Th ratio uncertainty,230Th 232Th ratio uncertainty,1,NA,NA,NA
+Juxtlahuaca.Lachniet.2017.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYTED0SL5WQ,measured,230th_238u_activity,NA,NA,230Th 238U activity,230Th 238U activity,1,NA,NA,NA
+Juxtlahuaca.Lachniet.2017.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYTVILN5JT5,measured,230th_238u_activity_uncertainty,NA,NA,230Th 238U activity uncertainty,230Th 238U activity uncertainty,1,NA,NA,NA
+Juxtlahuaca.Lachniet.2017.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYTF0C0EHNX,measured,decay_constants_used,decay constants used,NA,Decay constants used,decay constants used,1,NA,NA,NA
+Juxtlahuaca.Lachniet.2017.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYTT1QOB3MJ,measured,corrected_age,NA,NA,Corrected age,Corrected age,1,year,NA,NA
+Juxtlahuaca.Lachniet.2017.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYT7XPA6UA0,measured,corrected_age_uncertainty,NA,NA,Corrected age unceratainty,Corrected age unceratainty,1,year,NA,NA
+Juxtlahuaca.Lachniet.2017.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYT7XT1TTV5,measured,modern_reference,NA,NA,Modern reference,Modern reference,1,NA,NA,NA
+KNR166-2JPC51.Schmidt.2012.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT6T78PFJD,measured,camsnumber,NA,NA,NA,camsnumber,3,NA,NA,NA
+KNR166-2JPC51.Schmidt.2012.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTQOY5FUDB,measured,age14c,NA,NA,Radiocarbon,Radiocarbon,1,yr BP,Age,calendar
+KNR166-2JPC51.Schmidt.2012.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTZHHTRZUP,measured,age14cuncertainty,NA,NA,Radiocarbon,Radiocarbon,1,yr BP,NA,NA
+MD05-2904.Steinke.2011.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTNRZ8AOT4,measured,foraminifera species,NA,NA,NA,foraminifera species,3,NA,NA,NA
+MD05-2904.Steinke.2011.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTNBNWFVX0,measured,14cage,NA,NA,Radiocarbon,Radiocarbon,1,yr BP,Age,Calendar
+MD05-2904.Steinke.2011.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT3CH16ILM,measured,14cage uncertainty,NA,NA,Radiocarbon,Radiocarbon,1,yr BP,NA,NA
+MD05-2904.Steinke.2011.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTS6CMZGFF,measured,notes,Notes,NA,NA,Notes,2,NA,NA,NA
+TestDataset.2017.Khider.lpd,linked_earth_wiki_files_new,h,h,PYT9RQ8O0TX,measured,labcode,NA,NA,Julianday,Julianday,1,unitless,NA,NA
+TestDataset.2017.Khider.lpd,linked_earth_wiki_files_new,h,h,PYTQ4SI5RNB,measured,14c,NA,NA,Radiocarbon,Radiocarbon,1,years,NA,NA
+TestDataset.2017.Khider.lpd,linked_earth_wiki_files_new,h,h,PYTCCBG1QL1,measured,14c uncertainty,NA,NA,Julianday,Julianday,1,unitless,NA,NA
+GeoB3129-1.Weldeab.2006.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTMIW8LSOZ,measured,age14c,NA,NA,Radiocarbon,Radiocarbon,1,kyr BP,Age,calendar
+GeoB3129-1.Weldeab.2006.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT6B8RDVBX,measured,age14cuncertainty,NA,NA,Radiocarbon,Radiocarbon,1,kyr BP,NA,NA
+Juxtlahuaca.Lachniet.2012.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYT9L24FU9P,measured,dating_min_sample_weight,NA,NA,Min sample,Min sample,1,mg,NA,NA
+Juxtlahuaca.Lachniet.2012.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYTSFADOG66,measured,dating_max_sample_weight,NA,NA,Max sample,Max sample,1,mg,NA,NA
+Juxtlahuaca.Lachniet.2012.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYTITT4OLVW,measured,age_uncertainty,NA,NA,Age uncertainty,Age uncertainty,1,year,NA,NA
+Juxtlahuaca.Lachniet.2012.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYT4WVU5Q9Q,measured,is_date_used_original_model,NA,NA,Is date used original model,Is date used original model,1,NA,NA,NA
+Juxtlahuaca.Lachniet.2012.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYT1LBIQC9A,measured,238u_content,NA,NA,238U content,238U content,1,ppb,NA,NA
+Juxtlahuaca.Lachniet.2012.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYTZB291JYA,measured,238u_uncertainty,NA,NA,238U uncertainty,238U uncertainty,1,ppb,NA,NA
+Juxtlahuaca.Lachniet.2012.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYT4GHBW7QG,measured,232th_content,NA,NA,232Th content,232Th content,1,ppt,NA,NA
+Juxtlahuaca.Lachniet.2012.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYTOU2RFWPF,measured,232th_uncertainty,NA,NA,232Th uncertainty,232Th uncertainty,1,ppt,NA,NA
+Juxtlahuaca.Lachniet.2012.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYTT118I9KD,measured,230th_232th_ratio,NA,NA,230Th 232Th ratio,230Th 232Th ratio,1,NA,NA,NA
+Juxtlahuaca.Lachniet.2012.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYTSC62JKQX,measured,230th_232th_ratio_uncertainty,NA,NA,230Th 232Th ratio uncertainty,230Th 232Th ratio uncertainty,1,NA,NA,NA
+Juxtlahuaca.Lachniet.2012.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYT7126JUPQ,measured,230th_238u_activity,NA,NA,230Th 238U activity,230Th 238U activity,1,NA,NA,NA
+Juxtlahuaca.Lachniet.2012.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYTQLPOXUH9,measured,230th_238u_activity_uncertainty,NA,NA,230Th 238U activity uncertainty,230Th 238U activity uncertainty,1,NA,NA,NA
+Juxtlahuaca.Lachniet.2012.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYT8HUKN6B1,measured,decay_constants_used,decay constants used,NA,Decay constants used,decay constants used,1,NA,NA,NA
+Juxtlahuaca.Lachniet.2012.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYTEA7INNZG,measured,corrected_age,NA,NA,Corrected age,Corrected age,1,year,NA,NA
+Juxtlahuaca.Lachniet.2012.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYTZGEWZR3N,measured,corrected_age_uncertainty,NA,NA,Corrected age unceratainty,Corrected age unceratainty,1,year,NA,NA
+Juxtlahuaca.Lachniet.2012.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYT4O1X82AQ,measured,modern_reference,NA,NA,Modern reference,Modern reference,1,NA,NA,NA
+LakeSurprise.Falster.2018.lpd,linked_earth_wiki_files_new,lake sediment,LakeSediment,PYTK4TY86I3,measured,labcode,NA,NA,NA,labcode,3,unitless,NA,NA
+LakeSurprise.Falster.2018.lpd,linked_earth_wiki_files_new,lake sediment,LakeSediment,PYTJ2NTRH3X,measured,14c,NA,NA,Radiocarbon,Radiocarbon,1,years,Age,Calendar years
+LakeSurprise.Falster.2018.lpd,linked_earth_wiki_files_new,lake sediment,LakeSediment,PYTJBDFL8ZU,measured,14c uncertainty,NA,NA,Radiocarbon,Radiocarbon,1,years,Age,Calendar years
+MD98-2165.Levi.2007.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTH7CGFJVT,measured,sampling depth,NA,NA,NA,sampling depth,3,cm,NA,NA
+MD98-2165.Levi.2007.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT7XEZ9PMP,measured,corrected depth,NA,NA,NA,corrected depth,3,cm,NA,NA
+MD98-2165.Levi.2007.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT80Q7P5ZU,measured,age14c,NA,NA,Radiocarbon,Radiocarbon,1,yrs BP,Age,calendar
+MD98-2165.Levi.2007.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTX0LLBTL2,measured,age14cuncertainty,NA,NA,Radiocarbon,Radiocarbon,1,yrs BP,NA,NA
+MD98-2165.Levi.2007.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTPBECVZ1M,measured,sample code,NA,NA,NA,sample code,3,NA,NA,NA
+KNR166-2-26JPC.Schmidt.2011.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT8GHLJRA7,measured,species,NA,NA,NA,species,3,NA,NA,NA
+KNR166-2-26JPC.Schmidt.2011.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT91WEHP07,measured,age14c,NA,NA,Radiocarbon,Radiocarbon,1,yr BP,Age,calendar
+KNR166-2-26JPC.Schmidt.2011.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTO3PE39T3,measured,age14cuncertainty,NA,NA,Radiocarbon,Radiocarbon,1,yr BP,NA,NA
+KNR166-2-26JPC.Schmidt.2011.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTIIZAGFBW,measured,notes,Notes,NA,NA,Notes,2,NA,NA,NA
+GeoB12605-3.Kuhnert.2014.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT5PT0M3CJ,measured,lab code,NA,NA,NA,lab code,3,NA,NA,NA
+GeoB12605-3.Kuhnert.2014.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTYOXA6W1B,measured,age14c,NA,NA,Radiocarbon,Radiocarbon,1,kyr BP,Age,calendar
+GeoB12605-3.Kuhnert.2014.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT7I42076I,measured,age14cuncertainty,NA,NA,Radiocarbon,Radiocarbon,1,kyr BP,NA,NA
+MD97-2141.Rosentha.2003.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTLR9A3662,measured,age14c,NA,NA,Radiocarbon,Radiocarbon,1,yr BP,Age,calendar
+MD97-2141.Rosentha.2003.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTUF59SKQQ,measured,age14cuncertainty,NA,NA,Radiocarbon,Radiocarbon,1,yr BP,NA,NA
+MD97-2141.Rosentha.2003.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTNMS7NMUQ,measured,mat. dated,NA,NA,NA,mat. dated,3,NA,NA,NA
+MD97-2141.Rosentha.2003.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT9XPIXIKE,measured,lab code,NA,NA,NA,lab code,3,NA,NA,NA
+GeoB10069-3.Gibbons.2014.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTM471UD9Q,measured,age14c,NA,NA,Radiocarbon,Radiocarbon,1,kyr BP,Age,calendar
+GeoB10069-3.Gibbons.2014.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT77ATG3X5,measured,age14c uncertainty,NA,NA,Radiocarbon,Radiocarbon,1,kyr BP,NA,NA
+GIK17940-2.Pelejero.1999.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT4ADXIL3F,measured,radiocarbon age,NA,NA,Radiocarbon,Radiocarbon,1,yr BP,Age,calendar
+GIK17940-2.Pelejero.1999.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT7FCRVK1H,measured,error,NA,NA,Radiocarbon,Radiocarbon,1,yr,NA,NA
+GIK17940-2.Pelejero.1999.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTONZ0SV80,measured,error -,NA,NA,Radiocarbon,Radiocarbon,1,yr,NA,NA
+GIK17940-2.Pelejero.1999.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTDZJDEKZT,measured,material,NA,NA,NA,material,3,NA,NA,NA
+GIK17940-2.Pelejero.1999.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT6ZSE4LZG,measured,sample treatment,NA,NA,NA,sample treatment,3,NA,NA,NA
+GeoB1023-5.Kim.2002.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTIIILKIIL,measured,laboratory number,NA,NA,NA,laboratory number,3,NA,NA,NA
+GeoB1023-5.Kim.2002.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTLEGETBY6,measured,analyzed material,NA,NA,NA,analyzed material,3,NA,NA,NA
+GeoB1023-5.Kim.2002.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT5SMGIBK1,measured,uncorrected 14c age,NA,NA,Radiocarbon,Radiocarbon,1,yr BP,Age,calendar
+GeoB1023-5.Kim.2002.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT1GD2CWZV,measured,error,NA,NA,Radiocarbon,Radiocarbon,1,yr,NA,NA
+KT05-7_PC02.Kawahata.2009.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT8LMNZU7Q,measured,sample type,NA,NA,NA,sample type,3,NA,NA,NA
+KT05-7_PC02.Kawahata.2009.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTBU4TUL1T,measured,specific name,NA,NA,NA,specific name,3,NA,NA,NA
+KT05-7_PC02.Kawahata.2009.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTNOEV7C15,measured,sample #,NA,NA,NA,sample #,3,NA,NA,NA
+KT05-7_PC02.Kawahata.2009.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT8G2AO8CY,measured,radiocarbon age,NA,NA,Radiocarbon,Radiocarbon,1,yr BP,Age,calendar
+KT05-7_PC02.Kawahata.2009.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTRMBNJQPT,measured,radiocarbon age uncertainty,NA,NA,Radiocarbon,Radiocarbon,1,yr BP,NA,NA
+MD97-2121.Marr.2013.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTU3A8Y90M,measured,tephra/ams,NA,NA,NA,tephra/ams,3,NA,NA,NA
+MD97-2121.Marr.2013.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTBWZMMN0U,measured,14c age,NA,NA,Radiocarbon,Radiocarbon,1,yr BP,Age,calendar
+MD97-2121.Marr.2013.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT0RCOLJBV,measured,14c age uncertainty,NA,NA,Radiocarbon,Radiocarbon,1,yr BP,NA,NA
+MD01-2412.Harada.2006.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTB9B4DNXV,measured,yr bp,NA,NA,Radiocarbon,Radiocarbon,1,yr BP,Age,calendar
+MD01-2412.Harada.2006.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT0F88JRZ1,measured,error,NA,NA,Radiocarbon,Radiocarbon,1,yr BP,NA,NA
+ODP659.Tiedemann.1994.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTWVDMPQBX,measured,depth comp,NA,NA,NA,depth comp,3,mcd,NA,NA
+SK237-GC04.Saraswat.2013.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTEYJ78VDV,measured,lab code,NA,NA,NA,lab code,3,NA,NA,NA
+SK237-GC04.Saraswat.2013.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT67H2RA1Y,measured,depth1,NA,NA,NA,depth1,3,cm,NA,NA
+SK237-GC04.Saraswat.2013.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTN4V0BLSC,measured,depth2,NA,NA,NA,depth2,3,cm,NA,NA
+SK237-GC04.Saraswat.2013.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTYW3MEYNO,measured,mid-depth,NA,NA,NA,mid-depth,3,cm,NA,NA
+SK237-GC04.Saraswat.2013.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTGH30Q2ND,measured,mat.dated,NA,NA,NA,mat.dated,3,NA,NA,NA
+SK237-GC04.Saraswat.2013.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTUWP6QH5H,measured,age14c,NA,NA,Radiocarbon,Radiocarbon,1,yr BP,NA,NA
+SK237-GC04.Saraswat.2013.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTCRS7XW98,measured,age14cuncertainty,NA,NA,Radiocarbon,Radiocarbon,1,Yr BP,NA,NA
+SK237-GC04.Saraswat.2013.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT0S1622HM,measured,date meth,NA,NA,NA,date meth,3,NA,NA,NA
+SK237-GC04.Saraswat.2013.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT9Q4BRDWA,measured,deltaruncertaintylo,NA,NA,NA,deltaruncertaintylo,3,yr,NA,NA
+SK237-GC04.Saraswat.2013.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTR7PULPRO,measured,deltaruncertaintyup,NA,NA,NA,deltaruncertaintyup,3,yr,NA,NA
+SK237-GC04.Saraswat.2013.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTN3WIIB1F,measured,calib.age14c.1sigma.lo,NA,NA,NA,calib.age14c.1sigma.lo,3,NA,NA,NA
+SK237-GC04.Saraswat.2013.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTRM9QVZIA,measured,calib.age14c.1sigma.up,NA,NA,NA,calib.age14c.1sigma.up,3,NA,NA,NA
+SK237-GC04.Saraswat.2013.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTDESZD1O4,measured,calib.age14c.2sigma.lo,NA,NA,NA,calib.age14c.2sigma.lo,3,NA,NA,NA
+SK237-GC04.Saraswat.2013.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTBZ7NXRWX,measured,calib method,NA,NA,NA,calib method,3,NA,NA,NA
+SK237-GC04.Saraswat.2013.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT4CVGGSCR,measured,rejected,NA,NA,NA,rejected,3,NA,NA,NA
+SK237-GC04.Saraswat.2013.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTQZ2IEIDD,measured,notes,Notes,NA,NA,Notes,2,NA,NA,NA
+M77-2_056.Nurnberg.2015.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTI2CBHC7W,measured,radiocarbon age,NA,NA,Radiocarbon,Radiocarbon,1,yr BP,Age,calendar
+M77-2_056.Nurnberg.2015.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT543SGK31,measured,radiocarbon age error,NA,NA,Radiocarbon,Radiocarbon,1,yr BP,NA,NA
+JM98-1-PC.Husum.2004.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT6CC1Q3PE,measured,lab code,NA,NA,NA,lab code,3,unitless,NA,NA
+JM98-1-PC.Husum.2004.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTPA2VJ8AX,measured,core id,NA,NA,NA,core id,3,unitless,NA,NA
+JM98-1-PC.Husum.2004.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT568SZD92,measured,14c,NA,NA,Radiocarbon,Radiocarbon,1,cal. BP,Age,Calender
+JM98-1-PC.Husum.2004.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTKN5TR71Y,measured,radiocarbon uncertainty,NA,NA,Radiocarbon,Radiocarbon,1,cal. BP,NA,NA
+JM98-1-PC.Husum.2004.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT3DXZ1XYF,measured,material,NA,NA,NA,material,3,unitless,NA,NA
+JM98-1-PC.Husum.2004.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT2W037GR2,measured,weight,Weight,NA,Weight,Weight,1,mg,NA,NA
+ODP1019.Barron.2003.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT1F82T992,measured,event,NA,NA,NA,event,3,NA,NA,NA
+ODP1019.Barron.2003.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTX8MH57M0,measured,sample label,NA,NA,NA,sample label,3,NA,NA,NA
+ODP1019.Barron.2003.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTITL40LKY,measured,dated material,NA,NA,NA,dated material,3,NA,NA,NA
+ODP1019.Barron.2003.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT6Y1XCB0J,measured,age dated,NA,NA,Radiocarbon,Radiocarbon,1,kyr,Age,calendar
+ODP1019.Barron.2003.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT0APPIG9Z,measured,age std dev,NA,NA,Radiocarbon,Radiocarbon,1,kyr,Age,calendar
+M35003-4.Ruehlemann.1999.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT8IVCLEX2,measured,age14c,NA,NA,Radiocarbon,Radiocarbon,1,yr BP,Age,calendar
+M35003-4.Ruehlemann.1999.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT1LWHIOMV,measured,age14cuncertainty,NA,NA,Radiocarbon,Radiocarbon,1,yr BP,NA,NA
+M35003-4.Ruehlemann.1999.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTI7UALT35,measured,material,NA,NA,NA,material,3,NA,NA,NA
+M35003-4.Ruehlemann.1999.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT6S5LKO0P,measured,lab num.,NA,NA,NA,lab num.,3,NA,NA,NA
+GIK16160-3.Wang.2003.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTBL6RI7B1,measured,sample id,NA,NA,NA,sample id,3,NA,NA,NA
+GIK16160-3.Wang.2003.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTV08ARANB,measured,age dated,NA,NA,Radiocarbon,Radiocarbon,1,kyr BP,Age,calendar
+GIK16160-3.Wang.2003.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTSGAAZ1UV,measured,age error,NA,NA,Radiocarbon,Radiocarbon,1,kyr BP,NA,NA
+GeoB33021.Kim.2002.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTQUFWH8X0,measured,lab code,NA,NA,NA,lab code,3,NA,NA,NA
+GeoB33021.Kim.2002.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTCGIPUVSV,measured,age14c,NA,NA,Radiocarbon,Radiocarbon,1,yr BP,Age,calendar
+GeoB33021.Kim.2002.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTON13MDI4,measured,age 14c error,NA,NA,Radiocarbon,Radiocarbon,1,yr BP,NA,NA
+MD982181.Khider.2014.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT2CULF007,measured,age14c,NA,NA,Radiocarbon,Radiocarbon,1,yr,age,calendar
+MD982181.Khider.2014.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTZRFHDJH6,measured,age14cuncertainty,NA,NA,Radiocarbon,Radiocarbon,1,yr,NA,NA
+CO00COKY-SAMPLEDATA.lpd,linked_earth_wiki_files_new,coral,Coral,chron1,measured,depthUTh,NA,NA,NA,depthUTh,3,mm,NA,NA
+CO00COKY-SAMPLEDATA.lpd,linked_earth_wiki_files_new,coral,Coral,chron2,measured,SampleID,SampleID,NA,NA,SampleID,2,unitless,NA,NA
+CO00COKY-SAMPLEDATA.lpd,linked_earth_wiki_files_new,coral,Coral,chron3,measured,weight,Weight,NA,NA,Weight,2,mg,NA,NA
+GeoB12610-2.Rippert.2015.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTYTNSVYD6,measured,laboratory id,NA,NA,NA,laboratory id,3,NA,NA,NA
+GeoB12610-2.Rippert.2015.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTT90CPXEN,measured,14c age,NA,NA,Radiocarbon,Radiocarbon,1,yr BP,Age,calendar
+GeoB12610-2.Rippert.2015.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTN91FU959,measured,14c uncertainty,NA,NA,Radiocarbon,Radiocarbon,1,yr BP,NA,NA
+P178-15P.Tierney.2015.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTUNM52H4E,measured,labcode,NA,NA,NA,labcode,3,NA,NA,NA
+P178-15P.Tierney.2015.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTWY23XE8O,measured,depth_top,depth top,NA,NA,depth top,2,cm,NA,NA
+P178-15P.Tierney.2015.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTFD3I1XMO,measured,depth_bottom,depth bottom,NA,NA,depth bottom,2,cm,NA,NA
+P178-15P.Tierney.2015.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT1DKYUL77,measured,mid-depth,NA,NA,NA,mid-depth,3,cm,NA,NA
+P178-15P.Tierney.2015.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTG14YF4JU,measured,material.dated,NA,NA,NA,material.dated,3,NA,NA,NA
+P178-15P.Tierney.2015.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTF788XMB8,measured,age14c,NA,NA,Radiocarbon,Radiocarbon,1,yr PB,NA,NA
+P178-15P.Tierney.2015.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTJ0M2HG12,measured,age14cuncertainty,NA,NA,Radiocarbon,Radiocarbon,1,yr BP,NA,NA
+P178-15P.Tierney.2015.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTVF3NJHLZ,measured,method,NA,NA,NA,method,3,NA,NA,NA
+P178-15P.Tierney.2015.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTG535DVVS,measured,calibrationcurve,NA,NA,NA,calibrationcurve,3,NA,NA,NA
+P178-15P.Tierney.2015.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTLI3QYHZ6,measured,calib_method,NA,NA,NA,calib_method,3,NA,NA,NA
+P178-15P.Tierney.2015.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT68GJAA6X,measured,rejected,NA,NA,NA,rejected,3,NA,NA,NA
+P178-15P.Tierney.2015.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTBE62YDEE,measured,notes,Notes,NA,NA,Notes,2,NA,NA,NA
+MD95-2015.Marchal.2002.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTQBPZZYLQ,measured,accession number,NA,NA,NA,accession number,3,NA,NA,NA
+MD95-2015.Marchal.2002.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTE41IPLQH,measured,radiocarbon age,NA,NA,Radiocarbon,Radiocarbon,1,yr BP,Age,calendar
+MD95-2015.Marchal.2002.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT2M419FS1,measured,radiocarbon age uncertainty,NA,NA,Radiocarbon,Radiocarbon,1,yr BP,NA,NA
+Juxtlahuaca.Lachniet.2013.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYT2SGZAZK4,measured,dating_min_sample_weight,NA,NA,Min sample,Min sample,1,mg,NA,NA
+Juxtlahuaca.Lachniet.2013.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYTLS6TNUYZ,measured,dating_max_sample_weight,NA,NA,Max sample,Max sample,1,mg,NA,NA
+Juxtlahuaca.Lachniet.2013.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYT3K8OUC0T,measured,age_uncertainty,NA,NA,Age uncertainty,Age uncertainty,1,year,NA,NA
+Juxtlahuaca.Lachniet.2013.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYT7IVSOD3I,measured,is_date_used_original_model,NA,NA,Is date used original model,Is date used original model,1,NA,NA,NA
+Juxtlahuaca.Lachniet.2013.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYT02ZPDGN4,measured,238u_content,NA,NA,238U content,238U content,1,ppb,NA,NA
+Juxtlahuaca.Lachniet.2013.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYT6WTMJU3I,measured,238u_uncertainty,NA,NA,238U uncertainty,238U uncertainty,1,ppb,NA,NA
+Juxtlahuaca.Lachniet.2013.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYTMLFCU2PV,measured,232th_content,NA,NA,232Th content,232Th content,1,ppt,NA,NA
+Juxtlahuaca.Lachniet.2013.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYT8LVQCM11,measured,232th_uncertainty,NA,NA,232Th uncertainty,232Th uncertainty,1,ppt,NA,NA
+Juxtlahuaca.Lachniet.2013.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYTYQ4OUH3H,measured,230th_232th_ratio,NA,NA,230Th 232Th ratio,230Th 232Th ratio,1,NA,NA,NA
+Juxtlahuaca.Lachniet.2013.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYTIYF1RZC5,measured,230th_232th_ratio_uncertainty,NA,NA,230Th 232Th ratio uncertainty,230Th 232Th ratio uncertainty,1,NA,NA,NA
+Juxtlahuaca.Lachniet.2013.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYT1T7HIE60,measured,230th_238u_activity,NA,NA,230Th 238U activity,230Th 238U activity,1,NA,NA,NA
+Juxtlahuaca.Lachniet.2013.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYTSIO5S11G,measured,230th_238u_activity_uncertainty,NA,NA,230Th 238U activity uncertainty,230Th 238U activity uncertainty,1,NA,NA,NA
+Juxtlahuaca.Lachniet.2013.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYTLPIMG1FR,measured,decay_constants_used,decay constants used,NA,Decay constants used,decay constants used,1,NA,NA,NA
+Juxtlahuaca.Lachniet.2013.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYTMEVS7EUU,measured,corrected_age,NA,NA,Corrected age,Corrected age,1,year,NA,NA
+Juxtlahuaca.Lachniet.2013.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYTOZ5XC324,measured,corrected_age_uncertainty,NA,NA,Corrected age unceratainty,Corrected age unceratainty,1,year,NA,NA
+Juxtlahuaca.Lachniet.2013.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYTDIKYHZLS,measured,modern_reference,NA,NA,Modern reference,Modern reference,1,NA,NA,NA
+KNR-159-5_33GGC.Lacerra.2017.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTL3J2YTI6,measured,14c age,NA,NA,Radiocarbon,Radiocarbon,1,yrs,Age,calendar
+KNR-159-5_33GGC.Lacerra.2017.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT1AFFO9T6,measured,1 sigma error 14c age,NA,NA,Radiocarbon,Radiocarbon,1,yrs,NA,NA
+KNR-159-5_33GGC.Lacerra.2017.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTQNTFXA6A,measured,comments,NA,NA,NA,comments,3,NaN,NA,NA
+KNR195-5-CDH23.Bova.2015.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTJBL0PCKW,measured,lab code,NA,NA,NA,lab code,3,NA,NA,NA
+KNR195-5-CDH23.Bova.2015.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT3H7V7WLB,measured,depth1,NA,NA,NA,depth1,3,cm,NA,NA
+KNR195-5-CDH23.Bova.2015.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTVH2GR45W,measured,depth2,NA,NA,NA,depth2,3,cm,NA,NA
+KNR195-5-CDH23.Bova.2015.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTJ3QIQAKO,measured,middepth,NA,NA,NA,middepth,3,cm,NA,NA
+KNR195-5-CDH23.Bova.2015.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTXJP2OE4N,measured,age14c,NA,NA,Radiocarbon,Radiocarbon,1,yr BP,Age,calendar
+KNR195-5-CDH23.Bova.2015.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTM3MUF8PF,measured,age14cuncertainty,NA,NA,Radiocarbon,Radiocarbon,1,yr BP,NA,NA
+M25_4-KL1.Emeis.2000.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTUS5KXGEB,measured,depth top,depth top,NA,NA,depth top,2,m,NA,NA
+M25_4-KL1.Emeis.2000.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTVAFTS2IG,measured,depth bot,NA,NA,NA,depth bot,3,m,NA,NA
+M25_4-KL1.Emeis.2000.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT36W0TR7G,measured,age dated,NA,NA,Radiocarbon,Radiocarbon,1,kyr BP,Calendar,Age
+M25_4-KL1.Emeis.2000.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTGU7JOTAQ,measured,age std dev,NA,NA,Radiocarbon,Radiocarbon,1,kyr BP,NA,NA
+M25_4-KL1.Emeis.2000.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT81XC9TIC,measured,foram plankt d13c,NA,NA,D13C,d13C,1,per mil,NA,NA
+M25_4-KL1.Emeis.2000.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTLL6MJ36G,measured,d13c std dev,NA,NA,D13C,d13C,1,per mil,NA,NA
+MD95-2043.Cacho.1999.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTYMEC8ZKU,measured,sample type,NA,NA,NA,sample type,3,NA,NA,NA
+MD95-2043.Cacho.1999.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTD7JDHG4S,measured,radiocarbon age,NA,NA,Radiocarbon,Radiocarbon,1,yr BP,Age,calendar
+MD95-2043.Cacho.1999.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTN1XEA11H,measured,radiocarbon age uncertainty,NA,NA,Radiocarbon,Radiocarbon,1,yr BP,NA,NA
+GeoB5844-2.Arz.2003.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTTADU2LGO,measured,sample label,NA,NA,NA,sample label,3,NA,NA,NA
+GeoB5844-2.Arz.2003.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTI2AOWXHB,measured,dated material,NA,NA,NA,dated material,3,NA,NA,NA
+GeoB5844-2.Arz.2003.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTTOAQTY2O,measured,age dated,NA,NA,Radiocarbon,Radiocarbon,1,kyr BP,Age,calendar
+GeoB5844-2.Arz.2003.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTP0LHYJ4T,measured,age std dev,NA,NA,Radiocarbon,Radiocarbon,1,kyr BP,Age,calendar
+BJ8-03-70GGC.Linsley.2010.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTFNIJL8P7,measured,id,NA,NA,NA,id,3,NA,NA,NA
+BJ8-03-70GGC.Linsley.2010.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTSGP543QJ,measured,age14c,NA,NA,Radiocarbon,Radiocarbon,1,yr BP,Age,calendar
+BJ8-03-70GGC.Linsley.2010.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT4CUHP1QX,measured,age14cuncertainty,NA,NA,Radiocarbon,Radiocarbon,1,yr BP,NA,NA
+MD972120-MD972121.Pahnke.2006.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT6Q2KQCPY,measured,tephra,NA,NA,Tephra,Tephra,1,unitless,NA,NA
+LV29-114-3.Max.2012.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTLCPWD4TI,measured,laboratory number,NA,NA,NA,laboratory number,3,NaN,NA,NA
+LV29-114-3.Max.2012.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTIOUXC58I,measured,14c age,NA,NA,Radiocarbon,Radiocarbon,1,yr BP,Age,calendar
+LV29-114-3.Max.2012.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT1N2BR5NG,measured,14c age uncertainty,NA,NA,Radiocarbon,Radiocarbon,1,yr BP,NA,NA
+MD03-2797.Weldeab.2007.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTCW3CNQ39,measured,error upper,NA,NA,Radiocarbon,Radiocarbon,1,yr BP,NA,NA
+MD03-2797.Weldeab.2007.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTK2AQ1BFW,measured,error lower,NA,NA,Radiocarbon,Radiocarbon,1,yr BP,NA,NA
+MD03-2797.Weldeab.2007.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTVY9Z3K6S,measured,lab num,NA,NA,NA,lab num,3,NA,NA,NA
+GeoB7702-3.Castaneda.2010.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTS027B873,measured,sample code,NA,NA,NA,sample code,3,NA,NA,NA
+GeoB7702-3.Castaneda.2010.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTGV1XHVC8,measured,mat dated,NA,NA,NA,mat dated,3,NA,NA,NA
+GeoB7702-3.Castaneda.2010.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTDNAX42D2,measured,age14c,NA,NA,Radiocarbon,Radiocarbon,1,kyr BP,Age,calendar
+GeoB7702-3.Castaneda.2010.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTCHJG9SUM,measured,age14cuncertainty,NA,NA,Radiocarbon,Radiocarbon,1,kyr BP,NA,NA
+A7.Oppo.2005.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTZLG1E0K7,measured,error,NA,NA,Radiocarbon,Radiocarbon,1,yr BP,NA,NA
+A7.Oppo.2005.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT0EMWB0S1,measured,thickness,Thickness,NA,NA,Thickness,2,cm,NA,NA
+A7.Oppo.2005.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTVE48XZC3,measured,lab num.,NA,NA,NA,lab num.,3,NA,NA,NA
+GeoB10042-1.Setiawan.2016.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTB2H5X9NX,measured,lab code,NA,NA,NA,lab code,3,NA,NA,NA
+GeoB10042-1.Setiawan.2016.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT263GUKAT,measured,age14c,NA,NA,Radiocarbon,Radiocarbon,1,kyr BP,Age,calendar
+GeoB10042-1.Setiawan.2016.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTH2PJNVMY,measured,age14cuncertainty,NA,NA,Radiocarbon,Radiocarbon,1,kyr BP,NA,NA
+GeoB10042-1.Setiawan.2016.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTCFSG7FMX,measured,mat dated,NA,NA,NA,mat dated,3,NA,NA,NA
+GeoB10042-1.Setiawan.2016.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT9ER4YV2E,measured,age reference,NA,NA,NA,age reference,3,NA,NA,NA
+ODP976.Jimenez-Amat.2015.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTQNBVW5XO,measured,depth mcd,NA,NA,NA,depth mcd,3,m,NA,NA
+ODP976.Jimenez-Amat.2015.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT3YNZ8Y0D,measured,sample type,NA,NA,NA,sample type,3,NA,NA,NA
+ODP976.Jimenez-Amat.2015.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTIPTIFAXW,measured,radiocarbon age,NA,NA,Radiocarbon,Radiocarbon,1,yr BP,Age,calendar
+ODP976.Jimenez-Amat.2015.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTR349LUSI,measured,radiocarbon error,NA,NA,Radiocarbon,Radiocarbon,1,yr BP,NA,NA
+JR51GC35.Bendle.2007.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTZCB9ZSWC,measured,core,Core,NA,NA,Core,2,unitless,NA,NA
+JR51GC35.Bendle.2007.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTRTUTP99T,measured,mid-depth,NA,NA,NA,mid-depth,3,cm,NA,NA
+JR51GC35.Bendle.2007.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT00MVBXL0,measured,laboratory core,NA,NA,NA,laboratory core,3,unitless,NA,NA
+JR51GC35.Bendle.2007.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTPR29MAZU,measured,material,NA,NA,NA,material,3,unitless,NA,NA
+JR51GC35.Bendle.2007.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT8VSG6W9T,measured,weight,Weight,NA,NA,Weight,2,mg,NA,NA
+JR51GC35.Bendle.2007.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTRAV3Z0TD,measured,c14 age,NA,NA,Radiocarbon,Radiocarbon,1,years,Age,Calendar
+JR51GC35.Bendle.2007.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT3E159NTP,measured,c14 age uncertainty,NA,NA,Radiocarbon,Radiocarbon,1,years,NA,NA
+JR51GC35.Bendle.2007.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTBBK5OX43,measured,d13 cpdb per mil,NA,NA,D13C,d13C,1,per mil,NA,NA
+GeoB10043-3.Setiawan.2016.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTY16EJNC4,measured,lab code,NA,NA,NA,lab code,3,NA,NA,NA
+GeoB10043-3.Setiawan.2016.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTUNY5WJNW,measured,age14c,NA,NA,Radiocarbon,Radiocarbon,1,kyr BP,Age,calendar
+GeoB10043-3.Setiawan.2016.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT34P954CF,measured,age14cuncertainty,NA,NA,Radiocarbon,Radiocarbon,1,kyr BP,NA,NA
+GeoB10043-3.Setiawan.2016.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTQMIE327B,measured,mat dated,NA,NA,NA,mat dated,3,NA,NA,NA
+GeoB10043-3.Setiawan.2016.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTJ4XMKHXP,measured,references,NA,NA,NA,references,3,NA,NA,NA
+MD01-2390.Steinke.2008.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTXTCUSAO0,measured,error,NA,NA,Radiocarbon,Radiocarbon,1,yr BP,NA,NA
+MD01-2390.Steinke.2008.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTL3BRSJLI,measured,lab. num,NA,NA,NA,lab. num,3,NA,NA,NA
+BJ8-03-13GGC.Linsley.2010.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTHVKL728G,measured,id,NA,NA,NA,id,3,NA,NA,NA
+BJ8-03-13GGC.Linsley.2010.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTATDADYH7,measured,age14c,NA,NA,Radiocarbon,Radiocarbon,1,yr BP,Age,calendar
+BJ8-03-13GGC.Linsley.2010.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT6G8CKXNP,measured,age14cuncertainty,NA,NA,Radiocarbon,Radiocarbon,1,yr BP,NA,NA
+TR163-22.Lea.2006.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT13UJFW1H,measured,error,NA,NA,Radiocarbon,Radiocarbon,1,yr,NA,NA
+TR163-22.Lea.2006.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTTD115YKV,measured,error -,NA,NA,Radiocarbon,Radiocarbon,1,yr,NA,NA
+TR163-22.Lea.2006.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTMEZT2F54,measured,material,NA,NA,NA,material,3,NA,NA,NA
+TR163-22.Lea.2006.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTGD4SUNEB,measured,thickness,Thickness,NA,NA,Thickness,2,cm,NA,NA
+TR163-22.Lea.2006.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTZX1VD1AQ,measured,lab. num.,NA,NA,NA,lab. num.,3,NA,NA,NA
+ODP1098B.Shevenell.2011.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTXVJCXI8U,measured,lab number,NA,NA,NA,lab number,3,NA,NA,NA
+ODP1098B.Shevenell.2011.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTOQEOF9ML,measured,core sample,NA,NA,NA,core sample,3,NA,NA,NA
+ODP1098B.Shevenell.2011.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT4KJFX5M9,measured,carbon source,NA,NA,NA,carbon source,3,NA,NA,NA
+ODP1098B.Shevenell.2011.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTAW0MZS4F,measured,uncorrected radiocarbon age,NA,NA,Radiocarbon,Radiocarbon,1,yr BP,Age,calendar
+ODP1098B.Shevenell.2011.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTC9KM2SH4,measured,uncorrected radiocarbon age uncertainty,NA,NA,Radiocarbon,Radiocarbon,1,yr BP,NA,NA
+ODP1098B.Shevenell.2011.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT46NJMZWE,measured,toc,NA,NA,TotalOrganicCarbon,TotalOrganicCarbon,1,percent,NA,NA
+ODP1098B.Shevenell.2011.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTTV3KPX0M,measured,d13c,d13C,NA,D13C,d13C,1,per mil,NA,NA
+ME0005A-43JC.Benway.2006.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTGISTLO5B,measured,lab code,NA,NA,NA,lab code,3,NA,NA,NA
+ME0005A-43JC.Benway.2006.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTO1QT8GZS,measured,d14c,NA,NA,Radiocarbon,Radiocarbon,1,per mil,NA,NA
+ME0005A-43JC.Benway.2006.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTHV3B8K2S,measured,age14c,NA,NA,Radiocarbon,Radiocarbon,1,kyr,Age,calendar
+ME0005A-43JC.Benway.2006.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTSXS52IIL,measured,age14cuncertainty,NA,NA,Radiocarbon,Radiocarbon,1,kyr,NA,NA
+ME0005A-43JC.Benway.2006.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTE6UGXY14,measured,age14cmin,NA,NA,Radiocarbon,Radiocarbon,1,kyr,NA,NA
+ME0005A-43JC.Benway.2006.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTJEEWCC4S,measured,age14cmax,NA,NA,Radiocarbon,Radiocarbon,1,kyr,NA,NA
+ME0005A-43JC.Benway.2006.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTTCQGQZCD,measured,comment,NA,NA,NA,comment,3,NA,NA,NA
+MD98-2170.Stott.2004.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTNM4T7V8C,measured,labcode,NA,NA,NA,labcode,3,NA,NA,NA
+MD98-2170.Stott.2004.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTDRRNWRQ2,measured,age14c,NA,NA,Radiocarbon,Radiocarbon,1,yr BP,Age,Calendar
+MD98-2170.Stott.2004.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTQWZMVGPR,measured,age14cuncertainty,NA,NA,Radiocarbon,Radiocarbon,1,yr BP,NA,NA
+MD01-2378.Xu.2008.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTWV45UZ7H,measured,lab label,NA,NA,NA,lab label,3,NA,NA,NA
+MD01-2378.Xu.2008.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTCPM2GBVZ,measured,c mass,NA,NA,C,C,1,mg,NA,NA
+MD01-2378.Xu.2008.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTP9F3FB51,measured,age14c,NA,NA,Radiocarbon,Radiocarbon,1,yr BP,Age,calendar
+MD01-2378.Xu.2008.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT8QRXXH0K,measured,age14cuncertainty,NA,NA,Radiocarbon,Radiocarbon,1,yr BP,NA,NA
+Ocn-JacafFjord.Sepúlveda.2009.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTJM9EGCXJ,measured,labId,NA,NA,NA,labId,3,NA,NA,NA
+Ocn-JacafFjord.Sepúlveda.2009.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTF9J259FJ,measured,datedMaterial,NA,NA,NA,datedMaterial,3,NA,NA,NA
+Ocn-JacafFjord.Sepúlveda.2009.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTNK2JTYV1,measured,depth_bot,NA,NA,NA,depth_bot,3,NA,NA,NA
+Ocn-JacafFjord.Sepúlveda.2009.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT8C537UG7,measured,depth_top,depth top,NA,NA,depth top,2,NA,NA,NA
+Ocn-JacafFjord.Sepúlveda.2009.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT9WS9CCPZ,measured,age14c,NA,NA,NA,age14c,3,NA,NA,NA
+Ocn-JacafFjord.Sepúlveda.2009.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTLZ9JHCLY,measured,age_error,NA,NA,NA,age_error,3,NA,NA,NA
+Ocn-JacafFjord.Sepúlveda.2009.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTFN9MTPZN,measured,calibratedAge,Age,calibrated,NA,Age,2,NA,NA,NA
+Ocn-JacafFjord.Sepúlveda.2009.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTDABBUH4R,measured,x2,NA,NA,NA,x2,3,NA,NA,NA
+Ocn-JacafFjord.Sepúlveda.2009.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTYB33GDYJ,measured,cal_age_range_old,NA,NA,NA,cal_age_range_old,3,NA,NA,NA
+Ocn-JacafFjord.Sepúlveda.2009.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT6AQ0F0MW,measured,cal_age_range_young,NA,NA,NA,cal_age_range_young,3,NA,NA,NA
+Ocn-JacafFjord.Sepúlveda.2009.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTUPVAQUYO,measured,thickness,Thickness,NA,NA,Thickness,2,NA,NA,NA
+Ocn-JacafFjord.Sepúlveda.2009.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT34MWI41N,measured,notes,Notes,NA,NA,Notes,2,NA,NA,NA
+Kesang.Cheng.2012.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYTAG585PCP,measured,sample,NA,NA,NA,sample,3,NA,NA,NA
+Kesang.Cheng.2012.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYTPWNO1958,measured,distance,Distance,NA,NA,Distance,2,mm,NA,NA
+Kesang.Cheng.2012.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYT80X5JHNU,measured,238u,238U,NA,238U,238U,1,ppb,NA,NA
+Kesang.Cheng.2012.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYT7RU5XSJM,measured,238u_uncertainty,NA,NA,NA,238u_uncertainty,3,ppb,NA,NA
+Kesang.Cheng.2012.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYTEIMJSI2P,measured,232th,232Th,NA,232Th,232Th,1,ppt,NA,NA
+Kesang.Cheng.2012.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYTO7EXSCDK,measured,232th_uncertainty,NA,NA,NA,232th_uncertainty,3,ppt,NA,NA
+Kesang.Cheng.2012.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYTFKGAFSXQ,measured,230th/232th,230Th/232Th,NA,230Th/232Th,230Th/232Th,1,atomicx10-6,NA,NA
+Kesang.Cheng.2012.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYTEBUFTPNR,measured,230th/232th_uncertainty,NA,NA,NA,230th/232th_uncertainty,3,atomicx10-6,NA,NA
+Kesang.Cheng.2012.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYTN6SEYDS6,measured,d234u,d234U,NA,D234U,d234U,1,NA,NA,NA
+Kesang.Cheng.2012.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYTNQN1OXVJ,measured,d234u_uncertainty,NA,NA,NA,d234u_uncertainty,3,NA,NA,NA
+Kesang.Cheng.2012.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYTYZPX5IVT,measured,230th/238u,NA,NA,230Th/238U,230Th/238U,1,activity,NA,NA
+Kesang.Cheng.2012.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYTZNPGCPUP,measured,230th/238u_uncertainty,NA,NA,NA,230th/238u_uncertainty,3,activity,NA,NA
+Kesang.Cheng.2012.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYTAONE42FD,measured,230th_age_uncorrected,NA,NA,230Th Age uncorrected,230Th Age uncorrected,1,ka,NA,NA
+Kesang.Cheng.2012.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYTOR1FEUWA,measured,230th_age_uncorrected_uncertainty,NA,NA,NA,230th_age_uncorrected_uncertainty,3,ka,NA,NA
+Kesang.Cheng.2012.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYTX6YV71WP,measured,230th_age_corrected,NA,NA,230Th Age corrected,230Th Age corrected,1,kaBP,NA,NA
+Kesang.Cheng.2012.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYTJJCTWXIF,measured,230th_age_corrected_uncertainty,NA,NA,NA,230th_age_corrected_uncertainty,3,kaBP,NA,NA
+Kesang.Cheng.2012.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYTIW6XN863,measured,d234u_initial,NA,NA,D234U initial,d234U initial,1,NA,NA,NA
+Kesang.Cheng.2012.lpd,linked_earth_wiki_files_new,speleothem,Speleothem,PYTPO3VEDY0,measured,d234u_initial_uncertainty,NA,NA,NA,d234u_initial_uncertainty,3,NA,NA,NA
+SK168-GC1.Gebregiorgis.2016.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTWC589FIZ,measured,thickness,Thickness,NA,NA,Thickness,2,cm,NA,NA
+SK168-GC1.Gebregiorgis.2016.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTUMS1X0I2,measured,material,NA,NA,NA,material,3,NA,NA,NA
+SK168-GC1.Gebregiorgis.2016.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTBD8XO4ZQ,measured,lab number,NA,NA,NA,lab number,3,NA,NA,NA
+SK168-GC1.Gebregiorgis.2016.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT9UOA1K9Z,measured,radiocarbonage,NA,NA,Radiocarbon,Radiocarbon,1,yr BP,Age,calendar
+SK168-GC1.Gebregiorgis.2016.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTHN6DPI01,measured,radiocarbonage uncertainty,NA,NA,Radiocarbon,Radiocarbon,1,yr BP,NA,NA
+KNR195-5_CDH26.Bova.2015.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTBTR8HLPV,measured,lab code,NA,NA,NA,lab code,3,NA,NA,NA
+KNR195-5_CDH26.Bova.2015.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTKD5MI73N,measured,top depth,NA,NA,NA,top depth,3,cm,NA,NA
+KNR195-5_CDH26.Bova.2015.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTAZS10IKI,measured,bottom depth,NA,NA,NA,bottom depth,3,cm,NA,NA
+KNR195-5_CDH26.Bova.2015.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTG61BZH6G,measured,middepth,NA,NA,NA,middepth,3,cm,NA,NA
+KNR195-5_CDH26.Bova.2015.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTS9Q3I7QP,measured,age14c,NA,NA,Radiocarbon,Radiocarbon,1,yr BP,Age,calendar
+KNR195-5_CDH26.Bova.2015.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTGP1S01BV,measured,age14cuncertainty,NA,NA,Radiocarbon,Radiocarbon,1,yr BP,NA,NA
+KNR-159-5_78GGC.Lacerra.2017.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTNDYRQDIW,measured,14c age,NA,NA,Radiocarbon,Radiocarbon,1,yrs,Age,calendar
+KNR-159-5_78GGC.Lacerra.2017.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTSIKIQBMA,measured,1 sigma error 14c age,NA,NA,Radiocarbon,Radiocarbon,1,yrs,NA,NA
+KNR-159-5_78GGC.Lacerra.2017.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT9P74FAVP,measured,comments,NA,NA,NA,comments,3,NaN,NA,NA
+Arc-VøringPlateau.Berner.2011.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTXJYE2XE2,measured,labID,NA,NA,NA,labID,3,unitless,NA,NA
+Arc-VøringPlateau.Berner.2011.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT72ZRS45I,measured,ageUncertainty,NA,NA,NA,ageUncertainty,3,cal yr,NA,NA
+Arc-VøringPlateau.Berner.2011.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTD4JXMK6A,measured,deltaR,NA,NA,NA,deltaR,3,14C yr,NA,NA
+Arc-VøringPlateau.Berner.2011.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT9JEI1ZFC,measured,deltaRUncertainty,NA,NA,NA,deltaRUncertainty,3,14C yr,NA,NA
+Arc-VøringPlateau.Berner.2011.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYT3NKRJMYG,measured,age14C,C,age14,NA,C,2,14C yr,NA,NA
+Arc-VøringPlateau.Berner.2011.lpd,linked_earth_wiki_files_new,marine sediment,MarineSediment,PYTI8GGSO25,measured,age14CUncertainty,NA,NA,NA,age14CUncertainty,3,14C yr,NA,NA

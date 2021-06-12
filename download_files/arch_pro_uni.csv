@@ -1,0 +1,2622 @@
+filename,archiveType,proxyObservationType,units
+A7.Oppo.2005.lpd,marine sediment,D18O,per mil
+A7.Oppo.2005.lpd,marine sediment,Mg/Ca,mmol/mol
+Afr-ColdAirCave.Sundqvist.2013.lpd,physical sample,D18O,permil
+Afr-ColdAirCave.Sundqvist.2013.lpd,physical sample,SE,degC
+Afr-ColdAirCave.Sundqvist.2013.lpd,physical sample,D18O,degC
+Afr-LakeMalawi.Powers.2011.lpd,lake sediment,Core,NotApplicable
+Afr-LakeMalawi.Powers.2011.lpd,lake sediment,TEX86,NA
+Afr-LakeTanganyika.Tierney.2010.lpd,lake sediment,TEX86,degC
+Afr-LakeTanganyika.Tierney.2010.lpd,lake sediment,Upper95,degC
+Afr-LakeTanganyika.Tierney.2010.lpd,lake sediment,TEX86,degC
+Afr-LakeTanganyika.Tierney.2010.lpd,lake sediment,Lower95,degC
+Afr-LakeTanganyika.Tierney.2010.lpd,lake sediment,TEX86,degC
+Ant-BerknerIsland.Mulvaney.2002.lpd,glacier ice,D18O,permil
+Ant-CoastalDML.Thamban.2012.lpd,glacier ice,D18O,permil
+Ant-DomeC.Jouzel.2001.lpd,glacier ice,DD,permil
+Ant-DomeC.Stenni.2001.lpd,glacier ice,D18O,permil
+Ant-DomeF1993.Uemura.2014.lpd,glacier ice,D18O,permil
+Ant-DomeF2001.Uemura.2008.lpd,glacier ice,D18O,permil
+Ant-DSS.DahlJensen.1999.lpd,glacier ice,GhostMeasured,NotApplicable
+Ant-DSS.Moy.2012.lpd,glacier ice,D18O,permil
+Ant-Ferrigno.Thomas.2013.lpd,glacier ice,DD,permil
+Ant-JamesRossIsland.Mulvaney.2013.lpd,glacier ice,DD,permil
+Ant-MES.Rhodes.2012.lpd,glacier ice,DD,permil
+Ant-PlateauRemote.Mosley-Thompson.2013.lpd,glacier ice,D18O,permil
+Ant-SipleStation.Mosley-Thompson.1990.lpd,glacier ice,D18O,permil
+Ant-SiteDML05.Graf.2002.lpd,glacier ice,D18O,permil
+Ant-SiteDML07.Graf.2002.lpd,glacier ice,D18O,permil
+Ant-SiteDML17.Graf.2002.lpd,glacier ice,D18O,permil
+Ant-TALDICE.Stenni.2010.lpd,glacier ice,D18O,permil
+Ant-TalosDome.Stenni.2002.lpd,glacier ice,DD,permil
+Ant-TaylorDome.Steig.2000.lpd,glacier ice,D18O,permil
+Ant-US-ITASE-2000-1.Steig.2013.lpd,glacier ice,D18O,permil
+Ant-US-ITASE-2002-4.Steig.2013.lpd,glacier ice,D18O,permil
+Ant-VLG.Bertler.2011.lpd,glacier ice,DD,permil
+Ant-WAIS-Divide.Severinghaus.2012.lpd,glacier ice,GhostMeasured,NotApplicable
+Ant-WDC05A.Steig.2013.lpd,glacier ice,D18O,permil
+Ant-WDC06A.Steig.2013.lpd,glacier ice,Year old,AD
+Ant-WDC06A.Steig.2013.lpd,glacier ice,D18O,permil
+Ant-WDC06A.Steig.2013.lpd,glacier ice,DD,permil
+Arc-Agassiz.Vinther.2008.lpd,glacier ice,D18O,permil
+Arc-AkademiiNaukIceCap.Opel.2013.lpd,glacier ice,Thickness,mwe
+Arc-AkademiiNaukIceCap.Opel.2013.lpd,glacier ice,D18O,permil
+Arc-AkademiiNaukIceCap.Opel.2013.lpd,glacier ice,Na,ng/g
+Arc-Arjeplog.Bjorklund.2014.lpd,tree,Density,NA
+Arc-Arjeplog.Bjorklund.2014.lpd,tree,DeltaDensity,NA
+Arc-Arjeplog.Bjorklund.2014.lpd,tree,BlueIntensity,NA
+Arc-Arjeplog.Bjorklund.2014.lpd,tree,Reflectance,NA
+Arc-Armarnaes.Bjorklund.2012.lpd,tree,Density,NA
+Arc-Armarnaes.Bjorklund.2012.lpd,tree,DeltaDensity,NA
+Arc-Austfonna.Isaksson.2005.lpd,glacier ice,D18O,permil
+Arc-Avam-Taimyr.Briffa.2008.lpd,tree,Trsgi,NA
+Arc-Avam-Taimyr.Briffa.2008.lpd,tree,TRW,NA
+Arc-BigRoundLake.Thomas.2009.lpd,lake sediment,GhostMeasured,NotApplicable
+Arc-BlueLake.Bird.2008.lpd,lake sediment,Thickness,cm
+Arc-BlueLake.Bird.2008.lpd,lake sediment,VarveThickness,cm
+Arc-CampCentury.Fisher.1969.lpd,glacier ice,D18O,permil
+Arc-Crete.Vinther.2010.lpd,glacier ice,D18O,permil
+Arc-DevonIceCap.Fisher.1983.lpd,glacier ice,D18O,permil
+Arc-Dye.Vinther.2010.lpd,glacier ice,D18O,permil
+Arc-Forfjorddalen.McCarroll.2013.lpd,tree,MXD,NA
+Arc-GISP2.Grootes.1997.lpd,glacier ice,D18O,permil
+Arc-GRIP.Vinther.2010.lpd,glacier ice,D18O,permil
+Arc-GulfofAlaska.Wilson.2014.lpd,tree,GhostMeasured,NotApplicable
+Arc-HalletLake.McKay.2008.lpd,lake sediment,Thickness,cm
+Arc-HalletLake.McKay.2008.lpd,lake sediment,Duration,AD
+Arc-HalletLake.McKay.2008.lpd,lake sediment,BSi,mg/g
+Arc-HudsonLake.Clegg.2011.lpd,lake sediment,GhostMeasured,NotApplicable
+Arc-Hvítárvatn.Larsen.2011.lpd,lake sediment,Thickness,cm
+Arc-Hvítárvatn.Larsen.2011.lpd,lake sediment,VarveThickness,cm
+Arc-Iceland.Bergthorsson.1969.lpd,documents,GhostMeasured,NotApplicable
+Arc-Indigirka.Hughes.1999.lpd,tree,Trsgi,NA
+Arc-Indigirka.Hughes.1999.lpd,tree,TRW,NA
+Arc-Kittelfjall.Bjorklund.2012.lpd,tree,Density,NA
+Arc-Kittelfjall.Bjorklund.2012.lpd,tree,DeltaDensity,NA
+Arc-Kongressvatnet.D'Andrea.2012.lpd,lake sediment,Uk37,NA
+Arc-Laanila.Lindholm.2013.lpd,tree,MXD,NaN
+Arc-Laanila.Lindholm.2013.lpd,tree,TRW,NaN
+Arc-Laanila.Lindholm.2013.lpd,tree,Hindex,NaN
+Arc-LakeC2.Lamoureux.1996.lpd,lake sediment,Thickness,mm
+Arc-LakeC2.Lamoureux.1996.lpd,lake sediment,VarveThickness,mm
+Arc-LakeDonardBaffinIsland.Moore.2001.lpd,lake sediment,Thickness,mm
+Arc-LakeDonardBaffinIsland.Moore.2001.lpd,lake sediment,VarveThickness,mm
+Arc-LakeE.D'Andrea.2011.lpd,lake sediment,GhostMeasured,NotApplicable
+Arc-LakeLehmilampi.Haltia-Hovi.2007.lpd,lake sediment,Thickness,mm
+Arc-LakeLehmilampi.Haltia-Hovi.2007.lpd,lake sediment,VarveThickness,mm
+Arc-LakeNataujärvi.Ojala.2005.lpd,lake sediment,X radiograph dark layer,dark_sum
+Arc-LakeNataujärvi.Ojala.2005.lpd,lake sediment,VarveProperty,dark_sum
+Arc-LenaRiver.McDonald.1998.lpd,tree,Trsgi,NA
+Arc-LenaRiver.McDonald.1998.lpd,tree,TRW,NA
+Arc-Lomonosovfonna.Divine.2011.lpd,glacier ice,D18O,permil
+Arc-Lomonosovfonna.Divine.2011.lpd,glacier ice,D18O1,permil
+Arc-Lomonosovfonna.Divine.2011.lpd,glacier ice,D18O,permil
+Arc-LowerMurrayLake.Cook.2008.lpd,lake sediment,Massacum,g.cm-2.a-1
+Arc-LowerMurrayLake.Cook.2008.lpd,lake sediment,SedAccumulation,g.cm-2.a-1
+Arc-MackenzieDelta.Porter.2013.lpd,physical sample,Trsgi,NA
+Arc-MackenzieDelta.Porter.2013.lpd,physical sample,TRW,NA
+Arc-MD992275.Jiang.2005.lpd,marine sediment,GhostMeasured,NotApplicable
+Arc-NGTB16.Schwager.1998.lpd,glacier ice,D18O,permil
+Arc-PennyIceCapP96.Fisher.1998.lpd,glacier ice,D18O,permil
+Arc-PennyIceCapP96.Okuyama.2003.lpd,glacier ice,Melt,percent
+Arc-PolarUrals.Wilson.2015.lpd,tree,Density,NA
+Arc-PolarUrals.Wilson.2015.lpd,tree,TRW,NA
+Arc-PrinceOfWales.Kinnard.2011.lpd,glacier ice,D18O,permil
+Arc-SoperLake.Hughen.2000.lpd,lake sediment,Thickness,mm
+Arc-StoreggaSlide.Sejrup.2011.lpd,marine sediment,GhostMeasured,NotApplicable
+Arc-Tjeggelvas.Bjorklund.2012.lpd,tree,Density,NA
+Arc-Tjeggelvas.Bjorklund.2012.lpd,tree,DeltaDensity,NA
+Arc-Tornetrask.Melvin.2012.lpd,tree,SampleDensity,count
+Arc-VøringPlateau.Berner.2011.lpd,marine sediment,GhostMeasured,NotApplicable
+Arc-WindyDome.Henderson.2011.lpd,glacier ice,Melt,percent
+Arc-WindyDome.Henderson.2011.lpd,glacier ice,D18O,permil
+Arc-Yamalia.Briffa.2013.lpd,glacier ice,GhostMeasured,NotApplicable
+Arc-Yukon.D'Arrigo.2006.lpd,tree,Trsgi,NA
+Arc-Yukon.D'Arrigo.2006.lpd,tree,TRW,NA
+Asi-AltaiAktru.Cook.2005.lpd,tree,Trsgi,NA
+Asi-AltaiAktru.Cook.2005.lpd,tree,TRW,NA
+Asi-AltaiDjasator.Cook.2011.lpd,tree,Trsgi,NA
+Asi-AltaiDjasator.Cook.2011.lpd,tree,TRW,NA
+Asi-AltaiJablonsky.Cook.2000.lpd,tree,Trsgi,NA
+Asi-AltaiJablonsky.Cook.2000.lpd,tree,TRW,NA
+Asi-AltaiKorumdu.Cook.2005.lpd,tree,Trsgi,NA
+Asi-AltaiKorumdu.Cook.2005.lpd,tree,TRW,NA
+Asi-AltaiKuraisky.Cook.2011.lpd,tree,Trsgi,NA
+Asi-AltaiKuraisky.Cook.2011.lpd,tree,TRW,NA
+Asi-AltaiKuraiskySteppe.Cook.2011.lpd,tree,Trsgi,NA
+Asi-AltaiKuraiskySteppe.Cook.2011.lpd,tree,TRW,NA
+Asi-AltaiSamakhaSteppe.Cook.2011.lpd,tree,Trsgi,NA
+Asi-AltaiSamakhaSteppe.Cook.2011.lpd,tree,TRW,NA
+Asi-AltaiTjute.Cook.2011.lpd,tree,Trsgi,NA
+Asi-AltaiTjute.Cook.2011.lpd,tree,TRW,NA
+Asi-AltaiUlaganValley.Cook.2011.lpd,tree,Trsgi,NA
+Asi-AltaiUlaganValley.Cook.2011.lpd,tree,TRW,NA
+Asi-AltaiUstUlaganLake.Cook.2005.lpd,tree,Trsgi,NA
+Asi-AltaiUstUlaganLake.Cook.2005.lpd,tree,TRW,NA
+Asi-BARELC.PAGES2k.2013.lpd,tree,Trsgi,NA
+Asi-BARELC.PAGES2k.2013.lpd,tree,TRW,NA
+Asi-BHUTSP.PAGES2k.2013.lpd,tree,Trsgi,NA
+Asi-BHUTSP.PAGES2k.2013.lpd,tree,TRW,NA
+Asi-BHUTTD.PAGES2k.2013.lpd,tree,Trsgi,NA
+Asi-BHUTTD.PAGES2k.2013.lpd,tree,TRW,NA
+Asi-BT001.Cook.2010.lpd,tree,Trsgi,NA
+Asi-BT001.Cook.2010.lpd,tree,TRW,NA
+Asi-BT002.Cook.2010.lpd,tree,Trsgi,NA
+Asi-BT002.Cook.2010.lpd,tree,TRW,NA
+Asi-BT003.Cook.2010.lpd,tree,Trsgi,NA
+Asi-BT003.Cook.2010.lpd,tree,TRW,NA
+Asi-BT004.Cook.2010.lpd,tree,Trsgi,NA
+Asi-BT004.Cook.2010.lpd,tree,TRW,NA
+Asi-BT005.Cook.2010.lpd,tree,Trsgi,NA
+Asi-BT005.Cook.2010.lpd,tree,TRW,NA
+Asi-BT006.Cook.2010.lpd,tree,Trsgi,NA
+Asi-BT006.Cook.2010.lpd,tree,TRW,NA
+Asi-BT008.Cook.2010.lpd,tree,Trsgi,NA
+Asi-BT008.Cook.2010.lpd,tree,TRW,NA
+Asi-BT009.Cook.2010.lpd,tree,Trsgi,NA
+Asi-BT009.Cook.2010.lpd,tree,TRW,NA
+Asi-BT010.Cook.2010.lpd,tree,Trsgi,NA
+Asi-BT010.Cook.2010.lpd,tree,TRW,NA
+Asi-BT011.Cook.2010.lpd,tree,Trsgi,NA
+Asi-BT011.Cook.2010.lpd,tree,TRW,NA
+Asi-BT018.Cook.2010.lpd,tree,Trsgi,NA
+Asi-BT018.Cook.2010.lpd,tree,TRW,NA
+Asi-BURGPW.PAGES2k.2013.lpd,tree,Trsgi,NA
+Asi-BURGPW.PAGES2k.2013.lpd,tree,TRW,NA
+Asi-CENTIB.PAGES2k.2013.lpd,tree,Trsgi,NA
+Asi-CENTIB.PAGES2k.2013.lpd,tree,TRW,NA
+Asi-CentralChina.Wang.1998.lpd,documents,GhostMeasured,NotApplicable
+Asi-CHIN004.Wu.2013.lpd,tree,Trsgi,NA
+Asi-CHIN004.Wu.2013.lpd,tree,TRW,NA
+Asi-CHIN005.Sheppard.2013.lpd,tree,Trsgi,NA
+Asi-CHIN005.Sheppard.2013.lpd,tree,TRW,NA
+Asi-CHIN006.Sheppard.2013.lpd,tree,Trsgi,NA
+Asi-CHIN006.Sheppard.2013.lpd,tree,TRW,NA
+Asi-CHIN016.Li.2010.lpd,tree,Trsgi,NA
+Asi-CHIN016.Li.2010.lpd,tree,TRW,NA
+Asi-CHIN017.Li.2010.lpd,tree,Trsgi,NA
+Asi-CHIN017.Li.2010.lpd,tree,TRW,NA
+Asi-CHIN018.Li.2010.lpd,tree,Trsgi,NA
+Asi-CHIN018.Li.2010.lpd,tree,TRW,NA
+Asi-CHIN019.Li.2010.lpd,tree,Trsgi,NA
+Asi-CHIN019.Li.2010.lpd,tree,TRW,NA
+Asi-CHIN020.Li.2010.lpd,tree,Trsgi,NA
+Asi-CHIN020.Li.2010.lpd,tree,TRW,NA
+Asi-CHIN021.Li.2010.lpd,tree,Trsgi,NA
+Asi-CHIN021.Li.2010.lpd,tree,TRW,NA
+Asi-CHIN026.Wright.2010.lpd,tree,Trsgi,NA
+Asi-CHIN026.Wright.2010.lpd,tree,TRW,NA
+Asi-CHIN029.Krusic.2010.lpd,tree,Trsgi,NA
+Asi-CHIN029.Krusic.2010.lpd,tree,TRW,NA
+Asi-CHIN037.Fan.2013.lpd,tree,Trsgi,NA
+Asi-CHIN037.Fan.2013.lpd,tree,TRW,NA
+Asi-CHIN038.Fan.2013.lpd,tree,Trsgi,NA
+Asi-CHIN038.Fan.2013.lpd,tree,TRW,NA
+Asi-CHIN039.Fan.2013.lpd,tree,Trsgi,NA
+Asi-CHIN039.Fan.2013.lpd,tree,TRW,NA
+Asi-CHIN040.Fan.2013.lpd,tree,Trsgi,NA
+Asi-CHIN040.Fan.2013.lpd,tree,TRW,NA
+Asi-CHIN041.Fan.2013.lpd,tree,Trsgi,NA
+Asi-CHIN041.Fan.2013.lpd,tree,TRW,NA
+Asi-CHIN042.Brauning.2013.lpd,tree,Trsgi,NA
+Asi-CHIN042.Brauning.2013.lpd,tree,TRW,NA
+Asi-CHIN043.Brauning.2013.lpd,tree,Trsgi,NA
+Asi-CHIN043.Brauning.2013.lpd,tree,TRW,NA
+Asi-CHIN044.Brauning.2013.lpd,tree,Trsgi,NA
+Asi-CHIN044.Brauning.2013.lpd,tree,TRW,NA
+Asi-CHIN045.Brauning.2013.lpd,tree,Trsgi,NA
+Asi-CHIN045.Brauning.2013.lpd,tree,TRW,NA
+Asi-CHIN046.Brauning.2013.lpd,tree,Trsgi,NA
+Asi-CHIN046.Brauning.2013.lpd,tree,TRW,NA
+Asi-CHIN047.Brauning.2013.lpd,tree,Trsgi,NA
+Asi-CHIN047.Brauning.2013.lpd,tree,TRW,NA
+Asi-CHIN048.Brauning.2013.lpd,tree,Trsgi,NA
+Asi-CHIN048.Brauning.2013.lpd,tree,TRW,NA
+Asi-CHIN049.Brauning.2013.lpd,tree,Trsgi,NA
+Asi-CHIN049.Brauning.2013.lpd,tree,TRW,NA
+Asi-CHIN050.Shao.2013.lpd,tree,Trsgi,NA
+Asi-CHIN050.Shao.2013.lpd,tree,TRW,NA
+Asi-CHIN051.Shao.2013.lpd,tree,Trsgi,NA
+Asi-CHIN051.Shao.2013.lpd,tree,TRW,NA
+Asi-CHIN052.Shao.2013.lpd,tree,Trsgi,NA
+Asi-CHIN052.Shao.2013.lpd,tree,TRW,NA
+Asi-CHIN053.Shao.2013.lpd,tree,Trsgi,NA
+Asi-CHIN053.Shao.2013.lpd,tree,TRW,NA
+Asi-CHIN054.Shao.2013.lpd,tree,Trsgi,NA
+Asi-CHIN054.Shao.2013.lpd,tree,TRW,NA
+Asi-CHIN055.Shao.2013.lpd,tree,Trsgi,NA
+Asi-CHIN055.Shao.2013.lpd,tree,TRW,NA
+Asi-CHIN056.Shao.2013.lpd,tree,Trsgi,NA
+Asi-CHIN056.Shao.2013.lpd,tree,TRW,NA
+Asi-CHIN057.Shao.2013.lpd,tree,Trsgi,NA
+Asi-CHIN057.Shao.2013.lpd,tree,TRW,NA
+Asi-CHIN058.Shao.2013.lpd,tree,Trsgi,NA
+Asi-CHIN058.Shao.2013.lpd,tree,TRW,NA
+Asi-CHIN059.Shao.2013.lpd,tree,Trsgi,NA
+Asi-CHIN059.Shao.2013.lpd,tree,TRW,NA
+Asi-CHIN060.Shao.2013.lpd,tree,Trsgi,NA
+Asi-CHIN060.Shao.2013.lpd,tree,TRW,NA
+Asi-CHIN061.Shao.2013.lpd,tree,Trsgi,NA
+Asi-CHIN061.Shao.2013.lpd,tree,TRW,NA
+Asi-CHIN062.Shao.2013.lpd,tree,Trsgi,NA
+Asi-CHIN062.Shao.2013.lpd,tree,TRW,NA
+Asi-CHIN063.Shao.2013.lpd,tree,Trsgi,NA
+Asi-CHIN063.Shao.2013.lpd,tree,TRW,NA
+Asi-CHIN064.Shao.2013.lpd,tree,Trsgi,NA
+Asi-CHIN064.Shao.2013.lpd,tree,TRW,NA
+Asi-CHIN065.Shao.2013.lpd,tree,Trsgi,NA
+Asi-CHIN065.Shao.2013.lpd,tree,TRW,NA
+Asi-CHIN066.Shao.2013.lpd,tree,Trsgi,NA
+Asi-CHIN066.Shao.2013.lpd,tree,TRW,NA
+Asi-Dasuopu.Thompson.2000.lpd,glacier ice,D18O,permil
+Asi-Dasuopu.Thompson.2000.lpd,glacier ice,Dust,permil
+Asi-Dasuopu.Thompson.2000.lpd,glacier ice,Chloride,ppb
+Asi-Dasuopu.Thompson.2000.lpd,glacier ice,Nitrate,ppb
+Asi-Dasuopu.Thompson.2000.lpd,glacier ice,Sulfate,ppb
+Asi-DEZQIN.PAGES2k.2013.lpd,tree,Trsgi,NA
+Asi-DEZQIN.PAGES2k.2013.lpd,tree,TRW,NA
+Asi-DQHZHO.PAGES2k.2013.lpd,tree,Trsgi,NA
+Asi-DQHZHO.PAGES2k.2013.lpd,tree,TRW,NA
+Asi-DUSHJP.PAGES2k.2013.lpd,tree,Trsgi,NA
+Asi-DUSHJP.PAGES2k.2013.lpd,tree,TRW,NA
+Asi-EastChina.Wang.1990.lpd,documents,GhostMeasured,NotApplicable
+Asi-EastChina.Wang.1998.lpd,documents,GhostMeasured,NotApplicable
+Asi-ENEPAB.PAGES2k.2013.lpd,tree,Trsgi,NA
+Asi-ENEPAB.PAGES2k.2013.lpd,tree,TRW,NA
+Asi-ESPERG.PAGES2k.2013.lpd,tree,Trsgi,NA
+Asi-ESPERG.PAGES2k.2013.lpd,tree,TRW,NA
+Asi-ESPPAK.PAGES2k.2013.lpd,tree,Trsgi,NA
+Asi-ESPPAK.PAGES2k.2013.lpd,tree,TRW,NA
+Asi-Fujian.Wang.1998.lpd,documents,GhostMeasured,NotApplicable
+Asi-GANGCD.PAGES2k.2013.lpd,tree,Trsgi,NA
+Asi-GANGCD.PAGES2k.2013.lpd,tree,TRW,NA
+Asi-GHEGAN.PAGES2k.2013.lpd,tree,Trsgi,NA
+Asi-GHEGAN.PAGES2k.2013.lpd,tree,TRW,NA
+Asi-GOUQIN.PAGES2k.2013.lpd,tree,Trsgi,NA
+Asi-GOUQIN.PAGES2k.2013.lpd,tree,TRW,NA
+Asi-Guangdong.Zheng.1982.lpd,documents,GhostMeasured,NotApplicable
+Asi-GuangdongAndGuangxi.Zhang.1980.lpd,documents,GhostMeasured,NotApplicable
+Asi-Guliya.Thompson.1997.lpd,glacier ice,Reconstructed,cm/yr
+Asi-HBHXJP.PAGES2k.2013.lpd,tree,Trsgi,NA
+Asi-HBHXJP.PAGES2k.2013.lpd,tree,TRW,NA
+Asi-HBLXJP.PAGES2k.2013.lpd,tree,Trsgi,NA
+Asi-HBLXJP.PAGES2k.2013.lpd,tree,TRW,NA
+Asi-HBMXJP.PAGES2k.2013.lpd,tree,Trsgi,NA
+Asi-HBMXJP.PAGES2k.2013.lpd,tree,TRW,NA
+Asi-HEBQIN.PAGES2k.2013.lpd,tree,Trsgi,NA
+Asi-HEBQIN.PAGES2k.2013.lpd,tree,TRW,NA
+Asi-HRPCSM.PAGES2k.2013.lpd,tree,Trsgi,NA
+Asi-HRPCSM.PAGES2k.2013.lpd,tree,TRW,NA
+Asi-Hunan-Jiangsu.Zhang.1980.lpd,documents,GhostMeasured,NotApplicable
+Asi-Hushre.PAGES2k.2013.lpd,tree,Trsgi,NA
+Asi-Hushre.PAGES2k.2013.lpd,tree,TRW,NA
+Asi-HXBURU.PAGES2k.2013.lpd,tree,Trsgi,NA
+Asi-HXBURU.PAGES2k.2013.lpd,tree,TRW,NA
+Asi-HYGJUP.PAGES2k.2013.lpd,tree,Trsgi,NA
+Asi-HYGJUP.PAGES2k.2013.lpd,tree,TRW,NA
+Asi-INDI015.Borgaonkar.2013.lpd,tree,Trsgi,NA
+Asi-INDI015.Borgaonkar.2013.lpd,tree,TRW,NA
+Asi-INDI024.Borgaonkar.2013.lpd,tree,Trsgi,NA
+Asi-INDI024.Borgaonkar.2013.lpd,tree,TRW,NA
+Asi-INDI025.Borgaonkar.2013.lpd,tree,Trsgi,NA
+Asi-INDI025.Borgaonkar.2013.lpd,tree,TRW,NA
+Asi-INDO005.D'Arrigo.2010.lpd,tree,Trsgi,NA
+Asi-INDO005.D'Arrigo.2010.lpd,tree,TRW,NA
+Asi-JAPA012.Yasue.1997.lpd,tree,Trsgi,NA
+Asi-JAPA012.Yasue.1997.lpd,tree,TRW,NA
+Asi-JAPA013.Yasue.1997.lpd,tree,Trsgi,NA
+Asi-JAPA013.Yasue.1997.lpd,tree,TRW,NA
+Asi-JAPA014.Yasue.2013.lpd,tree,Trsgi,NA
+Asi-JAPA014.Yasue.2013.lpd,tree,TRW,NA
+Asi-JAPA015.Yasue.2013.lpd,tree,Trsgi,NA
+Asi-JAPA015.Yasue.2013.lpd,tree,TRW,NA
+Asi-JAPA016.Yasue.2013.lpd,tree,Trsgi,NA
+Asi-JAPA016.Yasue.2013.lpd,tree,TRW,NA
+Asi-JAPA017.Yasue.2013.lpd,tree,Trsgi,NA
+Asi-JAPA017.Yasue.2013.lpd,tree,TRW,NA
+Asi-JAPA019.Sano.2013.lpd,tree,Trsgi,NA
+Asi-JAPA019.Sano.2013.lpd,tree,TRW,NA
+Asi-JAPA020.Kimura.2013.lpd,tree,Trsgi,NA
+Asi-JAPA020.Kimura.2013.lpd,tree,TRW,NA
+Asi-KAZ001.Solomina.2010.lpd,tree,Trsgi,NA
+Asi-KAZ001.Solomina.2010.lpd,tree,TRW,NA
+Asi-KERALA.PAGES2k.2013.lpd,tree,Trsgi,NA
+Asi-KERALA.PAGES2k.2013.lpd,tree,TRW,NA
+Asi-KunashirIsland.Demezhko.2009.lpd,hybrid,Trsgi,NA
+Asi-KYRG002.Esper.2007.lpd,tree,Trsgi,NA
+Asi-KYRG002.Esper.2007.lpd,tree,TRW,NA
+Asi-KYRG003.Esper.2007.lpd,tree,Trsgi,NA
+Asi-KYRG003.Esper.2007.lpd,tree,TRW,NA
+Asi-KYRG004.Esper.2007.lpd,tree,Trsgi,NA
+Asi-KYRG004.Esper.2007.lpd,tree,TRW,NA
+Asi-KYRG005.Esper.2007.lpd,tree,Trsgi,NA
+Asi-KYRG005.Esper.2007.lpd,tree,TRW,NA
+Asi-KYRG007.Esper.2007.lpd,tree,Trsgi,NA
+Asi-KYRG007.Esper.2007.lpd,tree,TRW,NA
+Asi-KYRG008.Shiyatov.2013.lpd,tree,Trsgi,NA
+Asi-KYRG008.Shiyatov.2013.lpd,tree,TRW,NA
+Asi-KYRG009.Shiyatov.2013.lpd,tree,Trsgi,NA
+Asi-KYRG009.Shiyatov.2013.lpd,tree,TRW,NA
+Asi-KYRG010.Shiyatov.2013.lpd,tree,Trsgi,NA
+Asi-KYRG010.Shiyatov.2013.lpd,tree,TRW,NA
+Asi-KYRG011.Shiyatov.2013.lpd,tree,Trsgi,NA
+Asi-KYRG011.Shiyatov.2013.lpd,tree,TRW,NA
+Asi-KYRG012.Solomina.2013.lpd,tree,Trsgi,NA
+Asi-KYRG012.Solomina.2013.lpd,tree,TRW,NA
+Asi-KYRG013.Solomina.2013.lpd,tree,Trsgi,NA
+Asi-KYRG013.Solomina.2013.lpd,tree,TRW,NA
+Asi-KYRG014.Solomina.2013.lpd,tree,Trsgi,NA
+Asi-KYRG014.Solomina.2013.lpd,tree,TRW,NA
+Asi-KYRG015.Solomina.2013.lpd,tree,Trsgi,NA
+Asi-KYRG015.Solomina.2013.lpd,tree,TRW,NA
+Asi-LAJQIN.PAGES2k.2013.lpd,tree,Trsgi,NA
+Asi-LAJQIN.PAGES2k.2013.lpd,tree,TRW,NA
+Asi-LowerYangtzeRiver.Zhang.1980.lpd,documents,GhostMeasured,NotApplicable
+Asi-MCCHFH.Sano.2008.lpd,tree,Trsgi,NA
+Asi-MCCHFH.Sano.2008.lpd,tree,TRW,NA
+Asi-MiddleYangtzeRiver.Zhang.1980.lpd,documents,GhostMeasured,NotApplicable
+Asi-MONG002.Jacoby.2013.lpd,tree,Trsgi,NA
+Asi-MONG002.Jacoby.2013.lpd,tree,TRW,NA
+Asi-MONG004.Jacoby.2013.lpd,tree,Trsgi,NA
+Asi-MONG004.Jacoby.2013.lpd,tree,TRW,NA
+Asi-MONG006.Jacoby.2006.lpd,tree,Trsgi,NA
+Asi-MONG006.Jacoby.2006.lpd,tree,TRW,NA
+Asi-MONG007.Schweingruber.2013.lpd,tree,Trsgi,NA
+Asi-MONG007.Schweingruber.2013.lpd,tree,TRW,NA
+Asi-MONG009.Jacoby.2013.lpd,tree,Trsgi,NA
+Asi-MONG009.Jacoby.2013.lpd,tree,TRW,NA
+Asi-MONG010.Jacoby.2013.lpd,tree,Trsgi,NA
+Asi-MONG010.Jacoby.2013.lpd,tree,TRW,NA
+Asi-MONG011.Jacoby.2006.lpd,tree,Trsgi,NA
+Asi-MONG011.Jacoby.2006.lpd,tree,TRW,NA
+Asi-MONG012.Jacoby.2006.lpd,tree,Trsgi,NA
+Asi-MONG012.Jacoby.2006.lpd,tree,TRW,NA
+Asi-MONG014.Jacoby.2013.lpd,tree,Trsgi,NA
+Asi-MONG014.Jacoby.2013.lpd,tree,TRW,NA
+Asi-MONG015.Jacoby.2013.lpd,tree,Trsgi,NA
+Asi-MONG015.Jacoby.2013.lpd,tree,TRW,NA
+Asi-MONG016.Jacoby.2010.lpd,tree,Trsgi,NA
+Asi-MONG016.Jacoby.2010.lpd,tree,TRW,NA
+Asi-MONG017.Jacoby.2010.lpd,tree,Trsgi,NA
+Asi-MONG017.Jacoby.2010.lpd,tree,TRW,NA
+Asi-MONG018.Jacoby.2010.lpd,tree,Trsgi,NA
+Asi-MONG018.Jacoby.2010.lpd,tree,TRW,NA
+Asi-MONG019.Jacoby.2010.lpd,tree,Trsgi,NA
+Asi-MONG019.Jacoby.2010.lpd,tree,TRW,NA
+Asi-MONG020.Jacoby.2010.lpd,tree,Trsgi,NA
+Asi-MONG020.Jacoby.2010.lpd,tree,TRW,NA
+Asi-MONG021.Jacoby.2010.lpd,tree,Trsgi,NA
+Asi-MONG021.Jacoby.2010.lpd,tree,TRW,NA
+Asi-MONG024.Jacoby.2010.lpd,tree,Trsgi,NA
+Asi-MONG024.Jacoby.2010.lpd,tree,TRW,NA
+Asi-MONG025.Jacoby.2010.lpd,tree,Trsgi,NA
+Asi-MONG025.Jacoby.2010.lpd,tree,TRW,NA
+Asi-MONG026.Jacoby.2010.lpd,tree,Trsgi,NA
+Asi-MONG026.Jacoby.2010.lpd,tree,TRW,NA
+Asi-MONG027.Jacoby.2010.lpd,tree,Trsgi,NA
+Asi-MONG027.Jacoby.2010.lpd,tree,TRW,NA
+Asi-MONG028.Jacoby.2010.lpd,tree,Trsgi,NA
+Asi-MONG028.Jacoby.2010.lpd,tree,TRW,NA
+Asi-MONG029.Jacoby.2010.lpd,tree,Trsgi,NA
+Asi-MONG029.Jacoby.2010.lpd,tree,TRW,NA
+Asi-MONG030.Jacoby.2010.lpd,tree,Trsgi,NA
+Asi-MONG030.Jacoby.2010.lpd,tree,TRW,NA
+Asi-MONG031.Jacoby.2010.lpd,tree,Trsgi,NA
+Asi-MONG031.Jacoby.2010.lpd,tree,TRW,NA
+Asi-MONG032.Jacoby.2010.lpd,tree,Trsgi,NA
+Asi-MONG032.Jacoby.2010.lpd,tree,TRW,NA
+Asi-MONG033.Jacoby.2010.lpd,tree,Trsgi,NA
+Asi-MONG033.Jacoby.2010.lpd,tree,TRW,NA
+Asi-MQACJP.PAGES2k.2013.lpd,tree,Trsgi,NA
+Asi-MQACJP.PAGES2k.2013.lpd,tree,TRW,NA
+Asi-MQAXJP.PAGES2k.2013.lpd,tree,Trsgi,NA
+Asi-MQAXJP.PAGES2k.2013.lpd,tree,TRW,NA
+Asi-MQBXJP.PAGES2k.2013.lpd,tree,Trsgi,NA
+Asi-MQBXJP.PAGES2k.2013.lpd,tree,TRW,NA
+Asi-MQDXJP.PAGES2k.2013.lpd,tree,Trsgi,NA
+Asi-MQDXJP.PAGES2k.2013.lpd,tree,TRW,NA
+Asi-MQFXJP.PAGES2k.2013.lpd,tree,Trsgi,NA
+Asi-MQFXJP.PAGES2k.2013.lpd,tree,TRW,NA
+Asi-MQRXJP.PAGES2k.2013.lpd,tree,Trsgi,NA
+Asi-MQRXJP.PAGES2k.2013.lpd,tree,TRW,NA
+Asi-MTASMD.Davi.2013.lpd,tree,Trsgi,NA
+Asi-MTASMD.Davi.2013.lpd,tree,TRW,NA
+Asi-MTASSP.Davi.2013.lpd,tree,Trsgi,NA
+Asi-MTASSP.Davi.2013.lpd,tree,TRW,NA
+Asi-NEPA003.Krusic.2013.lpd,tree,Trsgi,NA
+Asi-NEPA003.Krusic.2013.lpd,tree,TRW,NA
+Asi-NEPA010.Krusic.2013.lpd,tree,Trsgi,NA
+Asi-NEPA010.Krusic.2013.lpd,tree,TRW,NA
+Asi-NEPA014.Krusic.2013.lpd,tree,Trsgi,NA
+Asi-NEPA014.Krusic.2013.lpd,tree,TRW,NA
+Asi-NEPA015.Krusic.2013.lpd,tree,Trsgi,NA
+Asi-NEPA015.Krusic.2013.lpd,tree,TRW,NA
+Asi-NEPA018.Krusic.2013.lpd,tree,Trsgi,NA
+Asi-NEPA018.Krusic.2013.lpd,tree,TRW,NA
+Asi-NEPA019.Krusic.2013.lpd,tree,Trsgi,NA
+Asi-NEPA019.Krusic.2013.lpd,tree,TRW,NA
+Asi-NEPA021.Krusic.2013.lpd,tree,Trsgi,NA
+Asi-NEPA021.Krusic.2013.lpd,tree,TRW,NA
+Asi-NEPA025.Krusic.2013.lpd,tree,Trsgi,NA
+Asi-NEPA025.Krusic.2013.lpd,tree,TRW,NA
+Asi-NEPA027.Krusic.2013.lpd,tree,Trsgi,NA
+Asi-NEPA027.Krusic.2013.lpd,tree,TRW,NA
+Asi-NEPA029.Krusic.2013.lpd,tree,Trsgi,NA
+Asi-NEPA029.Krusic.2013.lpd,tree,TRW,NA
+Asi-NEPA030.Krusic.2013.lpd,tree,Trsgi,NA
+Asi-NEPA030.Krusic.2013.lpd,tree,TRW,NA
+Asi-NEPA032.Krusic.2013.lpd,tree,Trsgi,NA
+Asi-NEPA032.Krusic.2013.lpd,tree,TRW,NA
+Asi-NEPA036.Krusic.2013.lpd,tree,Trsgi,NA
+Asi-NEPA036.Krusic.2013.lpd,tree,TRW,NA
+Asi-NEPA042.Krusic.2010.lpd,tree,Trsgi,NA
+Asi-NEPA042.Krusic.2010.lpd,tree,TRW,NA
+Asi-NOGSAK.PAGES2k.2013.lpd,tree,Trsgi,NA
+Asi-NOGSAK.PAGES2k.2013.lpd,tree,TRW,NA
+Asi-PAKI001.Esper.2007.lpd,tree,Trsgi,NA
+Asi-PAKI001.Esper.2007.lpd,tree,TRW,NA
+Asi-PAKI002.Esper.2007.lpd,tree,Trsgi,NA
+Asi-PAKI002.Esper.2007.lpd,tree,TRW,NA
+Asi-PAKI003.Esper.2007.lpd,tree,Trsgi,NA
+Asi-PAKI003.Esper.2007.lpd,tree,TRW,NA
+Asi-PAKI004.Esper.2007.lpd,tree,Trsgi,NA
+Asi-PAKI004.Esper.2007.lpd,tree,TRW,NA
+Asi-PAKI006.Esper.2007.lpd,tree,Trsgi,NA
+Asi-PAKI006.Esper.2007.lpd,tree,TRW,NA
+Asi-PAKI007.Esper.2007.lpd,tree,Trsgi,NA
+Asi-PAKI007.Esper.2007.lpd,tree,TRW,NA
+Asi-PAKI009.Esper.2007.lpd,tree,Trsgi,NA
+Asi-PAKI009.Esper.2007.lpd,tree,TRW,NA
+Asi-PAKI010.Esper.2007.lpd,tree,Trsgi,NA
+Asi-PAKI010.Esper.2007.lpd,tree,TRW,NA
+Asi-PAKI011.Esper.2007.lpd,tree,Trsgi,NA
+Asi-PAKI011.Esper.2007.lpd,tree,TRW,NA
+Asi-PAKI012.Esper.2007.lpd,tree,Trsgi,NA
+Asi-PAKI012.Esper.2007.lpd,tree,TRW,NA
+Asi-PAKI014.Esper.2007.lpd,tree,Trsgi,NA
+Asi-PAKI014.Esper.2007.lpd,tree,TRW,NA
+Asi-PAKI015.Esper.2007.lpd,tree,Trsgi,NA
+Asi-PAKI015.Esper.2007.lpd,tree,TRW,NA
+Asi-PAKI016.Esper.2007.lpd,tree,Trsgi,NA
+Asi-PAKI016.Esper.2007.lpd,tree,TRW,NA
+Asi-PAKI017.Cook.2013.lpd,tree,Trsgi,NA
+Asi-PAKI017.Cook.2013.lpd,tree,TRW,NA
+Asi-PAKI018.Cook.2013.lpd,tree,Trsgi,NA
+Asi-PAKI018.Cook.2013.lpd,tree,TRW,NA
+Asi-PAKI020.Cook.2013.lpd,tree,Trsgi,NA
+Asi-PAKI020.Cook.2013.lpd,tree,TRW,NA
+Asi-PAKI021.Cook.2013.lpd,tree,Trsgi,NA
+Asi-PAKI021.Cook.2013.lpd,tree,TRW,NA
+Asi-PAKI022.Cook.2013.lpd,tree,Trsgi,NA
+Asi-PAKI022.Cook.2013.lpd,tree,TRW,NA
+Asi-PAKI023.Cook.2013.lpd,tree,Trsgi,NA
+Asi-PAKI023.Cook.2013.lpd,tree,TRW,NA
+Asi-PAKI024.Cook.2013.lpd,tree,Trsgi,NA
+Asi-PAKI024.Cook.2013.lpd,tree,TRW,NA
+Asi-PAKI025.Cook.2013.lpd,tree,Trsgi,NA
+Asi-PAKI025.Cook.2013.lpd,tree,TRW,NA
+Asi-PAKI027.Cook.2013.lpd,tree,Trsgi,NA
+Asi-PAKI027.Cook.2013.lpd,tree,TRW,NA
+Asi-PAKI028.Cook.2013.lpd,tree,Trsgi,NA
+Asi-PAKI028.Cook.2013.lpd,tree,TRW,NA
+Asi-PAKI029.Cook.2013.lpd,tree,Trsgi,NA
+Asi-PAKI029.Cook.2013.lpd,tree,TRW,NA
+Asi-PAKI030.Cook.2013.lpd,tree,Trsgi,NA
+Asi-PAKI030.Cook.2013.lpd,tree,TRW,NA
+Asi-PAKI031.Cook.2013.lpd,tree,Trsgi,NA
+Asi-PAKI031.Cook.2013.lpd,tree,TRW,NA
+Asi-PAKI033.Cook.2013.lpd,tree,Trsgi,NA
+Asi-PAKI033.Cook.2013.lpd,tree,TRW,NA
+Asi-PAKI035.Cook.2013.lpd,tree,Trsgi,NA
+Asi-PAKI035.Cook.2013.lpd,tree,TRW,NA
+Asi-PAKI036.Cook.2013.lpd,tree,Trsgi,NA
+Asi-PAKI036.Cook.2013.lpd,tree,TRW,NA
+Asi-PAKI039.Cook.2013.lpd,tree,Trsgi,NA
+Asi-PAKI039.Cook.2013.lpd,tree,TRW,NA
+Asi-PAKI040.Cook.2011.lpd,tree,Trsgi,NA
+Asi-PAKI040.Cook.2011.lpd,tree,TRW,NA
+Asi-PTCYUN.PAGES2k.2013.lpd,tree,Trsgi,NA
+Asi-PTCYUN.PAGES2k.2013.lpd,tree,TRW,NA
+Asi-Puruogangri.Thompson.2006.lpd,glacier ice,AgeMin,AD
+Asi-Puruogangri.Thompson.2006.lpd,glacier ice,AgeMax,AD
+Asi-Puruogangri.Thompson.2006.lpd,glacier ice,D18O,permil
+Asi-QUMAJP.PAGES2k.2013.lpd,tree,Trsgi,NA
+Asi-QUMAJP.PAGES2k.2013.lpd,tree,TRW,NA
+Asi-RANGCD.PAGES2k.2013.lpd,tree,Trsgi,NA
+Asi-RANGCD.PAGES2k.2013.lpd,tree,TRW,NA
+Asi-RUSS219.Jacoby.2010.lpd,tree,Trsgi,NA
+Asi-RUSS219.Jacoby.2010.lpd,tree,TRW,NA
+Asi-RUSS236.Sano.2009.lpd,tree,Trsgi,NA
+Asi-RUSS236.Sano.2009.lpd,tree,TRW,NA
+Asi-SANGTS.PAGES2k.2013.lpd,tree,Trsgi,NA
+Asi-SANGTS.PAGES2k.2013.lpd,tree,TRW,NA
+Asi-SHIESP.PAGES2k.2013.lpd,tree,Trsgi,NA
+Asi-SHIESP.PAGES2k.2013.lpd,tree,TRW,NA
+Asi-SHIYAT.PAGES2k.2013.lpd,tree,Trsgi,NA
+Asi-SHIYAT.PAGES2k.2013.lpd,tree,TRW,NA
+Asi-SihailongwaLake.Chu.2011.lpd,lake sediment,Core,NotApplicable
+Asi-SihailongwaLake.Chu.2011.lpd,lake sediment,SampleID,NotApplicable
+Asi-SihailongwaLake.Chu.2011.lpd,lake sediment,AgeMin,AD
+Asi-SihailongwaLake.Chu.2011.lpd,lake sediment,AgeMax,AD
+Asi-SO90-39KG_SO130-275KL.Munz.2015.lpd,marine sediment,Depth top,mm
+Asi-SO90-39KG_SO130-275KL.Munz.2015.lpd,marine sediment,Depth bottom,mm
+Asi-SO90-39KG_SO130-275KL.Munz.2015.lpd,marine sediment,AgeMax,AD
+Asi-SO90-39KG_SO130-275KL.Munz.2015.lpd,marine sediment,AgeMin,AD
+Asi-SODAPS.PAGES2k.2013.lpd,tree,Trsgi,NA
+Asi-SODAPS.PAGES2k.2013.lpd,tree,TRW,NA
+Asi-SourthAndMiddleUrals.Demezhko.2007.lpd,physical sample,GhostMeasured,NotApplicable
+Asi-SouthChina.Wang.1998.lpd,documents,GhostMeasured,NotApplicable
+Asi-TDAXJP.PAGES2k.2013.lpd,tree,Trsgi,NA
+Asi-TDAXJP.PAGES2k.2013.lpd,tree,TRW,NA
+Asi-TDBXJP.PAGES2k.2013.lpd,tree,Trsgi,NA
+Asi-TDBXJP.PAGES2k.2013.lpd,tree,TRW,NA
+Asi-TH001.Buckley.2010.lpd,tree,Trsgi,NA
+Asi-TH001.Buckley.2010.lpd,tree,TRW,NA
+Asi-TIANMU.PAGES2k.2013.lpd,tree,Trsgi,NA
+Asi-TIANMU.PAGES2k.2013.lpd,tree,TRW,NA
+Asi-TW001.Wright.2010.lpd,tree,Trsgi,NA
+Asi-TW001.Wright.2010.lpd,tree,TRW,NA
+Asi-UKHEWD.Schweingruber.2002.lpd,tree,Trsgi,NA
+Asi-UKHEWD.Schweingruber.2002.lpd,tree,TRW,NA
+Asi-UKHEWW.Schweingruber.2002.lpd,tree,Trsgi,NA
+Asi-UKHEWW.Schweingruber.2002.lpd,tree,TRW,NA
+Asi-UKHLWD.Schweingruber.2002.lpd,tree,Trsgi,NA
+Asi-UKHLWD.Schweingruber.2002.lpd,tree,TRW,NA
+Asi-UKHLWW.Schweingruber.2002.lpd,tree,Trsgi,NA
+Asi-UKHLWW.Schweingruber.2002.lpd,tree,TRW,NA
+Asi-UKHMND.Schweingruber.2002.lpd,tree,Trsgi,NA
+Asi-UKHMND.Schweingruber.2002.lpd,tree,TRW,NA
+Asi-UKHMXD.Schweingruber.2002.lpd,tree,Trsgi,NA
+Asi-UKHMXD.Schweingruber.2002.lpd,tree,TRW,NA
+Asi-UKHTRW.Schweingruber.2002.lpd,tree,Trsgi,NA
+Asi-UKHTRW.Schweingruber.2002.lpd,tree,TRW,NA
+Asi-UULEWD.Schweingruber.2002.lpd,tree,Trsgi,NA
+Asi-UULEWD.Schweingruber.2002.lpd,tree,TRW,NA
+Asi-UULEWW.Schweingruber.2002.lpd,tree,Trsgi,NA
+Asi-UULEWW.Schweingruber.2002.lpd,tree,TRW,NA
+Asi-UULLWD.Schweingruber.2002.lpd,tree,Trsgi,NA
+Asi-UULLWD.Schweingruber.2002.lpd,tree,TRW,NA
+Asi-UULLWW.Schweingruber.2002.lpd,tree,Trsgi,NA
+Asi-UULLWW.Schweingruber.2002.lpd,tree,TRW,NA
+Asi-UULMND.Schweingruber.2002.lpd,tree,Trsgi,NA
+Asi-UULMND.Schweingruber.2002.lpd,tree,TRW,NA
+Asi-UULMXD.Schweingruber.2002.lpd,tree,Trsgi,NA
+Asi-UULMXD.Schweingruber.2002.lpd,tree,TRW,NA
+Asi-UULTRW.Schweingruber.2002.lpd,tree,Trsgi,NA
+Asi-UULTRW.Schweingruber.2002.lpd,tree,TRW,NA
+Asi-VIET001.Buckley.2010.lpd,tree,Trsgi,NA
+Asi-VIET001.Buckley.2010.lpd,tree,TRW,NA
+Asi-WEXYUN.Wright.2010.lpd,tree,Trsgi,NA
+Asi-WEXYUN.Wright.2010.lpd,tree,TRW,NA
+Asi-WULANJ.PAGES2k.2013.lpd,tree,Trsgi,NA
+Asi-WULANJ.PAGES2k.2013.lpd,tree,TRW,NA
+Asi-WXIYUN.Wright.2010.lpd,tree,Trsgi,NA
+Asi-WXIYUN.Wright.2010.lpd,tree,TRW,NA
+Asi-YKC.Yasue.2013.lpd,tree,Trsgi,NA
+Asi-YKC.Yasue.2013.lpd,tree,TRW,NA
+Asi-YKCOM.Yasue.2013.lpd,tree,Trsgi,NA
+Asi-YKCOM.Yasue.2013.lpd,tree,TRW,NA
+Asi-ZHANGX.PAGES2k.2010.lpd,tree,Trsgi,NA
+Asi-ZHANGX.PAGES2k.2010.lpd,tree,TRW,NA
+Asi-ZhejiangAndFujian.Zhang.1980.lpd,documents,GhostMeasured,NotApplicable
+Asi-ZHIDJP.Shao.2003.lpd,tree,Trsgi,NA
+Asi-ZHIDJP.Shao.2003.lpd,tree,TRW,NA
+Aus-BuckleysChance.Buckley.1997.lpd,tree,Trsgi,NA
+Aus-BuckleysChance.Buckley.1997.lpd,tree,TRW,NA
+Aus-CTPEastTasmania.Allen.2001.lpd,tree,Trsgi,NA
+Aus-CTPEastTasmania.Allen.2001.lpd,tree,TRW,NA
+Aus-CTPWestTasmania.Allen.2001.lpd,tree,Trsgi,NA
+Aus-CTPWestTasmania.Allen.2001.lpd,tree,TRW,NA
+Aus-DuckholeLake.Saunders.2013.lpd,lake sediment,R650 700,NA
+Aus-DuckholeLake.Saunders.2013.lpd,lake sediment,Reflectance,NA
+Aus-DuckholeLake.Saunders.2013.lpd,lake sediment,R570 630,NotApplicable
+Aus-DuckholeLake.Saunders.2013.lpd,lake sediment,R660 670,NotApplicable
+Aus-DuckholeLake.Saunders.2013.lpd,lake sediment,RABD660 670,NA
+Aus-DuckholeLake.Saunders.2013.lpd,lake sediment,Reflectance,NA
+Aus-DuckholeLake.Saunders.2013.lpd,lake sediment,WaterContent,percent
+Aus-DuckholeLake.Saunders.2013.lpd,lake sediment,N,percent
+Aus-DuckholeLake.Saunders.2013.lpd,lake sediment,C,percent
+Aus-DuckholeLake.Saunders.2013.lpd,lake sediment,C N,NA
+Aus-DuckholeLake.Saunders.2013.lpd,lake sediment,BSi,percent
+Aus-MtRead.Cook.2006.lpd,tree,GhostMeasured,NotApplicable
+Aus-Oroko.Cook.2002.lpd,tree,GhostMeasured,NotApplicable
+Aus-PinkPine.Duncan.2010.lpd,tree,Trsgi,NA
+Aus-PinkPine.Duncan.2010.lpd,tree,TRW,NA
+Aus-StewartIsland.D'Arrigo.1996.lpd,tree,Trsgi,NA
+Aus-StewartIsland.D'Arrigo.1996.lpd,tree,TRW,NA
+Aus-TakapariCedar.Xiong.2000.lpd,tree,Trsgi,NA
+Aus-TakapariCedar.Xiong.2000.lpd,tree,TRW,NA
+BJ8-03-13GGC.Linsley.2010.lpd,marine sediment,D18O,per mil
+BJ8-03-13GGC.Linsley.2010.lpd,marine sediment,Mg/Ca,mmol/mol
+BJ8-03-70GGC.Linsley.2010.lpd,marine sediment,D18O,per mil
+BJ8-03-70GGC.Linsley.2010.lpd,marine sediment,Mg/Ca,mmol/mol
+CO00COKY-SAMPLEDATA.lpd,coral,D18O,permil
+DSDP502.deMenocal.1992.lpd,marine sediment,D18O,per mil
+DSDP552.Shackleton.1984.lpd,marine sediment,D18O,per mil
+DSDP607.Lisiecki.2005.lpd,marine sediment,D18O,per mil
+DSDP610.Lisiecki.2005.lpd,marine sediment,D18O,per mil
+Eur-CentralandEasternPyrenees.Pla.2004.lpd,lake sediment,SampleID,NotApplicable
+Eur-CentralEurope.Dobrovolný.2009.lpd,documents,GhostMeasured,NotApplicable
+Eur-CoastofPortugal.Abrantes.2011.lpd,marine sediment,GhostMeasured,NotApplicable
+Eur-EasternCarpathianMountains.Popa.2008.lpd,tree,Trsgi,NA
+Eur-EasternCarpathianMountains.Popa.2008.lpd,tree,TRW,NA
+Eur-EuropeanAlps.Büntgen.2011.lpd,tree,Trsgi,NA
+Eur-EuropeanAlps.Büntgen.2011.lpd,tree,TRW,NA
+Eur-FinnishLakelands.Helama.2014.lpd,tree,GhostMeasured,NotApplicable
+Eur-LakeSilvaplana.Larocque-Tobler.2010.lpd,lake sediment,GhostMeasured,NotApplicable
+Eur-LakeSilvaplana.Trachsel.2010.lpd,lake sediment,GhostMeasured,NotApplicable
+Eur-Lötschental.Büntgen.2006.lpd,tree,MXD,NA
+Eur-MaritimeFrenchAlps.Büntgen.2012.lpd,tree,Trsgi,NA
+Eur-MaritimeFrenchAlps.Büntgen.2012.lpd,tree,TRW,NA
+Eur-NorthernScandinavia.Esper.2012.lpd,tree,MXD,NA
+Eur-NorthernSpain.Martín-Chivelet.2011.lpd,speleothem,D18O,permil
+Eur-RAPiD-17-5P.Moffa-Sanchez.2014.lpd,marine sediment,D18O,permil
+Eur-Seebergsee.Larocque-Tobler.2012.lpd,lake sediment,GhostMeasured,NotApplicable
+Eur-SpanishPyrenees.Dorado-Linan.2012.lpd,tree,Trsgi,NA
+Eur-SpanishPyrenees.Dorado-Linan.2012.lpd,tree,TRW,NA
+Eur-SpannagelCave.Mangini.2005.lpd,speleothem,D18O,permil
+Eur-Stockholm.Leijonhufvud.2009.lpd,documents,GhostMeasured,NotApplicable
+Eur-Tallinn.Tarand.2001.lpd,documents,JulianDay,days
+Eur-TatraMountains.Büntgen.2013.lpd,tree,Trsgi,NA
+Eur-TatraMountains.Büntgen.2013.lpd,tree,TRW,NA
+GeoB10042-1.Setiawan.2016.lpd,marine sediment,D18O,per mil
+GeoB10042-1.Setiawan.2016.lpd,marine sediment,Mg/Ca,mmol/mol
+GeoB10043-3.Setiawan.2016.lpd,marine sediment,D18O,per mil
+GeoB10043-3.Setiawan.2016.lpd,marine sediment,Mg/Ca,mmol/mol
+GeoB10069-3.Gibbons.2014.lpd,marine sediment,Mg/Ca,mmol/mol
+GeoB10069-3.Gibbons.2014.lpd,marine sediment,D18O,per mil
+GeoB1023-5.Kim.2002.lpd,marine sediment,Uk37Prime,NaN
+GeoB12605-3.Kuhnert.2014.lpd,marine sediment,D18O,per mil
+GeoB12605-3.Kuhnert.2014.lpd,marine sediment,D18O,per mil
+GeoB12605-3.Kuhnert.2014.lpd,marine sediment,Mg/Ca,mmol/mol
+GeoB12610-2.Rippert.2015.lpd,marine sediment,D18O,per mil
+GeoB12610-2.Rippert.2015.lpd,marine sediment,Mg/Ca,mmol/mol
+GeoB12610-2.Rippert.2015.lpd,marine sediment,D18O,per mil
+GeoB12610-2.Rippert.2015.lpd,marine sediment,Mg/Ca,mmol/mol
+GeoB3129-1.Weldeab.2006.lpd,marine sediment,D18O,per mil
+GeoB33021.Kim.2002.lpd,marine sediment,Uk37Prime,NotApplicable
+GeoB3911-3.Weldeab.2006.lpd,marine sediment,D18O,per mil
+GeoB3911-3.Weldeab.2006.lpd,marine sediment,D18O,per mil
+GeoB5844-2.Arz.2003.lpd,marine sediment,DiffuseSpectralReflectance,NotApplicable
+GeoB7702-3.Castaneda.2010.lpd,marine sediment,TEX86,NotApplicable
+GeoB7702-3.Castaneda.2010.lpd,marine sediment,BIT,NotApplicable
+GeoB7702-3.Castaneda.2010.lpd,marine sediment,Uk37Prime,NotApplicable
+GIK16160-3.Wang.2003.lpd,marine sediment,Uk37Prime,NotApplicable
+GIK17748-2.Kim.2002.lpd,marine sediment,Uk37Prime,NotApplicable
+GIK17940-2.Pelejero.1999.lpd,marine sediment,Uk37,NotApplicable
+GIK23258.Sarnthein.2003.lpd,marine sediment,D13C,percent PCD
+GIK23258.Sarnthein.2003.lpd,marine sediment,D18O,percent PCD
+GIK23258.Sarnthein.2003.lpd,marine sediment,D18O,percent PDB
+GIK23258.Sarnthein.2003.lpd,marine sediment,D13C,percent PDB
+JM98-1-PC.Husum.2004.lpd,marine sediment,D13C,per mil
+JM98-1-PC.Husum.2004.lpd,marine sediment,D18O,per mil
+JR51GC35.Bendle.2007.lpd,marine sediment,Uk37,unitless
+Juxtlahuaca.Lachniet.2012.lpd,speleothem,Distance,mm
+Juxtlahuaca.Lachniet.2012.lpd,speleothem,D18O,per mil VPDB
+Juxtlahuaca.Lachniet.2012.lpd,speleothem,D18O,per mil VPDB
+Juxtlahuaca.Lachniet.2013.lpd,speleothem,Distance,mm
+Juxtlahuaca.Lachniet.2013.lpd,speleothem,D18O,per mil VPDB
+Juxtlahuaca.Lachniet.2013.lpd,speleothem,D18O,per mil VPDB
+Juxtlahuaca.Lachniet.2017.lpd,speleothem,Distance,mm
+Juxtlahuaca.Lachniet.2017.lpd,speleothem,D18O,per mil VPDB
+Juxtlahuaca.Lachniet.2017.lpd,speleothem,D18O,per mil VPDB
+Kesang.Cheng.2012.lpd,speleothem,D18O,per mil VPDB
+KNR-159-5_33GGC.Lacerra.2017.lpd,marine sediment,B/Ca,umol/mol
+KNR-159-5_33GGC.Lacerra.2017.lpd,marine sediment,B/Ca,umol/mol
+KNR-159-5_33GGC.Lacerra.2017.lpd,marine sediment,NumberOfObservations,NaN
+KNR-159-5_78GGC.Lacerra.2017.lpd,marine sediment,B/Ca,umol/mol
+KNR-159-5_78GGC.Lacerra.2017.lpd,marine sediment,B/Ca,umol/mol
+KNR-159-5_78GGC.Lacerra.2017.lpd,marine sediment,NumberOfObservations,NaN
+KNR166-2-26JPC.Schmidt.2011.lpd,marine sediment,D18O,per mil
+KNR166-2-26JPC.Schmidt.2011.lpd,marine sediment,D18O,per mil
+KNR166-2-26JPC.Schmidt.2011.lpd,marine sediment,Mg/Ca,mmol/mol
+KNR166-2-26JPC.Schmidt.2011.lpd,marine sediment,Ba/Ca,mmol/mol
+KNR166-2JPC51.Schmidt.2012.lpd,marine sediment,D18O,per mil
+KNR166-2JPC51.Schmidt.2012.lpd,marine sediment,Mg/Ca,mmol/mol
+KNR195-5-CDH23.Bova.2015.lpd,marine sediment,D13C,per mil
+KNR195-5-CDH23.Bova.2015.lpd,marine sediment,D18O,per mil
+KNR195-5-CDH23.Bova.2015.lpd,marine sediment,Uk37Prime,NotApplicable
+KNR195-5-CDH23.Bova.2015.lpd,marine sediment,AlkenoneAbundance,NotApplicable
+KNR195-5_CDH26.Bova.2015.lpd,marine sediment,Uk37Prime,NotApplicable
+KNR195-5_CDH26.Bova.2015.lpd,marine sediment,AlkenoneAbundance,NotApplicable
+KT05-7_PC02.Kawahata.2009.lpd,marine sediment,Density,g/cm^3
+KT05-7_PC02.Kawahata.2009.lpd,marine sediment,TotalOrganicCarbon,percent
+KT05-7_PC02.Kawahata.2009.lpd,marine sediment,N,percent
+KT05-7_PC02.Kawahata.2009.lpd,marine sediment,C/N,NotApplicable
+KT05-7_PC02.Kawahata.2009.lpd,marine sediment,CaCO3,percent
+KT05-7_PC02.Kawahata.2009.lpd,marine sediment,Uk37Prime,NotApplicable
+LakeSurprise.Falster.2018.lpd,lake sediment,D13C,per mille VPDB
+LakeSurprise.Falster.2018.lpd,lake sediment,C,per cent
+LakeSurprise.Falster.2018.lpd,lake sediment,N,per cent
+LakeSurprise.Falster.2018.lpd,lake sediment,C/N,unitless
+LV29-114-3.Max.2012.lpd,marine sediment,Uk37Prime,NaN
+M25_4-KL1.Emeis.2000.lpd,marine sediment,Uk37Prime,NotApplicable
+M35003-4.Ruehlemann.1999.lpd,marine sediment,D18O,per mil
+M35003-4.Ruehlemann.1999.lpd,marine sediment,37:3AlkenoneConcentration,ng/g
+M35003-4.Ruehlemann.1999.lpd,marine sediment,37:2AlkenoneConcentration,ng/g
+M35003-4.Ruehlemann.1999.lpd,marine sediment,AlkenoneConcentration,ng/g
+M35003-4.Ruehlemann.1999.lpd,marine sediment,Uk37Prime,NotApplicable
+M77-2_056.Nurnberg.2015.lpd,marine sediment,D13C,per mil
+M77-2_056.Nurnberg.2015.lpd,marine sediment,D18O,permil
+M77-2_056.Nurnberg.2015.lpd,marine sediment,D13C,per mil
+M77-2_056.Nurnberg.2015.lpd,marine sediment,D18O,per mil
+M77-2_056.Nurnberg.2015.lpd,marine sediment,Mg/Ca,mmol/mol
+M77-2_056.Nurnberg.2015.lpd,marine sediment,D13C,per mil
+M77-2_056.Nurnberg.2015.lpd,marine sediment,D18O,per mil
+M77-2_056.Nurnberg.2015.lpd,marine sediment,Mg/Ca,mmolmol
+MD01-2378.Xu.2008.lpd,marine sediment,D18O,per mil PDB
+MD01-2378.Xu.2008.lpd,marine sediment,D18O,per mil PDB
+MD01-2378.Xu.2008.lpd,marine sediment,Mg/Ca,mmol/mol
+MD01-2378.Xu.2008.lpd,marine sediment,Mg/Ca,mmol/mol
+MD01-2390.Steinke.2008.lpd,marine sediment,D18O,per mil
+MD01-2390.Steinke.2008.lpd,marine sediment,D18O,per mil
+MD01-2390.Steinke.2008.lpd,marine sediment,Mg/Ca,mmol/mol
+MD01-2390.Steinke.2008.lpd,marine sediment,Mg/Ca,mmol/mol
+MD01-2390.Steinke.2008.lpd,marine sediment,Mg/Ca,mmol/mol
+MD01-2390.Steinke.2008.lpd,marine sediment,Uk37Prime,NotApplicable
+MD01-2412.Harada.2006.lpd,marine sediment,Uk37Prime,NotApplicable
+MD02-2575.Ziegler.2008.lpd,marine sediment,D18O,per mil
+MD02-2575.Ziegler.2008.lpd,marine sediment,D18O,per mil
+MD02-2575.Ziegler.2008.lpd,marine sediment,Mg/Ca,mmol/mol
+MD03-2601.Kim.2012.lpd,marine sediment,TEX86,NotApplicable
+MD03-2797.Weldeab.2007.lpd,marine sediment,Ba/Ca,NotApplicable
+MD03-2797.Weldeab.2007.lpd,marine sediment,D18O,per mil PDB
+MD03-2797.Weldeab.2007.lpd,marine sediment,Mg/Ca,mmol/mol
+MD05-2904.Steinke.2011.lpd,marine sediment,Mg/Ca,mmol/mol
+MD05-2904.Steinke.2011.lpd,marine sediment,Mg/Ca,mmol/mol
+MD95-2015.Marchal.2002.lpd,marine sediment,Uk37Prime,unitless
+MD95-2043.Cacho.1999.lpd,marine sediment,Uk37Prime,NotApplicable
+MD97-2121.Marr.2013.lpd,marine sediment,Mg/Ca,mmol/mol
+MD97-2121.Marr.2013.lpd,marine sediment,Mg/Ca,mmol/mol
+MD97-2121.Marr.2013.lpd,marine sediment,Al/Ca,μmol/mol
+MD97-2121.Marr.2013.lpd,marine sediment,Al/Ca,μmol/mol
+MD97-2121.Marr.2013.lpd,marine sediment,Mn/Ca,μmol/mol
+MD97-2121.Marr.2013.lpd,marine sediment,Mn/Ca,μmol/mol
+MD97-2121.Marr.2013.lpd,marine sediment,Zn/Ca,μmol/mol
+MD97-2121.Marr.2013.lpd,marine sediment,Zn/Ca,μmol/mol
+MD97-2121.Marr.2013.lpd,marine sediment,Sr/Ca,mmol/mol
+MD97-2121.Marr.2013.lpd,marine sediment,Sr/Ca,mmol/mol
+MD97-2121.Marr.2013.lpd,marine sediment,Ba/Ca,μmol/mol
+MD97-2121.Marr.2013.lpd,marine sediment,Ba/Ca,μmol/mol
+MD97-2141.Rosentha.2003.lpd,marine sediment,D18O,per mil
+MD97-2141.Rosentha.2003.lpd,marine sediment,Mg/Ca,mmol/mol
+MD972120-MD972121.Pahnke.2006.lpd,marine sediment,Uk37Prime,unitless
+MD98-2165.Levi.2007.lpd,marine sediment,D18O,per mil
+MD98-2165.Levi.2007.lpd,marine sediment,Mg/Ca,Mg/Ca
+MD98-2170.Stott.2004.lpd,marine sediment,Mg/Ca,mmol/mol
+MD98-2170.Stott.2004.lpd,marine sediment,D18O,per mil VPBD
+MD982176.Stott.2004.lpd,marine sediment,D18O,per mil
+MD982176.Stott.2004.lpd,marine sediment,Mg/Ca,mmol/mol
+MD982181.Khider.2014.lpd,marine sediment,Mg/Ca,mmol/mol
+MD982181.Khider.2014.lpd,marine sediment,D18O,per mil
+ME0005A-43JC.Benway.2006.lpd,marine sediment,D18O,per mil PDB
+ME0005A-43JC.Benway.2006.lpd,marine sediment,D18O,per mil PDB
+ME0005A-43JC.Benway.2006.lpd,marine sediment,Mg/Ca,mmol/mol
+NAm-AlmondButterLower.D'Arrigo.2005.lpd,tree,SampleCount,count
+NAm-AlmondButterLower.D'Arrigo.2005.lpd,tree,Segment,NA
+NAm-AlmondButterLower.D'Arrigo.2005.lpd,tree,RingWidth,cm
+NAm-AlmondButterLower.D'Arrigo.2005.lpd,tree,Trsgi,NA
+NAm-AlmondButterLower.D'Arrigo.2005.lpd,tree,TRW,NA
+NAm-AlmondButterLower.D'Arrigo.2005.lpd,tree,Residual,NA
+NAm-AlmondButterLower.D'Arrigo.2005.lpd,tree,ARS,NA
+NAm-AlmondButterLower.D'Arrigo.2005.lpd,tree,Corrs,NA
+NAm-AlmondButterLower.D'Arrigo.2005.lpd,tree,RBar,NA
+NAm-AlmondButterLower.D'Arrigo.2005.lpd,tree,SD,NA
+NAm-AlmondButterLower.D'Arrigo.2005.lpd,tree,SE,NA
+NAm-AlmondButterLower.D'Arrigo.2005.lpd,tree,EPS,NA
+NAm-AlmondButterLower.D'Arrigo.2005.lpd,tree,Core,NA
+NAm-AlmondButterUpper.D'Arrigo.2005.lpd,tree,SampleCount,count
+NAm-AlmondButterUpper.D'Arrigo.2005.lpd,tree,Segment,NA
+NAm-AlmondButterUpper.D'Arrigo.2005.lpd,tree,RingWidth,cm
+NAm-AlmondButterUpper.D'Arrigo.2005.lpd,tree,Trsgi,NA
+NAm-AlmondButterUpper.D'Arrigo.2005.lpd,tree,TRW,NA
+NAm-AlmondButterUpper.D'Arrigo.2005.lpd,tree,Residual,NA
+NAm-AlmondButterUpper.D'Arrigo.2005.lpd,tree,ARS,NA
+NAm-AlmondButterUpper.D'Arrigo.2005.lpd,tree,Corrs,NA
+NAm-AlmondButterUpper.D'Arrigo.2005.lpd,tree,RBar,NA
+NAm-AlmondButterUpper.D'Arrigo.2005.lpd,tree,SD,NA
+NAm-AlmondButterUpper.D'Arrigo.2005.lpd,tree,SE,NA
+NAm-AlmondButterUpper.D'Arrigo.2005.lpd,tree,EPS,NA
+NAm-AlmondButterUpper.D'Arrigo.2005.lpd,tree,Core,NA
+NAm-Arapahoe.Kienast.1996.lpd,tree,SampleCount,count
+NAm-Arapahoe.Kienast.1996.lpd,tree,Segment,NA
+NAm-Arapahoe.Kienast.1996.lpd,tree,Density,g/cm3
+NAm-Arapahoe.Kienast.1996.lpd,tree,MXD,NA
+NAm-Arapahoe.Kienast.1996.lpd,tree,Residual,NA
+NAm-Arapahoe.Kienast.1996.lpd,tree,ARS,NA
+NAm-Arapahoe.Kienast.1996.lpd,tree,Corrs,NA
+NAm-Arapahoe.Kienast.1996.lpd,tree,RBar,NA
+NAm-Arapahoe.Kienast.1996.lpd,tree,SD,NA
+NAm-Arapahoe.Kienast.1996.lpd,tree,SE,NA
+NAm-Arapahoe.Kienast.1996.lpd,tree,EPS,NA
+NAm-Arapahoe.Kienast.1996.lpd,tree,Core,NA
+NAm-ArrowsmithMountain.Briffa.1996.lpd,tree,SampleCount,count
+NAm-ArrowsmithMountain.Briffa.1996.lpd,tree,Segment,NA
+NAm-ArrowsmithMountain.Briffa.1996.lpd,tree,Density,g/cm3
+NAm-ArrowsmithMountain.Briffa.1996.lpd,tree,MXD,NA
+NAm-ArrowsmithMountain.Briffa.1996.lpd,tree,Residual,NA
+NAm-ArrowsmithMountain.Briffa.1996.lpd,tree,ARS,NA
+NAm-ArrowsmithMountain.Briffa.1996.lpd,tree,Corrs,NA
+NAm-ArrowsmithMountain.Briffa.1996.lpd,tree,RBar,NA
+NAm-ArrowsmithMountain.Briffa.1996.lpd,tree,SD,NA
+NAm-ArrowsmithMountain.Briffa.1996.lpd,tree,SE,NA
+NAm-ArrowsmithMountain.Briffa.1996.lpd,tree,EPS,NA
+NAm-ArrowsmithMountain.Briffa.1996.lpd,tree,Core,NA
+NAm-Athabasca.Schweingruber.1996.lpd,tree,SampleCount,count
+NAm-Athabasca.Schweingruber.1996.lpd,tree,Segment,NA
+NAm-Athabasca.Schweingruber.1996.lpd,tree,Density,g/cm3
+NAm-Athabasca.Schweingruber.1996.lpd,tree,MXD,NA
+NAm-Athabasca.Schweingruber.1996.lpd,tree,Residual,NA
+NAm-Athabasca.Schweingruber.1996.lpd,tree,ARS,NA
+NAm-Athabasca.Schweingruber.1996.lpd,tree,Corrs,NA
+NAm-Athabasca.Schweingruber.1996.lpd,tree,RBar,NA
+NAm-Athabasca.Schweingruber.1996.lpd,tree,SD,NA
+NAm-Athabasca.Schweingruber.1996.lpd,tree,SE,NA
+NAm-Athabasca.Schweingruber.1996.lpd,tree,EPS,NA
+NAm-Athabasca.Schweingruber.1996.lpd,tree,Core,NA
+NAm-AthabascaGlacier.Schweingruber.1996.lpd,tree,SampleCount,count
+NAm-AthabascaGlacier.Schweingruber.1996.lpd,tree,Segment,NA
+NAm-AthabascaGlacier.Schweingruber.1996.lpd,tree,Density,g/cm3
+NAm-AthabascaGlacier.Schweingruber.1996.lpd,tree,MXD,NA
+NAm-AthabascaGlacier.Schweingruber.1996.lpd,tree,Residual,NA
+NAm-AthabascaGlacier.Schweingruber.1996.lpd,tree,ARS,NA
+NAm-AthabascaGlacier.Schweingruber.1996.lpd,tree,Corrs,NA
+NAm-AthabascaGlacier.Schweingruber.1996.lpd,tree,RBar,NA
+NAm-AthabascaGlacier.Schweingruber.1996.lpd,tree,SD,NA
+NAm-AthabascaGlacier.Schweingruber.1996.lpd,tree,SE,NA
+NAm-AthabascaGlacier.Schweingruber.1996.lpd,tree,EPS,NA
+NAm-AthabascaGlacier.Schweingruber.1996.lpd,tree,Core,NA
+NAm-AthabascaGlacier2.Luckman.2005.lpd,tree,SampleCount,count
+NAm-AthabascaGlacier2.Luckman.2005.lpd,tree,Segment,NA
+NAm-AthabascaGlacier2.Luckman.2005.lpd,tree,Density,g/cm3
+NAm-AthabascaGlacier2.Luckman.2005.lpd,tree,MXD,NA
+NAm-AthabascaGlacier2.Luckman.2005.lpd,tree,Residual,NA
+NAm-AthabascaGlacier2.Luckman.2005.lpd,tree,ARS,NA
+NAm-AthabascaGlacier2.Luckman.2005.lpd,tree,Corrs,NA
+NAm-AthabascaGlacier2.Luckman.2005.lpd,tree,RBar,NA
+NAm-AthabascaGlacier2.Luckman.2005.lpd,tree,SD,NA
+NAm-AthabascaGlacier2.Luckman.2005.lpd,tree,SE,NA
+NAm-AthabascaGlacier2.Luckman.2005.lpd,tree,EPS,NA
+NAm-AthabascaGlacier2.Luckman.2005.lpd,tree,Core,NA
+NAm-BakerLake.Hughes.2005.lpd,tree,SampleCount,count
+NAm-BakerLake.Hughes.2005.lpd,tree,Segment,NA
+NAm-BakerLake.Hughes.2005.lpd,tree,Density,g/cm3
+NAm-BakerLake.Hughes.2005.lpd,tree,MXD,NA
+NAm-BakerLake.Hughes.2005.lpd,tree,Residual,NA
+NAm-BakerLake.Hughes.2005.lpd,tree,ARS,NA
+NAm-BakerLake.Hughes.2005.lpd,tree,Corrs,NA
+NAm-BakerLake.Hughes.2005.lpd,tree,RBar,NA
+NAm-BakerLake.Hughes.2005.lpd,tree,SD,NA
+NAm-BakerLake.Hughes.2005.lpd,tree,SE,NA
+NAm-BakerLake.Hughes.2005.lpd,tree,EPS,NA
+NAm-BakerLake.Hughes.2005.lpd,tree,Core,NA
+NAm-BarlowPassamMtHood.Briffa.1996.lpd,tree,SampleCount,count
+NAm-BarlowPassamMtHood.Briffa.1996.lpd,tree,Segment,NA
+NAm-BarlowPassamMtHood.Briffa.1996.lpd,tree,Density,g/cm3
+NAm-BarlowPassamMtHood.Briffa.1996.lpd,tree,MXD,NA
+NAm-BarlowPassamMtHood.Briffa.1996.lpd,tree,Residual,NA
+NAm-BarlowPassamMtHood.Briffa.1996.lpd,tree,ARS,NA
+NAm-BarlowPassamMtHood.Briffa.1996.lpd,tree,Corrs,NA
+NAm-BarlowPassamMtHood.Briffa.1996.lpd,tree,RBar,NA
+NAm-BarlowPassamMtHood.Briffa.1996.lpd,tree,SD,NA
+NAm-BarlowPassamMtHood.Briffa.1996.lpd,tree,SE,NA
+NAm-BarlowPassamMtHood.Briffa.1996.lpd,tree,EPS,NA
+NAm-BarlowPassamMtHood.Briffa.1996.lpd,tree,Core,NA
+NAm-BellMountain.Schweingruber.1996.lpd,tree,SampleCount,count
+NAm-BellMountain.Schweingruber.1996.lpd,tree,Segment,NA
+NAm-BellMountain.Schweingruber.1996.lpd,tree,Density,g/cm3
+NAm-BellMountain.Schweingruber.1996.lpd,tree,MXD,NA
+NAm-BellMountain.Schweingruber.1996.lpd,tree,Residual,NA
+NAm-BellMountain.Schweingruber.1996.lpd,tree,ARS,NA
+NAm-BellMountain.Schweingruber.1996.lpd,tree,Corrs,NA
+NAm-BellMountain.Schweingruber.1996.lpd,tree,RBar,NA
+NAm-BellMountain.Schweingruber.1996.lpd,tree,SD,NA
+NAm-BellMountain.Schweingruber.1996.lpd,tree,SE,NA
+NAm-BellMountain.Schweingruber.1996.lpd,tree,EPS,NA
+NAm-BellMountain.Schweingruber.1996.lpd,tree,Core,NA
+NAm-Bennington.Luckman.2001.lpd,tree,SampleCount,count
+NAm-Bennington.Luckman.2001.lpd,tree,Segment,NA
+NAm-Bennington.Luckman.2001.lpd,tree,RingWidth,cm
+NAm-Bennington.Luckman.2001.lpd,tree,Trsgi,NA
+NAm-Bennington.Luckman.2001.lpd,tree,TRW,NA
+NAm-Bennington.Luckman.2001.lpd,tree,Residual,NA
+NAm-Bennington.Luckman.2001.lpd,tree,ARS,NA
+NAm-Bennington.Luckman.2001.lpd,tree,Corrs,NA
+NAm-Bennington.Luckman.2001.lpd,tree,RBar,NA
+NAm-Bennington.Luckman.2001.lpd,tree,SD,NA
+NAm-Bennington.Luckman.2001.lpd,tree,SE,NA
+NAm-Bennington.Luckman.2001.lpd,tree,EPS,NA
+NAm-Bennington.Luckman.2001.lpd,tree,Core,NA
+NAm-Bennington.Luckman.2013.lpd,tree,SampleCount,count
+NAm-Bennington.Luckman.2013.lpd,tree,Segment,NA
+NAm-Bennington.Luckman.2013.lpd,tree,RingWidth,cm
+NAm-Bennington.Luckman.2013.lpd,tree,Trsgi,NA
+NAm-Bennington.Luckman.2013.lpd,tree,TRW,NA
+NAm-Bennington.Luckman.2013.lpd,tree,Residual,NA
+NAm-Bennington.Luckman.2013.lpd,tree,ARS,NA
+NAm-Bennington.Luckman.2013.lpd,tree,Corrs,NA
+NAm-Bennington.Luckman.2013.lpd,tree,RBar,NA
+NAm-Bennington.Luckman.2013.lpd,tree,SD,NA
+NAm-Bennington.Luckman.2013.lpd,tree,SE,NA
+NAm-Bennington.Luckman.2013.lpd,tree,EPS,NA
+NAm-Bennington.Luckman.2013.lpd,tree,Core,NA
+NAm-BigBendLake.Jacoby.2003.lpd,tree,SampleCount,count
+NAm-BigBendLake.Jacoby.2003.lpd,tree,Segment,NA
+NAm-BigBendLake.Jacoby.2003.lpd,tree,Density,g/cm3
+NAm-BigBendLake.Jacoby.2003.lpd,tree,MXD,NA
+NAm-BigBendLake.Jacoby.2003.lpd,tree,Residual,NA
+NAm-BigBendLake.Jacoby.2003.lpd,tree,ARS,NA
+NAm-BigBendLake.Jacoby.2003.lpd,tree,Corrs,NA
+NAm-BigBendLake.Jacoby.2003.lpd,tree,RBar,NA
+NAm-BigBendLake.Jacoby.2003.lpd,tree,SD,NA
+NAm-BigBendLake.Jacoby.2003.lpd,tree,SE,NA
+NAm-BigBendLake.Jacoby.2003.lpd,tree,EPS,NA
+NAm-BigBendLake.Jacoby.2003.lpd,tree,Core,NA
+NAm-BigWhite.Parish.2000.lpd,tree,SampleCount,count
+NAm-BigWhite.Parish.2000.lpd,tree,Segment,NA
+NAm-BigWhite.Parish.2000.lpd,tree,RingWidth,cm
+NAm-BigWhite.Parish.2000.lpd,tree,Trsgi,NA
+NAm-BigWhite.Parish.2000.lpd,tree,TRW,NA
+NAm-BigWhite.Parish.2000.lpd,tree,Residual,NA
+NAm-BigWhite.Parish.2000.lpd,tree,ARS,NA
+NAm-BigWhite.Parish.2000.lpd,tree,Corrs,NA
+NAm-BigWhite.Parish.2000.lpd,tree,RBar,NA
+NAm-BigWhite.Parish.2000.lpd,tree,SD,NA
+NAm-BigWhite.Parish.2000.lpd,tree,SE,NA
+NAm-BigWhite.Parish.2000.lpd,tree,EPS,NA
+NAm-BigWhite.Parish.2000.lpd,tree,Core,NA
+NAm-BigWhite2.Wilson.2005.lpd,tree,Trsgi,NA
+NAm-BigWhite2.Wilson.2005.lpd,tree,TRW,NA
+NAm-BlanchardRiver.Luckman.2013.lpd,tree,Trsgi,NA
+NAm-BlanchardRiver.Luckman.2013.lpd,tree,TRW,NA
+NAm-Bonif.Schweingruber.1996.lpd,tree,SampleCount,count
+NAm-Bonif.Schweingruber.1996.lpd,tree,Segment,NA
+NAm-Bonif.Schweingruber.1996.lpd,tree,Density,g/cm3
+NAm-Bonif.Schweingruber.1996.lpd,tree,MXD,NA
+NAm-Bonif.Schweingruber.1996.lpd,tree,Residual,NA
+NAm-Bonif.Schweingruber.1996.lpd,tree,ARS,NA
+NAm-Bonif.Schweingruber.1996.lpd,tree,Corrs,NA
+NAm-Bonif.Schweingruber.1996.lpd,tree,RBar,NA
+NAm-Bonif.Schweingruber.1996.lpd,tree,SD,NA
+NAm-Bonif.Schweingruber.1996.lpd,tree,SE,NA
+NAm-Bonif.Schweingruber.1996.lpd,tree,EPS,NA
+NAm-Bonif.Schweingruber.1996.lpd,tree,Core,NA
+NAm-BorealPlateau.Graumlich.2005.lpd,tree,SampleCount,count
+NAm-BorealPlateau.Graumlich.2005.lpd,tree,Segment,NA
+NAm-BorealPlateau.Graumlich.2005.lpd,tree,RingWidth,cm
+NAm-BorealPlateau.Graumlich.2005.lpd,tree,Trsgi,NA
+NAm-BorealPlateau.Graumlich.2005.lpd,tree,TRW,NA
+NAm-BorealPlateau.Graumlich.2005.lpd,tree,Residual,NA
+NAm-BorealPlateau.Graumlich.2005.lpd,tree,ARS,NA
+NAm-BorealPlateau.Graumlich.2005.lpd,tree,Corrs,NA
+NAm-BorealPlateau.Graumlich.2005.lpd,tree,RBar,NA
+NAm-BorealPlateau.Graumlich.2005.lpd,tree,SD,NA
+NAm-BorealPlateau.Graumlich.2005.lpd,tree,SE,NA
+NAm-BorealPlateau.Graumlich.2005.lpd,tree,EPS,NA
+NAm-BorealPlateau.Graumlich.2005.lpd,tree,Core,NA
+NAm-BowSummit-PeytoLake.Luckman.2005.lpd,tree,SampleCount,count
+NAm-BowSummit-PeytoLake.Luckman.2005.lpd,tree,Segment,NA
+NAm-BowSummit-PeytoLake.Luckman.2005.lpd,tree,RingWidth,cm
+NAm-BowSummit-PeytoLake.Luckman.2005.lpd,tree,Trsgi,NA
+NAm-BowSummit-PeytoLake.Luckman.2005.lpd,tree,TRW,NA
+NAm-BowSummit-PeytoLake.Luckman.2005.lpd,tree,Residual,NA
+NAm-BowSummit-PeytoLake.Luckman.2005.lpd,tree,ARS,NA
+NAm-BowSummit-PeytoLake.Luckman.2005.lpd,tree,Corrs,NA
+NAm-BowSummit-PeytoLake.Luckman.2005.lpd,tree,RBar,NA
+NAm-BowSummit-PeytoLake.Luckman.2005.lpd,tree,SD,NA
+NAm-BowSummit-PeytoLake.Luckman.2005.lpd,tree,SE,NA
+NAm-BowSummit-PeytoLake.Luckman.2005.lpd,tree,EPS,NA
+NAm-BowSummit-PeytoLake.Luckman.2005.lpd,tree,Core,NA
+NAm-BurntOver.D'Arrigo.2005.lpd,tree,SampleCount,count
+NAm-BurntOver.D'Arrigo.2005.lpd,tree,Segment,NA
+NAm-BurntOver.D'Arrigo.2005.lpd,tree,RingWidth,cm
+NAm-BurntOver.D'Arrigo.2005.lpd,tree,Trsgi,NA
+NAm-BurntOver.D'Arrigo.2005.lpd,tree,TRW,NA
+NAm-BurntOver.D'Arrigo.2005.lpd,tree,Residual,NA
+NAm-BurntOver.D'Arrigo.2005.lpd,tree,ARS,NA
+NAm-BurntOver.D'Arrigo.2005.lpd,tree,Corrs,NA
+NAm-BurntOver.D'Arrigo.2005.lpd,tree,RBar,NA
+NAm-BurntOver.D'Arrigo.2005.lpd,tree,SD,NA
+NAm-BurntOver.D'Arrigo.2005.lpd,tree,SE,NA
+NAm-BurntOver.D'Arrigo.2005.lpd,tree,EPS,NA
+NAm-BurntOver.D'Arrigo.2005.lpd,tree,Core,NA
+NAm-CameronPass.Bigler.2007.lpd,tree,SampleCount,count
+NAm-CameronPass.Bigler.2007.lpd,tree,Segment,NA
+NAm-CameronPass.Bigler.2007.lpd,tree,RingWidth,cm
+NAm-CameronPass.Bigler.2007.lpd,tree,Trsgi,NA
+NAm-CameronPass.Bigler.2007.lpd,tree,TRW,NA
+NAm-CameronPass.Bigler.2007.lpd,tree,Residual,NA
+NAm-CameronPass.Bigler.2007.lpd,tree,ARS,NA
+NAm-CameronPass.Bigler.2007.lpd,tree,Corrs,NA
+NAm-CameronPass.Bigler.2007.lpd,tree,RBar,NA
+NAm-CameronPass.Bigler.2007.lpd,tree,SD,NA
+NAm-CameronPass.Bigler.2007.lpd,tree,SE,NA
+NAm-CameronPass.Bigler.2007.lpd,tree,EPS,NA
+NAm-CameronPass.Bigler.2007.lpd,tree,Core,NA
+NAm-CanyonCreek.Lloyd.2002.lpd,tree,SampleCount,count
+NAm-CanyonCreek.Lloyd.2002.lpd,tree,Segment,NA
+NAm-CanyonCreek.Lloyd.2002.lpd,tree,RingWidth,cm
+NAm-CanyonCreek.Lloyd.2002.lpd,tree,Trsgi,NA
+NAm-CanyonCreek.Lloyd.2002.lpd,tree,TRW,NA
+NAm-CanyonCreek.Lloyd.2002.lpd,tree,Residual,NA
+NAm-CanyonCreek.Lloyd.2002.lpd,tree,ARS,NA
+NAm-CanyonCreek.Lloyd.2002.lpd,tree,Corrs,NA
+NAm-CanyonCreek.Lloyd.2002.lpd,tree,RBar,NA
+NAm-CanyonCreek.Lloyd.2002.lpd,tree,SD,NA
+NAm-CanyonCreek.Lloyd.2002.lpd,tree,SE,NA
+NAm-CanyonCreek.Lloyd.2002.lpd,tree,EPS,NA
+NAm-CanyonCreek.Lloyd.2002.lpd,tree,Core,NA
+NAm-CardinalDivide.Luckman.2001.lpd,tree,SampleCount,count
+NAm-CardinalDivide.Luckman.2001.lpd,tree,Segment,NA
+NAm-CardinalDivide.Luckman.2001.lpd,tree,RingWidth,cm
+NAm-CardinalDivide.Luckman.2001.lpd,tree,Trsgi,NA
+NAm-CardinalDivide.Luckman.2001.lpd,tree,TRW,NA
+NAm-CardinalDivide.Luckman.2001.lpd,tree,Residual,NA
+NAm-CardinalDivide.Luckman.2001.lpd,tree,ARS,NA
+NAm-CardinalDivide.Luckman.2001.lpd,tree,Corrs,NA
+NAm-CardinalDivide.Luckman.2001.lpd,tree,RBar,NA
+NAm-CardinalDivide.Luckman.2001.lpd,tree,SD,NA
+NAm-CardinalDivide.Luckman.2001.lpd,tree,SE,NA
+NAm-CardinalDivide.Luckman.2001.lpd,tree,EPS,NA
+NAm-CardinalDivide.Luckman.2001.lpd,tree,Core,NA
+NAm-CarltonRidge.Kipfmuller.2008.lpd,tree,SampleCount,count
+NAm-CarltonRidge.Kipfmuller.2008.lpd,tree,Segment,NA
+NAm-CarltonRidge.Kipfmuller.2008.lpd,tree,RingWidth,cm
+NAm-CarltonRidge.Kipfmuller.2008.lpd,tree,Trsgi,NA
+NAm-CarltonRidge.Kipfmuller.2008.lpd,tree,TRW,NA
+NAm-CarltonRidge.Kipfmuller.2008.lpd,tree,Residual,NA
+NAm-CarltonRidge.Kipfmuller.2008.lpd,tree,ARS,NA
+NAm-CarltonRidge.Kipfmuller.2008.lpd,tree,Corrs,NA
+NAm-CarltonRidge.Kipfmuller.2008.lpd,tree,RBar,NA
+NAm-CarltonRidge.Kipfmuller.2008.lpd,tree,SD,NA
+NAm-CarltonRidge.Kipfmuller.2008.lpd,tree,SE,NA
+NAm-CarltonRidge.Kipfmuller.2008.lpd,tree,EPS,NA
+NAm-CarltonRidge.Kipfmuller.2008.lpd,tree,Core,NA
+NAm-CeaderBreaks.Briffa.1996.lpd,tree,SampleCount,count
+NAm-CeaderBreaks.Briffa.1996.lpd,tree,Segment,NA
+NAm-CeaderBreaks.Briffa.1996.lpd,tree,Density,g/cm3
+NAm-CeaderBreaks.Briffa.1996.lpd,tree,MXD,NA
+NAm-CeaderBreaks.Briffa.1996.lpd,tree,Residual,NA
+NAm-CeaderBreaks.Briffa.1996.lpd,tree,ARS,NA
+NAm-CeaderBreaks.Briffa.1996.lpd,tree,Corrs,NA
+NAm-CeaderBreaks.Briffa.1996.lpd,tree,RBar,NA
+NAm-CeaderBreaks.Briffa.1996.lpd,tree,SD,NA
+NAm-CeaderBreaks.Briffa.1996.lpd,tree,SE,NA
+NAm-CeaderBreaks.Briffa.1996.lpd,tree,EPS,NA
+NAm-CeaderBreaks.Briffa.1996.lpd,tree,Core,NA
+NAm-CienegadeNuestraSenoradeGuadalupe.Fule.2009.lpd,tree,SampleCount,count
+NAm-CienegadeNuestraSenoradeGuadalupe.Fule.2009.lpd,tree,Segment,NA
+NAm-CienegadeNuestraSenoradeGuadalupe.Fule.2009.lpd,tree,RingWidth,cm
+NAm-CienegadeNuestraSenoradeGuadalupe.Fule.2009.lpd,tree,Trsgi,NA
+NAm-CienegadeNuestraSenoradeGuadalupe.Fule.2009.lpd,tree,TRW,NA
+NAm-CienegadeNuestraSenoradeGuadalupe.Fule.2009.lpd,tree,Residual,NA
+NAm-CienegadeNuestraSenoradeGuadalupe.Fule.2009.lpd,tree,ARS,NA
+NAm-CienegadeNuestraSenoradeGuadalupe.Fule.2009.lpd,tree,Corrs,NA
+NAm-CienegadeNuestraSenoradeGuadalupe.Fule.2009.lpd,tree,RBar,NA
+NAm-CienegadeNuestraSenoradeGuadalupe.Fule.2009.lpd,tree,SD,NA
+NAm-CienegadeNuestraSenoradeGuadalupe.Fule.2009.lpd,tree,SE,NA
+NAm-CienegadeNuestraSenoradeGuadalupe.Fule.2009.lpd,tree,EPS,NA
+NAm-CienegadeNuestraSenoradeGuadalupe.Fule.2009.lpd,tree,Core,NA
+NAm-CirquePeak.Graybill.1995.lpd,tree,SampleCount,count
+NAm-CirquePeak.Graybill.1995.lpd,tree,Segment,NA
+NAm-CirquePeak.Graybill.1995.lpd,tree,RingWidth,cm
+NAm-CirquePeak.Graybill.1995.lpd,tree,Trsgi,NA
+NAm-CirquePeak.Graybill.1995.lpd,tree,TRW,NA
+NAm-CirquePeak.Graybill.1995.lpd,tree,Residual,NA
+NAm-CirquePeak.Graybill.1995.lpd,tree,ARS,NA
+NAm-CirquePeak.Graybill.1995.lpd,tree,Corrs,NA
+NAm-CirquePeak.Graybill.1995.lpd,tree,RBar,NA
+NAm-CirquePeak.Graybill.1995.lpd,tree,SD,NA
+NAm-CirquePeak.Graybill.1995.lpd,tree,SE,NA
+NAm-CirquePeak.Graybill.1995.lpd,tree,EPS,NA
+NAm-CirquePeak.Graybill.1995.lpd,tree,Core,NA
+NAm-ClearPond.Gajewski.1988.lpd,lake sediment,GhostMeasured,NotApplicable
+NAm-ConroyLake.Gajewski.1988.lpd,lake sediment,GhostMeasured,NotApplicable
+NAm-CoppermineRiver.Jacoby.1989.lpd,tree,SampleCount,count
+NAm-CoppermineRiver.Jacoby.1989.lpd,tree,Segment,NA
+NAm-CoppermineRiver.Jacoby.1989.lpd,tree,RingWidth,cm
+NAm-CoppermineRiver.Jacoby.1989.lpd,tree,Trsgi,NA
+NAm-CoppermineRiver.Jacoby.1989.lpd,tree,TRW,NA
+NAm-CoppermineRiver.Jacoby.1989.lpd,tree,Residual,NA
+NAm-CoppermineRiver.Jacoby.1989.lpd,tree,ARS,NA
+NAm-CoppermineRiver.Jacoby.1989.lpd,tree,Corrs,NA
+NAm-CoppermineRiver.Jacoby.1989.lpd,tree,RBar,NA
+NAm-CoppermineRiver.Jacoby.1989.lpd,tree,SD,NA
+NAm-CoppermineRiver.Jacoby.1989.lpd,tree,SE,NA
+NAm-CoppermineRiver.Jacoby.1989.lpd,tree,EPS,NA
+NAm-CoppermineRiver.Jacoby.1989.lpd,tree,Core,NA
+NAm-CornwallHills.Wilson.2005.lpd,tree,SampleCount,count
+NAm-CornwallHills.Wilson.2005.lpd,tree,Segment,NA
+NAm-CornwallHills.Wilson.2005.lpd,tree,Density,g/cm3
+NAm-CornwallHills.Wilson.2005.lpd,tree,MXD,NA
+NAm-CornwallHills.Wilson.2005.lpd,tree,Residual,NA
+NAm-CornwallHills.Wilson.2005.lpd,tree,ARS,NA
+NAm-CornwallHills.Wilson.2005.lpd,tree,Corrs,NA
+NAm-CornwallHills.Wilson.2005.lpd,tree,RBar,NA
+NAm-CornwallHills.Wilson.2005.lpd,tree,SD,NA
+NAm-CornwallHills.Wilson.2005.lpd,tree,SE,NA
+NAm-CornwallHills.Wilson.2005.lpd,tree,EPS,NA
+NAm-CornwallHills.Wilson.2005.lpd,tree,Core,NA
+NAm-CottonwoodPass.Briffa.1996.lpd,tree,SampleCount,count
+NAm-CottonwoodPass.Briffa.1996.lpd,tree,Segment,NA
+NAm-CottonwoodPass.Briffa.1996.lpd,tree,Density,g/cm3
+NAm-CottonwoodPass.Briffa.1996.lpd,tree,MXD,NA
+NAm-CottonwoodPass.Briffa.1996.lpd,tree,Residual,NA
+NAm-CottonwoodPass.Briffa.1996.lpd,tree,ARS,NA
+NAm-CottonwoodPass.Briffa.1996.lpd,tree,Corrs,NA
+NAm-CottonwoodPass.Briffa.1996.lpd,tree,RBar,NA
+NAm-CottonwoodPass.Briffa.1996.lpd,tree,SD,NA
+NAm-CottonwoodPass.Briffa.1996.lpd,tree,SE,NA
+NAm-CottonwoodPass.Briffa.1996.lpd,tree,EPS,NA
+NAm-CottonwoodPass.Briffa.1996.lpd,tree,Core,NA
+NAm-CraterLakeNE.Briffa.2002.lpd,tree,SampleCount,count
+NAm-CraterLakeNE.Briffa.2002.lpd,tree,Segment,NA
+NAm-CraterLakeNE.Briffa.2002.lpd,tree,Density,g/cm3
+NAm-CraterLakeNE.Briffa.2002.lpd,tree,MXD,NA
+NAm-CraterLakeNE.Briffa.2002.lpd,tree,Residual,NA
+NAm-CraterLakeNE.Briffa.2002.lpd,tree,ARS,NA
+NAm-CraterLakeNE.Briffa.2002.lpd,tree,Corrs,NA
+NAm-CraterLakeNE.Briffa.2002.lpd,tree,RBar,NA
+NAm-CraterLakeNE.Briffa.2002.lpd,tree,SD,NA
+NAm-CraterLakeNE.Briffa.2002.lpd,tree,SE,NA
+NAm-CraterLakeNE.Briffa.2002.lpd,tree,EPS,NA
+NAm-CraterLakeNE.Briffa.2002.lpd,tree,Core,NA
+NAm-DanaPlateauInyoNationalForest.King.2000.lpd,tree,SampleCount,count
+NAm-DanaPlateauInyoNationalForest.King.2000.lpd,tree,Segment,NA
+NAm-DanaPlateauInyoNationalForest.King.2000.lpd,tree,RingWidth,cm
+NAm-DanaPlateauInyoNationalForest.King.2000.lpd,tree,Trsgi,NA
+NAm-DanaPlateauInyoNationalForest.King.2000.lpd,tree,TRW,NA
+NAm-DanaPlateauInyoNationalForest.King.2000.lpd,tree,Residual,NA
+NAm-DanaPlateauInyoNationalForest.King.2000.lpd,tree,ARS,NA
+NAm-DanaPlateauInyoNationalForest.King.2000.lpd,tree,Corrs,NA
+NAm-DanaPlateauInyoNationalForest.King.2000.lpd,tree,RBar,NA
+NAm-DanaPlateauInyoNationalForest.King.2000.lpd,tree,SD,NA
+NAm-DanaPlateauInyoNationalForest.King.2000.lpd,tree,SE,NA
+NAm-DanaPlateauInyoNationalForest.King.2000.lpd,tree,EPS,NA
+NAm-DanaPlateauInyoNationalForest.King.2000.lpd,tree,Core,NA
+NAm-DarkLake.Gajewski.1988.lpd,lake sediment,GhostMeasured,NotApplicable
+NAm-DeerMountain.Wiles.2011.lpd,tree,SampleCount,count
+NAm-DeerMountain.Wiles.2011.lpd,tree,Segment,NA
+NAm-DeerMountain.Wiles.2011.lpd,tree,RingWidth,cm
+NAm-DeerMountain.Wiles.2011.lpd,tree,Trsgi,NA
+NAm-DeerMountain.Wiles.2011.lpd,tree,TRW,NA
+NAm-DeerMountain.Wiles.2011.lpd,tree,Residual,NA
+NAm-DeerMountain.Wiles.2011.lpd,tree,ARS,NA
+NAm-DeerMountain.Wiles.2011.lpd,tree,Corrs,NA
+NAm-DeerMountain.Wiles.2011.lpd,tree,RBar,NA
+NAm-DeerMountain.Wiles.2011.lpd,tree,SD,NA
+NAm-DeerMountain.Wiles.2011.lpd,tree,SE,NA
+NAm-DeerMountain.Wiles.2011.lpd,tree,EPS,NA
+NAm-DeerMountain.Wiles.2011.lpd,tree,Core,NA
+NAm-DenaliNationalPark.Schweingruber.1996.lpd,tree,SampleCount,count
+NAm-DenaliNationalPark.Schweingruber.1996.lpd,tree,Segment,NA
+NAm-DenaliNationalPark.Schweingruber.1996.lpd,tree,Density,g/cm3
+NAm-DenaliNationalPark.Schweingruber.1996.lpd,tree,MXD,NA
+NAm-DenaliNationalPark.Schweingruber.1996.lpd,tree,Residual,NA
+NAm-DenaliNationalPark.Schweingruber.1996.lpd,tree,ARS,NA
+NAm-DenaliNationalPark.Schweingruber.1996.lpd,tree,Corrs,NA
+NAm-DenaliNationalPark.Schweingruber.1996.lpd,tree,RBar,NA
+NAm-DenaliNationalPark.Schweingruber.1996.lpd,tree,SD,NA
+NAm-DenaliNationalPark.Schweingruber.1996.lpd,tree,SE,NA
+NAm-DenaliNationalPark.Schweingruber.1996.lpd,tree,EPS,NA
+NAm-DenaliNationalPark.Schweingruber.1996.lpd,tree,Core,NA
+NAm-DonJekRiverBridge.Schweingruber.1996.lpd,tree,SampleCount,count
+NAm-DonJekRiverBridge.Schweingruber.1996.lpd,tree,Segment,NA
+NAm-DonJekRiverBridge.Schweingruber.1996.lpd,tree,Density,g/cm3
+NAm-DonJekRiverBridge.Schweingruber.1996.lpd,tree,MXD,NA
+NAm-DonJekRiverBridge.Schweingruber.1996.lpd,tree,Residual,NA
+NAm-DonJekRiverBridge.Schweingruber.1996.lpd,tree,ARS,NA
+NAm-DonJekRiverBridge.Schweingruber.1996.lpd,tree,Corrs,NA
+NAm-DonJekRiverBridge.Schweingruber.1996.lpd,tree,RBar,NA
+NAm-DonJekRiverBridge.Schweingruber.1996.lpd,tree,SD,NA
+NAm-DonJekRiverBridge.Schweingruber.1996.lpd,tree,SE,NA
+NAm-DonJekRiverBridge.Schweingruber.1996.lpd,tree,EPS,NA
+NAm-DonJekRiverBridge.Schweingruber.1996.lpd,tree,Core,NA
+NAm-EagleFecal_PtarmiganMerge.Jacoby.2011.lpd,tree,SampleCount,count
+NAm-EagleFecal_PtarmiganMerge.Jacoby.2011.lpd,tree,Segment,NA
+NAm-EagleFecal_PtarmiganMerge.Jacoby.2011.lpd,tree,Density,g/cm3
+NAm-EagleFecal_PtarmiganMerge.Jacoby.2011.lpd,tree,Residual,NA
+NAm-EagleFecal_PtarmiganMerge.Jacoby.2011.lpd,tree,ARS,NA
+NAm-EagleFecal_PtarmiganMerge.Jacoby.2011.lpd,tree,Corrs,NA
+NAm-EagleFecal_PtarmiganMerge.Jacoby.2011.lpd,tree,RBar,NA
+NAm-EagleFecal_PtarmiganMerge.Jacoby.2011.lpd,tree,SD,NA
+NAm-EagleFecal_PtarmiganMerge.Jacoby.2011.lpd,tree,SE,NA
+NAm-EagleFecal_PtarmiganMerge.Jacoby.2011.lpd,tree,EPS,NA
+NAm-EagleFecal_PtarmiganMerge.Jacoby.2011.lpd,tree,Core,NA
+NAm-ElephantMountain.Conkey.1994.lpd,tree,SampleCount,count
+NAm-ElephantMountain.Conkey.1994.lpd,tree,Segment,NA
+NAm-ElephantMountain.Conkey.1994.lpd,tree,Density,g/cm3
+NAm-ElephantMountain.Conkey.1994.lpd,tree,MXD,NA
+NAm-ElephantMountain.Conkey.1994.lpd,tree,Residual,NA
+NAm-ElephantMountain.Conkey.1994.lpd,tree,ARS,NA
+NAm-ElephantMountain.Conkey.1994.lpd,tree,Corrs,NA
+NAm-ElephantMountain.Conkey.1994.lpd,tree,RBar,NA
+NAm-ElephantMountain.Conkey.1994.lpd,tree,SD,NA
+NAm-ElephantMountain.Conkey.1994.lpd,tree,SE,NA
+NAm-ElephantMountain.Conkey.1994.lpd,tree,EPS,NA
+NAm-ElephantMountain.Conkey.1994.lpd,tree,Core,NA
+NAm-EurekaSummit.Schweingruber.1996.lpd,tree,SampleCount,count
+NAm-EurekaSummit.Schweingruber.1996.lpd,tree,Segment,NA
+NAm-EurekaSummit.Schweingruber.1996.lpd,tree,Density,g/cm3
+NAm-EurekaSummit.Schweingruber.1996.lpd,tree,MXD,NA
+NAm-EurekaSummit.Schweingruber.1996.lpd,tree,Residual,NA
+NAm-EurekaSummit.Schweingruber.1996.lpd,tree,ARS,NA
+NAm-EurekaSummit.Schweingruber.1996.lpd,tree,Corrs,NA
+NAm-EurekaSummit.Schweingruber.1996.lpd,tree,RBar,NA
+NAm-EurekaSummit.Schweingruber.1996.lpd,tree,SD,NA
+NAm-EurekaSummit.Schweingruber.1996.lpd,tree,SE,NA
+NAm-EurekaSummit.Schweingruber.1996.lpd,tree,EPS,NA
+NAm-EurekaSummit.Schweingruber.1996.lpd,tree,Core,NA
+NAm-FirthRiver.Anchukaitis.2013.lpd,tree,SampleCount,count
+NAm-FirthRiver.Anchukaitis.2013.lpd,tree,Segment,NA
+NAm-FirthRiver.Anchukaitis.2013.lpd,tree,Density,g/cm3
+NAm-FirthRiver.Anchukaitis.2013.lpd,tree,MXD,NA
+NAm-FirthRiver.Anchukaitis.2013.lpd,tree,Residual,NA
+NAm-FirthRiver.Anchukaitis.2013.lpd,tree,ARS,NA
+NAm-FirthRiver.Anchukaitis.2013.lpd,tree,Corrs,NA
+NAm-FirthRiver.Anchukaitis.2013.lpd,tree,RBar,NA
+NAm-FirthRiver.Anchukaitis.2013.lpd,tree,SD,NA
+NAm-FirthRiver.Anchukaitis.2013.lpd,tree,SE,NA
+NAm-FirthRiver.Anchukaitis.2013.lpd,tree,EPS,NA
+NAm-FirthRiver.Anchukaitis.2013.lpd,tree,Core,NA
+NAm-FishCreekTrail.Biondi.2001.lpd,tree,SampleCount,count
+NAm-FishCreekTrail.Biondi.2001.lpd,tree,Segment,NA
+NAm-FishCreekTrail.Biondi.2001.lpd,tree,RingWidth,cm
+NAm-FishCreekTrail.Biondi.2001.lpd,tree,Trsgi,NA
+NAm-FishCreekTrail.Biondi.2001.lpd,tree,TRW,NA
+NAm-FishCreekTrail.Biondi.2001.lpd,tree,Residual,NA
+NAm-FishCreekTrail.Biondi.2001.lpd,tree,ARS,NA
+NAm-FishCreekTrail.Biondi.2001.lpd,tree,Corrs,NA
+NAm-FishCreekTrail.Biondi.2001.lpd,tree,RBar,NA
+NAm-FishCreekTrail.Biondi.2001.lpd,tree,SD,NA
+NAm-FishCreekTrail.Biondi.2001.lpd,tree,SE,NA
+NAm-FishCreekTrail.Biondi.2001.lpd,tree,EPS,NA
+NAm-FishCreekTrail.Biondi.2001.lpd,tree,Core,NA
+NAm-FlintCreekRange.Hughes.2005.lpd,tree,SampleCount,count
+NAm-FlintCreekRange.Hughes.2005.lpd,tree,Segment,NA
+NAm-FlintCreekRange.Hughes.2005.lpd,tree,RingWidth,cm
+NAm-FlintCreekRange.Hughes.2005.lpd,tree,Trsgi,NA
+NAm-FlintCreekRange.Hughes.2005.lpd,tree,TRW,NA
+NAm-FlintCreekRange.Hughes.2005.lpd,tree,Residual,NA
+NAm-FlintCreekRange.Hughes.2005.lpd,tree,ARS,NA
+NAm-FlintCreekRange.Hughes.2005.lpd,tree,Corrs,NA
+NAm-FlintCreekRange.Hughes.2005.lpd,tree,RBar,NA
+NAm-FlintCreekRange.Hughes.2005.lpd,tree,SD,NA
+NAm-FlintCreekRange.Hughes.2005.lpd,tree,SE,NA
+NAm-FlintCreekRange.Hughes.2005.lpd,tree,EPS,NA
+NAm-FlintCreekRange.Hughes.2005.lpd,tree,Core,NA
+NAm-FlowerLake.Graybill.1995.lpd,tree,SampleCount,count
+NAm-FlowerLake.Graybill.1995.lpd,tree,Segment,NA
+NAm-FlowerLake.Graybill.1995.lpd,tree,RingWidth,cm
+NAm-FlowerLake.Graybill.1995.lpd,tree,Trsgi,NA
+NAm-FlowerLake.Graybill.1995.lpd,tree,TRW,NA
+NAm-FlowerLake.Graybill.1995.lpd,tree,Residual,NA
+NAm-FlowerLake.Graybill.1995.lpd,tree,ARS,NA
+NAm-FlowerLake.Graybill.1995.lpd,tree,Corrs,NA
+NAm-FlowerLake.Graybill.1995.lpd,tree,RBar,NA
+NAm-FlowerLake.Graybill.1995.lpd,tree,SD,NA
+NAm-FlowerLake.Graybill.1995.lpd,tree,SE,NA
+NAm-FlowerLake.Graybill.1995.lpd,tree,EPS,NA
+NAm-FlowerLake.Graybill.1995.lpd,tree,Core,NA
+NAm-FoolCreek.Brown.2005.lpd,tree,SampleCount,count
+NAm-FoolCreek.Brown.2005.lpd,tree,Segment,NA
+NAm-FoolCreek.Brown.2005.lpd,tree,Density,g/cm3
+NAm-FoolCreek.Brown.2005.lpd,tree,Residual,NA
+NAm-FoolCreek.Brown.2005.lpd,tree,ARS,NA
+NAm-FoolCreek.Brown.2005.lpd,tree,Corrs,NA
+NAm-FoolCreek.Brown.2005.lpd,tree,RBar,NA
+NAm-FoolCreek.Brown.2005.lpd,tree,SD,NA
+NAm-FoolCreek.Brown.2005.lpd,tree,SE,NA
+NAm-FoolCreek.Brown.2005.lpd,tree,EPS,NA
+NAm-FoolCreek.Brown.2005.lpd,tree,Core,NA
+NAm-FoolCreek.Brown.2005.lpd,tree,MXD,NA
+NAm-FortChimo.Fritts.1981.lpd,tree,SampleCount,count
+NAm-FortChimo.Fritts.1981.lpd,tree,Segment,NA
+NAm-FortChimo.Fritts.1981.lpd,tree,RingWidth,cm
+NAm-FortChimo.Fritts.1981.lpd,tree,Trsgi,NA
+NAm-FortChimo.Fritts.1981.lpd,tree,TRW,NA
+NAm-FortChimo.Fritts.1981.lpd,tree,Residual,NA
+NAm-FortChimo.Fritts.1981.lpd,tree,ARS,NA
+NAm-FortChimo.Fritts.1981.lpd,tree,Corrs,NA
+NAm-FortChimo.Fritts.1981.lpd,tree,RBar,NA
+NAm-FortChimo.Fritts.1981.lpd,tree,SD,NA
+NAm-FortChimo.Fritts.1981.lpd,tree,SE,NA
+NAm-FortChimo.Fritts.1981.lpd,tree,EPS,NA
+NAm-FortChimo.Fritts.1981.lpd,tree,Core,NA
+NAm-FremontGlacier.Hill.0.lpd,tree,SampleCount,count
+NAm-FremontGlacier.Hill.0.lpd,tree,Segment,NA
+NAm-FremontGlacier.Hill.0.lpd,tree,RingWidth,cm
+NAm-FremontGlacier.Hill.0.lpd,tree,Trsgi,NA
+NAm-FremontGlacier.Hill.0.lpd,tree,TRW,NA
+NAm-FremontGlacier.Hill.0.lpd,tree,Residual,NA
+NAm-FremontGlacier.Hill.0.lpd,tree,ARS,NA
+NAm-FremontGlacier.Hill.0.lpd,tree,Corrs,NA
+NAm-FremontGlacier.Hill.0.lpd,tree,RBar,NA
+NAm-FremontGlacier.Hill.0.lpd,tree,SD,NA
+NAm-FremontGlacier.Hill.0.lpd,tree,SE,NA
+NAm-FremontGlacier.Hill.0.lpd,tree,EPS,NA
+NAm-FremontGlacier.Hill.0.lpd,tree,Core,NA
+NAm-FrenchGlacier.Colenutt.1995.lpd,tree,SampleCount,count
+NAm-FrenchGlacier.Colenutt.1995.lpd,tree,Segment,NA
+NAm-FrenchGlacier.Colenutt.1995.lpd,tree,RingWidth,cm
+NAm-FrenchGlacier.Colenutt.1995.lpd,tree,Trsgi,NA
+NAm-FrenchGlacier.Colenutt.1995.lpd,tree,TRW,NA
+NAm-FrenchGlacier.Colenutt.1995.lpd,tree,Residual,NA
+NAm-FrenchGlacier.Colenutt.1995.lpd,tree,ARS,NA
+NAm-FrenchGlacier.Colenutt.1995.lpd,tree,Corrs,NA
+NAm-FrenchGlacier.Colenutt.1995.lpd,tree,RBar,NA
+NAm-FrenchGlacier.Colenutt.1995.lpd,tree,SD,NA
+NAm-FrenchGlacier.Colenutt.1995.lpd,tree,SE,NA
+NAm-FrenchGlacier.Colenutt.1995.lpd,tree,EPS,NA
+NAm-FrenchGlacier.Colenutt.1995.lpd,tree,Core,NA
+NAm-GalenaPassSawtooth.Briffa.1996.lpd,tree,SampleCount,count
+NAm-GalenaPassSawtooth.Briffa.1996.lpd,tree,Segment,NA
+NAm-GalenaPassSawtooth.Briffa.1996.lpd,tree,Density,g/cm3
+NAm-GalenaPassSawtooth.Briffa.1996.lpd,tree,MXD,NA
+NAm-GalenaPassSawtooth.Briffa.1996.lpd,tree,Residual,NA
+NAm-GalenaPassSawtooth.Briffa.1996.lpd,tree,ARS,NA
+NAm-GalenaPassSawtooth.Briffa.1996.lpd,tree,Corrs,NA
+NAm-GalenaPassSawtooth.Briffa.1996.lpd,tree,RBar,NA
+NAm-GalenaPassSawtooth.Briffa.1996.lpd,tree,SD,NA
+NAm-GalenaPassSawtooth.Briffa.1996.lpd,tree,SE,NA
+NAm-GalenaPassSawtooth.Briffa.1996.lpd,tree,EPS,NA
+NAm-GalenaPassSawtooth.Briffa.1996.lpd,tree,Core,NA
+NAm-GeraldineLakes.Luckman.2001.lpd,tree,SampleCount,count
+NAm-GeraldineLakes.Luckman.2001.lpd,tree,Segment,NA
+NAm-GeraldineLakes.Luckman.2001.lpd,tree,RingWidth,cm
+NAm-GeraldineLakes.Luckman.2001.lpd,tree,Trsgi,NA
+NAm-GeraldineLakes.Luckman.2001.lpd,tree,TRW,NA
+NAm-GeraldineLakes.Luckman.2001.lpd,tree,Residual,NA
+NAm-GeraldineLakes.Luckman.2001.lpd,tree,ARS,NA
+NAm-GeraldineLakes.Luckman.2001.lpd,tree,Corrs,NA
+NAm-GeraldineLakes.Luckman.2001.lpd,tree,RBar,NA
+NAm-GeraldineLakes.Luckman.2001.lpd,tree,SD,NA
+NAm-GeraldineLakes.Luckman.2001.lpd,tree,SE,NA
+NAm-GeraldineLakes.Luckman.2001.lpd,tree,EPS,NA
+NAm-GeraldineLakes.Luckman.2001.lpd,tree,Core,NA
+NAm-GraniteMountain.Graumlich.2003.lpd,tree,SampleCount,count
+NAm-GraniteMountain.Graumlich.2003.lpd,tree,Segment,NA
+NAm-GraniteMountain.Graumlich.2003.lpd,tree,RingWidth,cm
+NAm-GraniteMountain.Graumlich.2003.lpd,tree,Trsgi,NA
+NAm-GraniteMountain.Graumlich.2003.lpd,tree,TRW,NA
+NAm-GraniteMountain.Graumlich.2003.lpd,tree,Residual,NA
+NAm-GraniteMountain.Graumlich.2003.lpd,tree,ARS,NA
+NAm-GraniteMountain.Graumlich.2003.lpd,tree,Corrs,NA
+NAm-GraniteMountain.Graumlich.2003.lpd,tree,RBar,NA
+NAm-GraniteMountain.Graumlich.2003.lpd,tree,SD,NA
+NAm-GraniteMountain.Graumlich.2003.lpd,tree,SE,NA
+NAm-GraniteMountain.Graumlich.2003.lpd,tree,EPS,NA
+NAm-GraniteMountain.Graumlich.2003.lpd,tree,Core,NA
+NAm-GranitePassHuntMountain.Briffa.1996.lpd,tree,SampleCount,count
+NAm-GranitePassHuntMountain.Briffa.1996.lpd,tree,Segment,NA
+NAm-GranitePassHuntMountain.Briffa.1996.lpd,tree,Density,g/cm3
+NAm-GranitePassHuntMountain.Briffa.1996.lpd,tree,MXD,NA
+NAm-GranitePassHuntMountain.Briffa.1996.lpd,tree,Residual,NA
+NAm-GranitePassHuntMountain.Briffa.1996.lpd,tree,ARS,NA
+NAm-GranitePassHuntMountain.Briffa.1996.lpd,tree,Corrs,NA
+NAm-GranitePassHuntMountain.Briffa.1996.lpd,tree,RBar,NA
+NAm-GranitePassHuntMountain.Briffa.1996.lpd,tree,SD,NA
+NAm-GranitePassHuntMountain.Briffa.1996.lpd,tree,SE,NA
+NAm-GranitePassHuntMountain.Briffa.1996.lpd,tree,EPS,NA
+NAm-GranitePassHuntMountain.Briffa.1996.lpd,tree,Core,NA
+NAm-GreatBasin.Salzer.2013.lpd,tree,SampleCount,count
+NAm-GreatBasin.Salzer.2013.lpd,tree,Segment,NA
+NAm-GreatBasin.Salzer.2013.lpd,tree,RingWidth,cm
+NAm-GreatBasin.Salzer.2013.lpd,tree,Trsgi,NA
+NAm-GreatBasin.Salzer.2013.lpd,tree,TRW,NA
+NAm-GreatBasin.Salzer.2013.lpd,tree,Residual,NA
+NAm-GreatBasin.Salzer.2013.lpd,tree,ARS,NA
+NAm-GreatBasin.Salzer.2013.lpd,tree,Corrs,NA
+NAm-GreatBasin.Salzer.2013.lpd,tree,RBar,NA
+NAm-GreatBasin.Salzer.2013.lpd,tree,SD,NA
+NAm-GreatBasin.Salzer.2013.lpd,tree,SE,NA
+NAm-GreatBasin.Salzer.2013.lpd,tree,EPS,NA
+NAm-GreatBasin.Salzer.2013.lpd,tree,Core,NA
+NAm-GreenLake.Menounos.2006.lpd,lake sediment,Thickness,NA
+NAm-GreenLake.Menounos.2006.lpd,lake sediment,VarveThickness,NA
+NAm-GreenLake.Menounos.2006.lpd,lake sediment,SampleCount,NA
+NAm-HartsPassN2.Peterson.1994.lpd,tree,SampleCount,count
+NAm-HartsPassN2.Peterson.1994.lpd,tree,Segment,NA
+NAm-HartsPassN2.Peterson.1994.lpd,tree,RingWidth,cm
+NAm-HartsPassN2.Peterson.1994.lpd,tree,Trsgi,NA
+NAm-HartsPassN2.Peterson.1994.lpd,tree,TRW,NA
+NAm-HartsPassN2.Peterson.1994.lpd,tree,Residual,NA
+NAm-HartsPassN2.Peterson.1994.lpd,tree,ARS,NA
+NAm-HartsPassN2.Peterson.1994.lpd,tree,Corrs,NA
+NAm-HartsPassN2.Peterson.1994.lpd,tree,RBar,NA
+NAm-HartsPassN2.Peterson.1994.lpd,tree,SD,NA
+NAm-HartsPassN2.Peterson.1994.lpd,tree,SE,NA
+NAm-HartsPassN2.Peterson.1994.lpd,tree,EPS,NA
+NAm-HartsPassN2.Peterson.1994.lpd,tree,Core,NA
+NAm-HellsKitchenLake.Gajewski.1988.lpd,lake sediment,GhostMeasured,NotApplicable
+NAm-HerringAlpine.Fritts.1995.lpd,tree,SampleCount,count
+NAm-HerringAlpine.Fritts.1995.lpd,tree,Segment,NA
+NAm-HerringAlpine.Fritts.1995.lpd,tree,RingWidth,cm
+NAm-HerringAlpine.Fritts.1995.lpd,tree,Trsgi,NA
+NAm-HerringAlpine.Fritts.1995.lpd,tree,TRW,NA
+NAm-HerringAlpine.Fritts.1995.lpd,tree,Residual,NA
+NAm-HerringAlpine.Fritts.1995.lpd,tree,ARS,NA
+NAm-HerringAlpine.Fritts.1995.lpd,tree,Corrs,NA
+NAm-HerringAlpine.Fritts.1995.lpd,tree,RBar,NA
+NAm-HerringAlpine.Fritts.1995.lpd,tree,SD,NA
+NAm-HerringAlpine.Fritts.1995.lpd,tree,SE,NA
+NAm-HerringAlpine.Fritts.1995.lpd,tree,EPS,NA
+NAm-HerringAlpine.Fritts.1995.lpd,tree,Core,NA
+NAm-HighlandFireOutlook.Briffa.1996.lpd,tree,SampleCount,count
+NAm-HighlandFireOutlook.Briffa.1996.lpd,tree,Segment,NA
+NAm-HighlandFireOutlook.Briffa.1996.lpd,tree,Density,g/cm3
+NAm-HighlandFireOutlook.Briffa.1996.lpd,tree,MXD,NA
+NAm-HighlandFireOutlook.Briffa.1996.lpd,tree,Residual,NA
+NAm-HighlandFireOutlook.Briffa.1996.lpd,tree,ARS,NA
+NAm-HighlandFireOutlook.Briffa.1996.lpd,tree,Corrs,NA
+NAm-HighlandFireOutlook.Briffa.1996.lpd,tree,RBar,NA
+NAm-HighlandFireOutlook.Briffa.1996.lpd,tree,SD,NA
+NAm-HighlandFireOutlook.Briffa.1996.lpd,tree,SE,NA
+NAm-HighlandFireOutlook.Briffa.1996.lpd,tree,EPS,NA
+NAm-HighlandFireOutlook.Briffa.1996.lpd,tree,Core,NA
+NAm-HighwoodPass.Luckman.2001.lpd,tree,SampleCount,count
+NAm-HighwoodPass.Luckman.2001.lpd,tree,Segment,NA
+NAm-HighwoodPass.Luckman.2001.lpd,tree,RingWidth,cm
+NAm-HighwoodPass.Luckman.2001.lpd,tree,Trsgi,NA
+NAm-HighwoodPass.Luckman.2001.lpd,tree,TRW,NA
+NAm-HighwoodPass.Luckman.2001.lpd,tree,Residual,NA
+NAm-HighwoodPass.Luckman.2001.lpd,tree,ARS,NA
+NAm-HighwoodPass.Luckman.2001.lpd,tree,Corrs,NA
+NAm-HighwoodPass.Luckman.2001.lpd,tree,RBar,NA
+NAm-HighwoodPass.Luckman.2001.lpd,tree,SD,NA
+NAm-HighwoodPass.Luckman.2001.lpd,tree,SE,NA
+NAm-HighwoodPass.Luckman.2001.lpd,tree,EPS,NA
+NAm-HighwoodPass.Luckman.2001.lpd,tree,Core,NA
+NAm-Hilda.Kavanagh.2000.lpd,tree,SampleCount,count
+NAm-Hilda.Kavanagh.2000.lpd,tree,Segment,NA
+NAm-Hilda.Kavanagh.2000.lpd,tree,RingWidth,cm
+NAm-Hilda.Kavanagh.2000.lpd,tree,Trsgi,NA
+NAm-Hilda.Kavanagh.2000.lpd,tree,TRW,NA
+NAm-Hilda.Kavanagh.2000.lpd,tree,Residual,NA
+NAm-Hilda.Kavanagh.2000.lpd,tree,ARS,NA
+NAm-Hilda.Kavanagh.2000.lpd,tree,Corrs,NA
+NAm-Hilda.Kavanagh.2000.lpd,tree,RBar,NA
+NAm-Hilda.Kavanagh.2000.lpd,tree,SD,NA
+NAm-Hilda.Kavanagh.2000.lpd,tree,SE,NA
+NAm-Hilda.Kavanagh.2000.lpd,tree,EPS,NA
+NAm-Hilda.Kavanagh.2000.lpd,tree,Core,NA
+NAm-HohLakeHigh.Peterson.1994.lpd,tree,SampleCount,count
+NAm-HohLakeHigh.Peterson.1994.lpd,tree,Segment,NA
+NAm-HohLakeHigh.Peterson.1994.lpd,tree,RingWidth,cm
+NAm-HohLakeHigh.Peterson.1994.lpd,tree,Trsgi,NA
+NAm-HohLakeHigh.Peterson.1994.lpd,tree,TRW,NA
+NAm-HohLakeHigh.Peterson.1994.lpd,tree,Residual,NA
+NAm-HohLakeHigh.Peterson.1994.lpd,tree,ARS,NA
+NAm-HohLakeHigh.Peterson.1994.lpd,tree,Corrs,NA
+NAm-HohLakeHigh.Peterson.1994.lpd,tree,RBar,NA
+NAm-HohLakeHigh.Peterson.1994.lpd,tree,SD,NA
+NAm-HohLakeHigh.Peterson.1994.lpd,tree,SE,NA
+NAm-HohLakeHigh.Peterson.1994.lpd,tree,EPS,NA
+NAm-HohLakeHigh.Peterson.1994.lpd,tree,Core,NA
+NAm-HornbyCabin.Jacoby.1989.lpd,tree,SampleCount,count
+NAm-HornbyCabin.Jacoby.1989.lpd,tree,Segment,NA
+NAm-HornbyCabin.Jacoby.1989.lpd,tree,RingWidth,cm
+NAm-HornbyCabin.Jacoby.1989.lpd,tree,Trsgi,NA
+NAm-HornbyCabin.Jacoby.1989.lpd,tree,TRW,NA
+NAm-HornbyCabin.Jacoby.1989.lpd,tree,Residual,NA
+NAm-HornbyCabin.Jacoby.1989.lpd,tree,ARS,NA
+NAm-HornbyCabin.Jacoby.1989.lpd,tree,Corrs,NA
+NAm-HornbyCabin.Jacoby.1989.lpd,tree,RBar,NA
+NAm-HornbyCabin.Jacoby.1989.lpd,tree,SD,NA
+NAm-HornbyCabin.Jacoby.1989.lpd,tree,SE,NA
+NAm-HornbyCabin.Jacoby.1989.lpd,tree,EPS,NA
+NAm-HornbyCabin.Jacoby.1989.lpd,tree,Core,NA
+NAm-IttyhaukBay.D'Arrigo.2011.lpd,tree,SampleCount,count
+NAm-IttyhaukBay.D'Arrigo.2011.lpd,tree,Segment,NA
+NAm-IttyhaukBay.D'Arrigo.2011.lpd,tree,RingWidth,cm
+NAm-IttyhaukBay.D'Arrigo.2011.lpd,tree,Trsgi,NA
+NAm-IttyhaukBay.D'Arrigo.2011.lpd,tree,TRW,NA
+NAm-IttyhaukBay.D'Arrigo.2011.lpd,tree,Residual,NA
+NAm-IttyhaukBay.D'Arrigo.2011.lpd,tree,ARS,NA
+NAm-IttyhaukBay.D'Arrigo.2011.lpd,tree,Corrs,NA
+NAm-IttyhaukBay.D'Arrigo.2011.lpd,tree,RBar,NA
+NAm-IttyhaukBay.D'Arrigo.2011.lpd,tree,SD,NA
+NAm-IttyhaukBay.D'Arrigo.2011.lpd,tree,SE,NA
+NAm-IttyhaukBay.D'Arrigo.2011.lpd,tree,EPS,NA
+NAm-IttyhaukBay.D'Arrigo.2011.lpd,tree,Core,NA
+NAm-KobukNoatak.King.2003.lpd,tree,SampleCount,count
+NAm-KobukNoatak.King.2003.lpd,tree,Segment,NA
+NAm-KobukNoatak.King.2003.lpd,tree,RingWidth,cm
+NAm-KobukNoatak.King.2003.lpd,tree,Trsgi,NA
+NAm-KobukNoatak.King.2003.lpd,tree,TRW,NA
+NAm-KobukNoatak.King.2003.lpd,tree,Residual,NA
+NAm-KobukNoatak.King.2003.lpd,tree,ARS,NA
+NAm-KobukNoatak.King.2003.lpd,tree,Corrs,NA
+NAm-KobukNoatak.King.2003.lpd,tree,RBar,NA
+NAm-KobukNoatak.King.2003.lpd,tree,SD,NA
+NAm-KobukNoatak.King.2003.lpd,tree,SE,NA
+NAm-KobukNoatak.King.2003.lpd,tree,EPS,NA
+NAm-KobukNoatak.King.2003.lpd,tree,Core,NA
+NAm-LacNoir.Paquette.2013.lpd,lake sediment,GhostMeasured,NotApplicable
+NAm-LacRomanel.Schweingruber.1996.lpd,tree,SampleCount,count
+NAm-LacRomanel.Schweingruber.1996.lpd,tree,Segment,NA
+NAm-LacRomanel.Schweingruber.1996.lpd,tree,Density,g/cm3
+NAm-LacRomanel.Schweingruber.1996.lpd,tree,MXD,NA
+NAm-LacRomanel.Schweingruber.1996.lpd,tree,Residual,NA
+NAm-LacRomanel.Schweingruber.1996.lpd,tree,ARS,NA
+NAm-LacRomanel.Schweingruber.1996.lpd,tree,Corrs,NA
+NAm-LacRomanel.Schweingruber.1996.lpd,tree,RBar,NA
+NAm-LacRomanel.Schweingruber.1996.lpd,tree,SD,NA
+NAm-LacRomanel.Schweingruber.1996.lpd,tree,SE,NA
+NAm-LacRomanel.Schweingruber.1996.lpd,tree,EPS,NA
+NAm-LacRomanel.Schweingruber.1996.lpd,tree,Core,NA
+NAm-LakeMina.St.Jacques.2008.lpd,lake sediment,EffectiveMoisture,cm
+NAm-LakeoftheClouds.Gajewski.1988.lpd,lake sediment,Precipitation,mm
+NAm-LakeoftheClouds.Gajewski.1988.lpd,lake sediment,Pollen,mm
+NAm-Landslide.Luckman.2006.lpd,tree,SampleCount,count
+NAm-Landslide.Luckman.2006.lpd,tree,Segment,NA
+NAm-Landslide.Luckman.2006.lpd,tree,RingWidth,cm
+NAm-Landslide.Luckman.2006.lpd,tree,Trsgi,NA
+NAm-Landslide.Luckman.2006.lpd,tree,TRW,NA
+NAm-Landslide.Luckman.2006.lpd,tree,Residual,NA
+NAm-Landslide.Luckman.2006.lpd,tree,ARS,NA
+NAm-Landslide.Luckman.2006.lpd,tree,Corrs,NA
+NAm-Landslide.Luckman.2006.lpd,tree,RBar,NA
+NAm-Landslide.Luckman.2006.lpd,tree,SD,NA
+NAm-Landslide.Luckman.2006.lpd,tree,SE,NA
+NAm-Landslide.Luckman.2006.lpd,tree,EPS,NA
+NAm-Landslide.Luckman.2006.lpd,tree,Core,NA
+NAm-LaTasajera.Biondi.2001.lpd,tree,SampleCount,count
+NAm-LaTasajera.Biondi.2001.lpd,tree,Segment,NA
+NAm-LaTasajera.Biondi.2001.lpd,tree,RingWidth,cm
+NAm-LaTasajera.Biondi.2001.lpd,tree,Trsgi,NA
+NAm-LaTasajera.Biondi.2001.lpd,tree,TRW,NA
+NAm-LaTasajera.Biondi.2001.lpd,tree,Residual,NA
+NAm-LaTasajera.Biondi.2001.lpd,tree,ARS,NA
+NAm-LaTasajera.Biondi.2001.lpd,tree,Corrs,NA
+NAm-LaTasajera.Biondi.2001.lpd,tree,RBar,NA
+NAm-LaTasajera.Biondi.2001.lpd,tree,SD,NA
+NAm-LaTasajera.Biondi.2001.lpd,tree,SE,NA
+NAm-LaTasajera.Biondi.2001.lpd,tree,EPS,NA
+NAm-LaTasajera.Biondi.2001.lpd,tree,Core,NA
+NAm-LittlePineLake.Gajewski.1988.lpd,lake sediment,GhostMeasured,NotApplicable
+NAm-Manitoba.D'Arrigo.2006.lpd,tree,SampleCount,count
+NAm-Manitoba.D'Arrigo.2006.lpd,tree,Segment,NA
+NAm-Manitoba.D'Arrigo.2006.lpd,tree,RingWidth,cm
+NAm-Manitoba.D'Arrigo.2006.lpd,tree,Trsgi,NA
+NAm-Manitoba.D'Arrigo.2006.lpd,tree,TRW,NA
+NAm-Manitoba.D'Arrigo.2006.lpd,tree,Residual,NA
+NAm-Manitoba.D'Arrigo.2006.lpd,tree,ARS,NA
+NAm-Manitoba.D'Arrigo.2006.lpd,tree,Corrs,NA
+NAm-Manitoba.D'Arrigo.2006.lpd,tree,RBar,NA
+NAm-Manitoba.D'Arrigo.2006.lpd,tree,SD,NA
+NAm-Manitoba.D'Arrigo.2006.lpd,tree,SE,NA
+NAm-Manitoba.D'Arrigo.2006.lpd,tree,EPS,NA
+NAm-Manitoba.D'Arrigo.2006.lpd,tree,Core,NA
+NAm-McGinnisTrail.Wiles.2013.lpd,tree,SampleCount,count
+NAm-McGinnisTrail.Wiles.2013.lpd,tree,Segment,NA
+NAm-McGinnisTrail.Wiles.2013.lpd,tree,RingWidth,cm
+NAm-McGinnisTrail.Wiles.2013.lpd,tree,Trsgi,NA
+NAm-McGinnisTrail.Wiles.2013.lpd,tree,TRW,NA
+NAm-McGinnisTrail.Wiles.2013.lpd,tree,Residual,NA
+NAm-McGinnisTrail.Wiles.2013.lpd,tree,ARS,NA
+NAm-McGinnisTrail.Wiles.2013.lpd,tree,Corrs,NA
+NAm-McGinnisTrail.Wiles.2013.lpd,tree,RBar,NA
+NAm-McGinnisTrail.Wiles.2013.lpd,tree,SD,NA
+NAm-McGinnisTrail.Wiles.2013.lpd,tree,SE,NA
+NAm-McGinnisTrail.Wiles.2013.lpd,tree,EPS,NA
+NAm-McGinnisTrail.Wiles.2013.lpd,tree,Core,NA
+NAm-MeadowMountain.Wilson.2005.lpd,tree,SampleCount,count
+NAm-MeadowMountain.Wilson.2005.lpd,tree,Segment,NA
+NAm-MeadowMountain.Wilson.2005.lpd,tree,Density,g/cm3
+NAm-MeadowMountain.Wilson.2005.lpd,tree,MXD,NA
+NAm-MeadowMountain.Wilson.2005.lpd,tree,Residual,NA
+NAm-MeadowMountain.Wilson.2005.lpd,tree,ARS,NA
+NAm-MeadowMountain.Wilson.2005.lpd,tree,Corrs,NA
+NAm-MeadowMountain.Wilson.2005.lpd,tree,RBar,NA
+NAm-MeadowMountain.Wilson.2005.lpd,tree,SD,NA
+NAm-MeadowMountain.Wilson.2005.lpd,tree,SE,NA
+NAm-MeadowMountain.Wilson.2005.lpd,tree,EPS,NA
+NAm-MeadowMountain.Wilson.2005.lpd,tree,Core,NA
+NAm-MedicineBowPeak.Briffa.1996.lpd,tree,SampleCount,count
+NAm-MedicineBowPeak.Briffa.1996.lpd,tree,Segment,NA
+NAm-MedicineBowPeak.Briffa.1996.lpd,tree,Density,g/cm3
+NAm-MedicineBowPeak.Briffa.1996.lpd,tree,MXD,NA
+NAm-MedicineBowPeak.Briffa.1996.lpd,tree,Residual,NA
+NAm-MedicineBowPeak.Briffa.1996.lpd,tree,ARS,NA
+NAm-MedicineBowPeak.Briffa.1996.lpd,tree,Corrs,NA
+NAm-MedicineBowPeak.Briffa.1996.lpd,tree,RBar,NA
+NAm-MedicineBowPeak.Briffa.1996.lpd,tree,SD,NA
+NAm-MedicineBowPeak.Briffa.1996.lpd,tree,SE,NA
+NAm-MedicineBowPeak.Briffa.1996.lpd,tree,EPS,NA
+NAm-MedicineBowPeak.Briffa.1996.lpd,tree,Core,NA
+NAm-MedusaBay.Buckley.2003.lpd,tree,SampleCount,count
+NAm-MedusaBay.Buckley.2003.lpd,tree,Segment,NA
+NAm-MedusaBay.Buckley.2003.lpd,tree,RingWidth,cm
+NAm-MedusaBay.Buckley.2003.lpd,tree,Trsgi,NA
+NAm-MedusaBay.Buckley.2003.lpd,tree,TRW,NA
+NAm-MedusaBay.Buckley.2003.lpd,tree,Residual,NA
+NAm-MedusaBay.Buckley.2003.lpd,tree,ARS,NA
+NAm-MedusaBay.Buckley.2003.lpd,tree,Corrs,NA
+NAm-MedusaBay.Buckley.2003.lpd,tree,RBar,NA
+NAm-MedusaBay.Buckley.2003.lpd,tree,SD,NA
+NAm-MedusaBay.Buckley.2003.lpd,tree,SE,NA
+NAm-MedusaBay.Buckley.2003.lpd,tree,EPS,NA
+NAm-MedusaBay.Buckley.2003.lpd,tree,Core,NA
+NAm-MinersWell.Wiles.2000.lpd,tree,SampleCount,count
+NAm-MinersWell.Wiles.2000.lpd,tree,Segment,NA
+NAm-MinersWell.Wiles.2000.lpd,tree,RingWidth,cm
+NAm-MinersWell.Wiles.2000.lpd,tree,Trsgi,NA
+NAm-MinersWell.Wiles.2000.lpd,tree,TRW,NA
+NAm-MinersWell.Wiles.2000.lpd,tree,Residual,NA
+NAm-MinersWell.Wiles.2000.lpd,tree,ARS,NA
+NAm-MinersWell.Wiles.2000.lpd,tree,Corrs,NA
+NAm-MinersWell.Wiles.2000.lpd,tree,RBar,NA
+NAm-MinersWell.Wiles.2000.lpd,tree,SD,NA
+NAm-MinersWell.Wiles.2000.lpd,tree,SE,NA
+NAm-MinersWell.Wiles.2000.lpd,tree,EPS,NA
+NAm-MinersWell.Wiles.2000.lpd,tree,Core,NA
+NAm-MountAdamsLow.Peterson.1994.lpd,tree,SampleCount,count
+NAm-MountAdamsLow.Peterson.1994.lpd,tree,Segment,NA
+NAm-MountAdamsLow.Peterson.1994.lpd,tree,RingWidth,cm
+NAm-MountAdamsLow.Peterson.1994.lpd,tree,Trsgi,NA
+NAm-MountAdamsLow.Peterson.1994.lpd,tree,TRW,NA
+NAm-MountAdamsLow.Peterson.1994.lpd,tree,Residual,NA
+NAm-MountAdamsLow.Peterson.1994.lpd,tree,ARS,NA
+NAm-MountAdamsLow.Peterson.1994.lpd,tree,Corrs,NA
+NAm-MountAdamsLow.Peterson.1994.lpd,tree,RBar,NA
+NAm-MountAdamsLow.Peterson.1994.lpd,tree,SD,NA
+NAm-MountAdamsLow.Peterson.1994.lpd,tree,SE,NA
+NAm-MountAdamsLow.Peterson.1994.lpd,tree,EPS,NA
+NAm-MountAdamsLow.Peterson.1994.lpd,tree,Core,NA
+NAm-MountWashington.Graybill.1994.lpd,tree,SampleCount,count
+NAm-MountWashington.Graybill.1994.lpd,tree,Segment,NA
+NAm-MountWashington.Graybill.1994.lpd,tree,RingWidth,cm
+NAm-MountWashington.Graybill.1994.lpd,tree,Trsgi,NA
+NAm-MountWashington.Graybill.1994.lpd,tree,TRW,NA
+NAm-MountWashington.Graybill.1994.lpd,tree,Residual,NA
+NAm-MountWashington.Graybill.1994.lpd,tree,ARS,NA
+NAm-MountWashington.Graybill.1994.lpd,tree,Corrs,NA
+NAm-MountWashington.Graybill.1994.lpd,tree,RBar,NA
+NAm-MountWashington.Graybill.1994.lpd,tree,SD,NA
+NAm-MountWashington.Graybill.1994.lpd,tree,SE,NA
+NAm-MountWashington.Graybill.1994.lpd,tree,EPS,NA
+NAm-MountWashington.Graybill.1994.lpd,tree,Core,NA
+NAm-MtLemon.Briffa.2002.lpd,tree,SampleCount,count
+NAm-MtLemon.Briffa.2002.lpd,tree,Segment,NA
+NAm-MtLemon.Briffa.2002.lpd,tree,Density,g/cm3
+NAm-MtLemon.Briffa.2002.lpd,tree,MXD,NA
+NAm-MtLemon.Briffa.2002.lpd,tree,Residual,NA
+NAm-MtLemon.Briffa.2002.lpd,tree,ARS,NA
+NAm-MtLemon.Briffa.2002.lpd,tree,Corrs,NA
+NAm-MtLemon.Briffa.2002.lpd,tree,RBar,NA
+NAm-MtLemon.Briffa.2002.lpd,tree,SD,NA
+NAm-MtLemon.Briffa.2002.lpd,tree,SE,NA
+NAm-MtLemon.Briffa.2002.lpd,tree,EPS,NA
+NAm-MtLemon.Briffa.2002.lpd,tree,Core,NA
+NAm-MtStHelens.Briffa.1996.lpd,tree,SampleCount,count
+NAm-MtStHelens.Briffa.1996.lpd,tree,Segment,NA
+NAm-MtStHelens.Briffa.1996.lpd,tree,Density,g/cm3
+NAm-MtStHelens.Briffa.1996.lpd,tree,MXD,NA
+NAm-MtStHelens.Briffa.1996.lpd,tree,Residual,NA
+NAm-MtStHelens.Briffa.1996.lpd,tree,ARS,NA
+NAm-MtStHelens.Briffa.1996.lpd,tree,Corrs,NA
+NAm-MtStHelens.Briffa.1996.lpd,tree,RBar,NA
+NAm-MtStHelens.Briffa.1996.lpd,tree,SD,NA
+NAm-MtStHelens.Briffa.1996.lpd,tree,SE,NA
+NAm-MtStHelens.Briffa.1996.lpd,tree,EPS,NA
+NAm-MtStHelens.Briffa.1996.lpd,tree,Core,NA
+NAm-NabesnaMine.Jacoby.2003.lpd,tree,SampleCount,count
+NAm-NabesnaMine.Jacoby.2003.lpd,tree,Segment,NA
+NAm-NabesnaMine.Jacoby.2003.lpd,tree,Density,g/cm3
+NAm-NabesnaMine.Jacoby.2003.lpd,tree,MXD,NA
+NAm-NabesnaMine.Jacoby.2003.lpd,tree,Residual,NA
+NAm-NabesnaMine.Jacoby.2003.lpd,tree,ARS,NA
+NAm-NabesnaMine.Jacoby.2003.lpd,tree,Corrs,NA
+NAm-NabesnaMine.Jacoby.2003.lpd,tree,RBar,NA
+NAm-NabesnaMine.Jacoby.2003.lpd,tree,SD,NA
+NAm-NabesnaMine.Jacoby.2003.lpd,tree,SE,NA
+NAm-NabesnaMine.Jacoby.2003.lpd,tree,EPS,NA
+NAm-NabesnaMine.Jacoby.2003.lpd,tree,Core,NA
+NAm-Nadahini.Luckman.2013.lpd,tree,SampleCount,count
+NAm-Nadahini.Luckman.2013.lpd,tree,Segment,NA
+NAm-Nadahini.Luckman.2013.lpd,tree,RingWidth,cm
+NAm-Nadahini.Luckman.2013.lpd,tree,Trsgi,NA
+NAm-Nadahini.Luckman.2013.lpd,tree,TRW,NA
+NAm-Nadahini.Luckman.2013.lpd,tree,Residual,NA
+NAm-Nadahini.Luckman.2013.lpd,tree,ARS,NA
+NAm-Nadahini.Luckman.2013.lpd,tree,Corrs,NA
+NAm-Nadahini.Luckman.2013.lpd,tree,RBar,NA
+NAm-Nadahini.Luckman.2013.lpd,tree,SD,NA
+NAm-Nadahini.Luckman.2013.lpd,tree,SE,NA
+NAm-Nadahini.Luckman.2013.lpd,tree,EPS,NA
+NAm-Nadahini.Luckman.2013.lpd,tree,Core,NA
+NAm-Nakiska.Luckman.2001.lpd,tree,SampleCount,count
+NAm-Nakiska.Luckman.2001.lpd,tree,Segment,NA
+NAm-Nakiska.Luckman.2001.lpd,tree,RingWidth,cm
+NAm-Nakiska.Luckman.2001.lpd,tree,Trsgi,NA
+NAm-Nakiska.Luckman.2001.lpd,tree,TRW,NA
+NAm-Nakiska.Luckman.2001.lpd,tree,Residual,NA
+NAm-Nakiska.Luckman.2001.lpd,tree,ARS,NA
+NAm-Nakiska.Luckman.2001.lpd,tree,Corrs,NA
+NAm-Nakiska.Luckman.2001.lpd,tree,RBar,NA
+NAm-Nakiska.Luckman.2001.lpd,tree,SD,NA
+NAm-Nakiska.Luckman.2001.lpd,tree,SE,NA
+NAm-Nakiska.Luckman.2001.lpd,tree,EPS,NA
+NAm-Nakiska.Luckman.2001.lpd,tree,Core,NA
+NAm-NorthernAlaskaComposite.D'Arrigo.2006.lpd,tree,SampleCount,count
+NAm-NorthernAlaskaComposite.D'Arrigo.2006.lpd,tree,Segment,NA
+NAm-NorthernAlaskaComposite.D'Arrigo.2006.lpd,tree,Density,g/cm3
+NAm-NorthernAlaskaComposite.D'Arrigo.2006.lpd,tree,MXD,NA
+NAm-NorthernAlaskaComposite.D'Arrigo.2006.lpd,tree,Residual,NA
+NAm-NorthernAlaskaComposite.D'Arrigo.2006.lpd,tree,ARS,NA
+NAm-NorthernAlaskaComposite.D'Arrigo.2006.lpd,tree,Corrs,NA
+NAm-NorthernAlaskaComposite.D'Arrigo.2006.lpd,tree,RBar,NA
+NAm-NorthernAlaskaComposite.D'Arrigo.2006.lpd,tree,SD,NA
+NAm-NorthernAlaskaComposite.D'Arrigo.2006.lpd,tree,SE,NA
+NAm-NorthernAlaskaComposite.D'Arrigo.2006.lpd,tree,EPS,NA
+NAm-NorthernAlaskaComposite.D'Arrigo.2006.lpd,tree,Core,NA
+NAm-OregonCaves.Ersek.2012.lpd,speleothem,D18O,permil
+NAm-ParkMountain.Wilson.2005.lpd,tree,SampleCount,count
+NAm-ParkMountain.Wilson.2005.lpd,tree,Segment,NA
+NAm-ParkMountain.Wilson.2005.lpd,tree,Density,g/cm3
+NAm-ParkMountain.Wilson.2005.lpd,tree,MXD,NA
+NAm-ParkMountain.Wilson.2005.lpd,tree,Residual,NA
+NAm-ParkMountain.Wilson.2005.lpd,tree,ARS,NA
+NAm-ParkMountain.Wilson.2005.lpd,tree,Corrs,NA
+NAm-ParkMountain.Wilson.2005.lpd,tree,RBar,NA
+NAm-ParkMountain.Wilson.2005.lpd,tree,SD,NA
+NAm-ParkMountain.Wilson.2005.lpd,tree,SE,NA
+NAm-ParkMountain.Wilson.2005.lpd,tree,EPS,NA
+NAm-ParkMountain.Wilson.2005.lpd,tree,Core,NA
+NAm-PearlPeak.Graybill.1994.lpd,tree,SampleCount,count
+NAm-PearlPeak.Graybill.1994.lpd,tree,Segment,NA
+NAm-PearlPeak.Graybill.1994.lpd,tree,RingWidth,cm
+NAm-PearlPeak.Graybill.1994.lpd,tree,Trsgi,NA
+NAm-PearlPeak.Graybill.1994.lpd,tree,TRW,NA
+NAm-PearlPeak.Graybill.1994.lpd,tree,Residual,NA
+NAm-PearlPeak.Graybill.1994.lpd,tree,ARS,NA
+NAm-PearlPeak.Graybill.1994.lpd,tree,Corrs,NA
+NAm-PearlPeak.Graybill.1994.lpd,tree,RBar,NA
+NAm-PearlPeak.Graybill.1994.lpd,tree,SD,NA
+NAm-PearlPeak.Graybill.1994.lpd,tree,SE,NA
+NAm-PearlPeak.Graybill.1994.lpd,tree,EPS,NA
+NAm-PearlPeak.Graybill.1994.lpd,tree,Core,NA
+NAm-PethaiPeninsula.Schweingruber.1996.lpd,tree,SampleCount,count
+NAm-PethaiPeninsula.Schweingruber.1996.lpd,tree,Segment,NA
+NAm-PethaiPeninsula.Schweingruber.1996.lpd,tree,Density,g/cm3
+NAm-PethaiPeninsula.Schweingruber.1996.lpd,tree,MXD,NA
+NAm-PethaiPeninsula.Schweingruber.1996.lpd,tree,Residual,NA
+NAm-PethaiPeninsula.Schweingruber.1996.lpd,tree,ARS,NA
+NAm-PethaiPeninsula.Schweingruber.1996.lpd,tree,Corrs,NA
+NAm-PethaiPeninsula.Schweingruber.1996.lpd,tree,RBar,NA
+NAm-PethaiPeninsula.Schweingruber.1996.lpd,tree,SD,NA
+NAm-PethaiPeninsula.Schweingruber.1996.lpd,tree,SE,NA
+NAm-PethaiPeninsula.Schweingruber.1996.lpd,tree,EPS,NA
+NAm-PethaiPeninsula.Schweingruber.1996.lpd,tree,Core,NA
+NAm-PeytoLake.Schweingruber.1996.lpd,tree,SampleCount,count
+NAm-PeytoLake.Schweingruber.1996.lpd,tree,Segment,NA
+NAm-PeytoLake.Schweingruber.1996.lpd,tree,Density,g/cm3
+NAm-PeytoLake.Schweingruber.1996.lpd,tree,MXD,NA
+NAm-PeytoLake.Schweingruber.1996.lpd,tree,Residual,NA
+NAm-PeytoLake.Schweingruber.1996.lpd,tree,ARS,NA
+NAm-PeytoLake.Schweingruber.1996.lpd,tree,Corrs,NA
+NAm-PeytoLake.Schweingruber.1996.lpd,tree,RBar,NA
+NAm-PeytoLake.Schweingruber.1996.lpd,tree,SD,NA
+NAm-PeytoLake.Schweingruber.1996.lpd,tree,SE,NA
+NAm-PeytoLake.Schweingruber.1996.lpd,tree,EPS,NA
+NAm-PeytoLake.Schweingruber.1996.lpd,tree,Core,NA
+NAm-PikePeaks.Harlan.1996.lpd,tree,SampleCount,count
+NAm-PikePeaks.Harlan.1996.lpd,tree,Segment,NA
+NAm-PikePeaks.Harlan.1996.lpd,tree,Density,g/cm3
+NAm-PikePeaks.Harlan.1996.lpd,tree,MXD,NA
+NAm-PikePeaks.Harlan.1996.lpd,tree,Residual,NA
+NAm-PikePeaks.Harlan.1996.lpd,tree,ARS,NA
+NAm-PikePeaks.Harlan.1996.lpd,tree,Corrs,NA
+NAm-PikePeaks.Harlan.1996.lpd,tree,RBar,NA
+NAm-PikePeaks.Harlan.1996.lpd,tree,SD,NA
+NAm-PikePeaks.Harlan.1996.lpd,tree,SE,NA
+NAm-PikePeaks.Harlan.1996.lpd,tree,EPS,NA
+NAm-PikePeaks.Harlan.1996.lpd,tree,Core,NA
+NAm-Pintlers.Littell.2011.lpd,tree,Trsgi,NA
+NAm-Pintlers.Littell.2011.lpd,tree,TRW,NA
+NAm-PintlersTwo.Littell.2011.lpd,tree,SampleCount,count
+NAm-PintlersTwo.Littell.2011.lpd,tree,Segment,NA
+NAm-PintlersTwo.Littell.2011.lpd,tree,RingWidth,cm
+NAm-PintlersTwo.Littell.2011.lpd,tree,Trsgi,NA
+NAm-PintlersTwo.Littell.2011.lpd,tree,TRW,NA
+NAm-PintlersTwo.Littell.2011.lpd,tree,Residual,NA
+NAm-PintlersTwo.Littell.2011.lpd,tree,ARS,NA
+NAm-PintlersTwo.Littell.2011.lpd,tree,Corrs,NA
+NAm-PintlersTwo.Littell.2011.lpd,tree,RBar,NA
+NAm-PintlersTwo.Littell.2011.lpd,tree,SD,NA
+NAm-PintlersTwo.Littell.2011.lpd,tree,SE,NA
+NAm-PintlersTwo.Littell.2011.lpd,tree,EPS,NA
+NAm-PintlersTwo.Littell.2011.lpd,tree,Core,NA
+NAm-PowderRiverPass.Briffa.1996.lpd,tree,SampleCount,count
+NAm-PowderRiverPass.Briffa.1996.lpd,tree,Segment,NA
+NAm-PowderRiverPass.Briffa.1996.lpd,tree,Density,g/cm3
+NAm-PowderRiverPass.Briffa.1996.lpd,tree,MXD,NA
+NAm-PowderRiverPass.Briffa.1996.lpd,tree,Residual,NA
+NAm-PowderRiverPass.Briffa.1996.lpd,tree,ARS,NA
+NAm-PowderRiverPass.Briffa.1996.lpd,tree,Corrs,NA
+NAm-PowderRiverPass.Briffa.1996.lpd,tree,RBar,NA
+NAm-PowderRiverPass.Briffa.1996.lpd,tree,SD,NA
+NAm-PowderRiverPass.Briffa.1996.lpd,tree,SE,NA
+NAm-PowderRiverPass.Briffa.1996.lpd,tree,EPS,NA
+NAm-PowderRiverPass.Briffa.1996.lpd,tree,Core,NA
+NAm-PrinceWilliamSound.Barclay.1999.lpd,tree,SampleCount,count
+NAm-PrinceWilliamSound.Barclay.1999.lpd,tree,Segment,NA
+NAm-PrinceWilliamSound.Barclay.1999.lpd,tree,RingWidth,cm
+NAm-PrinceWilliamSound.Barclay.1999.lpd,tree,Trsgi,NA
+NAm-PrinceWilliamSound.Barclay.1999.lpd,tree,TRW,NA
+NAm-PrinceWilliamSound.Barclay.1999.lpd,tree,Residual,NA
+NAm-PrinceWilliamSound.Barclay.1999.lpd,tree,ARS,NA
+NAm-PrinceWilliamSound.Barclay.1999.lpd,tree,Corrs,NA
+NAm-PrinceWilliamSound.Barclay.1999.lpd,tree,RBar,NA
+NAm-PrinceWilliamSound.Barclay.1999.lpd,tree,SD,NA
+NAm-PrinceWilliamSound.Barclay.1999.lpd,tree,SE,NA
+NAm-PrinceWilliamSound.Barclay.1999.lpd,tree,EPS,NA
+NAm-PrinceWilliamSound.Barclay.1999.lpd,tree,Core,NA
+NAm-PyramidMountain.Luckman.2001.lpd,tree,SampleCount,count
+NAm-PyramidMountain.Luckman.2001.lpd,tree,Segment,NA
+NAm-PyramidMountain.Luckman.2001.lpd,tree,RingWidth,cm
+NAm-PyramidMountain.Luckman.2001.lpd,tree,Trsgi,NA
+NAm-PyramidMountain.Luckman.2001.lpd,tree,TRW,NA
+NAm-PyramidMountain.Luckman.2001.lpd,tree,Residual,NA
+NAm-PyramidMountain.Luckman.2001.lpd,tree,ARS,NA
+NAm-PyramidMountain.Luckman.2001.lpd,tree,Corrs,NA
+NAm-PyramidMountain.Luckman.2001.lpd,tree,RBar,NA
+NAm-PyramidMountain.Luckman.2001.lpd,tree,SD,NA
+NAm-PyramidMountain.Luckman.2001.lpd,tree,SE,NA
+NAm-PyramidMountain.Luckman.2001.lpd,tree,EPS,NA
+NAm-PyramidMountain.Luckman.2001.lpd,tree,Core,NA
+NAm-RedMountainPassSilverton.Graybill.1994.lpd,tree,SampleCount,count
+NAm-RedMountainPassSilverton.Graybill.1994.lpd,tree,Segment,NA
+NAm-RedMountainPassSilverton.Graybill.1994.lpd,tree,Density,g/cm3
+NAm-RedMountainPassSilverton.Graybill.1994.lpd,tree,MXD,NA
+NAm-RedMountainPassSilverton.Graybill.1994.lpd,tree,Residual,NA
+NAm-RedMountainPassSilverton.Graybill.1994.lpd,tree,ARS,NA
+NAm-RedMountainPassSilverton.Graybill.1994.lpd,tree,Corrs,NA
+NAm-RedMountainPassSilverton.Graybill.1994.lpd,tree,RBar,NA
+NAm-RedMountainPassSilverton.Graybill.1994.lpd,tree,SD,NA
+NAm-RedMountainPassSilverton.Graybill.1994.lpd,tree,SE,NA
+NAm-RedMountainPassSilverton.Graybill.1994.lpd,tree,EPS,NA
+NAm-RedMountainPassSilverton.Graybill.1994.lpd,tree,Core,NA
+NAm-RockGlacierYukon.Kenigsberg.2013.lpd,tree,SampleCount,count
+NAm-RockGlacierYukon.Kenigsberg.2013.lpd,tree,Segment,NA
+NAm-RockGlacierYukon.Kenigsberg.2013.lpd,tree,RingWidth,cm
+NAm-RockGlacierYukon.Kenigsberg.2013.lpd,tree,Trsgi,NA
+NAm-RockGlacierYukon.Kenigsberg.2013.lpd,tree,TRW,NA
+NAm-RockGlacierYukon.Kenigsberg.2013.lpd,tree,Residual,NA
+NAm-RockGlacierYukon.Kenigsberg.2013.lpd,tree,ARS,NA
+NAm-RockGlacierYukon.Kenigsberg.2013.lpd,tree,Corrs,NA
+NAm-RockGlacierYukon.Kenigsberg.2013.lpd,tree,RBar,NA
+NAm-RockGlacierYukon.Kenigsberg.2013.lpd,tree,SD,NA
+NAm-RockGlacierYukon.Kenigsberg.2013.lpd,tree,SE,NA
+NAm-RockGlacierYukon.Kenigsberg.2013.lpd,tree,EPS,NA
+NAm-RockGlacierYukon.Kenigsberg.2013.lpd,tree,Core,NA
+NAm-RoweLakes.Colenutt.2011.lpd,tree,SampleCount,count
+NAm-RoweLakes.Colenutt.2011.lpd,tree,Segment,NA
+NAm-RoweLakes.Colenutt.2011.lpd,tree,RingWidth,cm
+NAm-RoweLakes.Colenutt.2011.lpd,tree,Trsgi,NA
+NAm-RoweLakes.Colenutt.2011.lpd,tree,TRW,NA
+NAm-RoweLakes.Colenutt.2011.lpd,tree,Residual,NA
+NAm-RoweLakes.Colenutt.2011.lpd,tree,ARS,NA
+NAm-RoweLakes.Colenutt.2011.lpd,tree,Corrs,NA
+NAm-RoweLakes.Colenutt.2011.lpd,tree,RBar,NA
+NAm-RoweLakes.Colenutt.2011.lpd,tree,SD,NA
+NAm-RoweLakes.Colenutt.2011.lpd,tree,SE,NA
+NAm-RoweLakes.Colenutt.2011.lpd,tree,EPS,NA
+NAm-RoweLakes.Colenutt.2011.lpd,tree,Core,NA
+NAm-RubyLake.Gajewski.1988.lpd,lake sediment,GhostMeasured,NotApplicable
+NAm-SanFrancisoPeaksUpdate.Graybill.2005.lpd,tree,SampleCount,count
+NAm-SanFrancisoPeaksUpdate.Graybill.2005.lpd,tree,Segment,NA
+NAm-SanFrancisoPeaksUpdate.Graybill.2005.lpd,tree,RingWidth,cm
+NAm-SanFrancisoPeaksUpdate.Graybill.2005.lpd,tree,Trsgi,NA
+NAm-SanFrancisoPeaksUpdate.Graybill.2005.lpd,tree,TRW,NA
+NAm-SanFrancisoPeaksUpdate.Graybill.2005.lpd,tree,Residual,NA
+NAm-SanFrancisoPeaksUpdate.Graybill.2005.lpd,tree,ARS,NA
+NAm-SanFrancisoPeaksUpdate.Graybill.2005.lpd,tree,Corrs,NA
+NAm-SanFrancisoPeaksUpdate.Graybill.2005.lpd,tree,RBar,NA
+NAm-SanFrancisoPeaksUpdate.Graybill.2005.lpd,tree,SD,NA
+NAm-SanFrancisoPeaksUpdate.Graybill.2005.lpd,tree,SE,NA
+NAm-SanFrancisoPeaksUpdate.Graybill.2005.lpd,tree,EPS,NA
+NAm-SanFrancisoPeaksUpdate.Graybill.2005.lpd,tree,Core,NA
+NAm-ScatterLake.Graumlich.2003.lpd,tree,SampleCount,count
+NAm-ScatterLake.Graumlich.2003.lpd,tree,Segment,NA
+NAm-ScatterLake.Graumlich.2003.lpd,tree,RingWidth,cm
+NAm-ScatterLake.Graumlich.2003.lpd,tree,Trsgi,NA
+NAm-ScatterLake.Graumlich.2003.lpd,tree,TRW,NA
+NAm-ScatterLake.Graumlich.2003.lpd,tree,Residual,NA
+NAm-ScatterLake.Graumlich.2003.lpd,tree,ARS,NA
+NAm-ScatterLake.Graumlich.2003.lpd,tree,Corrs,NA
+NAm-ScatterLake.Graumlich.2003.lpd,tree,RBar,NA
+NAm-ScatterLake.Graumlich.2003.lpd,tree,SD,NA
+NAm-ScatterLake.Graumlich.2003.lpd,tree,SE,NA
+NAm-ScatterLake.Graumlich.2003.lpd,tree,EPS,NA
+NAm-ScatterLake.Graumlich.2003.lpd,tree,Core,NA
+NAm-SettlementPointAfognakIsland.Harlan.1998.lpd,tree,SampleCount,count
+NAm-SettlementPointAfognakIsland.Harlan.1998.lpd,tree,Segment,NA
+NAm-SettlementPointAfognakIsland.Harlan.1998.lpd,tree,RingWidth,cm
+NAm-SettlementPointAfognakIsland.Harlan.1998.lpd,tree,Trsgi,NA
+NAm-SettlementPointAfognakIsland.Harlan.1998.lpd,tree,TRW,NA
+NAm-SettlementPointAfognakIsland.Harlan.1998.lpd,tree,Residual,NA
+NAm-SettlementPointAfognakIsland.Harlan.1998.lpd,tree,ARS,NA
+NAm-SettlementPointAfognakIsland.Harlan.1998.lpd,tree,Corrs,NA
+NAm-SettlementPointAfognakIsland.Harlan.1998.lpd,tree,RBar,NA
+NAm-SettlementPointAfognakIsland.Harlan.1998.lpd,tree,SD,NA
+NAm-SettlementPointAfognakIsland.Harlan.1998.lpd,tree,SE,NA
+NAm-SettlementPointAfognakIsland.Harlan.1998.lpd,tree,EPS,NA
+NAm-SettlementPointAfognakIsland.Harlan.1998.lpd,tree,Core,NA
+NAm-SewardComposite.D'Arrigo.2006.lpd,tree,SampleCount,count
+NAm-SewardComposite.D'Arrigo.2006.lpd,tree,Segment,NA
+NAm-SewardComposite.D'Arrigo.2006.lpd,tree,Density,g/cm3
+NAm-SewardComposite.D'Arrigo.2006.lpd,tree,MXD,NA
+NAm-SewardComposite.D'Arrigo.2006.lpd,tree,Residual,NA
+NAm-SewardComposite.D'Arrigo.2006.lpd,tree,ARS,NA
+NAm-SewardComposite.D'Arrigo.2006.lpd,tree,Corrs,NA
+NAm-SewardComposite.D'Arrigo.2006.lpd,tree,RBar,NA
+NAm-SewardComposite.D'Arrigo.2006.lpd,tree,SD,NA
+NAm-SewardComposite.D'Arrigo.2006.lpd,tree,SE,NA
+NAm-SewardComposite.D'Arrigo.2006.lpd,tree,EPS,NA
+NAm-SewardComposite.D'Arrigo.2006.lpd,tree,Core,NA
+NAm-SheepMountain.Graybill.1995.lpd,tree,SampleCount,count
+NAm-SheepMountain.Graybill.1995.lpd,tree,Segment,NA
+NAm-SheepMountain.Graybill.1995.lpd,tree,RingWidth,cm
+NAm-SheepMountain.Graybill.1995.lpd,tree,Trsgi,NA
+NAm-SheepMountain.Graybill.1995.lpd,tree,TRW,NA
+NAm-SheepMountain.Graybill.1995.lpd,tree,Residual,NA
+NAm-SheepMountain.Graybill.1995.lpd,tree,ARS,NA
+NAm-SheepMountain.Graybill.1995.lpd,tree,Corrs,NA
+NAm-SheepMountain.Graybill.1995.lpd,tree,RBar,NA
+NAm-SheepMountain.Graybill.1995.lpd,tree,SD,NA
+NAm-SheepMountain.Graybill.1995.lpd,tree,SE,NA
+NAm-SheepMountain.Graybill.1995.lpd,tree,EPS,NA
+NAm-SheepMountain.Graybill.1995.lpd,tree,Core,NA
+NAm-SheepTrail.Brown.2005.lpd,tree,SampleCount,count
+NAm-SheepTrail.Brown.2005.lpd,tree,Segment,NA
+NAm-SheepTrail.Brown.2005.lpd,tree,Density,g/cm3
+NAm-SheepTrail.Brown.2005.lpd,tree,MXD,NA
+NAm-SheepTrail.Brown.2005.lpd,tree,Residual,NA
+NAm-SheepTrail.Brown.2005.lpd,tree,ARS,NA
+NAm-SheepTrail.Brown.2005.lpd,tree,Corrs,NA
+NAm-SheepTrail.Brown.2005.lpd,tree,RBar,NA
+NAm-SheepTrail.Brown.2005.lpd,tree,SD,NA
+NAm-SheepTrail.Brown.2005.lpd,tree,SE,NA
+NAm-SheepTrail.Brown.2005.lpd,tree,EPS,NA
+NAm-SheepTrail.Brown.2005.lpd,tree,Core,NA
+NAm-ShermanCreekPass.Briffa.1996.lpd,tree,SampleCount,count
+NAm-ShermanCreekPass.Briffa.1996.lpd,tree,Segment,NA
+NAm-ShermanCreekPass.Briffa.1996.lpd,tree,Density,g/cm3
+NAm-ShermanCreekPass.Briffa.1996.lpd,tree,MXD,NA
+NAm-ShermanCreekPass.Briffa.1996.lpd,tree,Residual,NA
+NAm-ShermanCreekPass.Briffa.1996.lpd,tree,ARS,NA
+NAm-ShermanCreekPass.Briffa.1996.lpd,tree,Corrs,NA
+NAm-ShermanCreekPass.Briffa.1996.lpd,tree,RBar,NA
+NAm-ShermanCreekPass.Briffa.1996.lpd,tree,SD,NA
+NAm-ShermanCreekPass.Briffa.1996.lpd,tree,SE,NA
+NAm-ShermanCreekPass.Briffa.1996.lpd,tree,EPS,NA
+NAm-ShermanCreekPass.Briffa.1996.lpd,tree,Core,NA
+NAm-SiberianOutpostView.Bunn.2010.lpd,tree,SampleCount,count
+NAm-SiberianOutpostView.Bunn.2010.lpd,tree,Segment,NA
+NAm-SiberianOutpostView.Bunn.2010.lpd,tree,RingWidth,cm
+NAm-SiberianOutpostView.Bunn.2010.lpd,tree,Trsgi,NA
+NAm-SiberianOutpostView.Bunn.2010.lpd,tree,TRW,NA
+NAm-SiberianOutpostView.Bunn.2010.lpd,tree,Residual,NA
+NAm-SiberianOutpostView.Bunn.2010.lpd,tree,ARS,NA
+NAm-SiberianOutpostView.Bunn.2010.lpd,tree,Corrs,NA
+NAm-SiberianOutpostView.Bunn.2010.lpd,tree,RBar,NA
+NAm-SiberianOutpostView.Bunn.2010.lpd,tree,SD,NA
+NAm-SiberianOutpostView.Bunn.2010.lpd,tree,SE,NA
+NAm-SiberianOutpostView.Bunn.2010.lpd,tree,EPS,NA
+NAm-SiberianOutpostView.Bunn.2010.lpd,tree,Core,NA
+NAm-SignalMountain.Luckman.2001.lpd,tree,SampleCount,count
+NAm-SignalMountain.Luckman.2001.lpd,tree,Segment,NA
+NAm-SignalMountain.Luckman.2001.lpd,tree,RingWidth,cm
+NAm-SignalMountain.Luckman.2001.lpd,tree,Trsgi,NA
+NAm-SignalMountain.Luckman.2001.lpd,tree,TRW,NA
+NAm-SignalMountain.Luckman.2001.lpd,tree,Residual,NA
+NAm-SignalMountain.Luckman.2001.lpd,tree,ARS,NA
+NAm-SignalMountain.Luckman.2001.lpd,tree,Corrs,NA
+NAm-SignalMountain.Luckman.2001.lpd,tree,RBar,NA
+NAm-SignalMountain.Luckman.2001.lpd,tree,SD,NA
+NAm-SignalMountain.Luckman.2001.lpd,tree,SE,NA
+NAm-SignalMountain.Luckman.2001.lpd,tree,EPS,NA
+NAm-SignalMountain.Luckman.2001.lpd,tree,Core,NA
+NAm-SleepingDeerRoad.Hughes.2005.lpd,tree,SampleCount,count
+NAm-SleepingDeerRoad.Hughes.2005.lpd,tree,Segment,NA
+NAm-SleepingDeerRoad.Hughes.2005.lpd,tree,Density,g/cm3
+NAm-SleepingDeerRoad.Hughes.2005.lpd,tree,MXD,NA
+NAm-SleepingDeerRoad.Hughes.2005.lpd,tree,Residual,NA
+NAm-SleepingDeerRoad.Hughes.2005.lpd,tree,ARS,NA
+NAm-SleepingDeerRoad.Hughes.2005.lpd,tree,Corrs,NA
+NAm-SleepingDeerRoad.Hughes.2005.lpd,tree,RBar,NA
+NAm-SleepingDeerRoad.Hughes.2005.lpd,tree,SD,NA
+NAm-SleepingDeerRoad.Hughes.2005.lpd,tree,SE,NA
+NAm-SleepingDeerRoad.Hughes.2005.lpd,tree,EPS,NA
+NAm-SleepingDeerRoad.Hughes.2005.lpd,tree,Core,NA
+NAm-SmallRiver.Luckman.2001.lpd,tree,SampleCount,count
+NAm-SmallRiver.Luckman.2001.lpd,tree,Segment,NA
+NAm-SmallRiver.Luckman.2001.lpd,tree,RingWidth,cm
+NAm-SmallRiver.Luckman.2001.lpd,tree,Trsgi,NA
+NAm-SmallRiver.Luckman.2001.lpd,tree,TRW,NA
+NAm-SmallRiver.Luckman.2001.lpd,tree,Residual,NA
+NAm-SmallRiver.Luckman.2001.lpd,tree,ARS,NA
+NAm-SmallRiver.Luckman.2001.lpd,tree,Corrs,NA
+NAm-SmallRiver.Luckman.2001.lpd,tree,RBar,NA
+NAm-SmallRiver.Luckman.2001.lpd,tree,SD,NA
+NAm-SmallRiver.Luckman.2001.lpd,tree,SE,NA
+NAm-SmallRiver.Luckman.2001.lpd,tree,EPS,NA
+NAm-SmallRiver.Luckman.2001.lpd,tree,Core,NA
+NAm-SmithersSkiArea.Schweingruber.1996.lpd,tree,SampleCount,count
+NAm-SmithersSkiArea.Schweingruber.1996.lpd,tree,Segment,NA
+NAm-SmithersSkiArea.Schweingruber.1996.lpd,tree,Density,g/cm3
+NAm-SmithersSkiArea.Schweingruber.1996.lpd,tree,MXD,NA
+NAm-SmithersSkiArea.Schweingruber.1996.lpd,tree,Residual,NA
+NAm-SmithersSkiArea.Schweingruber.1996.lpd,tree,ARS,NA
+NAm-SmithersSkiArea.Schweingruber.1996.lpd,tree,Corrs,NA
+NAm-SmithersSkiArea.Schweingruber.1996.lpd,tree,RBar,NA
+NAm-SmithersSkiArea.Schweingruber.1996.lpd,tree,SD,NA
+NAm-SmithersSkiArea.Schweingruber.1996.lpd,tree,SE,NA
+NAm-SmithersSkiArea.Schweingruber.1996.lpd,tree,EPS,NA
+NAm-SmithersSkiArea.Schweingruber.1996.lpd,tree,Core,NA
+NAm-SnakeCreek.Kenigsberg.2013.lpd,tree,SampleCount,count
+NAm-SnakeCreek.Kenigsberg.2013.lpd,tree,Segment,NA
+NAm-SnakeCreek.Kenigsberg.2013.lpd,tree,RingWidth,cm
+NAm-SnakeCreek.Kenigsberg.2013.lpd,tree,Trsgi,NA
+NAm-SnakeCreek.Kenigsberg.2013.lpd,tree,TRW,NA
+NAm-SnakeCreek.Kenigsberg.2013.lpd,tree,Residual,NA
+NAm-SnakeCreek.Kenigsberg.2013.lpd,tree,ARS,NA
+NAm-SnakeCreek.Kenigsberg.2013.lpd,tree,Corrs,NA
+NAm-SnakeCreek.Kenigsberg.2013.lpd,tree,RBar,NA
+NAm-SnakeCreek.Kenigsberg.2013.lpd,tree,SD,NA
+NAm-SnakeCreek.Kenigsberg.2013.lpd,tree,SE,NA
+NAm-SnakeCreek.Kenigsberg.2013.lpd,tree,EPS,NA
+NAm-SnakeCreek.Kenigsberg.2013.lpd,tree,Core,NA
+NAm-SnowBowlSanFranciscoPeak.Briffa.2002.lpd,tree,SampleCount,count
+NAm-SnowBowlSanFranciscoPeak.Briffa.2002.lpd,tree,Segment,NA
+NAm-SnowBowlSanFranciscoPeak.Briffa.2002.lpd,tree,Density,g/cm3
+NAm-SnowBowlSanFranciscoPeak.Briffa.2002.lpd,tree,MXD,NA
+NAm-SnowBowlSanFranciscoPeak.Briffa.2002.lpd,tree,Residual,NA
+NAm-SnowBowlSanFranciscoPeak.Briffa.2002.lpd,tree,ARS,NA
+NAm-SnowBowlSanFranciscoPeak.Briffa.2002.lpd,tree,Corrs,NA
+NAm-SnowBowlSanFranciscoPeak.Briffa.2002.lpd,tree,RBar,NA
+NAm-SnowBowlSanFranciscoPeak.Briffa.2002.lpd,tree,SD,NA
+NAm-SnowBowlSanFranciscoPeak.Briffa.2002.lpd,tree,SE,NA
+NAm-SnowBowlSanFranciscoPeak.Briffa.2002.lpd,tree,EPS,NA
+NAm-SnowBowlSanFranciscoPeak.Briffa.2002.lpd,tree,Core,NA
+NAm-SouthernAlaskacomposite.D'Arrigo.2006.lpd,tree,SampleCount,count
+NAm-SouthernAlaskacomposite.D'Arrigo.2006.lpd,tree,Segment,NA
+NAm-SouthernAlaskacomposite.D'Arrigo.2006.lpd,tree,RingWidth,cm
+NAm-SouthernAlaskacomposite.D'Arrigo.2006.lpd,tree,Trsgi,NA
+NAm-SouthernAlaskacomposite.D'Arrigo.2006.lpd,tree,TRW,NA
+NAm-SouthernAlaskacomposite.D'Arrigo.2006.lpd,tree,Residual,NA
+NAm-SouthernAlaskacomposite.D'Arrigo.2006.lpd,tree,ARS,NA
+NAm-SouthernAlaskacomposite.D'Arrigo.2006.lpd,tree,Corrs,NA
+NAm-SouthernAlaskacomposite.D'Arrigo.2006.lpd,tree,RBar,NA
+NAm-SouthernAlaskacomposite.D'Arrigo.2006.lpd,tree,SD,NA
+NAm-SouthernAlaskacomposite.D'Arrigo.2006.lpd,tree,SE,NA
+NAm-SouthernAlaskacomposite.D'Arrigo.2006.lpd,tree,EPS,NA
+NAm-SouthernAlaskacomposite.D'Arrigo.2006.lpd,tree,Core,NA
+NAm-SpillwayLakeYosemiteNationalPark.King.2000.lpd,tree,SampleCount,count
+NAm-SpillwayLakeYosemiteNationalPark.King.2000.lpd,tree,Segment,NA
+NAm-SpillwayLakeYosemiteNationalPark.King.2000.lpd,tree,RingWidth,cm
+NAm-SpillwayLakeYosemiteNationalPark.King.2000.lpd,tree,Trsgi,NA
+NAm-SpillwayLakeYosemiteNationalPark.King.2000.lpd,tree,TRW,NA
+NAm-SpillwayLakeYosemiteNationalPark.King.2000.lpd,tree,Residual,NA
+NAm-SpillwayLakeYosemiteNationalPark.King.2000.lpd,tree,ARS,NA
+NAm-SpillwayLakeYosemiteNationalPark.King.2000.lpd,tree,Corrs,NA
+NAm-SpillwayLakeYosemiteNationalPark.King.2000.lpd,tree,RBar,NA
+NAm-SpillwayLakeYosemiteNationalPark.King.2000.lpd,tree,SD,NA
+NAm-SpillwayLakeYosemiteNationalPark.King.2000.lpd,tree,SE,NA
+NAm-SpillwayLakeYosemiteNationalPark.King.2000.lpd,tree,EPS,NA
+NAm-SpillwayLakeYosemiteNationalPark.King.2000.lpd,tree,Core,NA
+NAm-SpruceCreek.Church.1981.lpd,tree,SampleCount,count
+NAm-SpruceCreek.Church.1981.lpd,tree,Segment,NA
+NAm-SpruceCreek.Church.1981.lpd,tree,RingWidth,cm
+NAm-SpruceCreek.Church.1981.lpd,tree,Trsgi,NA
+NAm-SpruceCreek.Church.1981.lpd,tree,TRW,NA
+NAm-SpruceCreek.Church.1981.lpd,tree,Residual,NA
+NAm-SpruceCreek.Church.1981.lpd,tree,ARS,NA
+NAm-SpruceCreek.Church.1981.lpd,tree,Corrs,NA
+NAm-SpruceCreek.Church.1981.lpd,tree,RBar,NA
+NAm-SpruceCreek.Church.1981.lpd,tree,SD,NA
+NAm-SpruceCreek.Church.1981.lpd,tree,SE,NA
+NAm-SpruceCreek.Church.1981.lpd,tree,EPS,NA
+NAm-SpruceCreek.Church.1981.lpd,tree,Core,NA
+NAm-StarrigawanOldSitka.Kaiser.1996.lpd,tree,SampleCount,count
+NAm-StarrigawanOldSitka.Kaiser.1996.lpd,tree,Segment,NA
+NAm-StarrigawanOldSitka.Kaiser.1996.lpd,tree,RingWidth,cm
+NAm-StarrigawanOldSitka.Kaiser.1996.lpd,tree,Trsgi,NA
+NAm-StarrigawanOldSitka.Kaiser.1996.lpd,tree,TRW,NA
+NAm-StarrigawanOldSitka.Kaiser.1996.lpd,tree,Residual,NA
+NAm-StarrigawanOldSitka.Kaiser.1996.lpd,tree,ARS,NA
+NAm-StarrigawanOldSitka.Kaiser.1996.lpd,tree,Corrs,NA
+NAm-StarrigawanOldSitka.Kaiser.1996.lpd,tree,RBar,NA
+NAm-StarrigawanOldSitka.Kaiser.1996.lpd,tree,SD,NA
+NAm-StarrigawanOldSitka.Kaiser.1996.lpd,tree,SE,NA
+NAm-StarrigawanOldSitka.Kaiser.1996.lpd,tree,EPS,NA
+NAm-StarrigawanOldSitka.Kaiser.1996.lpd,tree,Core,NA
+NAm-STREC.Gennaretti.2014.lpd,tree,Unnamed,count
+NAm-Sugarloaf.Kenigsberg.2013.lpd,tree,Trsgi,NA
+NAm-Sugarloaf.Kenigsberg.2013.lpd,tree,TRW,NA
+NAm-SunshineMeadows.Colenutt.1995.lpd,tree,SampleCount,count
+NAm-SunshineMeadows.Colenutt.1995.lpd,tree,Segment,NA
+NAm-SunshineMeadows.Colenutt.1995.lpd,tree,Density,g/cm3
+NAm-SunshineMeadows.Colenutt.1995.lpd,tree,MXD,NA
+NAm-SunshineMeadows.Colenutt.1995.lpd,tree,Residual,NA
+NAm-SunshineMeadows.Colenutt.1995.lpd,tree,ARS,NA
+NAm-SunshineMeadows.Colenutt.1995.lpd,tree,Corrs,NA
+NAm-SunshineMeadows.Colenutt.1995.lpd,tree,RBar,NA
+NAm-SunshineMeadows.Colenutt.1995.lpd,tree,SD,NA
+NAm-SunshineMeadows.Colenutt.1995.lpd,tree,SE,NA
+NAm-SunshineMeadows.Colenutt.1995.lpd,tree,EPS,NA
+NAm-SunshineMeadows.Colenutt.1995.lpd,tree,Core,NA
+NAm-SunwaptaPass.Schweingruber.1996.lpd,tree,SampleCount,count
+NAm-SunwaptaPass.Schweingruber.1996.lpd,tree,Segment,NA
+NAm-SunwaptaPass.Schweingruber.1996.lpd,tree,Density,g/cm3
+NAm-SunwaptaPass.Schweingruber.1996.lpd,tree,MXD,NA
+NAm-SunwaptaPass.Schweingruber.1996.lpd,tree,Residual,NA
+NAm-SunwaptaPass.Schweingruber.1996.lpd,tree,ARS,NA
+NAm-SunwaptaPass.Schweingruber.1996.lpd,tree,Corrs,NA
+NAm-SunwaptaPass.Schweingruber.1996.lpd,tree,RBar,NA
+NAm-SunwaptaPass.Schweingruber.1996.lpd,tree,SD,NA
+NAm-SunwaptaPass.Schweingruber.1996.lpd,tree,SE,NA
+NAm-SunwaptaPass.Schweingruber.1996.lpd,tree,EPS,NA
+NAm-SunwaptaPass.Schweingruber.1996.lpd,tree,Core,NA
+NAm-SurpriseValley.Luckman.2001.lpd,tree,SampleCount,count
+NAm-SurpriseValley.Luckman.2001.lpd,tree,Segment,NA
+NAm-SurpriseValley.Luckman.2001.lpd,tree,RingWidth,cm
+NAm-SurpriseValley.Luckman.2001.lpd,tree,Trsgi,NA
+NAm-SurpriseValley.Luckman.2001.lpd,tree,TRW,NA
+NAm-SurpriseValley.Luckman.2001.lpd,tree,Residual,NA
+NAm-SurpriseValley.Luckman.2001.lpd,tree,ARS,NA
+NAm-SurpriseValley.Luckman.2001.lpd,tree,Corrs,NA
+NAm-SurpriseValley.Luckman.2001.lpd,tree,RBar,NA
+NAm-SurpriseValley.Luckman.2001.lpd,tree,SD,NA
+NAm-SurpriseValley.Luckman.2001.lpd,tree,SE,NA
+NAm-SurpriseValley.Luckman.2001.lpd,tree,EPS,NA
+NAm-SurpriseValley.Luckman.2001.lpd,tree,Core,NA
+NAm-SylvanPassbeiCody.Briffa.1996.lpd,tree,SampleCount,count
+NAm-SylvanPassbeiCody.Briffa.1996.lpd,tree,Segment,NA
+NAm-SylvanPassbeiCody.Briffa.1996.lpd,tree,Density,g/cm3
+NAm-SylvanPassbeiCody.Briffa.1996.lpd,tree,MXD,NA
+NAm-SylvanPassbeiCody.Briffa.1996.lpd,tree,Residual,NA
+NAm-SylvanPassbeiCody.Briffa.1996.lpd,tree,ARS,NA
+NAm-SylvanPassbeiCody.Briffa.1996.lpd,tree,Corrs,NA
+NAm-SylvanPassbeiCody.Briffa.1996.lpd,tree,RBar,NA
+NAm-SylvanPassbeiCody.Briffa.1996.lpd,tree,SD,NA
+NAm-SylvanPassbeiCody.Briffa.1996.lpd,tree,SE,NA
+NAm-SylvanPassbeiCody.Briffa.1996.lpd,tree,EPS,NA
+NAm-SylvanPassbeiCody.Briffa.1996.lpd,tree,Core,NA
+NAm-TamarackBowl.Sauchyn.2016.lpd,tree,SampleCount,count
+NAm-TamarackBowl.Sauchyn.2016.lpd,tree,Segment,NA
+NAm-TamarackBowl.Sauchyn.2016.lpd,tree,RingWidth,cm
+NAm-TamarackBowl.Sauchyn.2016.lpd,tree,Trsgi,NA
+NAm-TamarackBowl.Sauchyn.2016.lpd,tree,TRW,NA
+NAm-TamarackBowl.Sauchyn.2016.lpd,tree,Residual,NA
+NAm-TamarackBowl.Sauchyn.2016.lpd,tree,ARS,NA
+NAm-TamarackBowl.Sauchyn.2016.lpd,tree,Corrs,NA
+NAm-TamarackBowl.Sauchyn.2016.lpd,tree,RBar,NA
+NAm-TamarackBowl.Sauchyn.2016.lpd,tree,SD,NA
+NAm-TamarackBowl.Sauchyn.2016.lpd,tree,SE,NA
+NAm-TamarackBowl.Sauchyn.2016.lpd,tree,EPS,NA
+NAm-TamarackBowl.Sauchyn.2016.lpd,tree,Core,NA
+NAm-TimberGapUpper.Graybill.1995.lpd,tree,SampleCount,count
+NAm-TimberGapUpper.Graybill.1995.lpd,tree,Segment,NA
+NAm-TimberGapUpper.Graybill.1995.lpd,tree,RingWidth,cm
+NAm-TimberGapUpper.Graybill.1995.lpd,tree,Trsgi,NA
+NAm-TimberGapUpper.Graybill.1995.lpd,tree,TRW,NA
+NAm-TimberGapUpper.Graybill.1995.lpd,tree,Residual,NA
+NAm-TimberGapUpper.Graybill.1995.lpd,tree,ARS,NA
+NAm-TimberGapUpper.Graybill.1995.lpd,tree,Corrs,NA
+NAm-TimberGapUpper.Graybill.1995.lpd,tree,RBar,NA
+NAm-TimberGapUpper.Graybill.1995.lpd,tree,SD,NA
+NAm-TimberGapUpper.Graybill.1995.lpd,tree,SE,NA
+NAm-TimberGapUpper.Graybill.1995.lpd,tree,EPS,NA
+NAm-TimberGapUpper.Graybill.1995.lpd,tree,Core,NA
+NAm-TogwateePass.Briffa.1996.lpd,tree,SampleCount,count
+NAm-TogwateePass.Briffa.1996.lpd,tree,Segment,NA
+NAm-TogwateePass.Briffa.1996.lpd,tree,Density,g/cm3
+NAm-TogwateePass.Briffa.1996.lpd,tree,MXD,NA
+NAm-TogwateePass.Briffa.1996.lpd,tree,Residual,NA
+NAm-TogwateePass.Briffa.1996.lpd,tree,ARS,NA
+NAm-TogwateePass.Briffa.1996.lpd,tree,Corrs,NA
+NAm-TogwateePass.Briffa.1996.lpd,tree,RBar,NA
+NAm-TogwateePass.Briffa.1996.lpd,tree,SD,NA
+NAm-TogwateePass.Briffa.1996.lpd,tree,SE,NA
+NAm-TogwateePass.Briffa.1996.lpd,tree,EPS,NA
+NAm-TogwateePass.Briffa.1996.lpd,tree,Core,NA
+NAm-TwistedTreeHeartrotHill.Jacoby.1989.lpd,tree,Trsgi,NA
+NAm-TwistedTreeHeartrotHill.Jacoby.1989.lpd,tree,TRW,NA
+NAm-UpperWrightLakes.Graumlich.2005.lpd,tree,SampleCount,count
+NAm-UpperWrightLakes.Graumlich.2005.lpd,tree,Segment,NA
+NAm-UpperWrightLakes.Graumlich.2005.lpd,tree,RingWidth,cm
+NAm-UpperWrightLakes.Graumlich.2005.lpd,tree,Trsgi,NA
+NAm-UpperWrightLakes.Graumlich.2005.lpd,tree,TRW,NA
+NAm-UpperWrightLakes.Graumlich.2005.lpd,tree,Residual,NA
+NAm-UpperWrightLakes.Graumlich.2005.lpd,tree,ARS,NA
+NAm-UpperWrightLakes.Graumlich.2005.lpd,tree,Corrs,NA
+NAm-UpperWrightLakes.Graumlich.2005.lpd,tree,RBar,NA
+NAm-UpperWrightLakes.Graumlich.2005.lpd,tree,SD,NA
+NAm-UpperWrightLakes.Graumlich.2005.lpd,tree,SE,NA
+NAm-UpperWrightLakes.Graumlich.2005.lpd,tree,EPS,NA
+NAm-UpperWrightLakes.Graumlich.2005.lpd,tree,Core,NA
+NAm-VancouverCyprusProvincialPark.Briffa.1996.lpd,tree,SampleCount,count
+NAm-VancouverCyprusProvincialPark.Briffa.1996.lpd,tree,Segment,NA
+NAm-VancouverCyprusProvincialPark.Briffa.1996.lpd,tree,Density,g/cm3
+NAm-VancouverCyprusProvincialPark.Briffa.1996.lpd,tree,MXD,NA
+NAm-VancouverCyprusProvincialPark.Briffa.1996.lpd,tree,Residual,NA
+NAm-VancouverCyprusProvincialPark.Briffa.1996.lpd,tree,ARS,NA
+NAm-VancouverCyprusProvincialPark.Briffa.1996.lpd,tree,Corrs,NA
+NAm-VancouverCyprusProvincialPark.Briffa.1996.lpd,tree,RBar,NA
+NAm-VancouverCyprusProvincialPark.Briffa.1996.lpd,tree,SD,NA
+NAm-VancouverCyprusProvincialPark.Briffa.1996.lpd,tree,SE,NA
+NAm-VancouverCyprusProvincialPark.Briffa.1996.lpd,tree,EPS,NA
+NAm-VancouverCyprusProvincialPark.Briffa.1996.lpd,tree,Core,NA
+NAm-VicaryMine.Sauchyn.2016.lpd,tree,SampleCount,count
+NAm-VicaryMine.Sauchyn.2016.lpd,tree,Segment,NA
+NAm-VicaryMine.Sauchyn.2016.lpd,tree,RingWidth,cm
+NAm-VicaryMine.Sauchyn.2016.lpd,tree,Trsgi,NA
+NAm-VicaryMine.Sauchyn.2016.lpd,tree,TRW,NA
+NAm-VicaryMine.Sauchyn.2016.lpd,tree,Residual,NA
+NAm-VicaryMine.Sauchyn.2016.lpd,tree,ARS,NA
+NAm-VicaryMine.Sauchyn.2016.lpd,tree,Corrs,NA
+NAm-VicaryMine.Sauchyn.2016.lpd,tree,RBar,NA
+NAm-VicaryMine.Sauchyn.2016.lpd,tree,SD,NA
+NAm-VicaryMine.Sauchyn.2016.lpd,tree,SE,NA
+NAm-VicaryMine.Sauchyn.2016.lpd,tree,EPS,NA
+NAm-VicaryMine.Sauchyn.2016.lpd,tree,Core,NA
+NAm-wa069.Peterson.1994.lpd,tree,SampleCount,count
+NAm-wa069.Peterson.1994.lpd,tree,Segment,NA
+NAm-wa069.Peterson.1994.lpd,tree,RingWidth,cm
+NAm-wa069.Peterson.1994.lpd,tree,Trsgi,NA
+NAm-wa069.Peterson.1994.lpd,tree,TRW,NA
+NAm-wa069.Peterson.1994.lpd,tree,Residual,NA
+NAm-wa069.Peterson.1994.lpd,tree,ARS,NA
+NAm-wa069.Peterson.1994.lpd,tree,Corrs,NA
+NAm-wa069.Peterson.1994.lpd,tree,RBar,NA
+NAm-wa069.Peterson.1994.lpd,tree,SD,NA
+NAm-wa069.Peterson.1994.lpd,tree,SE,NA
+NAm-wa069.Peterson.1994.lpd,tree,EPS,NA
+NAm-wa069.Peterson.1994.lpd,tree,Core,NA
+NAm-wa071.Peterson.1994.lpd,tree,SampleCount,count
+NAm-wa071.Peterson.1994.lpd,tree,Segment,NA
+NAm-wa071.Peterson.1994.lpd,tree,RingWidth,cm
+NAm-wa071.Peterson.1994.lpd,tree,Trsgi,NA
+NAm-wa071.Peterson.1994.lpd,tree,TRW,NA
+NAm-wa071.Peterson.1994.lpd,tree,Residual,NA
+NAm-wa071.Peterson.1994.lpd,tree,ARS,NA
+NAm-wa071.Peterson.1994.lpd,tree,Corrs,NA
+NAm-wa071.Peterson.1994.lpd,tree,RBar,NA
+NAm-wa071.Peterson.1994.lpd,tree,SD,NA
+NAm-wa071.Peterson.1994.lpd,tree,SE,NA
+NAm-wa071.Peterson.1994.lpd,tree,EPS,NA
+NAm-wa071.Peterson.1994.lpd,tree,Core,NA
+NAm-WindyRidgeAlaska.D'Arrigo.2005.lpd,tree,SampleCount,count
+NAm-WindyRidgeAlaska.D'Arrigo.2005.lpd,tree,Segment,NA
+NAm-WindyRidgeAlaska.D'Arrigo.2005.lpd,tree,RingWidth,cm
+NAm-WindyRidgeAlaska.D'Arrigo.2005.lpd,tree,Trsgi,NA
+NAm-WindyRidgeAlaska.D'Arrigo.2005.lpd,tree,TRW,NA
+NAm-WindyRidgeAlaska.D'Arrigo.2005.lpd,tree,Residual,NA
+NAm-WindyRidgeAlaska.D'Arrigo.2005.lpd,tree,ARS,NA
+NAm-WindyRidgeAlaska.D'Arrigo.2005.lpd,tree,Corrs,NA
+NAm-WindyRidgeAlaska.D'Arrigo.2005.lpd,tree,RBar,NA
+NAm-WindyRidgeAlaska.D'Arrigo.2005.lpd,tree,SD,NA
+NAm-WindyRidgeAlaska.D'Arrigo.2005.lpd,tree,SE,NA
+NAm-WindyRidgeAlaska.D'Arrigo.2005.lpd,tree,EPS,NA
+NAm-WindyRidgeAlaska.D'Arrigo.2005.lpd,tree,Core,NA
+NAm-WrangellsComposite.D'Arrigo.2006.lpd,tree,SampleCount,count
+NAm-WrangellsComposite.D'Arrigo.2006.lpd,tree,Segment,NA
+NAm-WrangellsComposite.D'Arrigo.2006.lpd,tree,Density,g/cm3
+NAm-WrangellsComposite.D'Arrigo.2006.lpd,tree,MXD,NA
+NAm-WrangellsComposite.D'Arrigo.2006.lpd,tree,Residual,NA
+NAm-WrangellsComposite.D'Arrigo.2006.lpd,tree,ARS,NA
+NAm-WrangellsComposite.D'Arrigo.2006.lpd,tree,Corrs,NA
+NAm-WrangellsComposite.D'Arrigo.2006.lpd,tree,RBar,NA
+NAm-WrangellsComposite.D'Arrigo.2006.lpd,tree,SD,NA
+NAm-WrangellsComposite.D'Arrigo.2006.lpd,tree,SE,NA
+NAm-WrangellsComposite.D'Arrigo.2006.lpd,tree,EPS,NA
+NAm-WrangellsComposite.D'Arrigo.2006.lpd,tree,Core,NA
+NAm-YellowMountainRidge.King.2002.lpd,tree,SampleCount,count
+NAm-YellowMountainRidge.King.2002.lpd,tree,Segment,NA
+NAm-YellowMountainRidge.King.2002.lpd,tree,RingWidth,cm
+NAm-YellowMountainRidge.King.2002.lpd,tree,Trsgi,NA
+NAm-YellowMountainRidge.King.2002.lpd,tree,TRW,NA
+NAm-YellowMountainRidge.King.2002.lpd,tree,Residual,NA
+NAm-YellowMountainRidge.King.2002.lpd,tree,ARS,NA
+NAm-YellowMountainRidge.King.2002.lpd,tree,Corrs,NA
+NAm-YellowMountainRidge.King.2002.lpd,tree,RBar,NA
+NAm-YellowMountainRidge.King.2002.lpd,tree,SD,NA
+NAm-YellowMountainRidge.King.2002.lpd,tree,SE,NA
+NAm-YellowMountainRidge.King.2002.lpd,tree,EPS,NA
+NAm-YellowMountainRidge.King.2002.lpd,tree,Core,NA
+NAm-Ymir.Wilson.2005.lpd,tree,Trsgi,NA
+NAm-Ymir.Wilson.2005.lpd,tree,TRW,NA
+NAm-YosemiteParkEEingang.Briffa.1996.lpd,tree,SampleCount,count
+NAm-YosemiteParkEEingang.Briffa.1996.lpd,tree,Segment,NA
+NAm-YosemiteParkEEingang.Briffa.1996.lpd,tree,Density,g/cm3
+NAm-YosemiteParkEEingang.Briffa.1996.lpd,tree,MXD,NA
+NAm-YosemiteParkEEingang.Briffa.1996.lpd,tree,Residual,NA
+NAm-YosemiteParkEEingang.Briffa.1996.lpd,tree,ARS,NA
+NAm-YosemiteParkEEingang.Briffa.1996.lpd,tree,Corrs,NA
+NAm-YosemiteParkEEingang.Briffa.1996.lpd,tree,RBar,NA
+NAm-YosemiteParkEEingang.Briffa.1996.lpd,tree,SD,NA
+NAm-YosemiteParkEEingang.Briffa.1996.lpd,tree,SE,NA
+NAm-YosemiteParkEEingang.Briffa.1996.lpd,tree,EPS,NA
+NAm-YosemiteParkEEingang.Briffa.1996.lpd,tree,Core,NA
+Ocn-AbrahamReef.Druffel.1999.lpd,coral,D18O,permil
+Ocn-AbrahamReef.Druffel.1999.lpd,coral,D13C,permil
+Ocn-AlboranSea384B.Nieto-Moreno.2013.lpd,marine sediment,GhostMeasured,NotApplicable
+Ocn-AlboranSea436B.Nieto-Moreno.2013.lpd,marine sediment,GhostMeasured,NotApplicable
+Ocn-AmedeeIsland.DeLong.2012.lpd,coral,Sr Ca,mmol/mol
+Ocn-AmedeeIsland.DeLong.2012.lpd,coral,Sr/Ca,mmol/mol
+Ocn-AqabaJordanAQ18.Heiss.1999.lpd,coral,D18O,permil
+Ocn-AqabaJordanAQ18.Heiss.1999.lpd,coral,D13C,permil
+Ocn-AqabaJordanAQ19.Heiss.1999.lpd,coral,D18O,permil
+Ocn-AqabaJordanAQ19.Heiss.1999.lpd,coral,D13C,permil
+Ocn-Bermuda.DraschbaA.2000.lpd,coral,D18O,permil
+Ocn-Bermuda.DraschbaB.2000.lpd,coral,D18O,permil
+Ocn-BermudaSouthShore.Goodkin.2008.lpd,coral,Sr Ca,mmol/mol
+Ocn-BermudaSouthShore.Goodkin.2008.lpd,coral,Sr/Ca,mmol/mol
+Ocn-BiscayneBay.Swart.1996.lpd,coral,D18O,permil
+Ocn-BuccooReefTobagoMontastrea.Moses.2006.lpd,coral,D18O,permil
+Ocn-BuccooReefTobagoMontastrea.Moses.2006.lpd,coral,D13C,permil
+Ocn-BuccooReefTobagoSidereastrea.Moses.2006.lpd,coral,D13C,permil
+Ocn-BunakenIsland.Charles.2003.lpd,coral,D18O,permil
+Ocn-BundegireefNingaloo.Cooper.2012.lpd,coral,Calcification1,g/cm/yr
+Ocn-BundegireefNingaloo.Cooper.2012.lpd,coral,Calcification2,g/cm/yr
+Ocn-BundegireefNingaloo.Cooper.2012.lpd,coral,Calcification3,g/cm/yr
+Ocn-BundegireefNingaloo.Cooper.2012.lpd,coral,Composite,percent
+Ocn-BundegireefNingaloo.Cooper.2012.lpd,coral,CalcificationRate,percent
+Ocn-BundegireefNingaloo.Cooper.2012.lpd,coral,Calcification4,g/cm/yr
+Ocn-CapeGhir.McGregor.2007.lpd,marine sediment,Uk37,NotApplicable
+Ocn-CapeGhir.McGregor.2007.lpd,marine sediment,Notes,NotApplicable
+Ocn-CapeGhir.McGregor.2007.lpd,marine sediment,Notes1,NotApplicable
+Ocn-CapeHatteras.Cleroux.2008.lpd,marine sediment,GhostMeasured,NotApplicable
+Ocn-CariacoBasin.Black.2007.lpd,marine sediment,Mg Ca,NotApplicable
+Ocn-CariacoBasin.Lea.2003.lpd,marine sediment,Mg Ca,NotApplicable
+Ocn-ClerkeReefRowleyShoals.Cooper.2012.lpd,coral,Calcification1,g/cm/yr
+Ocn-ClerkeReefRowleyShoals.Cooper.2012.lpd,coral,Calcification2,g/cm/yr
+Ocn-ClerkeReefRowleyShoals.Cooper.2012.lpd,coral,Calcification3,g/cm/yr
+Ocn-ClerkeReefRowleyShoals.Cooper.2012.lpd,coral,Composite,percent
+Ocn-ClerkeReefRowleyShoals.Cooper.2012.lpd,coral,CalcificationRate,percent
+Ocn-ClerkeReefRowleyShoals.Cooper.2012.lpd,coral,Calcification4,g/cm/yr
+Ocn-ClerkeReefRowleyShoals.Cooper.2012.lpd,coral,Calcification5,g/cm/yr
+Ocn-Clipperton1b.Wu.2014.lpd,coral,D18O,permil
+Ocn-Clipperton1b.Wu.2014.lpd,coral,Sr Ca,mmol/mol
+Ocn-Clipperton1b.Wu.2014.lpd,coral,Sr/Ca,mmol/mol
+Ocn-Clipperton2b.Wu.2014.lpd,coral,Sr Ca,mmol/mol
+Ocn-Clipperton2b.Wu.2014.lpd,coral,Sr/Ca,mmol/mol
+Ocn-Clipperton4b.Wu.2014.lpd,coral,Sr Ca,mmol/mol
+Ocn-Clipperton4b.Wu.2014.lpd,coral,Sr/Ca,mmol/mol
+Ocn-Clipperton6a.Wu.2014.lpd,coral,Sr Ca,mmol/mol
+Ocn-Clipperton6a.Wu.2014.lpd,coral,Sr/Ca,mmol/mol
+Ocn-ClippertonAtoll.Linsley.2000.lpd,coral,D18O,permil
+Ocn-ClippertonAtoll.Linsley.2000.lpd,coral,D13C,permil
+Ocn-CoralBayNingaloo.Cooper.2012.lpd,coral,Calcification1,g/cm/yr
+Ocn-CoralBayNingaloo.Cooper.2012.lpd,coral,Calcification2,g/cm/yr
+Ocn-CoralBayNingaloo.Cooper.2012.lpd,coral,Calcification3,g/cm/yr
+Ocn-CoralBayNingaloo.Cooper.2012.lpd,coral,Composite,percent
+Ocn-CoralBayNingaloo.Cooper.2012.lpd,coral,CalcificationRate,percent
+Ocn-CoralBayNingaloo.Cooper.2012.lpd,coral,Calcification4,g/cm/yr
+Ocn-CoralSea.Calvo.2007.lpd,coral,D18O,permil
+Ocn-CoralSea.Calvo.2007.lpd,coral,Sr Ca,mmol/mol
+Ocn-CoralSea.Calvo.2007.lpd,coral,Sr/Ca,mmol/mol
+Ocn-DoubleReef.Asami.2005.lpd,coral,D18O,permil
+Ocn-DryTortugas.DeLong.2014.lpd,coral,Sr Ca,mmol/mol
+Ocn-DryTortugas.DeLong.2014.lpd,coral,Sr/Ca,mmol/mol
+Ocn-EasternTropicalNorthAtlantic.Kuhnert.2011.lpd,marine sediment,Mg Ca,NotApplicable
+Ocn-FiskBasin.Richey.2009.lpd,marine sediment,Mg Ca,NotApplicable
+Ocn-FloridaBay.Swart.1996.lpd,coral,D18O,permil
+Ocn-FloridaBay.Swart.1996.lpd,coral,D13C,permil
+Ocn-GBR.Wei.2009.lpd,coral,D18O,permil
+Ocn-GBR.Wei.2009.lpd,coral,Sr Ca,mmol/mol
+Ocn-GBR.Wei.2009.lpd,coral,Sr/Ca,mmol/mol
+Ocn-GBR.Wei.2009.lpd,coral,D13C,permil
+Ocn-GingerbreadsBahamas.Saenger.2009.lpd,coral,Calcification,cm/yr
+Ocn-GreatBarrierReef.Hendy.2002.lpd,coral,Sr Ca,NotApplicable
+Ocn-Guadeloupe.Steinhilber.2010.lpd,coral,D18O,permil
+Ocn-Guadeloupe.Steinhilber.2010.lpd,coral,Sr Ca,mmol/mol
+Ocn-Guadeloupe.Steinhilber.2010.lpd,coral,Sr/Ca,mmol/mol
+Ocn-GulfofGuinea.Weldeab.2007.lpd,marine sediment,Mg Ca,NotApplicable
+Ocn-GulfofMaine.Wanamaker.2007.lpd,bivalve,D18O,permil
+Ocn-HaferaIsland.Wu.2013.lpd,coral,Sr Ca,mmol/mol
+Ocn-HaferaIsland.Wu.2013.lpd,coral,Sr/Ca,mmol/mol
+Ocn-HoutmanAbrolhos.Kuhnert.1999.lpd,coral,D18O,permil
+Ocn-HoutmanAbrolhos.Kuhnert.1999.lpd,coral,D13C,permil
+Ocn-HoutmanAbrolhosHAB05B.Zinke.2014.lpd,coral,Sr Ca,mmol/mol
+Ocn-HoutmanAbrolhosHAB05B.Zinke.2014.lpd,coral,Sr/Ca,mmol/mol
+Ocn-HoutmanAbrolhosHAB10A.Zinke.2014.lpd,coral,D18O,permil
+Ocn-HoutmanAbrolhosHAB10A.Zinke.2014.lpd,coral,Sr Ca,mmol/mol
+Ocn-HoutmanAbrolhosHAB10A.Zinke.2014.lpd,coral,Sr/Ca,mmol/mol
+Ocn-HoutmanAbrolhosIslands.Cooper.2012.lpd,coral,Calcification1,g/cm/yr
+Ocn-HoutmanAbrolhosIslands.Cooper.2012.lpd,coral,Calcification2,g/cm/yr
+Ocn-HoutmanAbrolhosIslands.Cooper.2012.lpd,coral,Calcification3,g/cm/yr
+Ocn-HoutmanAbrolhosIslands.Cooper.2012.lpd,coral,Composite,percent
+Ocn-HoutmanAbrolhosIslands.Cooper.2012.lpd,coral,CalcificationRate,percent
+Ocn-Ifaty1.Zinke.2014.lpd,coral,D18O,permil
+Ocn-Ifaty4.Zinke.2004.lpd,coral,D18O,permil
+Ocn-IfatyTul3.Zinke.2014.lpd,coral,D18O,permil
+Ocn-ImperieuseRowleyShoals.Cooper.2012.lpd,coral,Calcification1,g/cm/yr
+Ocn-ImperieuseRowleyShoals.Cooper.2012.lpd,coral,Calcification2,g/cm/yr
+Ocn-ImperieuseRowleyShoals.Cooper.2012.lpd,coral,Calcification3,g/cm/yr
+Ocn-ImperieuseRowleyShoals.Cooper.2012.lpd,coral,Composite,percent
+Ocn-ImperieuseRowleyShoals.Cooper.2012.lpd,coral,CalcificationRate,percent
+Ocn-ImperieuseRowleyShoals.Cooper.2012.lpd,coral,Calcification4,g/cm/yr
+Ocn-JacafFjord.Sepúlveda.2009.lpd,marine sediment,Uk37,NotApplicable
+Ocn-Kiritimati.Evans.1998.lpd,coral,D18O,permil
+Ocn-Kiritimati.Evans.1998.lpd,coral,D13C,permil
+Ocn-KuroshioCurrent.Isono.2009.lpd,marine sediment,Core,NotApplicable
+Ocn-LaingIslandPapuaNewGuinea.Tudhope.2001.lpd,coral,D18O,permil
+Ocn-Lombok.Charles.2003.lpd,coral,D18O,permil
+Ocn-LosRoques.Hetzinger.2008.lpd,coral,D18O,permil
+Ocn-MadangLagoonPapuaNewGuinea.Kuhnert.2001.lpd,coral,D18O,permil
+Ocn-MadangLagoonPapuaNewGuinea.Tudhope.1995.lpd,coral,D18O,permil
+Ocn-Mafia.Damassa.2006.lpd,coral,D18O,permil
+Ocn-Mahe.Charles.1997.lpd,coral,D18O,permil
+Ocn-Maiana.Urban.2000.lpd,coral,D18O,permil
+Ocn-Malindi.Cole.2000.lpd,coral,D18O,permil
+Ocn-Malindi.Nakamura.2009.lpd,coral,D18O,permil
+Ocn-MaloChannelEspirituSantoIsland.Kilbourne.2004.lpd,coral,D18O,permil
+Ocn-MaloChannelEspirituSantoIsland.Kilbourne.2004.lpd,coral,Sr Ca,mmol/mol
+Ocn-MaloChannelEspirituSantoIsland.Kilbourne.2004.lpd,coral,Sr/Ca,mmol/mol
+Ocn-MaloChannelEspirituSantoIsland.Kilbourne.2004.lpd,coral,D13C,permil
+Ocn-Mayotte.Zinke.2008.lpd,coral,Sr Ca,mmol/mol
+Ocn-Mayotte.Zinke.2008.lpd,coral,Sr/Ca,mmol/mol
+Ocn-MD98-2160.Newton.2010.lpd,marine sediment,GhostMeasured,NotApplicable
+Ocn-MD98-2177.Newton.2010.lpd,marine sediment,GhostMeasured,NotApplicable
+Ocn-MentawaiIslands.Abram.2008.lpd,coral,D18O,permil
+Ocn-MinorcaContourite.Moreno.2012.lpd,marine sediment,Uk37,NotApplicable
+Ocn-MinorcaContourite.Moreno.2012.lpd,marine sediment,Notes,NotApplicable
+Ocn-Miyanohama.Felis.2009.lpd,coral,D18O,permil
+Ocn-Miyanohama.Felis.2009.lpd,coral,Sr Ca,mmol/mol
+Ocn-Miyanohama.Felis.2009.lpd,coral,Sr/Ca,mmol/mol
+Ocn-Miyanohama.Felis.2009.lpd,coral,D13C,permil
+Ocn-MontegoBayJamaica.Haase-Schramm.2003.lpd,physical sample,Sr Ca,mmol/mol
+Ocn-MontegoBayJamaica.Haase-Schramm.2003.lpd,physical sample,Sr/Ca,mmol/mol
+Ocn-Moorea.Boiseau.1998.lpd,coral,D18O,permil
+Ocn-Nauru.Guilderson.1999.lpd,coral,D18O,permil
+Ocn-Nauru.Guilderson.1999.lpd,coral,D13C,permil
+Ocn-NewIrelandPapua.Alibert.2008.lpd,coral,Sr Ca,mmol/mol
+Ocn-NewIrelandPapua.Alibert.2008.lpd,coral,Sr/Ca,mmol/mol
+Ocn-Ningaloo.Kuhnert.2000.lpd,coral,D18O,permil
+Ocn-Ningaloo.Kuhnert.2000.lpd,coral,D13C,permil
+Ocn-NorthEastBreakers_Bermuda.Kuhnert.2002.lpd,coral,Sr Ca,mmol/mol
+Ocn-NorthEastBreakers_Bermuda.Kuhnert.2002.lpd,coral,Sr/Ca,mmol/mol
+Ocn-NorthEastBreakers_Bermuda.Kuhnert.2005.lpd,coral,Sr Ca,mmol/mol
+Ocn-NorthEastBreakers_Bermuda.Kuhnert.2005.lpd,coral,Sr/Ca,mmol/mol
+Ocn-ODP984.Came.2007.lpd,marine sediment,Mg Ca,NotApplicable
+Ocn-PalauRockIslands.Osborne.2014.lpd,coral,D18O,permil
+Ocn-PalauRockIslands.Osborne.2014.lpd,coral,D13C,permil
+Ocn-PalauUlongChannel.Osborne.2014.lpd,coral,D18O,permil
+Ocn-PalauUlongChannel.Osborne.2014.lpd,coral,D13C,permil
+Ocn-Palmyra.Cobb.2003.lpd,coral,D18O,permil
+Ocn-Palmyra.Nurhati.2011.lpd,coral,D18O,permil
+Ocn-PedradeLume-CapeVerdeIslands.Moses.2006.lpd,coral,D18O,permil
+Ocn-PedroBankJamaica.Haase-Schramm.2003.lpd,physical sample,Sr/Ca,mmol/mol
+Ocn-PigmyBasin.Richey.2015.lpd,marine sediment,Mg Ca,NotApplicable
+Ocn-PuntaMaroma.Vásquez-Bedoya.2012.lpd,coral,Calcification,mm/yr
+Ocn-Rabaul.Quinn.2006.lpd,coral,D18O,permil
+Ocn-Rabaul.Quinn.2006.lpd,coral,Sr Ca,mmol/mol
+Ocn-Rabaul.Quinn.2006.lpd,coral,Sr/Ca,mmol/mol
+Ocn-Rabaul.Quinn.2006.lpd,coral,D13C,permil
+Ocn-RarotongaSrCa2r.Linsley.2006.lpd,coral,Sr Ca,mmol/mol
+Ocn-RarotongaSrCa2r.Linsley.2006.lpd,coral,Sr/Ca,mmol/mol
+Ocn-Rarotonga_d18O2R.Linsley.2006.lpd,coral,D18O,permil
+Ocn-Rarotonga_d18O2R.Linsley.2006.lpd,coral,D13C,permil
+Ocn-Rarotonga_d18O3R.Linsley.2006.lpd,coral,D18O,permil
+Ocn-Rarotonga_d18O3R.Linsley.2006.lpd,coral,D13C,permil
+Ocn-Rarotonga_d18O99.Linsley.2006.lpd,coral,D18O,permil
+Ocn-Rarotonga_d18O99.Linsley.2006.lpd,coral,D13C,permil
+Ocn-RedSea.Felis.2000.lpd,coral,D18O,permil
+Ocn-Reunion.Pfeiffer.2004.lpd,coral,D18O,permil
+Ocn-SantaBarbaraBasin.Zhao.2000.lpd,marine sediment,Core,NotApplicable
+Ocn-SavusavuBay1F.Linsley.2006.lpd,coral,D18O,permil
+Ocn-SavusavuBay1F.Linsley.2006.lpd,coral,Sr Ca,mmol/mol
+Ocn-SavusavuBay1F.Linsley.2006.lpd,coral,Sr/Ca,mmol/mol
+Ocn-SavusavuBayAB.Linsley.2006.lpd,coral,D18O,permil
+Ocn-SavusavuBayFiji.Bagnato.2005.lpd,coral,D18O,permil
+Ocn-SecasIslandPanama.Linsley.1994.lpd,coral,D18O,permil
+"Ocn-SinaiPeninsula,RedSea.Moustafa.2000.lpd",coral,D18O,permil
+Ocn-SouthAtlanticWestAfrica.Leduc.2010.lpd,marine sediment,Uk37,NotApplicable
+Ocn-TagusMudPatch.Abrantes.2005.lpd,marine sediment,Core,NotApplicable
+Ocn-TagusMudPatch.Abrantes.2005.lpd,marine sediment,Uk37,NotApplicable
+Ocn-TantabiddiReefNingaloo.Cooper.2012.lpd,coral,Calcification1,g/cm/yr
+Ocn-TantabiddiReefNingaloo.Cooper.2012.lpd,coral,Calcification2,g/cm/yr
+Ocn-TantabiddiReefNingaloo.Cooper.2012.lpd,coral,Calcification3,g/cm/yr
+Ocn-TantabiddiReefNingaloo.Cooper.2012.lpd,coral,Composite,percent
+Ocn-TantabiddiReefNingaloo.Cooper.2012.lpd,coral,CalcificationRate,percent
+Ocn-TantabiddiReefNingaloo.Cooper.2012.lpd,coral,Calcification4,g/cm/yr
+Ocn-TantabiddiReefNingaloo.Cooper.2012.lpd,coral,Calcification5,g/cm/yr
+Ocn-TantabiddiReefNingaloo.Cooper.2012.lpd,coral,Calcification6,g/cm/yr
+Ocn-TantabiddiReefNingaloo.Cooper.2012.lpd,coral,Calcification7,g/cm/yr
+Ocn-Tarawa.Cole.1990.lpd,coral,D18O,permil
+Ocn-TongueoftheOcean.Rosenheim.2005.lpd,sclerosponge,D18O,permil
+Ocn-TongueoftheOcean.Rosenheim.2005.lpd,sclerosponge,Sr Ca,mmol/mol
+Ocn-TongueoftheOcean.Rosenheim.2005.lpd,sclerosponge,Sr/Ca,mmol/mol
+Ocn-TongueoftheOceanExuma.Rosenheim.2005.lpd,coral,D18O,permil
+Ocn-TongueoftheOceanExuma.Rosenheim.2005.lpd,coral,Sr Ca,mmol/mol
+Ocn-TongueoftheOceanExuma.Rosenheim.2005.lpd,coral,Sr/Ca,mmol/mol
+Ocn-TurrumoteReefPuertoRico.Kilbourne.2008.lpd,coral,D18O,permil
+Ocn-TurrumoteReefPuertoRico.Kilbourne.2008.lpd,coral,Sr Ca,mmol/mol
+Ocn-TurrumoteReefPuertoRico.Kilbourne.2008.lpd,coral,Sr/Ca,mmol/mol
+Ocn-TurrumoteReefPuertoRico.Kilbourne.2008.lpd,coral,D13C,permil
+Ocn-UrvinaBay.Dunbar.1994.lpd,coral,D18O,permil
+Ocn-Vanuatu.Gorman.2012.lpd,coral,D18O,permil
+Ocn-Vanuatu.Gorman.2012.lpd,coral,D13C,permil
+Ocn-Vanuatu.Quinn.1996.lpd,coral,D18O,permil
+Ocn-WesternAntarcticPeninsula.Shevenell.2011.lpd,marine sediment,TEX86,NotApplicable
+Ocn-XishaIslandSouthChinaSea.Sun.2004.lpd,coral,Sr Ca,mmol/mol
+Ocn-XishaIslandSouthChinaSea.Sun.2004.lpd,coral,Sr/Ca,mmol/mol
+ODP1019.Barron.2003.lpd,marine sediment,Uk37Prime,NotApplicable
+ODP1098B.Shevenell.2011.lpd,marine sediment,D18O,per mil
+ODP658.Sarnthein.1989.lpd,marine sediment,D18O,per mil
+ODP658.Sarnthein.1989.lpd,marine sediment,D13C,per mil
+ODP658.Sarnthein.1989.lpd,marine sediment,D18O,per mil
+ODP658.Sarnthein.1989.lpd,marine sediment,D13C,per mil
+ODP658.Sarnthein.1989.lpd,marine sediment,D18O,per mil
+ODP658.Sarnthein.1989.lpd,marine sediment,D18O,per mil
+ODP659.Tiedemann.1994.lpd,marine sediment,Dust,percent
+ODP659.Tiedemann.1994.lpd,marine sediment,DryBulkDensity,g/cm^3
+ODP662.Lisiecki.2005.lpd,marine sediment,D18O,per mil
+ODP664.Raymo.1997.lpd,marine sediment,D18O,per mil
+ODP976.Jimenez-Amat.2015.lpd,marine sediment,D18O,per mil
+ODP976.Jimenez-Amat.2015.lpd,marine sediment,Mg/Ca,mmol/mol
+P178-15P.Tierney.2015.lpd,marine sediment,Uk37Prime,NotApplicable
+P178-15P.Tierney.2015.lpd,marine sediment,TEX86,NotApplicable
+P178-15P.Tierney.2015.lpd,marine sediment,Mg/Ca,mmol/mol
+P178-15P.Tierney.2015.lpd,marine sediment,D18O,per mil SMOW
+Palmyra.Cobb.2013.lpd,coral,D18O,per mil
+SAm-CentralAndes11.PAGES2k.2011.lpd,tree,Trsgi,NA
+SAm-CentralAndes11.PAGES2k.2011.lpd,tree,TRW,NA
+SAm-CentralAndes15.Neukom.2014.lpd,physical sample,Trsgi,NA
+SAm-CentralAndes15.Neukom.2014.lpd,physical sample,TRW,NA
+SAm-CentralAndes6.Villalba.2014.lpd,physical sample,Trsgi,NA
+SAm-CentralAndes6.Villalba.2014.lpd,physical sample,TRW,NA
+SAm-CentralAndes6.Villalba.2014.lpd,physical sample,Trsgi1,NA
+SAm-CentralAndes6.Villalba.2014.lpd,physical sample,TRW,NA
+SAm-CentralAndes6.Villalba.2014.lpd,physical sample,Trsgi2,NA
+SAm-CentralAndes6.Villalba.2014.lpd,physical sample,TRW,NA
+SAm-CentralAndes6.Villalba.2014.lpd,physical sample,Trsgi3,NA
+SAm-CentralAndes6.Villalba.2014.lpd,physical sample,TRW,NA
+SAm-CentralAndes6.Villalba.2014.lpd,physical sample,Trsgi4,NA
+SAm-CentralAndes6.Villalba.2014.lpd,physical sample,TRW,NA
+SAm-CentralAndes9.Mundo.2014.lpd,physical sample,Trsgi,NA
+SAm-CentralAndes9.Mundo.2014.lpd,physical sample,TRW,NA
+SAm-CentralAndes9.Mundo.2014.lpd,physical sample,Trsgi1,NA
+SAm-CentralAndes9.Mundo.2014.lpd,physical sample,TRW,NA
+SAm-CentralAndes9.Mundo.2014.lpd,physical sample,Trsgi2,NA
+SAm-CentralAndes9.Mundo.2014.lpd,physical sample,TRW,NA
+SAm-CentralAndes9.Mundo.2014.lpd,physical sample,Trsgi3,NA
+SAm-CentralAndes9.Mundo.2014.lpd,physical sample,TRW,NA
+SAm-CentralAndes9.Mundo.2014.lpd,physical sample,Trsgi4,NA
+SAm-CentralAndes9.Mundo.2014.lpd,physical sample,TRW,NA
+SAm-LagunaAculeo.vonGunten.2009.lpd,lake sediment,R660 670,NA
+SAm-LagunaAculeo.vonGunten.2009.lpd,lake sediment,Reflectance,NA
+SAm-LagunaChepical.deJong.2013.lpd,lake sediment,R570 630,NA
+SAm-LagunaChepical.deJong.2013.lpd,lake sediment,Reflectance,NA
+SAm-LagunaEscondida.Elbert.2013.lpd,lake sediment,BSi,mg/cm2/yr
+SAm-QuelccayaIceCap.Thompson.2013.lpd,glacier ice,D18O,permil
+SAm-QuelccayaIceCap.Thompson.2013.lpd,glacier ice,Thickness,mwe
+SAm-QuelccayaIceCap.Thompson.2013.lpd,glacier ice,IceAccumulation,mwe
+SAm-QuelccayaIceCap.Thompson.2013.lpd,glacier ice,Dust,permil
+SAm-QuelccayaIceCap.Thompson.2013.lpd,glacier ice,F,ppb
+SAm-QuelccayaIceCap.Thompson.2013.lpd,glacier ice,Cl,ppb
+SAm-QuelccayaIceCap.Thompson.2013.lpd,glacier ice,Sulfate,ppb
+SAm-QuelccayaIceCap.Thompson.2013.lpd,glacier ice,Nitrate,ppb
+SAm-QuelccayaIceCap.Thompson.2013.lpd,glacier ice,Na,ppb
+SAm-QuelccayaIceCap.Thompson.2013.lpd,glacier ice,Ammonium,ppb
+SAm-QuelccayaIceCap.Thompson.2013.lpd,glacier ice,K,ppb
+SAm-QuelccayaIceCap.Thompson.2013.lpd,glacier ice,Mg,ppb
+SAm-QuelccayaIceCap.Thompson.2013.lpd,glacier ice,Ca,ppb
+SK168-GC1.Gebregiorgis.2016.lpd,marine sediment,D18O,per mil
+SK168-GC1.Gebregiorgis.2016.lpd,marine sediment,D18O,per mil
+SK168-GC1.Gebregiorgis.2016.lpd,marine sediment,Mg/Ca,mmol/mol
+SK168-GC1.Gebregiorgis.2016.lpd,marine sediment,Mg/Ca,mmol/mol
+SK168-GC1.Gebregiorgis.2016.lpd,marine sediment,Ba/Ca,µmol/mol
+SK237-GC04.Saraswat.2013.lpd,marine sediment,Mg/Ca,mmol/mol
+SK237-GC04.Saraswat.2013.lpd,marine sediment,D18O,per mil VPDB
+SK237-GC04.Saraswat.2013.lpd,marine sediment,Ba/Ca,microm/m
+TestDataset.2017.Khider.lpd,h,D18o,cm
+TestDataset.2017.Khider.lpd,h,Mg/Ca,mmol/mol
+TestDataset.2017.Khider.lpd,h,D18O,per mil VPDB
+TR163-22.Lea.2006.lpd,marine sediment,D18O,per mil
+TR163-22.Lea.2006.lpd,marine sediment,D18O,per mil
+TR163-22.Lea.2006.lpd,marine sediment,Mg/Ca,mmol/mol

@@ -1,0 +1,176 @@
+filename,archiveType,proxyObservationType,inferredVariableType,units
+A7.Oppo.2005.lpd,marine sediment,Mg/Ca,Sea Surface Temperature,deg C
+Afr-LakeMalawi.Powers.2011.lpd,lake sediment,NA,Temperature,degC
+Afr-LakeTanganyika.Tierney.2010.lpd,lake sediment,NA,Temperature,degC
+Afr-P178-15P.Tierney.2015.lpd,marine sediment,NA,Temperature,degC
+Ant-Vostok.Ekaykin.2014.lpd,glacier ice,NA,Temperature,degC
+Arc-HalletLake.McKay.2008.lpd,lake sediment,NA,Temperature,degC
+Arc-HalletLake.McKay.2008.lpd,lake sediment,NA,Uncertainty temperature,degC
+Arc-Kongressvatnet.D'Andrea.2012.lpd,lake sediment,NA,Temperature,degC
+Arc-SoperLake.Hughen.2000.lpd,lake sediment,NA,Temperature,degC
+Arc-Tornetrask.Melvin.2012.lpd,tree,NA,Temperature,degC
+Arc-Tornetrask.Melvin.2012.lpd,tree,NA,Temperature1,degC
+Asi-KunashirIsland.Demezhko.2009.lpd,hybrid,NA,Temperature,degC
+Asi-SihailongwaLake.Chu.2011.lpd,lake sediment,NA,Temperature,degC
+Asi-SO90-39KG_SO130-275KL.Munz.2015.lpd,marine sediment,NA,Temperature,degC
+BJ8-03-13GGC.Linsley.2010.lpd,marine sediment,D18O,D18O,per mil
+BJ8-03-13GGC.Linsley.2010.lpd,marine sediment,Mg/Ca,Sea Surface Temperature,deg C
+BJ8-03-13GGC.Linsley.2010.lpd,marine sediment,NA,Sea Surface Temperature,deg C
+BJ8-03-70GGC.Linsley.2010.lpd,marine sediment,Mg/Ca,Sea Surface Temperature,deg C
+BJ8-03-70GGC.Linsley.2010.lpd,marine sediment,NA,Sea Surface Temperature,deg C
+Eur-CentralandEasternPyrenees.Pla.2004.lpd,lake sediment,NA,Temperature,degC
+Eur-CentralandEasternPyrenees.Pla.2004.lpd,lake sediment,NA,Uncertainty temperature,degC
+Eur-Tallinn.Tarand.2001.lpd,documents,NA,Temperature,degC
+GeoB10042-1.Setiawan.2016.lpd,marine sediment,Mg/Ca,Sea Surface Temperature,deg C
+GeoB10042-1.Setiawan.2016.lpd,marine sediment,D18O,D18O,per mil
+GeoB10042-1.Setiawan.2016.lpd,marine sediment,NA,Relative Sea Level,m
+GeoB10043-3.Setiawan.2016.lpd,marine sediment,Mg/Ca,Sea Surface Temperature,deg C
+GeoB10043-3.Setiawan.2016.lpd,marine sediment,D18O,D18O,per mil
+GeoB10043-3.Setiawan.2016.lpd,marine sediment,NA,Relative Sea Level,m
+GeoB10069-3.Gibbons.2014.lpd,marine sediment,Mg/Ca,Sea Surface Temperature,deg C
+GeoB10069-3.Gibbons.2014.lpd,marine sediment,Mg/Ca,D18O,per mil
+GeoB10069-3.Gibbons.2014.lpd,marine sediment,NA,D18O,per mil
+GeoB1023-5.Kim.2002.lpd,marine sediment,NA,Sedimentation Rate,cm/kyr
+GeoB1023-5.Kim.2002.lpd,marine sediment,Uk37Prime,Sea Surface Temperature,deg C
+GeoB12605-3.Kuhnert.2014.lpd,marine sediment,Mg/Ca,Sea Surface Temperature,deg C
+GeoB12605-3.Kuhnert.2014.lpd,marine sediment,D18O,D18O,per mil
+GeoB12610-2.Rippert.2015.lpd,marine sediment,Mg/Ca,Sea Surface Temperature,deg C
+GeoB12610-2.Rippert.2015.lpd,marine sediment,NA,Sea Surface Temperature,deg C
+GeoB12610-2.Rippert.2015.lpd,marine sediment,Mg/Ca,Thermocline Temperature,deg C
+GeoB12610-2.Rippert.2015.lpd,marine sediment,NA,Thermocline Temperature,deg C
+GeoB3129-1.Weldeab.2006.lpd,marine sediment,NA,Sea Surface Temperature,deg C
+GeoB3129-1.Weldeab.2006.lpd,marine sediment,D18O,D18O,per mil
+GeoB3129-1.Weldeab.2006.lpd,marine sediment,NA,Sea Surface Salinity,psu
+GeoB33021.Kim.2002.lpd,marine sediment,NA,Sedimentation Rate,cm
+GeoB33021.Kim.2002.lpd,marine sediment,Uk37Prime,Sea Surface Temperature,deg C
+GeoB3911-3.Weldeab.2006.lpd,marine sediment,NA,Sea Surface Temperature,deg C
+GeoB3911-3.Weldeab.2006.lpd,marine sediment,NA,Sea Surface Salinity,psu
+GeoB7702-3.Castaneda.2010.lpd,marine sediment,TEX86,Sea Surface Temperature,deg C
+GeoB7702-3.Castaneda.2010.lpd,marine sediment,Uk37Prime,Sea Surface Temperature,deg C
+GIK16160-3.Wang.2003.lpd,marine sediment,Uk37Prime,Sea Surface Temperature,deg C
+GIK17748-2.Kim.2002.lpd,marine sediment,NA,Sedimentation Rate,cm/kyr
+GIK17748-2.Kim.2002.lpd,marine sediment,Uk37Prime,Sea Surface Temperature,deg C
+GIK17940-2.Pelejero.1999.lpd,marine sediment,Uk37,Sea Surface Temperature,deg C
+GIK17940-2.Pelejero.1999.lpd,marine sediment,NA,Sea Surface Temperature,deg C
+JR51GC35.Bendle.2007.lpd,marine sediment,Uk37,Sea Surface Temperature,deg C
+JR51GC35.Bendle.2007.lpd,marine sediment,Uk37,Sea Surface Temperature,deg C
+KNR166-2-26JPC.Schmidt.2011.lpd,marine sediment,Mg/Ca,Sea Surface Temperature,deg C
+KNR166-2-26JPC.Schmidt.2011.lpd,marine sediment,D18O,D18O,per mil
+KNR166-2JPC51.Schmidt.2012.lpd,marine sediment,NA,Sea Surface Temperature,deg C
+KNR166-2JPC51.Schmidt.2012.lpd,marine sediment,D18O,D18O,per mil
+KNR166-2JPC51.Schmidt.2012.lpd,marine sediment,NA,D18O,per mil
+KNR195-5-CDH23.Bova.2015.lpd,marine sediment,Uk37Prime,Sea Surface Temperature,deg C
+KNR195-5_CDH26.Bova.2015.lpd,marine sediment,Uk37Prime,Sea Surface Temperature,deg C
+KT05-7_PC02.Kawahata.2009.lpd,marine sediment,Uk37Prime,Sea Surface Temperature,deg C
+LV29-114-3.Max.2012.lpd,marine sediment,Uk37Prime,Sea Surface Temperature,deg C
+LV29-114-3.Max.2012.lpd,marine sediment,Uk37Prime,Sea Surface Temperature,deg C
+LV29-114-3.Max.2012.lpd,marine sediment,Uk37Prime,Sea Surface Temperature,deg C
+M25_4-KL1.Emeis.2000.lpd,marine sediment,Uk37Prime,Sea Surface Temperature,deg C
+M35003-4.Ruehlemann.1999.lpd,marine sediment,NA,Radiocarbon Age,kyr BP
+M35003-4.Ruehlemann.1999.lpd,marine sediment,NA,Sea Surface Temperature,deg C
+M77-2_056.Nurnberg.2015.lpd,marine sediment,Mg/Ca,Sea Surface Temperature,deg C
+M77-2_056.Nurnberg.2015.lpd,marine sediment,D18O,D18O,per mil
+M77-2_056.Nurnberg.2015.lpd,marine sediment,Mg/Ca,Temperature,deg C
+M77-2_056.Nurnberg.2015.lpd,marine sediment,D18O,D18O,per mil
+MD01-2378.Xu.2008.lpd,marine sediment,Mg/Ca,Sea Surface Temperature,deg C
+MD01-2378.Xu.2008.lpd,marine sediment,Mg/Ca,Thermocline Temperature,deg C
+MD01-2390.Steinke.2008.lpd,marine sediment,Mg/Ca,Sea Surface Temperature,deg C
+MD01-2390.Steinke.2008.lpd,marine sediment,Mg/Ca,Sea Surface Temperature,deg C
+MD01-2390.Steinke.2008.lpd,marine sediment,Mg/Ca,Sea Surface Temperature,deg C
+MD01-2390.Steinke.2008.lpd,marine sediment,Uk37Prime,Sea Surface Temperature,deg C
+MD01-2390.Steinke.2008.lpd,marine sediment,Uk37Prime,Sea Surface Temperature,deg C
+MD01-2412.Harada.2006.lpd,marine sediment,Uk37Prime,Sea Surface Temperature,deg C
+MD02-2575.Ziegler.2008.lpd,marine sediment,Mg/Ca,Sea Surface Temperature,deg C
+MD03-2601.Kim.2012.lpd,marine sediment,NA,Subsurface Temperature,deg C
+MD03-2797.Weldeab.2007.lpd,marine sediment,D18O,D18O,per mil
+MD03-2797.Weldeab.2007.lpd,marine sediment,Ba/Ca,Salinity,NotApplicable
+MD03-2797.Weldeab.2007.lpd,marine sediment,Mg/Ca,Sea Surface Temperature,deg C
+MD05-2904.Steinke.2011.lpd,marine sediment,Mg/Ca,Sea Surface Temperature,deg C
+MD05-2904.Steinke.2011.lpd,marine sediment,Mg/Ca,Thermocline Temperature,deg C
+MD95-2015.Marchal.2002.lpd,marine sediment,Uk37Prime,Sea Surface Temperature,deg C
+MD95-2043.Cacho.1999.lpd,marine sediment,Uk37Prime,Sea Surface Temperature,deg C
+MD97-2141.Rosentha.2003.lpd,marine sediment,Mg/Ca,Sea Surface Temperature,deg C
+MD97-2141.Rosentha.2003.lpd,marine sediment,D18O,D18O,per mil
+MD972120-MD972121.Pahnke.2006.lpd,marine sediment,NA,Sea Surface Temperature,degC
+MD972120-MD972121.Pahnke.2006.lpd,marine sediment,NA,Sea Surface Temperature,degC
+MD98-2165.Levi.2007.lpd,marine sediment,NA,D18O,per mil
+MD98-2165.Levi.2007.lpd,marine sediment,Mg/Ca,Sea Surface Temperature,deg C
+MD98-2165.Levi.2007.lpd,marine sediment,D18O,D18O,per mil
+MD98-2165.Levi.2007.lpd,marine sediment,Mg/Ca,Sea Surface Temperature,deg C
+MD98-2165.Levi.2007.lpd,marine sediment,D18O,D18O,per mil
+MD98-2165.Levi.2007.lpd,marine sediment,Mg/Ca,Sea Surface Temperature,deg C
+MD98-2165.Levi.2007.lpd,marine sediment,D18O,D18O,per mil
+MD98-2165.Levi.2007.lpd,marine sediment,Mg/Ca,Sea Surface Temperature,deg C
+MD98-2165.Levi.2007.lpd,marine sediment,D18O,D18O,per mil
+MD98-2165.Levi.2007.lpd,marine sediment,Mg/Ca,Sea Surface Temperature,deg C
+MD98-2165.Levi.2007.lpd,marine sediment,D18O,D18O,per mil
+MD98-2165.Levi.2007.lpd,marine sediment,Mg/Ca,Sea Surface Temperature,deg C
+MD98-2165.Levi.2007.lpd,marine sediment,D18O,D18O,per mil
+MD98-2170.Stott.2004.lpd,marine sediment,D18O,D18O,per mil SMOW
+MD98-2170.Stott.2004.lpd,marine sediment,Mg/Ca,Sea Surface Temperature,deg C
+MD982176.Stott.2004.lpd,marine sediment,D18O,D18O,per mil
+MD982176.Stott.2004.lpd,marine sediment,Mg/Ca,Sea Surface Temperature,deg C
+MD982181.Khider.2014.lpd,marine sediment,Mg/Ca,Sea Surface Temperature,deg C
+MD982181.Khider.2014.lpd,marine sediment,D18O,D18O,per mil
+ME0005A-43JC.Benway.2006.lpd,marine sediment,Mg/Ca,Sea Surface Temperature,deg C
+ME0005A-43JC.Benway.2006.lpd,marine sediment,D18O,D18O,per mil SMOW
+NAm-BasinPond.Gajewski.1988.lpd,lake sediment,NA,Temperature,degC
+NAm-LakeMina.St.Jacques.2008.lpd,lake sediment,NA,Temperature,degC
+NAm-LakeMina.St.Jacques.2008.lpd,lake sediment,NA,Temperature1,degC
+NAm-LakeoftheClouds.Gajewski.1988.lpd,lake sediment,NA,Temperature,degC
+NAm-STREC.Gennaretti.2014.lpd,tree,NA,Temperature,degC
+Ocn-ArabianSea.Doose-Rolinski.2001.lpd,marine sediment,NA,Temperature,degC
+Ocn-CapeGhir.Doose-Rolinski.2007.lpd,marine sediment,NA,Temperature,degC
+Ocn-CapeGhir.McGregor.2007.lpd,marine sediment,NA,Temperature,degC
+Ocn-CariacoBasin.Black.2007.lpd,marine sediment,NA,Temperature,degC
+Ocn-CariacoBasin.Lea.2003.lpd,marine sediment,NA,Temperature,degC
+Ocn-ChileanMargin.Lamy.2002.lpd,marine sediment,NA,Temperature,degC
+Ocn-EasternTropicalNorthAtlantic.Kuhnert.2011.lpd,marine sediment,NA,Temperature,degC
+Ocn-EmeraldBasin.Keigwin.2003.lpd,marine sediment,NA,Temperature,degC
+Ocn-FiskBasin.Richey.2009.lpd,marine sediment,NA,Temperature,degC
+Ocn-GarrisonBasin.Richey.2009.lpd,marine sediment,NA,Temperature,degC
+Ocn-GreatBarrierReef.Hendy.2002.lpd,coral,NA,Temperature,degC
+Ocn-GulfofGuinea.Weldeab.2007.lpd,marine sediment,NA,Temperature,degC
+Ocn-JacafFjord.Sepúlveda.2009.lpd,marine sediment,NA,Temperature,degC
+Ocn-KuroshioCurrent.Isono.2009.lpd,marine sediment,NA,Temperature,degC
+Ocn-MakassarStrait.Linsley.2010.lpd,marine sediment,NA,Temperature,degC
+Ocn-MakassarStrait.Oppo.2009.lpd,marine sediment,NA,Temperature,degC
+Ocn-MD95-2011.Grimalt.2002.lpd,marine sediment,NA,Temperature,degC
+Ocn-MinorcaContourite.Moreno.2012.lpd,marine sediment,NA,Temperature,degC
+Ocn-NorthIceland.Sicre.2011.lpd,marine sediment,NA,Temperature,degC
+Ocn-NorthwestPacificOcean.Harada.2004.lpd,marine sediment,NA,Temperature,degC
+Ocn-ODP984.Came.2007.lpd,marine sediment,NA,Temperature,degC
+Ocn-OkinawaTrough.Wu.2012.lpd,marine sediment,NA,Temperature,degC
+Ocn-PigmyBasin.Richey.2015.lpd,marine sediment,NA,Temperature,degC
+Ocn-SantaBarbaraBasin.Zhao.2000.lpd,marine sediment,NA,Temperature,degC
+Ocn-SouthAtlanticWestAfrica.Leduc.2010.lpd,marine sediment,NA,Temperature,degC
+Ocn-SouthIceland.Sicre.2011.lpd,marine sediment,NA,Temperature,degC
+Ocn-SubTropicalEasternNorthAtlantic.deMenocal.2000.lpd,marine sediment,NA,Temperature,degC
+Ocn-TagusMudPatch.Abrantes.2005.lpd,marine sediment,NA,Temperature,degC
+Ocn-WesternAntarcticPeninsula.Shevenell.2011.lpd,marine sediment,NA,Temperature,degC
+Ocn-WesternSvalbard.Spielhagen.2011.lpd,marine sediment,NA,Temperature,degC
+ODP1019.Barron.2003.lpd,marine sediment,Uk37Prime,Sea Surface Temperature,deg C
+ODP1098B.Shevenell.2011.lpd,marine sediment,D18O,Sea Surface Temperature,deg C
+ODP1098B.Shevenell.2011.lpd,marine sediment,D18O,Sea Surface Temperature,deg C
+ODP1098B.Shevenell.2011.lpd,marine sediment,D18O,Sea Surface Temperature,deg C
+ODP1098B.Shevenell.2011.lpd,marine sediment,D18O,Sea Surface Temperature,deg C
+ODP659.Tiedemann.1994.lpd,marine sediment,Dust,Accumulation rate,g/cm^2/kyr
+ODP976.Jimenez-Amat.2015.lpd,marine sediment,Mg/Ca,Sea Surface Temperature,deg C
+P178-15P.Tierney.2015.lpd,marine sediment,Uk37Prime,Sea Surface Temperature,deg C
+P178-15P.Tierney.2015.lpd,marine sediment,TEX86,Sea Surface Temperature,deg C
+P178-15P.Tierney.2015.lpd,marine sediment,Mg/Ca,Sea Surface Temperature,deg C
+SAm-LagunaAculeo.vonGunten.2009.lpd,lake sediment,NA,Temperature,degC
+SAm-LagunaAculeo.vonGunten.2009.lpd,lake sediment,NA,Temperature1,degC
+SAm-LagunaAculeo.vonGunten.2009.lpd,lake sediment,NA,Temperature2,degC
+SAm-LagunaAculeo.vonGunten.2009.lpd,lake sediment,NA,Temperature3,degC
+SAm-LagunaChepical.deJong.2013.lpd,lake sediment,NA,Temperature,degC
+SAm-LagunaChepical.deJong.2013.lpd,lake sediment,NA,Temperature1,degC
+SAm-LagunaEscondida.Elbert.2013.lpd,lake sediment,NA,Uncertainty temperature,degC
+SAm-LagunaEscondida.Elbert.2013.lpd,lake sediment,NA,Uncertainty temperature1,degC
+SAm-LagunaEscondida.Elbert.2013.lpd,lake sediment,NA,Temperature,degC
+SK237-GC04.Saraswat.2013.lpd,marine sediment,Mg/Ca,Sea Surface Temperature,deg C
+SK237-GC04.Saraswat.2013.lpd,marine sediment,D18O,D18O,per mil VPDB
+TestDataset.2017.Khider.lpd,h,NA,Sea Surface Temperature,deg C
+TestDataset.2017.Khider.lpd,h,D18O,D18O,per mil SMOW
+TR163-22.Lea.2006.lpd,marine sediment,D18O,D18O,per mil
+TR163-22.Lea.2006.lpd,marine sediment,Mg/Ca,Sea Surface Temperature,deg C

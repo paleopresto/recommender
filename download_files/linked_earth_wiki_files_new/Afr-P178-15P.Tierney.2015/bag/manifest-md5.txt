@@ -1,0 +1,4 @@
+fdd1be15ec9d46824fbdd77f601f7bc3 data/Afr-P178-15P.Tierney.2015.paleo1measurement1.csv
+b3d5e4bf7d0bb1095519baceea44147f data/Afr-P178-15P.Tierney.2015.paleo2measurement1.csv
+7bdc0d796cc97422e6bbc54844cc0c91 data/Afr-P178-15P.Tierney.2015.paleo3measurement1.csv
+b455737d5a2d51c99c44af0ab8e0a781 data/metadata.jsonld
