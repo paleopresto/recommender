@@ -1,0 +1,2801 @@
+authorName,archiveType,proxyObservationType,units,interpretation/variable,interpretation/variableDetail,inferredVariable,inferredVarUnits
+Dirk N _Rnberg,MarineSediment,D18O,permil,NA,NA,NA,NA
+Masaki Sano,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Qinghua Ding,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+Jeroen Groeneveld,MarineSediment,Mg/Ca,mmol/mol,NA,NA,NA,NA
+Paul J. Krusic,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Fritz H. Schweingruber,Wood,Residual,NA,NA,NA,NA,NA
+Trevor J. Porter,Ice-other,D-Excess,permil,NA,NA,uncertainty temperature1,degC
+Richard Wartenburger,LakeSediment,Biogenic Silica,mg/cm2/yr,NA,NA,uncertainty_temperature,degC
+Stepan G. Shiyatov,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+B. H. Luckman,Wood,NA,NA,NA,NA,NA,NA
+D. Sauchyn,Wood,Corrs,NA,NA,NA,NA,NA
+Gordon Jacoby,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Brian H Luckman,Wood,Core,NA,NA,NA,NA,NA
+William R. Howard,MarineSediment,D18O,permil,NA,NA,temperatureComposite,degC
+Dirk N _Rnberg,MarineSediment,37:2Alkenoneconcentration,g,NA,NA,Temperature,degC
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+H. B. Clausen,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+E. Watson,Wood,Corrs,NA,NA,NA,NA,NA
+W.C. Dullo,Coral,D13C,permil,NA,NA,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+J. Eiríksson,Peat,NA,NA,NA,NA,Temperature,degC
+Dean L. Urban,Wood,NA,NA,NA,NA,NA,NA
+Keith R. Briffa,Wood,Segment,NA,NA,NA,NA,NA
+Delia W. Oppo,Peat,NA,NA,NA,NA,Temperature,degC
+Joan-Albert Sanchez-Cabeza,Coral,D18O,permil,NA,Sea Surface,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+R. D'Arrigo,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+Fritz H. Schweingruber,Wood,Tree Ring Standardized Growth Index,NA,NA,NA,NA,NA
+K. Gajewski,Peat,NA,NA,NA,NA,Temperature,degC
+D. Zhang,Peat,NA,NA,NA,NA,Temperature,index
+NA,MarineSediment,37:2Alkenoneconcentration,ng/g,NA,NA,surface.temp,degC
+J.C. King,Wood,Corrs,NA,NA,NA,NA,NA
+Ekaykin,GlacierIce,D18O,permil,Precipitation Isotope,Air Surface,Air Surface Precipitation Isotope,NA
+Matthew W. Salzer,Wood,Residual,NA,NA,NA,NA,NA
+Fritz H. Schweingruber,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+Stepan G. Shiyatov,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Catherine R. Samson,MarineSediment,D18O,permil,NA,NA,NA,NA
+B.H. Luckman,Wood,Corrs,NA,NA,NA,NA,NA
+Robert S. Harbert,Midden,NA,m,NA,NA,NA,NA
+Sarah Steinhauer,Peat,NA,NA,NA,NA,Temperature,degC
+Spruce W. Schoenemann,Ice-other,D-Excess,permil,NA,NA,uncertainty temperature1,degC
+Nicholas E. Graham,Wood,NA,NA,NA,NA,NA,NA
+NA,MarineSediment,Caco3,percent,NA,NA,surface.temp.error,degC
+Isaksson,GlacierIce,D18O,permil,NA,Air Surface,NA,NA
+J. M. Lough,Coral,Calcification,g/cm/yr,NA,NA,NA,NA
+Dirk Nuernberg,MarineSediment,D13C,permil,NA,NA,Temperature,degC
+Carsten R _Hlemann,MarineSediment,37:2Alkenoneconcentration,g,NA,NA,NA,NA
+Rob Wilson,Wood,NA,NA,NA,NA,NA,NA
+D. Sauchyn,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+W. E. Wright,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Fritz H. Schweingruber,Wood,Segment,NA,NA,NA,NA,NA
+Paul J. Krusic,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Fritz H. Schweingruber,Wood,NA,NA,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+L.D. Keigwin,MarineSediment,D18O,permil,Water Temperature,Surface,Surface Water Temperature,degC
+R. A. O'Leary,Coral,Calcification,g/cm/yr,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+E. Mosley-Thompson,GlacierIce,F,ppb,NA,NA,NA,NA
+P.M. Brown,Wood,Segment,NA,NA,NA,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+B.H. Luckman,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+Rob Wilson,Wood,Corrs,NA,NA,NA,NA,NA
+Gregory C. Wiles,Wood,NA,NA,NA,NA,NA,NA
+T. M. Quinn,Coral,D18O,permil,NA,Sea Surface,NA,NA
+I Voigt,MarineSediment,D18O,permil,Carbonate Ion Concentration,Na,Na Carbonate Ion Concentration,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+B.H. Luckman,Wood,Residual,NA,NA,NA,NA,NA
+Lauren J. Davies,Ice-other,D18O,permil,NA,NA,uncertainty temperature1,degC
+Fritz H. Schweingruber,Wood,NA,NA,NA,NA,NA,NA
+Eric J. Steig,Wood,Tree Ring Standardized Growth Index,NA,NA,Na,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+M. E. Davis,GlacierIce,D18O,permil,NA,Air Surface,NA,NA
+NA,MarineSediment,Caco3,percent,NA,NA,surface.temp,degC
+G. T. Pederson,Wood,Corrs,NA,NA,NA,NA,NA
+Paul J. Krusic,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Robert S. Harbert,Midden,NA,m,NA,NA,temperature1,degC
+M. Kenigsberg,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+Spruce W. Schoenemann,Ice-other,Dd,permil,NA,NA,temperature1,degC
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+Thomas,LakeSediment,Dd,permil,NA,Air Surface,NA,NA
+James M. Russell,LakeSediment,Brgdgt,peak area,NA,NA,pH,pH
+E. Watson,Wood,Sample Count,count,NA,NA,NA,NA
+K.M. Cobb,Coral,D18O,permil,NA,Sea Surface,NA,NA
+Helge Meggers,MarineSediment,D18O,permil,NA,NA,Temperature,degC
+L.J. Graumlich,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+Schwager,GlacierIce,D18O,permil,NA,Air Surface,NA,NA
+A.P. Ballantyne,Wood,D18O,permil,NA,Na,NA,NA
+C. A. Woodhouse,Wood,Residual,NA,NA,NA,NA,NA
+V. S. Zagorodnov,GlacierIce,Cl,ppb,NA,NA,NA,NA
+Mark Curran,Wood,Tree Ring Standardized Growth Index,NA,NA,Na,NA,NA
+E. Watson,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+Gordon C. Jacoby,Wood,Sample Count,count,NA,NA,NA,NA
+William R. Howard,MarineSediment,D13C,permil,NA,NA,temperatureComposite,degC
+Nicole K Davi,Wood,Sample Count,count,NA,NA,NA,NA
+Keith R. Briffa,Wood,Sample Count,count,NA,NA,NA,NA
+Edward R. Cook,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+D.A. Graybill,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+J.C. King,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+D. Kroon,Speleothem,D18O,permil,NA,Na,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+Matthew W. Salzer,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+K. Michael,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+M. Sano,Wood,D18O,permil,Precipitation Amount,Na,Na Precipitation Amount,NA
+Vinther,GlacierIce,D18O,permil,NA,Air Surface,NA,NA
+L. J. Graumlich,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+Scott St George,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+T. M. Quinn,Coral,D18O,permil,D18O Seawater,Sea Surface,Sea Surface D18O Seawater,NA
+Eugene A. Vaganov,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+D.E. Black,MarineSediment,D18O,permil,Temperature And D18O Of Seawater,Near Surface,Near Surface Temperature And D18O Of Seawater,NA
+Braddock K. Linsley,Coral,D18O,permil,NA,Sea Surface,NA,NA
+Keith R. Briffa,Wood,Corrs,NA,NA,NA,NA,NA
+Jens Zinke,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Kristin Doering,MarineSediment,Uk37,NA,NA,NA,Temperature,degC
+T. F. Cooper,Coral,Composite,percent,NA,Sea Surface,NA,NA
+S. T. Gray,Wood,Corrs,NA,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+Fritz H. Schweingruber,Wood,Core,NA,NA,NA,NA,NA
+G. C. Jacoby,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Jeroen Groeneveld,MarineSediment,Mg/Ca,mmol/mol,NA,NA,Temperature,degC
+John Southon,MarineSediment,D18O,permil,NA,NA,Temperature,degC
+J. L. Betancourt,Wood,NA,NA,NA,NA,NA,NA
+Jan Esper,Wood,Maximum Latewood Density,NA,NA,Air Surface,NA,NA
+Kevin J. Anchukaitis,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+B. Stenni,GlacierIce,NA,m,NA,NA,NA,NA
+R. D'Arrigo,Wood,NA,NA,NA,NA,NA,NA
+B. M. Buckley,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+Fritz H. Schweingruber,Wood,Residual,NA,NA,NA,NA,NA
+NA,MarineSediment,Mg/Ca,mmol/mol,NA,NA,NA,NA
+Rosanne D'Arrigo,Wood,Segment,NA,NA,NA,NA,NA
+D. Sauchyn,Wood,Core,NA,NA,NA,NA,NA
+NA,MarineSediment,Total Organic Carbon,percent,NA,NA,NA,NA
+Paul J. Krusic,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+A.W. Tudhope,Coral,D18O,permil,NA,Sea Surface,NA,NA
+Scott St George,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+Trevor J. Porter,GroundIce,Dd,permil,NA,Na,uncertainty temperature1,degC
+Tebke B̦Schen,MarineSediment,D13C,permil,NA,NA,Temperature,degC
+Nicole K Davi,Wood,Residual,NA,NA,NA,NA,NA
+Harold C. Fritts,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+Bradley R. Markle,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+Erika Mashig,Wood,NA,NA,NA,NA,NA,NA
+Eric J. Steig,GroundIce,Dd,permil,NA,Na,uncertainty temperature1,degC
+Jacek Raddatz,MarineSediment,Mg/Ca,mmol/mol,NA,NA,Temperature,degC
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+Edward R. Cook,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+S. J. Johnsen,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+Fritz H. Schweingruber,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Keith R. Briffa,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+Kevin J. Anchukaitis,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Brendan M. Buckley,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Gordon C. Jacoby,Wood,Segment,NA,NA,NA,NA,NA
+D. Sauchyn,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Erika Mashig,Wood,Segment,NA,NA,NA,NA,NA
+R. D. Darrigo,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Duane G. Froese,Ice-other,D18O,permil,NA,NA,NA,NA
+J. S. Littell,Wood,Segment,NA,NA,NA,NA,NA
+D.W. Peterson,Wood,Residual,NA,NA,NA,NA,NA
+Rosanne D’Arrigo,Wood,Residual,NA,NA,NA,NA,NA
+NA,MarineSediment,Mg/Ca,mmol/mol,NA,NA,surface.temp,degC
+Jostein Bakke,LakeSediment,NA,m,NA,NA,NA,NA
+Scott St George,Wood,NA,NA,NA,NA,NA,NA
+Brian H Luckman,Wood,Residual,NA,NA,NA,NA,NA
+Joëlle Gergis,Wood,Tree Ring Standardized Growth Index,NA,NA,Na,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+V. S. Zagorodnov,GlacierIce,Mg,ppb,NA,NA,NA,NA
+J.C. King,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+P.- N. Lin,GlacierIce,Cl,ppb,NA,NA,NA,NA
+R. Lawrence Edwards,Speleothem,D18O,permil,NA,Air Condensationlevel,NA,NA
+Gordon Jacoby,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Jessica E. Tierney,LakeSediment,NA,degC,NA,NA,Temperature,degC
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+M.T. Mcculloch,Coral,D18O,permil,NA,Sea Surface,NA,NA
+H. Kuhnert,Coral,D13C,permil,NA,NA,NA,NA
+Rosanne D’Arrigo,Wood,Segment,NA,NA,NA,NA,NA
+Andrew G. Bunn,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+P. Moffasanchez,MarineSediment,D18O,permil,Seawater Isotope,Surface,D18O,permil
+Robert S. Harbert,Midden,NA,m,NA,NA,NA,NA
+Stenni,GlacierIce,D18O,permil,NA,Air Surface,NA,NA
+P.D. Jones,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+John P. Cropper,Wood,Segment,NA,NA,NA,NA,NA
+Fisher,GlacierIce,D18O,permil,Precipitation Isotope,Air Surface,Air Surface Precipitation Isotope,NA
+Kevin J. Anchukaitis,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Francis E. Grousset,Peat,NA,NA,NA,NA,Temperature,degC
+Edward R. Cook,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Andrew D. Moy,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+J. L. Betancourt,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+Fritz H. Schweingruber,Wood,Core,NA,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+Stephan Steinke,MarineSediment,Mg/Ca,mmol/mol,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+F. Biondi,Wood,Sample Count,count,NA,NA,NA,NA
+Rosanne D'Arrigo,Wood,Core,NA,NA,NA,NA,NA
+S. T. Gray,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+Fritz H. Schweingruber,Wood,NA,NA,NA,NA,NA,NA
+B. M. Buckley,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+M.E. Colenutt,Wood,Corrs,NA,NA,NA,NA,NA
+Keith R. Briffa,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+Brian H Luckman,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+Marthe Gjerde,LakeSediment,NA,m,NA,NA,NA,NA
+J.C. King,Wood,Sample Count,count,NA,NA,NA,NA
+D. Sauchyn,Wood,Residual,NA,NA,NA,NA,NA
+Fritz H. Schweingruber,Wood,Tree Ring Standardized Growth Index,NA,NA,NA,NA,NA
+John W. Williams,LakeSediment,Brgdgt,peak area,NA,NA,Temperature,degC
+B. Luckman,Wood,Segment,NA,NA,NA,NA,NA
+W.C. Dullo,Coral,D18O,permil,NA,Sea Surface,NA,NA
+V. S. Zagorodnov,GlacierIce,Sulfate,ppb,NA,NA,NA,NA
+S. C. Fritz,Peat,NA,NA,NA,NA,Temperature,degC
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+Nils Andersen,MarineSediment,Mg/Ca,mmol/mol,NA,NA,NA,NA
+Paul J. Krusic,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+S. R. Managave,Wood,D18O,permil,NA,Na,NA,NA
+Nicholas L. Balascio,LakeSediment,NA,m,NA,NA,NA,NA
+T. F. Cooper,Coral,Calcification,g/cm/yr,NA,NA,NA,NA
+R. D. Darrigo,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp.error,degC
+Lauren J. Davies,Ice-other,D-Excess,permil,NA,NA,uncertainty temperature1,degC
+L. G. Thompson,GlacierIce,Nitrate,ppb,NA,NA,NA,NA
+Scott St George,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+Henry C. Wu,Coral,Sr/Ca,mmol/mol,NA,Sea Surface,NA,NA
+Edward R. Cook,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Emma J. Pearson,LakeSediment,NA,cm,NA,NA,NA,NA
+Juzhi Hou,LakeSediment,NA,cm,NA,NA,NA,NA
+V Ersek,Speleothem,D13C,permil,NA,Na,NA,NA
+Holger Kuhlmann,MarineSediment,D18O,permil,NA,NA,NA,NA
+NA,MarineSediment,Mg/Ca,mmol/mol,NA,NA,surface.temp,degC
+Eric J. Steig,GroundIce,D18O,permil,NA,Na,uncertainty temperature1,degC
+F. Biondi,Wood,NA,NA,NA,NA,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+I. M. Howat,GlacierIce,Thickness,mwe,NA,NA,NA,NA
+Tebke B̦Schen,MarineSediment,Mg/Ca,mmol/mol,NA,NA,NA,NA
+D.W. Peterson,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+NA,MarineSediment,Ice-Rafted Debris,percent,NA,NA,NA,NA
+NA,LakeSediment,NA,NA,NA,Na,NA,NA
+G̩Rard Auffret,Peat,NA,NA,NA,NA,Temperature,degC
+X. Chenxi,Wood,D18O,permil,Precipitation And Evaporation,Na,Na Precipitation And Evaporation,NA
+Malcolm K. Hughes,Wood,NA,NA,NA,NA,NA,NA
+E. Watson,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+Keith R. Briffa,Wood,Core,NA,NA,NA,NA,NA
+H.L. Lin,MarineSediment,D18O,permil,Water Temperature,Sea Surface,Sea Surface Water Temperature,NA
+B. M. Buckley,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+K. Gajewski,Peat,NA,NA,NA,NA,Temperature,degC
+Scott St George,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+R. J. S. Wilson,Wood,NA,NA,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+Tebke B̦Schen,MarineSediment,37:2Alkenoneconcentration,g,NA,NA,Temperature,degC
+Matthew W. Salzer,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+H. Schulz,MarineSediment,NA,mm,NA,NA,Temperature,degC
+Elfi Mollier-Vogel,MarineSediment,37:2Alkenoneconcentration,g,NA,NA,Temperature,degC
+R. Mulvaney,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+R. A. O'Leary,Coral,Composite,percent,NA,Sea Surface,NA,NA
+P.- N. Lin,GlacierIce,Mg,ppb,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+Brian H Luckman,Wood,NA,NA,NA,NA,NA,NA
+I. M. Howat,GlacierIce,Cl,ppb,NA,NA,NA,NA
+NA,MarineSediment,Caco3,percent,NA,NA,surface.temp,degC
+Rob Wilson,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+Miriam Pfeiffer,Coral,D18O,permil,NA,Sea Surface,NA,NA
+D. Mccarroll,Wood,Maximum Latewood Density,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,Uk37,NA,NA,NA,surface.temp,degC
+Rob Wilson,Wood,Sample Count,count,NA,NA,NA,NA
+E. Mosley-Thompson,GlacierIce,Mg,ppb,NA,NA,NA,NA
+NA,MarineSediment,37:2Alkenoneconcentration,ng/g,NA,NA,surface.temp,degC
+Sasiri Bandara,GroundIce,D18O,permil,Precipitation Isotope,Air Surface,uncertainty temperature1,degC
+Rob Wilson,Wood,Core,NA,NA,NA,NA,NA
+Rui Zhang,LakeSediment,Brgdgt,peak area,NA,NA,NA,NA
+Spruce W. Schoenemann,Ice-other,Dd,permil,NA,NA,NA,NA
+K.M. Cobb,Coral,D18O,permil,Water Temperature,Sea Surface,Sea Surface Water Temperature,NA
+Ms Lachniet,Speleothem,D18O,permil,Precipitation Isotope,Na,Na Precipitation Isotope,NA
+Andrew S. Cohen,LakeSediment,NA,degC,NA,NA,NA,NA
+Kevin J. Anchukaitis,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+D.A. Graybill,Wood,Residual,NA,NA,NA,NA,NA
+D.A. Graybill,Wood,NA,NA,NA,NA,NA,NA
+NA,MarineSediment,Total Organic Carbon,percent,NA,NA,surface.temp,degC
+Keith R. Briffa,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+Trevor J. Porter,Ice-other,Dd,permil,NA,NA,uncertainty temperature1,degC
+Brendan M. Buckley,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,37:2Alkenoneconcentration,ng/g,NA,NA,surface.temp,degC
+Rosanne D'Arrigo,Wood,Residual,NA,NA,NA,NA,NA
+Matthias Moros,Peat,NA,NA,NA,NA,Temperature,degC
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+Keith R. Briffa,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+Brian H Luckman,Wood,Segment,NA,NA,NA,NA,NA
+Keith R. Briffa,Wood,Segment,NA,NA,NA,NA,NA
+P. Moffasanchez,MarineSediment,D18O,permil,Carbonate Ion Concentration,Surface,D18O,permil
+M.K. Hughes,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+Marian Fujak,LakeSediment,Biogenic Silica,mg/cm2/yr,NA,NA,uncertainty_temperature,degC
+Ulrich Von Rad,Peat,NA,NA,NA,NA,Temperature,degC
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+P.M. Brown,Wood,NA,NA,NA,NA,NA,NA
+Julie Elbert,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+K. J. Anchukaitis,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Keith R. Briffa,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+A.W. Tudhope,Coral,D18O,permil,D18O Seawater,Sea Surface,Sea Surface D18O Seawater,NA
+P.M. Brown,Wood,Sample Count,count,NA,NA,NA,NA
+P. M. Grootes,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+Brad E. Rosenheim,Sclerosponge,Sr/Ca,mmol/mol,NA,Sea Surface,NA,NA
+Sasiri Bandara,Ice-other,D-Excess,permil,NA,NA,uncertainty temperature1,degC
+NA,MarineSediment,NA,permil PDB,NA,NA,surface.temp,degC
+Fritz H. Schweingruber,Wood,Residual,NA,NA,NA,NA,NA
+W. E. Wright,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Duane G. Froese,GroundIce,NA,cm,NA,NA,uncertainty temperature1,degC
+Dirk Nuernberg,MarineSediment,Mg/Ca,mmol/mol,NA,NA,NA,NA
+Gordon C. Jacoby,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+Scott St George,Wood,Core,NA,NA,NA,NA,NA
+A. M. Svensson,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+Ralph Schneider,MarineSediment,Uk37,NA,NA,NA,NA,NA
+P. Moffasanchez,MarineSediment,D18O,permil,Water Temperature,Na,Na Water Temperature,NA
+Tyler J. Fudge,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+Sasiri Bandara,GroundIce,D18O,permil,NA,Na,uncertainty temperature1,degC
+Ricardo Villalba,Wood,Tree Ring Standardized Growth Index,NA,NA,Na,NA,NA
+Jan Esper,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Bent Hansen,Sclerosponge,D18O,permil,NA,Sea Surface,NA,NA
+G.B. Shimmield,Coral,D18O,permil,NA,Sea Surface,NA,NA
+NA,Wood,D18O,permil,Evapotranspiration,Na,Na Evapotranspiration,NA
+Keith R. Briffa,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+D. Sauchyn,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+I. M. Howat,GlacierIce,Sulfate,ppb,NA,NA,NA,NA
+Kurt F. Kipfmueller,Wood,Residual,NA,NA,NA,NA,NA
+Rob Wilson,Wood,Sample Count,count,NA,NA,NA,NA
+K. A. Henderson,GlacierIce,D18O,permil,NA,Air Surface,NA,NA
+NA,MarineSediment,Caco3,percent,NA,NA,surface.temp,degC
+Edward R. Cook,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+Scott St George,Wood,Residual,NA,NA,NA,NA,NA
+John P. Cropper,Wood,Sample Count,count,NA,NA,NA,NA
+Teresa R. Krause,LakeSediment,Brgdgt,peak area,NA,NA,Temperature,degC
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+L. G. Thompson,GlacierIce,Mg,ppb,NA,NA,NA,NA
+Sasiri Bandara,GroundIce,D18O,permil,NA,Air Surface,uncertainty temperature1,degC
+G. C. Wiles,Wood,Corrs,NA,NA,NA,NA,NA
+B. H. Luckman,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+Lauren J. Davies,GroundIce,Dd,permil,NA,Na,uncertainty temperature1,degC
+Edward R. Cook,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+J. M. Lough,Coral,Calcification,g/cm/yr,NA,NA,NA,NA
+Edward R. Cook,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+G. C. Jacoby,Wood,Core,NA,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+NA,MarineSediment,Biogenic Silica,percent,NA,NA,NA,NA
+Paul J. Krusic,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+G. C. Wiles,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+D.A. Graybill,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+Daniel P. Schrag,Coral,D18O,permil,NA,Sea Surface,NA,NA
+W. E. Wright,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,Uk37,NA,NA,NA,surface.temp,degC
+Duane G. Froese,GroundIce,Dd,permil,NA,Air Surface,uncertainty temperature1,degC
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+S. Sommer,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+Fritz H. Schweingruber,Wood,Core,NA,NA,NA,NA,NA
+Thompson,GlacierIce,D18O,permil,NA,Air Surface,NA,NA
+M. E. Davis,GlacierIce,Dust,permil,NA,NA,NA,NA
+Keith R. Briffa,Wood,Core,NA,NA,NA,NA,NA
+Brian H. Luckman,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+J. S. Littell,Wood,Core,NA,NA,NA,NA,NA
+Stefan Schouten,Peat,NA,NA,NA,NA,Temperature,degC
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+V. S. Zagorodnov,GlacierIce,Dust,permil,NA,NA,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+Rebecca P. Teel,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+Elisabeth L. Sikes,MarineSediment,D13C,permil,NA,NA,NA,NA
+David Frank,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Duane G. Froese,GroundIce,D-Excess,permil,NA,Na,NA,NA
+S. Kreveld,Peat,NA,NA,NA,NA,Temperature,degC
+Joëlle Gergis,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Dirk Nuernberg,MarineSediment,Mg/Ca,mmol/mol,NA,NA,Temperature,degC
+M. E. Davis,GlacierIce,Ca,ppb,NA,NA,NA,NA
+P. Fule,Wood,NA,NA,NA,NA,NA,NA
+Lauren J. Davies,GroundIce,D18O,permil,NA,Na,uncertainty temperature1,degC
+Kurt F. Kipfmueller,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+M.T. Mcculloch,Coral,Sr/Ca,mmol/mol,NA,Sea Surface,NA,NA
+Keith R. Briffa,Wood,NA,NA,NA,NA,NA,NA
+Stephen T. Jackson,LakeSediment,Brgdgt,peak area,NA,NA,NA,NA
+Stephan Steinke,MarineSediment,D18O,permil,NA,NA,NA,NA
+Trevor J. Porter,Ice-other,D18O,permil,NA,NA,NA,NA
+Rosanne D'Arrigo,Wood,NA,NA,NA,NA,NA,NA
+Masaki Sano,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Lesleigh Anderson,LakeSediment,D18O,permil,NA,Na,NA,NA
+I.R. Walker,Peat,NA,NA,NA,NA,Temperature,degC
+G. Wiles,Wood,Segment,NA,NA,NA,NA,NA
+Rob Wilson,Wood,Residual,NA,NA,NA,NA,NA
+Duane G. Froese,Ice-other,NA,cm,NA,NA,uncertainty temperature1,degC
+Keith R. Briffa,Wood,Segment,NA,NA,NA,NA,NA
+Keith R. Briffa,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+NA,MarineSediment,NA,cm,NA,NA,NA,NA
+Stepan G. Shiyatov,Wood,Residual,NA,NA,NA,NA,NA
+NA,MarineSediment,Foraminifera Abundance,percent,NA,NA,surface.temp,degC
+Graf,GlacierIce,D18O,permil,Precipitation Isotope,Air Surface,Air Surface Precipitation Isotope,NA
+Christoph C. Raible,Wood,Tree Ring Standardized Growth Index,NA,NA,Na,NA,NA
+Spruce W. Schoenemann,Ice-other,NA,cm,NA,NA,uncertainty temperature1,degC
+David Frank,Wood,Segment,NA,NA,NA,NA,NA
+NA,MarineSediment,Total Organic Carbon,percent,NA,NA,NA,NA
+Thomas,LakeSediment,Dd,permil,NA,Air Surface,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+Daniel Nievergelt,Wood,Maximum Latewood Density,NA,NA,Air Surface,NA,NA
+Rosanne D'Arrigo,Wood,Segment,NA,NA,NA,NA,NA
+P. -N. Lin,GlacierIce,D18O,permil,NA,Air Surface,NA,NA
+Ralph Schneider,MarineSediment,37:2Alkenoneconcentration,g,NA,NA,Temperature,degC
+U. Büntgen,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+D.W. Peterson,Wood,Sample Count,count,NA,NA,NA,NA
+Thompson,GlacierIce,D18O,permil,Precipitation Isotope,Air Surface,Air Surface Precipitation Isotope,NA
+Matthew W. Salzer,Wood,Sample Count,count,NA,NA,NA,NA
+Nicole K Davi,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+Paul J. Krusic,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+J. S. Littell,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+E. Watson,Wood,NA,NA,NA,NA,NA,NA
+D.W. Peterson,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+Rob Wilson,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+R. A. O'Leary,Coral,Calcification,g/cm/yr,NA,NA,NA,NA
+Fritz H. Schweingruber,Wood,Segment,NA,NA,NA,NA,NA
+G.C. Jacoby,Wood,NA,NA,NA,NA,NA,NA
+John P. Cropper,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+E. R. Cook,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Rui Zhang,LakeSediment,Brgdgt,peak area,NA,NA,Temperature,degC
+Stenni,GlacierIce,D18O,permil,Precipitation Isotope,Air Surface,Air Surface Precipitation Isotope,NA
+Samuli Helama,Peat,NA,NA,NA,NA,Temperature,degC
+Braddock K. Linsley,Wood,Tree Ring Standardized Growth Index,NA,NA,Na,NA,NA
+C. Xu,Wood,D18O,permil,Precipitation And Evaporation,Na,Na Precipitation And Evaporation,NA
+Duane G. Froese,GroundIce,Dd,permil,Precipitation Isotope,Air Surface,uncertainty temperature1,degC
+William R. Howard,MarineSediment,D18O,permil,NA,NA,Temperature,degC
+P.- N. Lin,GlacierIce,Na,ppb,NA,NA,NA,NA
+Takeshi Nakatsuka,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Fritz H. Schweingruber,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+John P. Cropper,Wood,NA,NA,NA,NA,NA,NA
+M. Kenigsberg,Wood,NA,NA,NA,NA,NA,NA
+Luc Beaufort,MarineSediment,Mg/Ca,mmol/mol,NA,NA,Temperature,degC
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+Fritz H. Schweingruber,Wood,Sample Count,count,NA,NA,NA,NA
+Takeshi Nakatsuka,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,Foraminifera Abundance,counts,NA,NA,surface.temp,degC
+Takeshi Nakatsuka,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,deep.temp,degC
+Keith R. Briffa,Wood,Core,NA,NA,NA,NA,NA
+A. Bo Ll,MarineSediment,NA,mm,NA,NA,NA,NA
+M.E. Colenutt,Wood,NA,NA,NA,NA,NA,NA
+Gordon C. Jacoby,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+M.E. Colenutt,Wood,Core,NA,NA,NA,NA,NA
+Xinrong Cheng,MarineSediment,D18O,permil,NA,NA,Temperature,degC
+NA,MarineSediment,Mg/Ca,mmol/mol,NA,NA,deep.temp,degC
+Brendan M. Buckley,Wood,NA,NA,NA,NA,NA,NA
+V. N. Mikhalenko,GlacierIce,Na,ppb,NA,NA,NA,NA
+Catherine Kissel,MarineSediment,Mg/Ca,mmol/mol,NA,NA,NA,NA
+Vinther,GlacierIce,D18O,NA,NA,Air Surface,NA,NA
+R. J. S. Wilson,Wood,NA,NA,NA,NA,NA,NA
+L. D. Keigwin,Peat,NA,NA,NA,NA,Temperature,degC
+Bruno Malaiz̩,Peat,NA,NA,NA,NA,Temperature,degC
+Eugene A. Vaganov,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+Ml Griffiths,Speleothem,D18O,permil,Precipitation Isotope,Na,Na Precipitation Isotope,NA
+L. J. Graumlich,Wood,Sample Count,count,NA,NA,NA,NA
+U. Pflaumann,Peat,NA,NA,NA,NA,Temperature,degC
+Bruce H. Vaughn,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+Stefan Mulitza,MarineSediment,37:2Alkenoneconcentration,g,NA,NA,NA,NA
+Marcel Küttel,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+Fritz H. Schweingruber,Wood,NA,NA,NA,NA,NA,NA
+Nal̢N Ko̤,MarineSediment,NA,cm,NA,NA,Temperature,degC
+Terrence M. Quinn,Coral,Sr/Ca,mmol/mol,NA,Sea Surface,NA,NA
+Edward R. Cook,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Riza Yuliratno Setiawan,MarineSediment,D18O,permil,NA,NA,Temperature,degC
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+Martin Grosjean,LakeSediment,NA,mm,NA,NA,uncertainty_temperature,degC
+Peter K. Swart,Coral,D18O,permil,NA,Sea Surface,NA,NA
+J. F. Bolzan,GlacierIce,D18O,permil,NA,Air Surface,NA,NA
+Fritz H. Schweingruber,Wood,Corrs,NA,NA,NA,NA,NA
+Steig,GlacierIce,D18O,permil,Precipitation Isotope,Air Surface,Air Surface Precipitation Isotope,NA
+Gordon Jacoby,Wood,Residual,NA,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+Keith R. Briffa,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+Kevin J. Anchukaitis,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+M. Sano,Wood,D18O,permil,Pdsi,Na,Na Pdsi,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+NA,MarineSediment,Mg/Ca,mmol/mol,NA,NA,surface.temp,degC
+Fritz H. Schweingruber,Wood,NA,NA,NA,NA,NA,NA
+Rob Wilson,Wood,Segment,NA,NA,NA,NA,NA
+Brendan M. Buckley,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+W. E. Wright,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,Foraminifera Abundance,counts,NA,NA,surface.temp,degC
+J.E. Carilli,Coral,D18O,permil,Water Temperature,Na,Na Water Temperature,NA
+Zhimin Jian,MarineSediment,D18O,permil,NA,NA,NA,NA
+R. D'Arrigo,Wood,Corrs,NA,NA,NA,NA,NA
+Jessica Williams,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+G. C. Wiles,Wood,Segment,NA,NA,NA,NA,NA
+Rui Zhang,LakeSediment,Brgdgt,peak area,NA,NA,soilTemp,degC
+Timoth̩ Bolliet,MarineSediment,D18O,permil,NA,NA,Temperature,degC
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+Edward R. Cook,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+P. M. Munz,MarineSediment,NA,mm,NA,NA,Temperature,degC
+NA,Wood,D18O,permil,Precipitation Isotope,Na,Na Precipitation Isotope,NA
+Edward R. Cook,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+X. Chenxi,Wood,D18O,permil,NA,Na,NA,NA
+Nicole K Davi,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+Gordon Jacoby,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+Richard G. Fairbanks,Coral,D18O,permil,NA,Sea Surface,NA,NA
+Peijun Qiao,MarineSediment,D18O,permil,NA,NA,Temperature,degC
+R. J. S. Wilson,Wood,NA,NA,NA,NA,NA,NA
+D. B. Fagre,Wood,Residual,NA,NA,NA,NA,NA
+Fritz H. Schweingruber,Wood,Core,NA,NA,NA,NA,NA
+D.A. Graybill,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+Fritz H. Schweingruber,Wood,Corrs,NA,NA,NA,NA,NA
+J.C. King,Wood,Core,NA,NA,NA,NA,NA
+B.H. Luckman,Wood,NA,NA,NA,NA,NA,NA
+J. M. Lough,Coral,Composite,percent,NA,Sea Surface,NA,NA
+Eric J. Steig,GroundIce,D-Excess,permil,NA,Na,temperature1,degC
+R. D'Arrigo,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+John J. Clague,Wood,NA,NA,NA,NA,NA,NA
+Nils Andersen,MarineSediment,Mg/Ca,mmol/mol,NA,NA,Temperature,degC
+Rosanne D’Arrigo,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+G.A. Heiss,Coral,D18O,permil,NA,Sea Surface,NA,NA
+A.N. Dalgleish,Coral,D18O,permil,NA,Sea Surface,NA,NA
+Brian H Luckman,Wood,Corrs,NA,NA,NA,NA,NA
+David Frank,Wood,Core,NA,NA,NA,NA,NA
+J. L. Betancourt,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+NA,MarineSediment,Mg/Ca,mmol/mol,NA,NA,NA,NA
+Paul J. Krusic,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Erika Mashig,Wood,Corrs,NA,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+Takeshi Nakatsuka,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Edward R. Cook,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Marie-Mich̬Le Ouellet-Bernier,Peat,NA,NA,NA,NA,Temperature,degC
+M. Dima,MarineSediment,Notes,NA,NA,NA,NA,NA
+Fritz H. Schweingruber,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Keith R. Briffa,Wood,Residual,NA,NA,NA,NA,NA
+Robert J. S. Wilson,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+M. Kenigsberg,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+Graf,GlacierIce,D18O,permil,NA,Air Surface,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+Edward R. Cook,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Fritz H. Schweingruber,Wood,Sample Count,count,NA,NA,NA,NA
+Jim Salinger,Coral,D18O,permil,NA,Sea Surface,NA,NA
+Harold C. Fritts,Wood,Segment,NA,NA,NA,NA,NA
+R. D. Darrigo,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Stephen J. Roberts,LakeSediment,NA,cm,NA,NA,NA,NA
+Steig,GlacierIce,Dd,permil,NA,Air Surface,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+Rosanne D'Arrigo,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+Matthew W. Salzer,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+Eugene A. Vaganov,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,Mg/Ca,mmol/mol,NA,NA,surface.temp,degC
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+Keith R. Briffa,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp.error,degC
+Brian H Luckman,Wood,NA,NA,NA,NA,NA,NA
+J Ohtani,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Tas Van Ommen,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Kevin C. Nixon,Midden,NA,m,NA,NA,NA,NA
+Malcolm T. Mcculloch,Coral,D18O,permil,NA,Sea Surface,NA,NA
+M. E. Davis,GlacierIce,K,ppb,NA,NA,NA,NA
+B. Risebrobakken,MarineSediment,D18O,permil,Seawater Isotope,Na,Na Seawater Isotope,NA
+Stepan G. Shiyatov,Wood,Segment,NA,NA,NA,NA,NA
+Masaki Sano,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Keith R. Briffa,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+Kevin J. Anchukaitis,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Fritz H. Schweingruber,Wood,Corrs,NA,NA,NA,NA,NA
+Rosanne D'Arrigo,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+Michael C. Osborne,Coral,D18O,permil,NA,Sea Surface,NA,NA
+N. Gundestrup,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+Philip D. Jones,Wood,Sample Count,count,NA,NA,NA,NA
+P. Moffasanchez,MarineSediment,D18O,permil,Temperature And D18O Of Seawater,Subsurface,D18O,permil
+M. Siccha,MarineSediment,NA,mm,NA,NA,Temperature,degC
+Edward R. Cook,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Philip D. Jones,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Keith R. Briffa,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+G. T. Pederson,Wood,NA,NA,NA,NA,NA,NA
+Stephan Steinke,MarineSediment,Mg/Ca,mmol/mol,NA,NA,Temperature,degC
+NA,MarineSediment,Total Organic Carbon,percent,NA,NA,NA,NA
+Rosanne D'Arrigo,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+Peter B. Demenocal,Coral,Sr/Ca,mmol/mol,NA,Sea Surface,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+J. Zinke,Coral,Sr/Ca,mmol/mol,NA,Sea Surface,NA,NA
+Thomas,LakeSediment,Dd,permil,Precipitation Isotope,Air Surface,Air Surface Precipitation Isotope,NA
+Fritz H. Schweingruber,Wood,Segment,NA,NA,NA,NA,NA
+Spruce W. Schoenemann,Ice-other,D18O,permil,NA,NA,temperature1,degC
+Julie Elbert,LakeSediment,NA,mm,NA,NA,uncertainty_temperature,degC
+Fritz H. Schweingruber,Wood,Core,NA,NA,NA,NA,NA
+R. D'Arrigo,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+P. Moffasanchez,MarineSediment,D18O,permil,Temperature And D18O Of Seawater,Surface,D18O,permil
+Thomas C. Johnson,LakeSediment,NA,cm,NA,NA,NA,NA
+L. G. Thompson,GlacierIce,Thickness,mwe,NA,NA,NA,NA
+Brian H. Luckman,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+F. Biondi,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+Watanabe,GlacierIce,D18O,permil,Precipitation Isotope,Air Surface,Air Surface Precipitation Isotope,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+D. Sauchyn,Wood,NA,NA,NA,NA,NA,NA
+D.W. Peterson,Wood,NA,NA,NA,NA,NA,NA
+Keith R. Briffa,Wood,Residual,NA,NA,NA,NA,NA
+Carlo Laj,MarineSediment,D18O,permil,NA,NA,NA,NA
+B. Luckman,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+Jaap S. Sinninghe Damst̩,LakeSediment,NA,m,NA,NA,Temperature,degC
+K. K. Andersen,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+Brendan M. Buckley,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+D. Sauchyn,Wood,Sample Count,count,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+Brendan M. Buckley,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+J. L. Betancourt,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+P. Moffasanchez,MarineSediment,D18O,permil,Carbonate Ion Concentration,Na,D18O,permil
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+Eric J. Steig,GroundIce,D-Excess,permil,NA,Na,NA,NA
+Rosanne D'Arrigo,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+Trevor J. Porter,Ice-other,Dd,permil,NA,NA,NA,NA
+Spruce W. Schoenemann,GroundIce,Dd,permil,Precipitation Isotope,Air Surface,uncertainty temperature1,degC
+Lucien Von Gunten,LakeSediment,NA,mm,NA,NA,uncertainty_temperature,degC
+B. H. Luckman,Wood,Sample Count,count,NA,NA,NA,NA
+Rosanne Darrigo,Wood,NA,NA,NA,NA,NA,NA
+Rosanne D’Arrigo,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+Trevor J. Porter,Ice-other,NA,cm,NA,NA,uncertainty temperature1,degC
+NA,MarineSediment,Total Organic Carbon,percent,NA,NA,NA,NA
+Trevor J. Porter,Ice-other,D-Excess,permil,NA,NA,temperature1,degC
+D.A. Graybill,Wood,Segment,NA,NA,NA,NA,NA
+Harold C. Fritts,Wood,Corrs,NA,NA,NA,NA,NA
+F. Biondi,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+Wolfgang Kuhnt,MarineSediment,D18O,permil,NA,NA,NA,NA
+David Frank,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+Fritz H. Schweingruber,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+Takeshi Nakatsuka,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Keith R. Briffa,Wood,NA,NA,NA,NA,NA,NA
+Brendan M. Buckley,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+N. J. Anderson,Peat,NA,NA,NA,NA,Temperature,degC
+E. Mosley-Thompson,GlacierIce,Nitrate,ppb,NA,NA,NA,NA
+Steig,GlacierIce,Dd,permil,Precipitation Isotope,Air Surface,Air Surface Precipitation Isotope,NA
+Ralph Schneider,MarineSediment,Uk37,NA,NA,NA,Temperature,degC
+Franck Bassinot,MarineSediment,D18O,permil,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+E. Selmo,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+Andrew G. Bunn,Wood,Core,NA,NA,NA,NA,NA
+Markus Kienast,MarineSediment,Mg/Ca,mmol/mol,NA,NA,Temperature,degC
+Feng Sheng Hu,Peat,NA,NA,NA,NA,Temperature,degC
+Opel,GlacierIce,D18O,permil,NA,Air Surface,NA,NA
+Teresa R. Krause,LakeSediment,Brgdgt,peak area,NA,NA,pH,pH
+Stephanie K. Jarvis,Wood,NA,NA,NA,NA,NA,NA
+R. De Jong,LakeSediment,NA,NA,NA,NA,Temperature,degC
+Spruce W. Schoenemann,Ice-other,Dd,permil,NA,NA,uncertainty temperature1,degC
+V. N. Mikhalenko,GlacierIce,Nitrate,ppb,NA,NA,NA,NA
+Bohleber,GlacierIce,D18O,permil,Precipitation Isotope,Air Surface,Air Surface Precipitation Isotope,NA
+Daniel E. Lawson,Wood,NA,NA,NA,NA,NA,NA
+Jan F. Schr̦Der,MarineSediment,D18O,permil,NA,NA,Temperature,degC
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+L.J. Graumlich,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+Stephen S. Howe,Coral,D18O,permil,NA,Sea Surface,NA,NA
+Gordon Jacoby,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+Timothy J. Osborn,Wood,Corrs,NA,NA,NA,NA,NA
+V. S. Zagorodnov,GlacierIce,K,ppb,NA,NA,NA,NA
+Brad E. Rosenheim,Sclerosponge,D18O,permil,NA,Sea Surface,NA,NA
+Trevor J. Porter,GroundIce,NA,cm,NA,NA,uncertainty temperature1,degC
+F.S. Hu,LakeSediment,D18O,permil,NA,Na,NA,NA
+Gordon Jacoby,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+Gordon C. Jacoby,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+Brendan M. Buckley,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Fritz H. Schweingruber,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,Caco3,percent,NA,NA,surface.temp,degC
+NA,MarineSediment,Foraminifera Abundance,percent,NA,NA,surface.temp,degC
+Spruce W. Schoenemann,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+W. E. Wright,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Yl Cai,Speleothem,D18O,permil,Precipitation Isotope,Na,Na Precipitation Isotope,NA
+J. M. Lough,Coral,Calcification,g/cm/yr,NA,NA,NA,NA
+NA,MarineSediment,Mg/Ca,mmol/mol,NA,NA,surface.temp,degC
+Scott St George,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+Jacek Raddatz,MarineSediment,D18O,permil,NA,NA,Temperature,degC
+Steig,GlacierIce,D18O,permil,Precipitation Isotope,Air Surface,Air Surface Precipitation Isotope,NA
+J. Block,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+E. Mosley-Thompson,GlacierIce,Dust,permil,NA,NA,NA,NA
+Franck Bassinot,MarineSediment,D18O,permil,NA,NA,Temperature,degC
+E. Mosley-Thompson,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+Nicole K Davi,Wood,NA,NA,NA,NA,NA,NA
+John Southon,MarineSediment,D18O,permil,NA,NA,NA,NA
+Andrew G. Bunn,Wood,Sample Count,count,NA,NA,NA,NA
+Masaki Sano,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,37:2Alkenoneconcentration,ng/g,NA,NA,NA,NA
+NA,MarineSediment,NA,permil PDB,NA,NA,surface.temp,degC
+P.- N. Lin,GlacierIce,Nitrate,ppb,NA,NA,NA,NA
+Gordon Jacoby,Wood,NA,NA,NA,NA,NA,NA
+Graf,GlacierIce,D18O,permil,Precipitation Isotope,Air Surface,Air Surface Precipitation Isotope,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+Kevin J. Anchukaitis,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Michael M. Joachimski,Sclerosponge,D18O,permil,NA,Sea Surface,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+D.W. Peterson,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+Dierk Hebbeln,MarineSediment,Mg/Ca,mmol/mol,NA,NA,Temperature,degC
+David P. Schneider,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+M. Sano,Wood,D18O,permil,Precipitation Amount,Na,Year,AD
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+Dierk Hebbeln,MarineSediment,D18O,permil,NA,NA,Temperature,degC
+A.P. Ballantyne,Wood,D18O,permil,Precipitation Isotope,Na,Na Precipitation Isotope,NA
+Keith R. Briffa,Wood,Segment,NA,NA,NA,NA,NA
+Kevin C. Nixon,Midden,NA,decimal degrees,NA,NA,temperature1,degC
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+Thomas A. Neumann,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+Gordon Jacoby,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+Scott St George,Wood,Segment,NA,NA,NA,NA,NA
+Henning Kuhnert,MarineSediment,D18O,permil,NA,NA,NA,NA
+W. Stichler,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+X. Chenxi,Wood,D18O,permil,Pdsi,Na,Na Pdsi,NA
+Kurt F. Kipfmueller,Wood,NA,NA,NA,NA,NA,NA
+NA,MarineSediment,Uk37,NA,NA,NA,surface.temp,degC
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+Duane G. Froese,Ice-other,Dd,permil,NA,NA,uncertainty temperature1,degC
+C. J. C. Reason,Coral,D18O,permil,NA,Sea Surface,NA,NA
+X. Chenxi,Wood,D18O,permil,NA,Na,NA,NA
+Weiaybach,GlacierIce,D18O,permil,Precipitation Isotope,Air Surface,Air Surface Precipitation Isotope,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+B. Wa¼Nnemann,LakeSediment,D18O,permil,Precipitation And Evaporation,Lake Water,Lake Water Precipitation And Evaporation,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+G. C. Jacoby,Wood,NA,NA,NA,NA,NA,NA
+Rob Wilson,Wood,Corrs,NA,NA,NA,NA,NA
+Jaap S. Sinninghe Damst̩,LakeSediment,NA,cm,NA,NA,NA,NA
+Luc Beaufort,MarineSediment,D18O,permil,NA,NA,NA,NA
+NA,MarineSediment,Foraminifera Abundance,counts,NA,NA,NA,NA
+William J. D'Andrea,LakeSediment,NA,m,NA,NA,NA,NA
+B.H. Luckman,Wood,Segment,NA,NA,NA,NA,NA
+J. Jouzel,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+R. J. Francey,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Bohleber,GlacierIce,D18O,permil,NA,Air Surface,NA,NA
+NA,MarineSediment,Total Organic Carbon,percent,NA,NA,surface.temp,degC
+Vinther,GlacierIce,D18O,permil,NA,Air Surface,NA,NA
+T.-L. Ku,Speleothem,D18O,permil,NA,Na,NA,NA
+M.E. Colenutt,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+I Voigt,MarineSediment,D18O,permil,Carbonate Ion Concentration,Na,Temperature,degC
+K. J. Anchukaitis,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Markus Kienast,MarineSediment,Mg/Ca,mmol/mol,NA,NA,NA,NA
+I Voigt,MarineSediment,D18O,permil,Temperature And D18O Of Seawater,Subsurface  300 400M ,Subsurface  300 400M  Temperature And D18O Of Seawater,NA
+H. Schuhmacher,Coral,D13C,permil,NA,NA,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+B. H. Luckman,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+Takeshi Nakatsuka,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+D.A. Graybill,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+B. Luckman,Wood,Corrs,NA,NA,NA,NA,NA
+Fritz H. Schweingruber,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+Kevin J. Anchukaitis,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,D18O,permil,NA,Sea Surface,NA,NA
+H. Schulz,MarineSediment,NA,mm,NA,NA,NA,NA
+Rob Wilson,Peat,NA,NA,NA,NA,Temperature,degC
+Brian H Luckman,Wood,NA,NA,NA,NA,NA,NA
+Gregory C. Wiles,Wood,Corrs,NA,NA,NA,NA,NA
+Ann Holbourn,MarineSediment,Mg/Ca,mmol/mol,NA,NA,NA,NA
+NA,MarineSediment,Foraminifera Abundance,percent,NA,NA,NA,NA
+H.B. Vonhof,Speleothem,D18O,permil,NA,Na,NA,NA
+NA,MarineSediment,37:2Alkenoneconcentration,ng/g,NA,NA,NA,NA
+S. T. Gray,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil,NA,Sea Surface,D18O,permil
+Edward R. Cook,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+V. N. Mikhalenko,GlacierIce,Dust,permil,NA,NA,NA,NA
+Jesper A. Björklund,Wood,Density,NA,NA,Air Surface,NA,NA
+Brian H Luckman,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+Eric J. Steig,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+David Frank,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+John P. Cropper,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+Philip D. Jones,Wood,Tree Ring Standardized Growth Index,NA,NA,NA,NA,NA
+E. Mosley-Thompson,GlacierIce,Sulfate,ppb,NA,NA,NA,NA
+Eric J. Steig,Ice-other,D18O,permil,NA,NA,temperature1,degC
+G. C. Jacoby,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+NA,MarineSediment,Uk37,NA,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+Keith R. Briffa,Wood,Core,NA,NA,NA,NA,NA
+Dirk N _Rnberg,MarineSediment,D13C,permil,NA,NA,Temperature,degC
+Jessica E. Carilli,Coral,NA,cm,NA,NA,D18O,permil
+L. G. Thompson,GlacierIce,Ammonium,ppb,NA,NA,NA,NA
+G. Wiles,Wood,Residual,NA,NA,NA,NA,NA
+NA,MarineSediment,Foraminifera Abundance,counts,NA,NA,NA,NA
+D.L. Urban,Wood,NA,NA,NA,NA,NA,NA
+Fritz H. Schweingruber,Wood,Segment,NA,NA,NA,NA,NA
+R. J. S. Wilson,Wood,Core,NA,NA,NA,NA,NA
+P.M. Brown,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+Trevor J. Porter,Ice-other,D-Excess,permil,NA,NA,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+Masaki Sano,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Roberto Urrutia,LakeSediment,NA,mm,NA,NA,uncertainty_temperature,degC
+P.- N. Lin,GlacierIce,F,ppb,NA,NA,NA,NA
+Brian H Luckman,Wood,Sample Count,count,NA,NA,NA,NA
+Fritz H. Schweingruber,Wood,Sample Count,count,NA,NA,NA,NA
+J. Mignot,Peat,NA,NA,NA,NA,Temperature,degC
+Trevor J. Porter,GroundIce,D18O,permil,Precipitation Isotope,Air Surface,uncertainty temperature1,degC
+Edward R. Cook,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+M. Grosjean,LakeSediment,NA,NA,NA,NA,NA,NA
+Kevin J. Anchukaitis,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,D18O,permil,Temperature And D18O Of Seawater,Sea Surface,Sea Surface Temperature And D18O Of Seawater,NA
+Torbjörn Josefsson,Wood,Density,NA,NA,Air Surface,NA,NA
+Keith R. Briffa,Wood,Sample Count,count,NA,NA,NA,NA
+R. M. Koerner,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+Delia W. Oppo,MarineSediment,Mg/Ca,NA,NA,NA,Temperature,degC
+Keith R. Briffa,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+Keith R. Briffa,Wood,Corrs,NA,NA,NA,NA,NA
+Elisabeth L. Sikes,MarineSediment,D18O,permil,NA,NA,Temperature,degC
+Keith R. Briffa,Wood,NA,NA,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+R Funada,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+David C. Frank,Wood,Maximum Latewood Density,NA,NA,Air Surface,NA,NA
+Andrew G. Bunn,Wood,Residual,NA,NA,NA,NA,NA
+R. J. S. Wilson,Wood,Residual,NA,NA,NA,NA,NA
+Nicole K Davi,Wood,Segment,NA,NA,NA,NA,NA
+Andrew G. Bunn,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+Keith R. Briffa,Wood,Residual,NA,NA,NA,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+Brendan M. Buckley,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Rob Wilson,Wood,Maximum Latewood Density,NA,NA,Air Surface,NA,NA
+Lesleigh Anderson,LakeSediment,NA,cm,NA,NA,NA,NA
+L. J. Graumlich,Wood,NA,NA,NA,NA,NA,NA
+P. M. Grootes,Peat,NA,NA,NA,NA,Temperature,degC
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+Vinther,GlacierIce,D18O,permil,NA,Air Surface,NA,NA
+Gordon C. Jacoby,Wood,NA,NA,NA,NA,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+Riza Yuliratno Setiawan,MarineSediment,Mg/Ca,mmol/mol,NA,NA,Temperature,degC
+M.K. Hughes,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+B. R. Loveday,Coral,D18O,permil,NA,Sea Surface,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+Jan Esper,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,Ice-Rafted Debris,no/g,NA,NA,NA,NA
+Christopher D. Charles,Coral,D18O,permil,NA,Sea Surface,NA,NA
+Nicole K Davi,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+S. T. Gray,Wood,Core,NA,NA,NA,NA,NA
+Gordon Jacoby,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+L. J. Graumlich,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+Sasiri Bandara,GroundIce,Dd,permil,NA,Air Surface,uncertainty temperature1,degC
+J. L. Betancourt,Wood,Corrs,NA,NA,NA,NA,NA
+M. Sano,Wood,D18O,permil,NA,Surface,Year,AD
+NA,MarineSediment,Uk37,NA,NA,NA,surface.temp,degC
+Elfi Mollier-Vogel,MarineSediment,D13C,permil,NA,NA,Temperature,degC
+Elisabeth L. Sikes,MarineSediment,D18O,permil,NA,NA,NA,NA
+Rosanne D'Arrigo,Wood,NA,NA,NA,NA,NA,NA
+Matthew W. Salzer,Wood,Segment,NA,NA,NA,NA,NA
+Rosanne D’Arrigo,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+Scott St George,Wood,Corrs,NA,NA,NA,NA,NA
+G. C. Wiles,Wood,Core,NA,NA,NA,NA,NA
+Timothy J. Osborn,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Gerard M. Wellington,Coral,D18O,permil,NA,Sea Surface,NA,NA
+Stephen T. Jackson,LakeSediment,Brgdgt,peak area,NA,NA,NA,NA
+Kerstin Treydte,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+L. J. Graumlich,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+John W. Williams,LakeSediment,Brgdgt,peak area,NA,NA,soilTemp,degC
+H. Fischer,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+NA,Wood,NA,AD,NA,NA,NA,NA
+NA,MarineSediment,Mg/Ca,mmol/mol,NA,NA,NA,NA
+M. Sano,Wood,D18O,permil,NA,Na,NA,NA
+Delia W. Oppo,MarineSediment,Mg/Ca,NA,NA,NA,NA,NA
+B. Stenni,GlacierIce,Dd,permil,NA,Air Condensationlevel,NA,NA
+NA,MarineSediment,Mg/Ca,mmol/mol,NA,NA,surface.temp,degC
+John Southon,MarineSediment,Mg/Ca,mmol/mol,NA,NA,NA,NA
+Fritz H. Schweingruber,Wood,NA,NA,NA,NA,NA,NA
+Heidi Doose-Rolinski,Peat,NA,NA,NA,NA,Temperature,degC
+Kevin J. Anchukaitis,Wood,NA,NA,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+Alexey Kaplan,Coral,D13C,permil,NA,NA,NA,NA
+P.M. Brown,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+James M. Russell,LakeSediment,Brgdgt,peak area,NA,NA,soilTemp,degC
+Kevin J. Anchukaitis,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Elfi Mollier-Vogel,MarineSediment,Caco3,percent,NA,NA,Temperature,degC
+Brian H. Luckman,Wood,Sample Count,count,NA,NA,NA,NA
+Paul J. Krusic,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Marit-Solveig Seidenkrantz,Peat,NA,NA,NA,NA,Temperature,degC
+NA,Coral,D18O,permil,Water Temperature,Na,Na Water Temperature,NA
+NA,MarineSediment,Mg/Ca,mmol/mol,NA,NA,surface.temp,degC
+NA,MarineSediment,Uk37,NA,NA,NA,surface.temp.error,degC
+Markus Kienast,MarineSediment,D18O,permil,NA,NA,Temperature,degC
+A. Lu Ckge,MarineSediment,NA,mm,NA,NA,Temperature,degC
+Peter B. Demenocal,Coral,D13C,permil,NA,NA,NA,NA
+NA,MarineSediment,Foraminifera Abundance,percent,NA,NA,surface.temp,degC
+K.M. Cobb,Coral,NA,cm,NA,NA,NA,NA
+Peter B. Demenocal,Coral,D18O,permil,NA,Sea Surface,NA,NA
+Henning Kuhnert,Coral,D18O,permil,NA,Sea Surface,NA,NA
+Kevin C. Nixon,Midden,NA,decimal degrees,NA,NA,NA,NA
+Eugene A. Vaganov,Wood,Segment,NA,NA,NA,NA,NA
+NA,MarineSediment,Uk37,NA,NA,NA,NA,NA
+Peter W. Swarzenski,LakeSediment,NA,degC,NA,NA,NA,NA
+Jessica E. Carilli,Coral,D18O,permil,Water Temperature,Sea Surface,D18O,permil
+Eric W. Wolff,GlacierIce,Dd,permil,NA,Air Condensationlevel,NA,NA
+D. Dahl-Jensen,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+Rob Wilson,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+Vinther,GlacierIce,D18O,permil,NA,Air Surface,NA,NA
+NA,MarineSediment,Mg/Ca,mmol/mol,NA,NA,NA,NA
+Kristin Doering,MarineSediment,Mg/Ca,mmol/mol,NA,NA,NA,NA
+Paul J. Krusic,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+James Scourse,Peat,NA,NA,NA,NA,Temperature,degC
+Masaki Sano,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+John P. Smol,LakeSediment,Effective Moisture,cm,NA,Eff,Temperature,degC
+S. Weldeab,MarineSediment,NA,cm,NA,NA,NA,NA
+Jacek Raddatz,MarineSediment,D18O,permil,NA,NA,Temperature,degC
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+Nicole K Davi,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+Ralph Schneider,MarineSediment,D13C,permil,NA,NA,Temperature,degC
+Rosanne D’Arrigo,Wood,Sample Count,count,NA,NA,NA,NA
+L.D. Keigwin,MarineSediment,D18O,permil,Seawater Isotope,Surface,Surface Seawater Isotope,NA
+Lloyd D. Keigwin,MarineSediment,Mg/Ca,NA,NA,NA,Temperature,degC
+Graf,GlacierIce,D18O,permil,NA,Air Surface,NA,NA
+Eugene A. Vaganov,Wood,Residual,NA,NA,NA,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+G. T. Pederson,Wood,Residual,NA,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+V. Masson-Delmotte,GlacierIce,NA,m,NA,NA,NA,NA
+Schwager,GlacierIce,D18O,permil,Precipitation Isotope,Air Surface,Air Surface Precipitation Isotope,NA
+Takeshi Nakatsuka,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Tas Van Ommen,Wood,Tree Ring Standardized Growth Index,NA,NA,Na,NA,NA
+Daniela Fischer,LakeSediment,NA,mm,NA,NA,uncertainty_temperature,degC
+Fritz H. Schweingruber,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+K. J. Allen,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Trevor J. Porter,GroundIce,Dd,permil,NA,Air Surface,uncertainty temperature1,degC
+NA,MarineSediment,Mg/Ca,mmol/mol,NA,NA,surface.temp,degC
+J. L. Betancourt,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+I. M. Howat,GlacierIce,Nitrate,ppb,NA,NA,NA,NA
+Yves Gouriou,Coral,D13C,permil,NA,NA,NA,NA
+R. D. Darrigo,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Fritz H. Schweingruber,Wood,NA,NA,NA,NA,NA,NA
+C. A. Woodhouse,Wood,Sample Count,count,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+F. Biondi,Wood,Core,NA,NA,NA,NA,NA
+Catherine R. Samson,MarineSediment,D18O,permil,NA,NA,temperatureComposite,degC
+Keith R. Briffa,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+Kevin C. Nixon,Midden,NA,m,NA,NA,temperature1,degC
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+B. Buckley,Wood,NA,NA,NA,NA,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+Brian H Luckman,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+Nils Andersen,MarineSediment,D18O,permil,NA,NA,NA,NA
+J. S. Littell,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+L. J. Graumlich,Wood,Core,NA,NA,NA,NA,NA
+Dirk N _Rnberg,MarineSediment,Caco3,percent,NA,NA,Temperature,degC
+T. F. Cooper,Coral,Calcification,g/cm/yr,NA,NA,NA,NA
+David Frank,Wood,Tree Ring Standardized Growth Index,NA,NA,Na,NA,NA
+Xavier Crosta,MarineSediment,NA,cm,NA,NA,Temperature,degC
+NA,MarineSediment,NA,permil PDB,NA,NA,surface.temp,degC
+Mikhail F. Adamenko,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Fritz H. Schweingruber,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+L. G. Thompson,GlacierIce,D18O,permil,Precipitation Isotope,Air Surface,Air Surface Precipitation Isotope,NA
+V. N. Mikhalenko,GlacierIce,Thickness,mwe,NA,NA,NA,NA
+Nicole K Davi,Wood,Core,NA,NA,NA,NA,NA
+P.M. Brown,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+Catherine Kissel,MarineSediment,D18O,permil,NA,NA,Temperature,degC
+S Kaplan,Wood,NA,NA,NA,NA,NA,NA
+Gordon Jacoby,Wood,NA,NA,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+L. J. Graumlich,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+Sasiri Bandara,Ice-other,D18O,permil,NA,NA,temperature1,degC
+NA,MarineSediment,Caco3,percent,NA,NA,NA,NA
+G. C. Jacoby,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Kristin Doering,MarineSediment,37:2Alkenoneconcentration,g,NA,NA,Temperature,degC
+H.L. Lin,MarineSediment,D18O,permil,Temperature And D18O Of Seawater,Sea Surface,Sea Surface Temperature And D18O Of Seawater,NA
+O. Reinwarth,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+Lauren J. Davies,Ice-other,NA,cm,NA,NA,uncertainty temperature1,degC
+NA,MarineSediment,D18O,permil,Temperature And D18O Of Seawater,Sea Surface,D18O,permil
+Sasiri Bandara,Ice-other,Dd,permil,NA,NA,NA,NA
+Stepan G. Shiyatov,Wood,Sample Count,count,NA,NA,NA,NA
+Riza Yuliratno Setiawan,MarineSediment,Mg/Ca,mmol/mol,NA,NA,NA,NA
+NA,MarineSediment,Caco3,percent,NA,NA,surface.temp,degC
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+F.S. Hu,LakeSediment,D18O,permil,Precipitation And Evaporation,Na,Na Precipitation And Evaporation,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+Jason P. Briner,LakeSediment,Layer Thickness,mm,NA,Air Surface,Temperature,degC
+Wolfgang Kuhnt,MarineSediment,Mg/Ca,mmol/mol,NA,NA,Temperature,degC
+M.K. Hughes,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+E. Mosley-Thompson,GlacierIce,Thickness,mwe,NA,NA,NA,NA
+Keith R. Briffa,Wood,Corrs,NA,NA,NA,NA,NA
+Dirk N _Rnberg,MarineSediment,Uk37,NA,NA,NA,Temperature,degC
+NA,MarineSediment,D18O,permil,Seawater Isotope,Near Surface,Near Surface Seawater Isotope,NA
+Terrence M. Quinn,Coral,D18O,permil,NA,Sea Surface,NA,NA
+Ralph Schneider,MarineSediment,D13C,permil,NA,NA,Temperature,degC
+S̩Bastien Zaragosi,Peat,NA,NA,NA,NA,Temperature,degC
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+Les C. Cwynar,Peat,NA,NA,NA,NA,Temperature,degC
+Brian H Luckman,Wood,Corrs,NA,NA,NA,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,deep.temp,degC
+Hs Sundqvist,Speleothem,D18O,permil,Air Temperature,Na,Na Air Temperature,NA
+Duane G. Froese,Ice-other,D18O,permil,NA,NA,temperature1,degC
+Brian H. Luckman,Wood,Residual,NA,NA,NA,NA,NA
+G. T. Pederson,Wood,Sample Count,count,NA,NA,NA,NA
+G. C. Jacoby,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+Edward R. Cook,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,Mg/Ca,mmol/mol,NA,NA,NA,NA
+J. S. Littell,Wood,NA,NA,NA,NA,NA,NA
+Heinz Wanner,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Kevin C. Nixon,Midden,NA,decimal degrees,NA,NA,NA,NA
+Spruce W. Schoenemann,GroundIce,D18O,permil,NA,Air Surface,uncertainty temperature1,degC
+Dieter Garbe-Sch̦Nberg,MarineSediment,D18O,permil,NA,NA,NA,NA
+Duane G. Froese,Ice-other,Dd,permil,NA,NA,temperature1,degC
+Keith R. Briffa,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+David C. Frank,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+T. Thorsteinnson,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+B. M. Buckley,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+James M. Russell,LakeSediment,Brgdgt,peak area,NA,NA,Temperature,degC
+Philip D. Jones,Wood,Segment,NA,NA,NA,NA,NA
+Weissbach,GlacierIce,D18O,permil,Precipitation Isotope,Air Surface,Air Surface Precipitation Isotope,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+Jaap S. Sinninghe Damst̩,LakeSediment,NA,m,NA,NA,NA,NA
+NA,MarineSediment,Uk37,NA,NA,NA,surface.temp,degC
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+Trevor J. Porter,GroundIce,Dd,permil,Precipitation Isotope,Air Surface,uncertainty temperature1,degC
+William Curry,MarineSediment,Mg/Ca,NA,NA,NA,NA,NA
+Lauren J. Davies,GroundIce,D18O,permil,Precipitation Isotope,Air Surface,uncertainty temperature1,degC
+J.M. Lough,Coral,D18O,permil,NA,Sea Surface,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+John P. Cropper,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+P.- N. Lin,GlacierIce,Sulfate,ppb,NA,NA,NA,NA
+Scott St George,Wood,Core,NA,NA,NA,NA,NA
+Pavla Fenwick,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Rosanne D'Arrigo,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+Brendan M. Buckley,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Ralph Schneider,MarineSediment,Caco3,percent,NA,NA,Temperature,degC
+B. M. Vinther,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+S. Hetzinger,Coral,D18O,permil,NA,Sea Surface,NA,NA
+Eric J. Steig,Wood,Tree Ring Standardized Growth Index,NA,NA,Na,NA,NA
+V. S. Zagorodnov,GlacierIce,Ammonium,ppb,NA,NA,NA,NA
+Matthew W. Salzer,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Edward R. Cook,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Fritz H. Schweingruber,Wood,Sample Count,count,NA,NA,NA,NA
+Lauren J. Davies,GroundIce,Dd,permil,Precipitation Isotope,Air Surface,uncertainty temperature1,degC
+Lars Östlund,Wood,Density,NA,NA,Air Surface,NA,NA
+Brian H Luckman,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+Lucien Von Gunten,LakeSediment,Biogenic Silica,mg/cm2/yr,NA,NA,uncertainty_temperature,degC
+Brian H Luckman,Wood,Segment,NA,NA,NA,NA,NA
+J.C. Hellstrom,Speleothem,D18O,permil,NA,Na,NA,NA
+Philip D. Jones,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Timothy T. Barrows,Peat,NA,NA,NA,NA,Temperature,degC
+Fritz H. Schweingruber,Wood,Tree Ring Standardized Growth Index,NA,NA,NA,NA,NA
+B.F. Clegg,LakeSediment,D18O,permil,Precipitation And Evaporation,Na,Na Precipitation And Evaporation,NA
+Matthew W. Salzer,Wood,NA,NA,NA,NA,NA,NA
+Brendan M. Buckley,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+L. G. Thompson,GlacierIce,Ca,ppb,NA,NA,NA,NA
+Stephen T. Jackson,LakeSediment,Brgdgt,peak area,NA,NA,soilTemp,degC
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+Brian H. Luckman,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+J. F. Bolzan,GlacierIce,D18O,permil,NA,Air Surface,NA,NA
+Edward R. Cook,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+G. T. Pederson,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Tebke B̦Schen,MarineSediment,Mg/Ca,mmol/mol,NA,NA,Temperature,degC
+Duane G. Froese,GroundIce,Dd,permil,NA,Na,uncertainty temperature1,degC
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+Patrick De Deckker,Peat,NA,NA,NA,NA,Temperature,degC
+Keith R. Briffa,Wood,NA,NA,NA,NA,NA,NA
+Masaki Sano,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+K. J. Anchukaitis,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Ulf Rogalla,Peat,NA,NA,NA,NA,Temperature,degC
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+Scott St George,Wood,Sample Count,count,NA,NA,NA,NA
+Paul J. Krusic,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+T. F. Cooper,Coral,Calcification,g/cm/yr,NA,NA,NA,NA
+Teresa R. Krause,LakeSediment,Brgdgt,peak area,NA,NA,soilTemp,degC
+NA,MarineSediment,Biogenic Silica,percent,NA,NA,surface.temp,degC
+NA,MarineSediment,Total Organic Carbon,percent,NA,NA,NA,NA
+Rob Wilson,Wood,NA,NA,NA,NA,NA,NA
+C. A. Woodhouse,Wood,Core,NA,NA,NA,NA,NA
+Brendan M. Buckley,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+Brendan M. Buckley,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+K. Kaiser,Wood,NA,NA,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+Fritz H. Schweingruber,Wood,Tree Ring Standardized Growth Index,NA,NA,NA,NA,NA
+C. A. Woodhouse,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+Elfi Mollier-Vogel,MarineSediment,D13C,permil,NA,NA,NA,NA
+P.K. Swart,Coral,D18O,permil,NA,Sea Surface,NA,NA
+Kevin J. Anchukaitis,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Keith R. Briffa,Wood,NA,NA,NA,NA,NA,NA
+Harold C. Fritts,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+Mahyar Mohtadi,MarineSediment,D18O,permil,NA,NA,NA,NA
+Lauren J. Davies,GroundIce,D-Excess,permil,NA,Na,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+M.K. Hughes,Wood,Sample Count,count,NA,NA,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+Trevor J. Porter,Ice-other,Dd,permil,NA,NA,temperature1,degC
+B. H. Luckman,Wood,Segment,NA,NA,NA,NA,NA
+Stephen S. Howe,Coral,D13C,permil,NA,NA,NA,NA
+B. H. Luckman,Wood,NA,NA,NA,NA,NA,NA
+L.J. Graumlich,Wood,Residual,NA,NA,NA,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+Mads Faurschou Knudsen,Peat,NA,NA,NA,NA,Temperature,degC
+Masaki Sano,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,DBD,g/cm3
+E. R. Cook,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Erika Mashig,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,Uk37,NA,NA,NA,surface.temp,degC
+H. Grudd,Wood,Density,count,NA,NA,Temperature,degC
+Duane G. Froese,Ice-other,D-Excess,permil,NA,NA,NA,NA
+Gordon C. Jacoby,Wood,Core,NA,NA,NA,NA,NA
+Keith R. Briffa,Wood,Tree Ring Standardized Growth Index,NA,NA,NA,NA,NA
+Christian M. Zdanowicz,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+Edward R. Cook,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Michelle I. Spooner,Peat,NA,NA,NA,NA,Temperature,degC
+Kaufman,GlacierIce,D18O,permil,Precipitation Isotope,Air Surface,Air Surface Precipitation Isotope,NA
+M.E. Colenutt,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp.error,degC
+G. T. Pederson,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+NA,MarineSediment,Caco3,percent,NA,NA,surface.temp,degC
+K Yasue,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Keith R. Briffa,Wood,NA,NA,NA,NA,NA,NA
+Graf,GlacierIce,D18O,permil,Precipitation Isotope,Air Surface,Air Surface Precipitation Isotope,NA
+M. Kucera,Peat,NA,NA,NA,NA,Temperature,degC
+Mélanie Moreau,Coral,Sr/Ca,mmol/mol,NA,Sea Surface,NA,NA
+Richard Wartenburger,LakeSediment,NA,mm,NA,NA,uncertainty_temperature,degC
+Wolf-Christian Dullo,Coral,D18O,permil,NA,Sea Surface,NA,NA
+Rosanne D'Arrigo,Wood,Residual,NA,NA,NA,NA,NA
+Spruce W. Schoenemann,Ice-other,D-Excess,permil,NA,NA,temperature1,degC
+Kristin Doering,MarineSediment,D13C,permil,NA,NA,Temperature,degC
+Kevin C. Nixon,Midden,NA,decimal degrees,NA,NA,NA,NA
+C.P. Chilcott,Coral,D18O,permil,NA,Sea Surface,NA,NA
+Sasiri Bandara,GroundIce,Dd,permil,NA,Na,uncertainty temperature1,degC
+Scott St George,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+Keith R. Briffa,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+Brian H Luckman,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+Andrew S. Cohen,LakeSediment,NA,degC,NA,NA,Temperature,degC
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+Duane G. Froese,GroundIce,D18O,permil,Precipitation Isotope,Air Surface,uncertainty temperature1,degC
+S. T. Gray,Wood,Sample Count,count,NA,NA,NA,NA
+Lloyd D. Keigwin,MarineSediment,Mg/Ca,NA,NA,NA,NA,NA
+Trevor J. Porter,Ice-other,D18O,permil,NA,NA,temperature1,degC
+Rosanne D'Arrigo,Wood,NA,NA,NA,NA,NA,NA
+Eugene A. Vaganov,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+K. A. Henderson,GlacierIce,D18O,permil,NA,Air Surface,NA,NA
+B. M. Buckley,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+R.M. Ellam,Coral,D18O,permil,NA,Sea Surface,NA,NA
+Dierk Hebbeln,MarineSediment,D18O,permil,NA,NA,NA,NA
+G. C. Jacoby,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Jacek Raddatz,MarineSediment,D13C,permil,NA,NA,NA,NA
+I. M. Howat,GlacierIce,Ammonium,ppb,NA,NA,NA,NA
+NA,MarineSediment,Mg/Ca,mmol/mol,NA,NA,surface.temp,degC
+L. G. Thompson,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+Masaki Sano,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Duane G. Froese,Ice-other,D18O,permil,NA,NA,uncertainty temperature1,degC
+Zhimin Jian,MarineSediment,D18O,permil,NA,NA,Temperature,degC
+M. Feng,Coral,Sr/Ca,mmol/mol,NA,Sea Surface,NA,NA
+William R. Howard,MarineSediment,D18O,permil,NA,NA,uncertainty.temperature,degC
+Braddock K. Linsley,Coral,Sr/Ca,mmol/mol,NA,Sea Surface,NA,NA
+Keith R. Briffa,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Philip D. Jones,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+Timoth̩ Bolliet,MarineSediment,Mg/Ca,mmol/mol,NA,NA,NA,NA
+Braddock K. Linsley,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Keith R. Briffa,Wood,Sample Count,count,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+Eric J. Steig,Ice-other,D-Excess,permil,NA,NA,NA,NA
+R. J. S. Wilson,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+Jeannine-Marie St. Jacques,LakeSediment,Effective Moisture,cm,NA,Eff,Temperature,degC
+D. Thornalley,MarineSediment,D18O,permil,Water Temperature,Na,D18O,permil
+M. Kenigsberg,Wood,Core,NA,NA,NA,NA,NA
+B. Luckman,Wood,Sample Count,count,NA,NA,NA,NA
+Fritz H. Schweingruber,Wood,NA,NA,NA,NA,NA,NA
+H. V. Mcgregor,MarineSediment,Notes,NA,NA,NA,Temperature,degC
+Gregory C. Wiles,Wood,Residual,NA,NA,NA,NA,NA
+D. Kroon,Coral,D18O,permil,NA,Sea Surface,NA,NA
+I. R. Hall,Peat,NA,NA,NA,NA,Temperature,degC
+Christopher Johnson,LakeSediment,NA,degC,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+D. Hodgson,LakeSediment,NA,NA,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+I. M. Howat,GlacierIce,Ca,ppb,NA,NA,NA,NA
+Olivia T Gibb,Peat,NA,NA,NA,NA,Temperature,degC
+Keith R. Briffa,Wood,Tree Ring Standardized Growth Index,NA,NA,NA,NA,NA
+L.D. Keigwin,MarineSediment,D18O,permil,Temperature And D18O Of Seawater,Surface,Surface Temperature And D18O Of Seawater,NA
+Ulf Büntgen,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+B. H. Luckman,Wood,Core,NA,NA,NA,NA,NA
+G. T. Pederson,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+Fritz H. Schweingruber,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+G. C. Wiles,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Christof Bigler,Wood,NA,NA,NA,NA,NA,NA
+Stepan G. Shiyatov,Wood,Core,NA,NA,NA,NA,NA
+R. D. Darrigo,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Gerold Wefer,Coral,D18O,permil,NA,Sea Surface,NA,NA
+Lauren J. Davies,Ice-other,Dd,permil,NA,NA,uncertainty temperature1,degC
+Yvonne Hamann,LakeSediment,Biogenic Silica,mg/cm2/yr,NA,NA,uncertainty_temperature,degC
+Ulf Büntgen,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Rob Wilson,Wood,Residual,NA,NA,NA,NA,NA
+Kevin J. Anchukaitis,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+E. R. Cook,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+David Frank,Wood,Tree Ring Standardized Growth Index,NA,NA,Na,NA,NA
+Steig,GlacierIce,D18O,permil,NA,Air Surface,NA,NA
+P. Moffasanchez,MarineSediment,D18O,permil,Water Temperature,Na,D18O,permil
+L.J. Graumlich,Wood,Sample Count,count,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+R. D. Darrigo,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Michael K. Gagan,Coral,D18O,permil,NA,Sea Surface,NA,NA
+Aur̩Lie Penaud,Peat,NA,NA,NA,NA,Temperature,degC
+Rosanne D’Arrigo,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Andrew J. Schauer,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+M.-A. Sicre,Peat,NA,NA,NA,NA,Temperature,degC
+Rosanne D'Arrigo,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Gerard M. Wellington,Coral,Sr/Ca,mmol/mol,NA,Sea Surface,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+E. Mosley-Thompson,GlacierIce,K,ppb,NA,NA,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+R. D. Darrigo,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+Robert S. Harbert,Midden,NA,decimal degrees,NA,NA,temperature1,degC
+David Frank,Wood,NA,NA,NA,NA,NA,NA
+D.E. Black,MarineSediment,D18O,permil,Water Temperature,Near Surface,Near Surface Water Temperature,NA
+NA,MarineSediment,Mg/Ca,mmol/mol,NA,NA,surface.temp.error,degC
+Rosemarie E. Came,MarineSediment,Mg/Ca,NA,NA,NA,NA,NA
+Gerard M. Wellington,Coral,D13C,permil,NA,NA,NA,NA
+NA,MarineSediment,Mg/Ca,mmol/mol,NA,NA,surface.temp,degC
+Paul J. Krusic,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+K. J. Anchukaitis,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Jim Salinger,Coral,Sr/Ca,mmol/mol,NA,Sea Surface,NA,NA
+J. Pätzold,Coral,D13C,permil,NA,NA,NA,NA
+Jacques Giraudeau,Peat,NA,NA,NA,NA,Temperature,degC
+Brian Luckman,Wood,NA,NA,NA,NA,NA,NA
+Brendan M. Buckley,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+David Frank,Wood,Sample Count,count,NA,NA,NA,NA
+Bat.Asmerom.2013,Speleothem,Laminathickenss,mm,NA,Na,NA,NA
+Kristin Doering,MarineSediment,Caco3,percent,NA,NA,Temperature,degC
+E. Mosley-Thompson,GlacierIce,D18O,permil,NA,Air Surface,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+NA,MarineSediment,Caco3,percent,NA,NA,NA,NA
+Keith R. Briffa,Wood,NA,NA,NA,NA,NA,NA
+Steig,GlacierIce,D18O,permil,NA,Air Surface,NA,NA
+M.K. Hughes,Wood,Core,NA,NA,NA,NA,NA
+David C. Frank,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+I. M. Howat,GlacierIce,F,ppb,NA,NA,NA,NA
+Tebke B̦Schen,MarineSediment,Caco3,percent,NA,NA,Temperature,degC
+Eugene A. Vaganov,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+G. Wiles,Wood,Corrs,NA,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+Josef P. Werne,LakeSediment,NA,cm,NA,NA,NA,NA
+Takeshi Nakatsuka,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+L. Stott,MarineSediment,NA,cm,NA,NA,Temperature,degC
+G. Wiles,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+B. H. Luckman,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+W. Dansgaard,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+L. G. Thompson,GlacierIce,Na,ppb,NA,NA,NA,NA
+NA,Wood,D18O,permil,Precipitation Isotope,Na,Na Precipitation Isotope,NA
+Johannes P. Werner,LakeSediment,NA,m,NA,NA,NA,NA
+Anne Verstege,Wood,NA,NA,NA,NA,NA,NA
+Eric J. Steig,GroundIce,D18O,permil,Precipitation Isotope,Air Surface,uncertainty temperature1,degC
+NA,MarineSediment,D13C,permil PDB,NA,NA,CaCO3,percent
+G. A. Heiss,Coral,D18O,permil,Water Temperature,Na,Na Water Temperature,NA
+Jacek Raddatz,MarineSediment,Uk37,NA,NA,NA,Temperature,degC
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+David A. Mucciarone,Coral,D13C,permil,NA,NA,NA,NA
+Gregory C. Wiles,Wood,Segment,NA,NA,NA,NA,NA
+Vinther,GlacierIce,D18O,permil,Precipitation Isotope,Air Surface,Air Surface Precipitation Isotope,NA
+Sasiri Bandara,Ice-other,D-Excess,permil,NA,NA,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+Sasiri Bandara,GroundIce,D-Excess,permil,NA,Na,NA,NA
+Erika Mashig,Wood,Residual,NA,NA,NA,NA,NA
+T. F. Cooper,Coral,Calcification,g/cm/yr,NA,NA,NA,NA
+J. Chappell,Coral,D18O,permil,NA,Sea Surface,NA,NA
+Paul A. Mayewski,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+L.D. Keigwin,MarineSediment,D18O,permil,Carbonate Ion Concentration,Surface,Surface Carbonate Ion Concentration,NA
+Dirk Nuernberg,MarineSediment,D18O,permil,NA,NA,NA,NA
+Christophe Kinnard,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+Daniela Fischer,LakeSediment,Biogenic Silica,mg/cm2/yr,NA,NA,uncertainty_temperature,degC
+NA,MarineSediment,Foraminifera Abundance,counts,NA,NA,surface.temp,degC
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+Philip D. Jones,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Fritz H. Schweingruber,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+Rob Wilson,Wood,NA,NA,NA,NA,NA,NA
+Takeshi Nakatsuka,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,Mg/Ca,mmol/mol,NA,NA,surface.temp,degC
+Christoph C. Raible,Wood,Tree Ring Standardized Growth Index,NA,NA,Na,NA,NA
+R. Kelly,Peat,NA,NA,NA,NA,Temperature,degC
+S. T. Gray,Wood,Residual,NA,NA,NA,NA,NA
+C. Xu,Wood,D18O,permil,Pdsi,Na,Year,AD
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+Dirk N _Rnberg,MarineSediment,D18O,permil,NA,NA,Temperature,degC
+B. Rein,LakeSediment,NA,NA,NA,NA,Temperature,degC
+I Voigt,MarineSediment,D18O,permil,Seawater Isotope,Na,Temperature,degC
+Masaki Sano,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+J. S. Littell,Wood,Corrs,NA,NA,NA,NA,NA
+Xinrong Cheng,MarineSediment,D18O,permil,NA,NA,NA,NA
+B. Risebrobakken,MarineSediment,D18O,permil,Temperature And D18O Of Seawater,Na,Na Temperature And D18O Of Seawater,NA
+Kevin J. Anchukaitis,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+F. Kienast,Wood,NA,NA,NA,NA,NA,NA
+Takeshi Nakatsuka,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,37:2Alkenoneconcentration,ng/g,NA,NA,surface.temp,degC
+Ignacio Mundo,Wood,Tree Ring Standardized Growth Index,NA,NA,Na,NA,NA
+W.-C. Dullo,Coral,D18O,permil,NA,Sea Surface,NA,NA
+M. Kucera,MarineSediment,NA,mm,NA,NA,Temperature,degC
+R. J. S. Wilson,Wood,Segment,NA,NA,NA,NA,NA
+Weiaybach,GlacierIce,D18O,permil,Precipitation Isotope,Air Surface,Air Surface Precipitation Isotope,NA
+Ralph Schneider,MarineSediment,D18O,permil,NA,NA,Temperature,degC
+Elfi Mollier-Vogel,MarineSediment,D13C,permil,NA,NA,Temperature,degC
+Masaki Sano,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+L. G. Thompson,GlacierIce,D18O,permil,NA,Air Surface,NA,NA
+Rob Wilson,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+Kevin C. Nixon,Midden,NA,decimal degrees,NA,NA,temperature1,degC
+David Frank,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+Kristin Doering,MarineSediment,D13C,permil,NA,NA,Temperature,degC
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+James M. Russell,LakeSediment,Brgdgt,peak area,NA,NA,NA,NA
+I Voigt,MarineSediment,D18O,permil,Water Temperature,Na,D18O,permil
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+K. J. Anchukaitis,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Ekaykin,GlacierIce,Dd,permil,NA,Air Surface,NA,NA
+Eric J. Steig,GroundIce,Dd,permil,NA,Air Surface,uncertainty temperature1,degC
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+B.H. Luckman,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+E. Watson,Wood,Core,NA,NA,NA,NA,NA
+M. Sano,Wood,D18O,permil,NA,Na,NA,NA
+K. -B. Liu,GlacierIce,D18O,permil,NA,Air Surface,NA,NA
+NA,MarineSediment,Foraminifera Abundance,counts,NA,NA,NA,NA
+D.A. Graybill,Wood,Residual,NA,NA,NA,NA,NA
+Irina P. Panyushkina,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+B. Luckman,Wood,NA,NA,NA,NA,NA,NA
+Fritz H. Schweingruber,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+Rob Wilson,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+Kozachek,GlacierIce,D-Excess,permil,NA,Na,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+A.E. Fallick,Coral,D18O,permil,NA,Sea Surface,NA,NA
+S. Mulitza,MarineSediment,Notes,NA,NA,NA,Temperature,degC
+D.E. Black,MarineSediment,D18O,permil,Seawater Isotope,Near Surface,Near Surface Seawater Isotope,NA
+Parker E. Calkin,Wood,NA,NA,NA,NA,NA,NA
+Donald K. Youngblut,Wood,NA,NA,NA,NA,NA,NA
+Kevin C. Nixon,Midden,NA,decimal degrees,NA,NA,NA,NA
+Rosemarie E. Came,MarineSediment,Mg/Ca,NA,NA,NA,Temperature,degC
+Brian H Luckman,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+L. J. Graumlich,Wood,Corrs,NA,NA,NA,NA,NA
+I. M. Howat,GlacierIce,Dust,permil,NA,NA,NA,NA
+Keith R. Briffa,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+Mark Curran,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+G. T. Pederson,Wood,Segment,NA,NA,NA,NA,NA
+NA,MarineSediment,Total Organic Carbon,percent,NA,NA,surface.temp,degC
+Gordon Jacoby,Wood,NA,NA,NA,NA,NA,NA
+L. G. Thompson,GlacierIce,Chloride,ppb,NA,NA,NA,NA
+Takeshi Nakatsuka,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Yves Gouriou,Coral,D18O,permil,NA,Sea Surface,NA,NA
+Frederick W. Taylor,Coral,D18O,permil,NA,Sea Surface,NA,NA
+I. Labuhn,Wood,D18O,permil,Precipitation And Evaporation,Na,Na Precipitation And Evaporation,NA
+M.E. Colenutt,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+Stephen S. Howe,Coral,Sr/Ca,mmol/mol,NA,Sea Surface,NA,NA
+Andrew G. Bunn,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+Brian H Luckman,Wood,Sample Count,count,NA,NA,NA,NA
+Gordon Jacoby,Wood,Residual,NA,NA,NA,NA,NA
+Helge Meggers,MarineSediment,D18O,permil,NA,NA,NA,NA
+R. D'Arrigo,Wood,Residual,NA,NA,NA,NA,NA
+Keith R. Briffa,Wood,Corrs,NA,NA,NA,NA,NA
+NA,LakeSediment,Dd,permil,NA,Na,NA,NA
+Landon Burgener,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+Kristin Doering,MarineSediment,D18O,permil,NA,NA,Temperature,degC
+Masaki Sano,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+D. Thornalley,MarineSediment,D18O,permil,Water Temperature,Na,Na Water Temperature,NA
+Rui Zhang,LakeSediment,Brgdgt,peak area,NA,NA,NA,NA
+Kevin J. Anchukaitis,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+K. Halimeda Kilbourne,Coral,D18O,permil,NA,Sea Surface,NA,NA
+R J S Wilson,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+Ralph Schneider,MarineSediment,D18O,permil,NA,NA,Temperature,degC
+NA,MarineSediment,Total Organic Carbon,percent,NA,NA,surface.temp,degC
+Michael D. Moore,Coral,D18O,permil,NA,Sea Surface,NA,NA
+Kristin Doering,MarineSediment,D13C,permil,NA,NA,NA,NA
+Eugene A. Vaganov,Wood,Tree Ring Standardized Growth Index,NA,NA,NA,NA,NA
+M. E. Davis,GlacierIce,F,ppb,NA,NA,NA,NA
+Eric J. Steig,Ice-other,D-Excess,permil,NA,NA,uncertainty temperature1,degC
+M. Kenigsberg,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+Braddock K. Linsley,Peat,NA,NA,NA,NA,Temperature,degC
+M.K. Hughes,Wood,Residual,NA,NA,NA,NA,NA
+Natacha Meyer,LakeSediment,NA,degC,NA,NA,NA,NA
+Lauren J. Davies,GroundIce,D18O,permil,NA,Air Surface,uncertainty temperature1,degC
+Catherine R. Samson,MarineSediment,D18O,permil,NA,NA,uncertainty.temperature,degC
+Keith R. Briffa,Wood,Sample Count,count,NA,NA,NA,NA
+Harold C. Fritts,Wood,NA,NA,NA,NA,NA,NA
+R. D'Arrigo,Wood,Core,NA,NA,NA,NA,NA
+Brian H. Luckman,Wood,Corrs,NA,NA,NA,NA,NA
+M. Werner,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+L. De Abreu,MarineSediment,NA,m,NA,NA,NA,NA
+Yvonne Hamann,LakeSediment,NA,mm,NA,NA,uncertainty_temperature,degC
+NA,MarineSediment,Dry Bulk Density,g/cm3,NA,NA,surface.temp,degC
+Fw Cruz,Speleothem,D18O,permil,NA,Na,NA,NA
+Brian H. Luckman,Wood,Segment,NA,NA,NA,NA,NA
+Keith R. Briffa,Wood,Segment,NA,NA,NA,NA,NA
+James M. Russell,LakeSediment,Brgdgt,peak area,NA,NA,soilTemp,degC
+David C. Frank,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+Lauren J. Davies,Ice-other,D18O,permil,NA,NA,temperature1,degC
+Keith R. Briffa,Wood,Corrs,NA,NA,NA,NA,NA
+Rosanne D’Arrigo,Wood,NA,NA,NA,NA,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+Gregory C. Wiles,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+A. Bo Ll,MarineSediment,NA,mm,NA,NA,Temperature,degC
+Ulf Büntgen,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+L.J. Graumlich,Wood,Core,NA,NA,NA,NA,NA
+NA,MarineSediment,Uk37,NA,NA,NA,NA,NA
+D.W. Peterson,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Carlo Laj,MarineSediment,Mg/Ca,mmol/mol,NA,NA,Temperature,degC
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+E. R. Cook,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+David A. Mucciarone,Coral,D18O,permil,NA,Sea Surface,NA,NA
+NA,LakeSediment,Dd,permil,Precipitation Isotope,Na,Na Precipitation Isotope,NA
+Eugene A. Vaganov,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+Gordon Jacoby,Wood,Density,g/cm3,NA,NA,NA,NA
+Chuan-Chou Shen,Coral,Sr/Ca,mmol/mol,NA,Sea Surface,NA,NA
+NA,MarineSediment,Dry Bulk Density,g/cm3,NA,NA,NA,NA
+D Hammarlund,LakeSediment,D18O,permil,NA,Na,NA,NA
+J. Zinke,Coral,D18O,permil,NA,Sea Surface,NA,NA
+Keith R. Briffa,Wood,Sample Count,count,NA,NA,NA,NA
+Fritz H. Schweingruber,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+Nicolas Van Nieuwenhove,Peat,NA,NA,NA,NA,Temperature,degC
+Kevin J. Anchukaitis,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Kevin C. Nixon,Midden,NA,decimal degrees,NA,NA,temperature1,degC
+Keith R. Briffa,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+Claude Pujol,Peat,NA,NA,NA,NA,Temperature,degC
+Eric J. Steig,GroundIce,Dd,permil,Precipitation Isotope,Air Surface,uncertainty temperature1,degC
+Heinz Wanner,Wood,Tree Ring Standardized Growth Index,NA,NA,Na,NA,NA
+Keith R. Briffa,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+B.F. Clegg,Peat,NA,NA,NA,NA,Temperature,degC
+Steig,GlacierIce,D18O,permil,NA,Air Surface,NA,NA
+Takeshi Nakatsuka,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+L. G. Thompson,GlacierIce,Dust,permil,NA,NA,NA,NA
+Masaki Sano,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+C. A. Woodhouse,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+Philipp Hochreuther,Wood,D18O,permil,NA,Na,NA,NA
+Masaki Sano,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Ignacio Mundo,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+M. Siccha,MarineSediment,NA,mm,NA,NA,NA,NA
+Kurt F. Kipfmueller,Wood,Corrs,NA,NA,NA,NA,NA
+Fritz H. Schweingruber,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+Peijun Qiao,MarineSediment,D18O,permil,NA,NA,NA,NA
+R. D'Arrigo,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+Takeshi Nakatsuka,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Philip D. Jones,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+G. Wefer,Coral,D18O,permil,Water Temperature,Na,Na Water Temperature,NA
+P. Moffasanchez,MarineSediment,NA,cm,NA,NA,NA,NA
+B. Risebrobakken,MarineSediment,D18O,permil,Water Temperature,Na,Na Water Temperature,NA
+Andrew G. Bunn,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+Kevin J. Anchukaitis,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+H. Miller,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+C. A. Woodhouse,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+NA,MarineSediment,Mg/Ca,mmol/mol,NA,NA,surface.temp,degC
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+Elisabeth L. Sikes,MarineSediment,D18O,permil,NA,NA,uncertainty.temperature,degC
+Britta J.L. Jensen,Wood,NA,NA,NA,NA,NA,NA
+J. M. Lough,Coral,Calcification,g/cm/yr,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+Masaki Sano,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Daniel A. Dixon,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+Paul J. Krusic,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+G. Wiles,Wood,NA,NA,NA,NA,NA,NA
+J. S. Littell,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+H.L. Lin,MarineSediment,D18O,permil,Seawater Isotope,Sea Surface,Sea Surface Seawater Isotope,NA
+H Cheng,Speleothem,D18O,permil,NA,Na,NA,NA
+J. Kipfstuhl,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+Brian F. Cumming,LakeSediment,Effective Moisture,cm,NA,Eff,Temperature,degC
+I Voigt,MarineSediment,D18O,permil,Carbonate Ion Concentration,Na,D18O,permil
+James M. Russell,LakeSediment,NA,cm,NA,NA,NA,NA
+I Voigt,MarineSediment,D18O,permil,Seawater Isotope,Na,D18O,permil
+Ralph Schneider,MarineSediment,Mg/Ca,mmol/mol,NA,NA,Temperature,degC
+X. Chenxi,Wood,D18O,permil,Precipitation And Evaporation,Na,Na Precipitation And Evaporation,NA
+David J. Karoly,Wood,Tree Ring Standardized Growth Index,NA,NA,Na,NA,NA
+Jaap S. Sinninghe Damst̩,Peat,NA,NA,NA,NA,Temperature,degC
+H.B. Clausen,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+Markus Czymzik,LakeSediment,D18O,permil,NA,Air Surface,NA,NA
+R. J. S. Wilson,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+D.W. Peterson,Wood,NA,NA,NA,NA,NA,NA
+M. Kenigsberg,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Alberto V. Reyes,Wood,NA,NA,NA,NA,NA,NA
+Gordon Jacoby,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+V. S. Zagorodnov,GlacierIce,F,ppb,NA,NA,NA,NA
+Ralph Schneider,MarineSediment,D13C,permil,NA,NA,NA,NA
+Duane G. Froese,GroundIce,D-Excess,permil,NA,Na,temperature1,degC
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+Stephen T. Jackson,LakeSediment,Brgdgt,peak area,NA,NA,pH,pH
+Mahyar Mohtadi,MarineSediment,D18O,permil,NA,NA,Temperature,degC
+Kurt F. Kipfmueller,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+M. Sano,Wood,D18O,permil,Precipitation And Evaporation,Na,Na Precipitation And Evaporation,NA
+Edward R. Cook,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Rainer Zahn,MarineSediment,37:2Alkenoneconcentration,g,NA,NA,NA,NA
+Jacek Raddatz,MarineSediment,Caco3,percent,NA,NA,Temperature,degC
+Keith R. Briffa,Wood,Residual,NA,NA,NA,NA,NA
+Nicolas David Greber,LakeSediment,Biogenic Silica,mg/cm2/yr,NA,NA,uncertainty_temperature,degC
+Philip D. Jones,Wood,Core,NA,NA,NA,NA,NA
+Catherine Kissel,MarineSediment,Mg/Ca,mmol/mol,NA,NA,Temperature,degC
+Nils Andersen,MarineSediment,D18O,permil,NA,NA,Temperature,degC
+Thompson,GlacierIce,D18O,permil,Precipitation Isotope,Air Surface,Air Surface Precipitation Isotope,NA
+Trudy Kavanagh,Wood,NA,NA,NA,NA,NA,NA
+Yves Gouriou,Coral,Sr/Ca,mmol/mol,NA,Sea Surface,NA,NA
+Dierk Hebbeln,Peat,NA,NA,NA,NA,Temperature,degC
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+R. Urrutia,LakeSediment,NA,NA,NA,NA,Temperature,degC
+Steig,GlacierIce,D18O,permil,Precipitation Isotope,Air Surface,Air Surface Precipitation Isotope,NA
+R. A. O'Leary,Coral,Calcification,g/cm/yr,NA,NA,NA,NA
+D.A. Graybill,Wood,NA,NA,NA,NA,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+Jason P. Briner,LakeSediment,Layer Thickness,mm,NA,Air Surface,NA,NA
+Ms Lachniet,Speleothem,D18O,permil,NA,Na,NA,NA
+Elena Korotkikh,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+NA,MarineSediment,37:2Alkenoneconcentration,ng/g,NA,NA,surface.temp,degC
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+Dieter Garbe-Sch̦Nberg,MarineSediment,D18O,permil,NA,NA,Temperature,degC
+Vinther,Peat,NA,NA,NA,NA,D18O,NA
+Philip D. Jones,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+L. G. Thompson,GlacierIce,D18O,permil,NA,Air Surface,NA,NA
+Brendan M. Buckley,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Eric J. Steig,GroundIce,D18O,permil,NA,Air Surface,uncertainty temperature1,degC
+Brendan M. Buckley,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,Foraminifera Abundance,percent,NA,NA,surface.temp,degC
+John P. Cropper,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+Eric J. Steig,GroundIce,D-Excess,permil,NA,Na,uncertainty temperature1,degC
+John P. Cropper,Wood,Core,NA,NA,NA,NA,NA
+K.F. Kipfmueller,Wood,NA,NA,NA,NA,NA,NA
+Fritz H. Schweingruber,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+V. N. Mikhalenko,GlacierIce,Ammonium,ppb,NA,NA,NA,NA
+M. Grosjean,Peat,NA,NA,NA,NA,Temperature,degC
+P. Moffasanchez,MarineSediment,D18O,permil,Water Temperature,Subsurface,D18O,permil
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+D.W. Peterson,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+Sasiri Bandara,GroundIce,NA,cm,NA,NA,uncertainty temperature1,degC
+Gordon Jacoby,Wood,Core,NA,NA,NA,NA,NA
+S. Mulitza,MarineSediment,Notes,NA,NA,NA,NA,NA
+Tebke B̦Schen,MarineSediment,D13C,permil,NA,NA,Temperature,degC
+B. H. Luckman,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+NA,Wood,D18O,permil,NA,Na,NA,NA
+David A. Fisher,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+U. Ezat,Peat,NA,NA,NA,NA,Temperature,degC
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+Ann Holbourn,MarineSediment,Mg/Ca,mmol/mol,NA,NA,Temperature,degC
+Brendan M. Buckley,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+G.B. Shimmield,Coral,D18O,permil,D18O Seawater,Sea Surface,Sea Surface D18O Seawater,NA
+Edward R. Cook,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+S. T. Gray,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+Robert J. S. Wilson,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+G. C. Jacoby,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Gregory C. Wiles,Wood,Core,NA,NA,NA,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+Timothy R. Mcclanahan,Coral,D18O,permil,NA,Sea Surface,NA,NA
+D.A. Graybill,Wood,Sample Count,count,NA,NA,NA,NA
+Harold C. Fritts,Wood,Sample Count,count,NA,NA,NA,NA
+D. Sauchyn,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+David C. Lund,MarineSediment,Mg/Ca,NA,NA,NA,Temperature,degC
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+Eugene A. Vaganov,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+Gordon Jacoby,Wood,Maximum Latewood Density,NA,NA,Air Surface,NA,NA
+Vf Novello,Speleothem,D18O,permil,NA,Na,NA,NA
+Graf,GlacierIce,D18O,permil,Precipitation Isotope,Air Surface,Air Surface Precipitation Isotope,NA
+Bertler,GlacierIce,Dd,permil,Precipitation Isotope,Air Surface,Air Surface Precipitation Isotope,NA
+Anne De Vernal,Peat,NA,NA,NA,NA,Temperature,degC
+Andrew G. Bunn,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+Erika Mashig,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+X. Chenxi,Wood,D18O,permil,NA,Na,NA,NA
+Takeshi Nakatsuka,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+P.M. Brown,Wood,Residual,NA,NA,NA,NA,NA
+H. V. Mcgregor,MarineSediment,Notes,NA,NA,NA,NA,NA
+Vinther,GlacierIce,D18O,permil,Precipitation Isotope,Air Surface,Air Surface Precipitation Isotope,NA
+P. Moffasanchez,MarineSediment,D18O,permil,Water Temperature,Surface,D18O,permil
+Tebke B̦Schen,MarineSediment,D13C,permil,NA,NA,NA,NA
+M. Sano,Wood,D18O,permil,NA,Na,Year,AD
+V. N. Magda,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Robert J. S. Wilson,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+J. L. Betancourt,Wood,Sample Count,count,NA,NA,NA,NA
+Martin Grosjean,LakeSediment,Biogenic Silica,mg/cm2/yr,NA,NA,uncertainty_temperature,degC
+Masaki Sano,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Kurt F. Kipfmueller,Wood,Sample Count,count,NA,NA,NA,NA
+Christof Pearce,Peat,NA,NA,NA,NA,Temperature,degC
+Takeshi Nakatsuka,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+M. Kenigsberg,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+NA,MarineSediment,Ice-Rafted Debris,no/g,NA,NA,surface.temp,degC
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+Karl-Heinz Baumann,MarineSediment,D18O,permil,NA,NA,Temperature,degC
+Keith R. Briffa,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+Haowen Dang,MarineSediment,D18O,permil,NA,NA,NA,NA
+S.H. Hill,Wood,NA,NA,NA,NA,NA,NA
+Keith R. Briffa,Wood,Tree Ring Standardized Growth Index,NA,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+Vinther,GlacierIce,D18O,permil,Precipitation Isotope,Air Surface,Air Surface Precipitation Isotope,NA
+Brendan M. Buckley,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Takeshi Nakatsuka,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Erika Mashig,Wood,Sample Count,count,NA,NA,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+Stephen T. Jackson,LakeSediment,Brgdgt,peak area,NA,NA,Temperature,degC
+J.W.C. White,Peat,NA,NA,NA,NA,Temperature,degC
+W. E. Wright,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Paul J. Krusic,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+William Curry,MarineSediment,Mg/Ca,NA,NA,NA,Temperature,degC
+Paul J. Krusic,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Masaki Sano,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Jean-Louis Turon,Peat,NA,NA,NA,NA,Temperature,degC
+Robert S. Harbert,Midden,NA,decimal degrees,NA,NA,NA,NA
+Teresa R. Krause,LakeSediment,Brgdgt,peak area,NA,NA,NA,NA
+Tessa Vance,Wood,Tree Ring Standardized Growth Index,NA,NA,Na,NA,NA
+L. Von Gunten,LakeSediment,NA,cm,NA,NA,Temperature,degC
+John W. Williams,LakeSediment,Brgdgt,peak area,NA,NA,pH,pH
+J. S. Littell,Wood,Sample Count,count,NA,NA,NA,NA
+Bernd Wunnemann,LakeSediment,D18O,permil,Precipitation And Evaporation,Lake Water,Lake Water Precipitation And Evaporation,NA
+B. Luckman,Wood,Residual,NA,NA,NA,NA,NA
+Jacek Raddatz,MarineSediment,D13C,permil,NA,NA,Temperature,degC
+Kevin J. Anchukaitis,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Lauren J. Davies,GroundIce,D-Excess,permil,NA,Na,temperature1,degC
+G. C. Wiles,Wood,NA,NA,NA,NA,NA,NA
+Eystein Jansen,Peat,NA,NA,NA,NA,Temperature,degC
+Ekaykin,GlacierIce,D18O,permil,NA,Air Surface,NA,NA
+Keith R. Briffa,Wood,Tree Ring Standardized Growth Index,NA,NA,NA,NA,NA
+Tebke B̦Schen,MarineSediment,Uk37,NA,NA,NA,Temperature,degC
+M.K. Hughes,Wood,Corrs,NA,NA,NA,NA,NA
+Scott St George,Wood,Residual,NA,NA,NA,NA,NA
+Daniel G. Gavin,Wood,NA,NA,NA,NA,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+Gregory C. Wiles,Wood,Sample Count,count,NA,NA,NA,NA
+NA,MarineSediment,Mg/Ca,mmol/mol,NA,NA,surface.temp,degC
+John Southon,MarineSediment,Mg/Ca,mmol/mol,NA,NA,Temperature,degC
+P. Moffasanchez,MarineSediment,D18O,permil,Carbonate Ion Concentration,Na,Na Carbonate Ion Concentration,NA
+Gordon Jacoby,Wood,Corrs,NA,NA,NA,NA,NA
+J.J.G. Reijmer,Coral,D18O,permil,NA,Sea Surface,NA,NA
+Kim M. Cobb,Coral,D18O,permil,NA,Sea Surface,NA,NA
+D.W. Lea,Coral,D18O,permil,NA,Sea Surface,NA,NA
+M. Kenigsberg,Wood,Sample Count,count,NA,NA,NA,NA
+Paul J. Krusic,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+D. A. Fisher,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+B. M. Buckley,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Duane Froese,Wood,NA,NA,NA,NA,NA,NA
+NA,MarineSediment,Mg/Ca,mmol/mol,NA,NA,surface.temp,degC
+U Büntgen,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+NA,MarineSediment,Dry Bulk Density,g/cm3,NA,NA,surface.temp,degC
+M. E. Davis,GlacierIce,Thickness,mwe,NA,NA,NA,NA
+Kevin K _Ssner,MarineSediment,D18O,permil,NA,NA,Temperature,degC
+G. C. Jacoby,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+V. S. Zagorodnov,GlacierIce,Nitrate,ppb,NA,NA,NA,NA
+Rui Zhang,LakeSediment,Brgdgt,peak area,NA,NA,soilTemp,degC
+F. Biondi,Wood,Segment,NA,NA,NA,NA,NA
+Sasiri Bandara,Ice-other,NA,cm,NA,NA,uncertainty temperature1,degC
+NA,MarineSediment,Total Organic Carbon,percent,NA,NA,surface.temp,degC
+D.A. Graybill,Wood,Core,NA,NA,NA,NA,NA
+NA,MarineSediment,37:2Alkenoneconcentration,ng/g,NA,NA,surface.temp,degC
+D. B. Fagre,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+Keith R. Briffa,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Brendan M. Buckley,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+W. Tegel,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+B. H. Luckman,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+P. -N. Lin,GlacierIce,D18O,permil,Precipitation Isotope,Air Surface,Air Surface Precipitation Isotope,NA
+Eric J. Steig,Ice-other,D-Excess,permil,NA,NA,temperature1,degC
+Thompson,GlacierIce,D18O,permil,NA,Air Surface,NA,NA
+Trevor J. Porter,Ice-other,D18O,permil,NA,NA,uncertainty temperature1,degC
+Jacek Raddatz,MarineSediment,D13C,permil,NA,NA,Temperature,degC
+L. G. Thompson,GlacierIce,K,ppb,NA,NA,NA,NA
+Steve Juggins,LakeSediment,NA,cm,NA,NA,NA,NA
+M. Sano,Wood,D18O,permil,Precipitation And Evaporation,Na,Year,AD
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+H. W. Fischer,MarineSediment,Notes,NA,NA,NA,Temperature,degC
+Fisher,GlacierIce,D18O,permil,NA,Air Surface,NA,NA
+Kevin J. Anchukaitis,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+D.A. Graybill,Wood,NA,NA,NA,NA,NA,NA
+Stefan Schouten,LakeSediment,NA,m,NA,NA,Temperature,degC
+Takeshi Nakatsuka,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Christoph C. Raible,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+Elisabeth L. Sikes,MarineSediment,D13C,permil,NA,NA,Temperature,degC
+Y. Rosenthal,Peat,NA,NA,NA,NA,Temperature,degC
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+Ellen Druffel,Coral,D18O,permil,NA,Sea Surface,NA,NA
+Zinke,Coral,D18O,permil,NA,Sea Surface,NA,NA
+F. Biondi,Wood,Corrs,NA,NA,NA,NA,NA
+NA,MarineSediment,Caco3,percent,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+Kerstin Treydte,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Fritz H. Schweingruber,Wood,Segment,NA,NA,NA,NA,NA
+Fritz H. Schweingruber,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+B.F. Clegg,LakeSediment,D18O,permil,NA,Na,NA,NA
+I. M. Howat,GlacierIce,Na,ppb,NA,NA,NA,NA
+B. H. Luckman,Wood,NA,NA,NA,NA,NA,NA
+D. B. Fagre,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+Ricardo Villalba,Wood,Tree Ring Standardized Growth Index,NA,NA,Na,NA,NA
+Rosanne D'Arrigo,Wood,Density,g/cm3,NA,NA,NA,NA
+J. Zinke,Coral,D18O,permil,NA,Sea Surface,NA,NA
+J. P. Sachs,Peat,NA,NA,NA,NA,Temperature,degC
+P. -N. Lin,GlacierIce,D18O,permil,NA,Air Surface,NA,NA
+G. C. Jacoby,Wood,Segment,NA,NA,NA,NA,NA
+K Fukazawa,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+T. F. Cooper,Coral,Calcification,g/cm/yr,NA,NA,NA,NA
+Timothy J. Osborn,Wood,NA,NA,NA,NA,NA,NA
+Dirk N _Rnberg,MarineSediment,Mg/Ca,mmol/mol,NA,NA,NA,NA
+Teresa R. Krause,LakeSediment,Brgdgt,peak area,NA,NA,pH,pH
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+John W. Williams,LakeSediment,Brgdgt,peak area,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+G. Wiles,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+J. P. Steffensen,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+Sasiri Bandara,GroundIce,D-Excess,permil,NA,Na,temperature1,degC
+NA,MarineSediment,Foraminifera Abundance,percent,NA,NA,NA,NA
+Jussi Griessinger,Wood,NA,AD,NA,NA,NA,NA
+Roberto Urrutia,LakeSediment,Biogenic Silica,mg/cm2/yr,NA,NA,uncertainty_temperature,degC
+Timothy J. Osborn,Wood,Core,NA,NA,NA,NA,NA
+Braddock K. Linsley,Coral,D13C,permil,NA,NA,NA,NA
+V. S. Zagorodnov,GlacierIce,Ca,ppb,NA,NA,NA,NA
+J. Esper,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,Foraminifera Abundance,counts,NA,NA,surface.temp,degC
+Fritz H. Schweingruber,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+Takeshi Nakatsuka,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+K.R. Briffa,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+Keith R. Briffa,Wood,NA,NA,NA,NA,NA,NA
+Weissbach,GlacierIce,D18O,permil,NA,Air Surface,NA,NA
+Fr̩D̩Rique Eynaud,Peat,NA,NA,NA,NA,Temperature,degC
+Thomas J. Crowley,Coral,D18O,permil,NA,Sea Surface,NA,NA
+W. E. Wright,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Gerard M. Wellington,Coral,D18O,permil,NA,Sea Surface,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+Robert B. Dunbar,Coral,D18O,permil,NA,Sea Surface,NA,NA
+D.W. Peterson,Wood,Segment,NA,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+A. Maldonado,LakeSediment,NA,NA,NA,NA,Temperature,degC
+Stephen T. Jackson,LakeSediment,Brgdgt,peak area,NA,NA,Temperature,degC
+Scott St George,Wood,NA,NA,NA,NA,NA,NA
+D. Thornalley,MarineSediment,NA,cm,NA,NA,D18O,permil
+A. Lu Ckge,MarineSediment,NA,mm,NA,NA,NA,NA
+NA,MarineSediment,Biogenic Silica,percent,NA,NA,surface.temp,degC
+C. Xu,Wood,D18O,permil,Pdsi,Na,Na Pdsi,NA
+W.C.G. Wester,Speleothem,D18O,permil,NA,Na,NA,NA
+Summer B. Rupper,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+H.C. Fritts,Wood,NA,NA,NA,NA,NA,NA
+Weiaybach,GlacierIce,D18O,permil,NA,Air Surface,NA,NA
+NA,MarineSediment,Foraminifera Abundance,percent,NA,NA,surface.temp,degC
+Anne De Vernal,Peat,NA,NA,NA,NA,temperatureComposite,degC
+NA,Coral,D18O,permil,D18O Seawater,Na,D18O,permil
+Bianca Fr̩Chette,Peat,NA,NA,NA,NA,Temperature,degC
+Dirk N _Rnberg,MarineSediment,Mg/Ca,mmol/mol,NA,NA,Temperature,degC
+NA,MarineSediment,Mg/Ca,mmol/mol,NA,NA,surface.temp,degC
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+Fritz H. Schweingruber,Wood,NA,NA,NA,NA,NA,NA
+Stepan G. Shiyatov,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+Ml Griffiths,Speleothem,D18O,permil,NA,Na,NA,NA
+M.E. Colenutt,Wood,Segment,NA,NA,NA,NA,NA
+Fritz H. Schweingruber,Wood,Corrs,NA,NA,NA,NA,NA
+Robert S. Harbert,Midden,NA,decimal degrees,NA,NA,temperature1,degC
+Gangjian Wei,Coral,Sr/Ca,mmol/mol,NA,Sea Surface,NA,NA
+A. E. Curtis,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+I. Labuhn,Wood,D18O,permil,NA,Na,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+M. Dima,MarineSediment,Notes,NA,NA,NA,Temperature,degC
+Duane G. Froese,GroundIce,D-Excess,permil,NA,Na,uncertainty temperature1,degC
+G. C. Jacoby,Wood,Corrs,NA,NA,NA,NA,NA
+Rui Zhang,LakeSediment,Brgdgt,peak area,NA,NA,Temperature,degC
+L.J. Graumlich,Wood,Corrs,NA,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+Rui Zhang,LakeSediment,Brgdgt,peak area,NA,NA,pH,pH
+B. H. Luckman,Wood,Core,NA,NA,NA,NA,NA
+C. A. Woodhouse,Wood,Segment,NA,NA,NA,NA,NA
+Keith R. Briffa,Wood,NA,NA,NA,NA,NA,NA
+Timothy J. Osborn,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+M.E. Colenutt,Wood,Sample Count,count,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+Tessa Vance,Wood,Tree Ring Standardized Growth Index,NA,NA,Na,NA,NA
+Marc T. Mayes,LakeSediment,NA,degC,NA,NA,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+Keith R. Briffa,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+Georg Scheeder,Peat,NA,NA,NA,NA,Temperature,degC
+Brian H. Luckman,Wood,Core,NA,NA,NA,NA,NA
+Lauren J. Davies,Ice-other,Dd,permil,NA,NA,NA,NA
+J.L. Ye,Peat,NA,NA,NA,NA,Temperature,index
+A. Eisenhauer,Coral,D18O,permil,NA,Sea Surface,NA,NA
+Nicolas David Greber,LakeSediment,NA,mm,NA,NA,uncertainty_temperature,degC
+NA,MarineSediment,Foraminifera Abundance,counts,NA,NA,surface.temp,degC
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+Paul J. Krusic,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,Mg/Ca,mmol/mol,NA,NA,NA,NA
+NA,Coral,D18O,permil,Water Temperature,Na,D18O,permil
+Yl Cai,Speleothem,D18O,permil,NA,Na,NA,NA
+M. E. Davis,GlacierIce,D18O,permil,Precipitation Isotope,Air Surface,Air Surface Precipitation Isotope,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp.error,degC
+Reynolds-Henne,Wood,D18O,permil,Precipitation Isotope,Na,Na Precipitation Isotope,NA
+Timothy J. Osborn,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+NA,MarineSediment,Uk37,NA,NA,NA,surface.temp,degC
+Swart,Coral,NA,cm,NA,NA,NA,NA
+Duane G. Froese,GroundIce,D18O,permil,NA,Air Surface,uncertainty temperature1,degC
+Elisabeth Isaksson,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+Ralph Schneider,MarineSediment,Mg/Ca,mmol/mol,NA,NA,NA,NA
+R. H. Abu-Zied,LakeSediment,D18O,permil,NA,Na,NA,NA
+NA,MarineSediment,Mg/Ca,mmol/mol,NA,NA,surface.temp,degC
+Gordon Jacoby,Wood,Sample Count,count,NA,NA,NA,NA
+Kevin J. Anchukaitis,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Rosanne D'Arrigo,Wood,Corrs,NA,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+Jacek Raddatz,MarineSediment,Mg/Ca,mmol/mol,NA,NA,NA,NA
+G. C. Wiles,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+M. Kenigsberg,Wood,Segment,NA,NA,NA,NA,NA
+M. Grosjean,LakeSediment,NA,cm,NA,NA,Temperature,degC
+A. Newton,MarineSediment,NA,cm,NA,NA,NA,NA
+Mahyar Mohtadi,MarineSediment,Mg/Ca,mmol/mol,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+Lauren J. Davies,Ice-other,D-Excess,permil,NA,NA,temperature1,degC
+Brian H Luckman,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp.error,degC
+E. R. Cook,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+W. E. Wright,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+NA,MarineSediment,D18O,permil PDB,NA,NA,CaCO3,percent
+J. S. Littell,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+Paul J. Krusic,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+V. N. Mikhalenko,GlacierIce,F,ppb,NA,NA,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+Kurt F. Kipfmueller,Wood,Core,NA,NA,NA,NA,NA
+B. H. Luckman,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+J.C. King,Wood,Residual,NA,NA,NA,NA,NA
+L. Von Gunten,LakeSediment,NA,NA,NA,NA,NA,NA
+NA,MarineSediment,Mg/Ca,mmol/mol,NA,NA,NA,NA
+Casey Saenger,MarineSediment,Mg/Ca,NA,NA,NA,Temperature,degC
+Eric J. Steig,Ice-other,NA,cm,NA,NA,uncertainty temperature1,degC
+I. M. Howat,GlacierIce,Mg,ppb,NA,NA,NA,NA
+Kevin J. Anchukaitis,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Fidel González-Rouco,Wood,Tree Ring Standardized Growth Index,NA,NA,Na,NA,NA
+Erika Mashig,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+Elisabeth L. Sikes,MarineSediment,D13C,permil,NA,NA,temperatureComposite,degC
+R. De Jong,LakeSediment,NA,cm,NA,NA,Temperature,degC
+J. Cole-Dai,GlacierIce,D18O,permil,NA,Air Surface,NA,NA
+Brendan M. Buckley,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Christopher Johnson,LakeSediment,NA,degC,NA,NA,Temperature,degC
+Brian H. Luckman,Wood,NA,NA,NA,NA,NA,NA
+D.A. Graybill,Wood,Corrs,NA,NA,NA,NA,NA
+S.W. Wang,Peat,NA,NA,NA,NA,Temperature,index
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+Rosanne D'Arrigo,Wood,Corrs,NA,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+Brian H Luckman,Wood,Core,NA,NA,NA,NA,NA
+Tebke B̦Schen,MarineSediment,D18O,permil,NA,NA,Temperature,degC
+P. Moffasanchez,MarineSediment,D18O,permil,Seawater Isotope,Na,Na Seawater Isotope,NA
+Carlo Laj,MarineSediment,Mg/Ca,mmol/mol,NA,NA,NA,NA
+Erika Mashig,Wood,Core,NA,NA,NA,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+J.M. Lough,Coral,Sr/Ca,mmol/mol,NA,Sea Surface,NA,NA
+D.A. Graybill,Wood,Sample Count,count,NA,NA,NA,NA
+Paul J. Krusic,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+P. Moffasanchez,MarineSediment,D18O,permil,Seawater Isotope,Na,D18O,permil
+L. Stott,MarineSediment,NA,cm,NA,NA,NA,NA
+Isaksson,GlacierIce,D18O,permil,Precipitation Isotope,Air Surface,Air Surface Precipitation Isotope,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+Keith R. Briffa,Wood,Core,NA,NA,NA,NA,NA
+Matthew W. Salzer,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+Fritz H. Schweingruber,Wood,Segment,NA,NA,NA,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+T. Harlan.,Wood,NA,NA,NA,NA,NA,NA
+E.R. Cook,Coral,D18O,permil,NA,Sea Surface,NA,NA
+Brendan M. Buckley,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+P Asmerom,Speleothem,D18O,permil,NA,Na,NA,NA
+Jan Esper,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+J.C. King,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+K.M. Cobb,Coral,D18O,permil,D18O Seawater,Sea Surface,Sea Surface D18O Seawater,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+Paul J. Krusic,Wood,Density,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,D18O,permil,Temperature And D18O Of Seawater,Near Surface,Near Surface Temperature And D18O Of Seawater,NA
+Sasiri Bandara,Ice-other,D-Excess,permil,NA,NA,temperature1,degC
+B. Luckman,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+Jeffrey P. Severinghaus,Peat,NA,NA,NA,NA,Temperature,degC
+Stephen T. Jackson,LakeSediment,Brgdgt,peak area,NA,NA,pH,pH
+K. J. Anchukaitis,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Kristin Doering,MarineSediment,Mg/Ca,mmol/mol,NA,NA,Temperature,degC
+Fritz H. Schweingruber,Wood,Sample Count,count,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+E. R. Cook,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Kevin J. Anchukaitis,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Graf,GlacierIce,D18O,permil,NA,Air Surface,NA,NA
+R. Jalkanen,Wood,Maximum Latewood Density,NA,NA,Air Surface,NA,NA
+Kurt F. Kipfmueller,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+Spruce W. Schoenemann,GroundIce,D18O,permil,Precipitation Isotope,Air Surface,uncertainty temperature1,degC
+K.-U. Heussner,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Rosanne D'Arrigo,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+Masaki Sano,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Anders Moberg,Peat,NA,NA,NA,NA,Temperature,degC
+G. C. Jacoby,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+Elizabeth K. Thomas,LakeSediment,Layer Thickness,mm,NA,Air Surface,NA,NA
+Robert S. Harbert,Midden,NA,decimal degrees,NA,NA,temperature1,degC
+Keith R. Briffa,Wood,Sample Count,count,NA,NA,NA,NA
+John W. Williams,LakeSediment,Brgdgt,peak area,NA,NA,pH,pH
+Graf,GlacierIce,D18O,permil,NA,Air Surface,NA,NA
+Ashley Curtis,Wood,NA,NA,NA,NA,NA,NA
+Fritz H. Schweingruber,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+Spruce W. Schoenemann,GroundIce,NA,cm,NA,NA,uncertainty temperature1,degC
+M.K. Hughes,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+Keith R. Briffa,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+NA,MarineSediment,Total Organic Carbon,percent,NA,NA,NA,NA
+P.- N. Lin,GlacierIce,Ammonium,ppb,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil,Water Temperature,Near Surface,Near Surface Water Temperature,NA
+Braddock K. Linsley,Coral,D18O,permil,NA,Sea Surface,NA,NA
+P.- N. Lin,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+Paul J. Krusic,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Yongsong Huang,Peat,NA,NA,NA,NA,uncertainty.temperature,degC
+D.A. Graybill,Wood,Corrs,NA,NA,NA,NA,NA
+R. J. S. Wilson,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+L.J. Graumlich,Wood,Segment,NA,NA,NA,NA,NA
+Eric J. Steig,Ice-other,D18O,permil,NA,NA,uncertainty temperature1,degC
+David Frank,Wood,NA,NA,NA,NA,NA,NA
+L. G. Thompson,GlacierIce,Cl,ppb,NA,NA,NA,NA
+James M. Russell,LakeSediment,Brgdgt,peak area,NA,NA,pH,pH
+D.W. Peterson,Wood,Corrs,NA,NA,NA,NA,NA
+John P. Cropper,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+Rui Zhang,LakeSediment,Brgdgt,peak area,NA,NA,pH,pH
+Vinther,GlacierIce,D18O,NA,Precipitation Isotope,Air Surface,Air Surface Precipitation Isotope,NA
+J. Pätzold,Coral,D18O,permil,NA,Sea Surface,NA,NA
+R. Thunell,MarineSediment,NA,cm,NA,NA,Temperature,degC
+G. T. Pederson,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+Peter D. Neff,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+Julie Elbert,LakeSediment,Biogenic Silica,mg/cm2/yr,NA,NA,uncertainty_temperature,degC
+E. Watson,Wood,Segment,NA,NA,NA,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+M. E. Davis,GlacierIce,Na,ppb,NA,NA,NA,NA
+V. N. Mikhalenko,GlacierIce,Cl,ppb,NA,NA,NA,NA
+T. M. Melvin,Wood,Density,count,NA,NA,Temperature,degC
+Timothy J. Osborn,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+Watanabe,GlacierIce,D18O,permil,NA,Air Surface,NA,NA
+Paul J. Krusic,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Scott St George,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+D.A. Graybill,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+G. C. Jacoby,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Rosanne D'Arrigo,Wood,Maximum Latewood Density,NA,NA,Air Surface,NA,NA
+Timothy J. Osborn,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+NA,MarineSediment,Biogenic Silica,percent,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+NA,MarineSediment,Mg/Ca,mmol/mol,NA,NA,surface.temp,degC
+P.M. Brown,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Dieter Garbe-Sch̦Nberg,MarineSediment,Mg/Ca,mmol/mol,NA,NA,NA,NA
+Vinther,GlacierIce,D18O,permil,Precipitation Isotope,Air Surface,Air Surface Precipitation Isotope,NA
+R. A. O'Leary,Coral,Calcification,g/cm/yr,NA,NA,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+Sasiri Bandara,GroundIce,Dd,permil,Precipitation Isotope,Air Surface,uncertainty temperature1,degC
+Andrew G. Bunn,Wood,NA,NA,NA,NA,NA,NA
+Tebke B̦Schen,MarineSediment,D18O,permil,NA,NA,NA,NA
+H. W. Fischer,MarineSediment,Notes,NA,NA,NA,NA,NA
+Elfi Mollier-Vogel,MarineSediment,D18O,permil,NA,NA,Temperature,degC
+Braddock K. Linsley,Coral,Sr/Ca,mmol/mol,NA,Sea Surface,NA,NA
+E. Mosley-Thompson,GlacierIce,Cl,ppb,NA,NA,NA,NA
+L. Von Gunten,LakeSediment,NA,NA,NA,NA,Temperature,degC
+NA,MarineSediment,Mg/Ca,mmol/mol,NA,NA,surface.temp,degC
+David C. Lund,MarineSediment,Mg/Ca,NA,NA,NA,NA,NA
+Pw Williams,Speleothem,D18O,permil,NA,Na,NA,NA
+J. L. Betancourt,Wood,Residual,NA,NA,NA,NA,NA
+M. Schulz,Peat,NA,NA,NA,NA,Temperature,degC
+Takeshi Nakatsuka,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+J. S. Littell,Wood,Residual,NA,NA,NA,NA,NA
+Ca Dykoski,Speleothem,D18O,permil,NA,Na,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+Elfi Mollier-Vogel,MarineSediment,Uk37,NA,NA,NA,Temperature,degC
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+Louise C. Foster,LakeSediment,NA,cm,NA,NA,NA,NA
+Frederick W. Taylor,Coral,Sr/Ca,mmol/mol,NA,Sea Surface,NA,NA
+S. T. Gray,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+NA,MarineSediment,Biogenic Silica,percent,NA,NA,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+G. C. Jacoby,Wood,Sample Count,count,NA,NA,NA,NA
+Malcolm T. Mcculloch,Coral,Sr/Ca,mmol/mol,NA,Sea Surface,NA,NA
+M. Kucera,MarineSediment,NA,mm,NA,NA,NA,NA
+Fritz H. Schweingruber,Wood,NA,NA,NA,NA,NA,NA
+James M. Russell,LakeSediment,NA,degC,NA,NA,NA,NA
+Philip D. Jones,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+M.E. Colenutt,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+Michael C. Osborne,Coral,D13C,permil,NA,NA,NA,NA
+Dmitriy V. Ovtchinnikov,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+V. S. Zagorodnov,GlacierIce,Na,ppb,NA,NA,NA,NA
+M. Sarnthein,Peat,NA,NA,NA,NA,Temperature,degC
+J Esper,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+Alexey Kaplan,Coral,D18O,permil,NA,Sea Surface,NA,NA
+Fritz H. Schweingruber,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+Rob Wilson,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+Brian H Luckman,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+NA,MarineSediment,Caco3,percent,NA,NA,NA,NA
+Eugene A. Vaganov,Wood,NA,NA,NA,NA,NA,NA
+Fritz H. Schweingruber,Wood,NA,NA,NA,NA,NA,NA
+R. Udisti,GlacierIce,NA,m,NA,NA,NA,NA
+M.M. Joachimski,Coral,D13C,permil,NA,NA,NA,NA
+L. J. Graumlich,Wood,Residual,NA,NA,NA,NA,NA
+Rob Wilson,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+Takeshi Nakatsuka,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Masaki Sano,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+C. A. Woodhouse,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+Jim Salinger,Coral,D13C,permil,NA,NA,NA,NA
+R Boch,Speleothem,D18O,permil,NA,Na,NA,NA
+S. O. Rasmussen,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+Edward R. Cook,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+P. Moffasanchez,MarineSediment,D18O,permil,Seawater Isotope,Subsurface,D18O,permil
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+Stepan G. Shiyatov,Wood,Tree Ring Standardized Growth Index,NA,NA,NA,NA,NA
+B.M. Vinther,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+L. G. Thompson,GlacierIce,F,ppb,NA,NA,NA,NA
+W. Graf,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+Fritz H. Schweingruber,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+Fritz H. Schweingruber,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+Eric J. Steig,Ice-other,D18O,permil,NA,NA,NA,NA
+R. J. S. Wilson,Wood,Core,NA,NA,NA,NA,NA
+NA,MarineSediment,Mg/Ca,mmol/mol,NA,NA,surface.temp,degC
+H. Motoyama,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+Andrew D. Moy,Wood,Tree Ring Standardized Growth Index,NA,NA,Na,NA,NA
+Eugene A. Vaganov,Wood,Corrs,NA,NA,NA,NA,NA
+Sasiri Bandara,Ice-other,D18O,permil,NA,NA,uncertainty temperature1,degC
+H.L. Lin,MarineSediment,D18O,permil,Carbonate Ion Concentration,Sea Surface,Sea Surface Carbonate Ion Concentration,NA
+NA,MarineSediment,Total Organic Carbon,percent,NA,NA,surface.temp,degC
+L.J. Graumlich,Wood,NA,NA,NA,NA,NA,NA
+Stephen T. Jackson,LakeSediment,Brgdgt,peak area,NA,NA,soilTemp,degC
+Jacek Raddatz,MarineSediment,D18O,permil,NA,NA,NA,NA
+Timothy J. Osborn,Wood,Sample Count,count,NA,NA,NA,NA
+G.A. Heiss,Coral,D13C,permil,NA,NA,NA,NA
+NA,MarineSediment,Uk37,NA,NA,NA,surface.temp,degC
+Trevor J. Porter,GroundIce,D-Excess,permil,NA,Na,uncertainty temperature1,degC
+Brendan M. Buckley,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Heinz Wanner,Wood,Tree Ring Standardized Growth Index,NA,NA,Na,NA,NA
+Keith R. Briffa,Wood,Corrs,NA,NA,NA,NA,NA
+NA,MarineSediment,Foraminifera Abundance,percent,NA,NA,NA,NA
+Takeshi Nakatsuka,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Brian H. Luckman,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+Scott St George,Wood,Sample Count,count,NA,NA,NA,NA
+S. Mischke,LakeSediment,D18O,permil,Precipitation And Evaporation,Lake Water,Lake Water Precipitation And Evaporation,NA
+Dirk Nuernberg,MarineSediment,D18O,permil,NA,NA,Temperature,degC
+Rosanne D. D’Arrigo,Wood,NA,NA,NA,NA,NA,NA
+D.A. Graybill,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+L.J. Graumlich,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+B. H. Luckman,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+Trevor J. Porter,GroundIce,D-Excess,permil,NA,Na,NA,NA
+J.C. King,Wood,NA,NA,NA,NA,NA,NA
+Elfi Mollier-Vogel,MarineSediment,D18O,permil,NA,NA,Temperature,degC
+Simon H.H. Nielsen,MarineSediment,NA,cm,NA,NA,Temperature,degC
+Lauren J. Davies,Ice-other,D18O,permil,NA,NA,NA,NA
+D. B. Fagre,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+Brian H Luckman,Wood,NA,NA,NA,NA,NA,NA
+Sasiri Bandara,GroundIce,D-Excess,permil,NA,Na,uncertainty temperature1,degC
+Elizabeth K. Thomas,LakeSediment,Layer Thickness,mm,NA,Air Surface,Temperature,degC
+Trevor J. Porter,GroundIce,D18O,permil,NA,Na,uncertainty temperature1,degC
+M. E. Davis,GlacierIce,Sulfate,ppb,NA,NA,NA,NA
+E. Watson,Wood,Residual,NA,NA,NA,NA,NA
+Henning Kuhnert,MarineSediment,D18O,permil,NA,NA,Temperature,degC
+I Voigt,MarineSediment,D18O,permil,Seawater Isotope,Subsurface  300 400M ,Subsurface  300 400M  Seawater Isotope,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+David Frank,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,Mg/Ca,mmol/mol,NA,NA,NA,NA
+Ulf Büntgen,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+M. Friedrich,Wood,Maximum Latewood Density,NA,NA,Air Surface,NA,NA
+Rf Denniston,Speleothem,D18O,permil,NA,Na,NA,NA
+Robert Gilbert,Wood,NA,NA,NA,NA,NA,NA
+Duane G. Froese,GroundIce,D18O,permil,NA,Na,uncertainty temperature1,degC
+J _Rgen P _Tzold,MarineSediment,D18O,permil,NA,NA,Temperature,degC
+Robert S. Harbert,Midden,NA,decimal degrees,NA,NA,NA,NA
+Keith R. Briffa,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+B. Luckman,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+D.A. Graybill,Wood,Core,NA,NA,NA,NA,NA
+P.M. Brown,Wood,Core,NA,NA,NA,NA,NA
+D. B. Fagre,Wood,Segment,NA,NA,NA,NA,NA
+I Voigt,MarineSediment,D18O,permil,Water Temperature,Na,Na Water Temperature,NA
+Raymond S. Bradley,Peat,NA,NA,NA,NA,uncertainty.temperature,degC
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+K. Rankenburg,Coral,Sr/Ca,mmol/mol,NA,Sea Surface,NA,NA
+NA,Coral,D18O,permil,D18O Seawater,Na,Na D18O Seawater,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp.error,degC
+Joan-Albert Sanchez-Cabeza,Coral,D13C,permil,NA,NA,NA,NA
+C. Kamenik,Peat,NA,NA,NA,NA,Temperature,degC
+E. R. Cook,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+S. T. Gray,Wood,Segment,NA,NA,NA,NA,NA
+Harold C. Fritts,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Catherine R. Samson,MarineSediment,D18O,permil,NA,NA,Temperature,degC
+D.W. Peterson,Wood,Core,NA,NA,NA,NA,NA
+R. D. Darrigo,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+A. Rountrey,Coral,Sr/Ca,mmol/mol,NA,Sea Surface,NA,NA
+J _Rgen P _Tzold,MarineSediment,D18O,permil,NA,NA,NA,NA
+Eric J. Steig,GroundIce,NA,cm,NA,NA,uncertainty temperature1,degC
+Y. Huang,Peat,NA,NA,NA,NA,Temperature,degC
+Rob Wilson,Wood,Core,NA,NA,NA,NA,NA
+Dada Yan,LakeSediment,D18O,permil,Precipitation And Evaporation,Lake Water,Lake Water Precipitation And Evaporation,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+Nicole K Davi,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Timoth̩ Bolliet,MarineSediment,D18O,permil,NA,NA,NA,NA
+Gordon C. Jacoby,Wood,Corrs,NA,NA,NA,NA,NA
+William J. D'Andrea,Peat,NA,NA,NA,NA,uncertainty.temperature,degC
+Gordon Jacoby,Wood,Core,NA,NA,NA,NA,NA
+M.-X. Truong,Peat,NA,NA,NA,NA,Temperature,degC
+E. Mosley-Thompson,GlacierIce,D18O,permil,NA,Air Surface,NA,NA
+R. J. S. Wilson,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+NA,Wood,NA,AD,NA,NA,NA,NA
+Daniel P. Schrag,Coral,Sr/Ca,mmol/mol,NA,Sea Surface,NA,NA
+NA,MarineSediment,D18O,permil,Water Temperature,Sea Surface,Sea Surface Water Temperature,NA
+S.J. Johnsen,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+Rob Wilson,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+B. H. Luckman,Wood,Sample Count,count,NA,NA,NA,NA
+James M. Russell,LakeSediment,Brgdgt,peak area,NA,NA,NA,NA
+F. Biondi,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+D Fleitmann,Speleothem,D18O,permil,NA,Na,NA,NA
+E. Watson,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+H. Erlenkeuser,Peat,NA,NA,NA,NA,Temperature,degC
+R. J. S. Wilson,Wood,Residual,NA,NA,NA,NA,NA
+Peter J. M _Ller,MarineSediment,37:2Alkenoneconcentration,g,NA,NA,Temperature,degC
+Kurt F. Kipfmueller,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+Spruce W. Schoenemann,GroundIce,Dd,permil,NA,Air Surface,uncertainty temperature1,degC
+David J. Barclay,Wood,NA,NA,NA,NA,NA,NA
+L.J. Graumlich,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+J. Jouzel,GlacierIce,Dd,permil,NA,Air Condensationlevel,NA,NA
+M. Jebb,Coral,D18O,permil,NA,Sea Surface,NA,NA
+Gordon Jacoby,Wood,Segment,NA,NA,NA,NA,NA
+Carlo Laj,MarineSediment,D18O,permil,NA,NA,Temperature,degC
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp.error,degC
+I. M. Howat,GlacierIce,K,ppb,NA,NA,NA,NA
+Brian H Luckman,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+NA,MarineSediment,Uk37,NA,NA,NA,NA,NA
+NA,MarineSediment,Caco3,percent,NA,NA,NA,NA
+G. Wiles,Wood,Sample Count,count,NA,NA,NA,NA
+Jussi Griessinger,Wood,D18O,permil,Precipitation Isotope,Na,Na Precipitation Isotope,NA
+C. A. Woodhouse,Wood,NA,NA,NA,NA,NA,NA
+G. Wefer,Coral,D13C,permil,NA,NA,NA,NA
+Stefan Schouten,LakeSediment,NA,cm,NA,NA,NA,NA
+Teresa R. Krause,LakeSediment,Brgdgt,peak area,NA,NA,soilTemp,degC
+Masaki Sano,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+Catherine R. Samson,MarineSediment,D13C,permil,NA,NA,NA,NA
+Teresa R. Krause,LakeSediment,Brgdgt,peak area,NA,NA,Temperature,degC
+Matthew W. Salzer,Wood,Core,NA,NA,NA,NA,NA
+NA,MarineSediment,Mg/Ca,mmol/mol,NA,NA,surface.temp,degC
+G. C. Jacoby,Wood,Residual,NA,NA,NA,NA,NA
+Wolfgang Kuhnt,MarineSediment,D18O,permil,NA,NA,Temperature,degC
+Vinther,Peat,NA,NA,NA,NA,D18O,PC
+Haowen Dang,MarineSediment,D18O,permil,NA,NA,Temperature,degC
+Elfi Mollier-Vogel,MarineSediment,D18O,permil,NA,NA,NA,NA
+Keith R. Briffa,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+R. J. S. Wilson,Wood,Corrs,NA,NA,NA,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+Kevin J. Anchukaitis,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+James M. Russell,LakeSediment,Brgdgt,peak area,NA,NA,Temperature,degC
+S. T. Gray,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+James M. Russell,LakeSediment,NA,degC,NA,NA,Temperature,degC
+Fritz H. Schweingruber,Wood,NA,NA,NA,NA,NA,NA
+Ekaykin,GlacierIce,Dd,permil,Precipitation Isotope,Air Surface,Air Surface Precipitation Isotope,NA
+Paul J. Krusic,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Takeshi Nakatsuka,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+K. -B. Liu,GlacierIce,D18O,permil,NA,Air Surface,NA,NA
+Lauren J. Davies,Ice-other,D-Excess,permil,NA,NA,NA,NA
+Harold C. Fritts,Wood,Residual,NA,NA,NA,NA,NA
+Scott St George,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+Jung-Hyun Kim,MarineSediment,NA,m,NA,NA,NA,NA
+P.M. Brown,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+NA,MarineSediment,Mg/Ca,mmol/mol,NA,NA,surface.temp,degC
+X. Chenxi,Wood,D18O,permil,Pdsi,Na,Na Pdsi,NA
+N. Baatarbileg,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+D.Y Gong,Peat,NA,NA,NA,NA,Temperature,index
+Dirk N _Rnberg,MarineSediment,D13C,permil,NA,NA,NA,NA
+D Fleitmann,Speleothem,D18O,permil,Precipitation Isotope,Na,Na Precipitation Isotope,NA
+Ailie J. E. Gallant,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+NA,MarineSediment,Caco3,percent,NA,NA,NA,NA
+Ulf Büntgen,Wood,Maximum Latewood Density,NA,NA,Air Surface,NA,NA
+Duane G. Froese,Ice-other,D-Excess,permil,NA,NA,uncertainty temperature1,degC
+Jens Zinke,Wood,Tree Ring Standardized Growth Index,NA,NA,Na,NA,NA
+B. Luckman,Wood,Core,NA,NA,NA,NA,NA
+M. Sano,Wood,D18O,permil,Pdsi,Na,Na Pdsi,NA
+Fritz H. Schweingruber,Wood,Residual,NA,NA,NA,NA,NA
+R. J. S. Wilson,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,Caco3,percent,NA,NA,NA,NA
+K. J. Anchukaitis,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+Edward R. Cook,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Erika Mashig,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+Takeshi Nakatsuka,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+Sasiri Bandara,Ice-other,D18O,permil,NA,NA,NA,NA
+Hans W. Linderholm,Wood,Density,NA,NA,Air Surface,NA,NA
+H. Oerter,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+David Frank,Wood,Residual,NA,NA,NA,NA,NA
+Rosanne D'Arrigo,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+NA,MarineSediment,Total Organic Carbon,percent,NA,NA,surface.temp,degC
+Anne De Vernal,Peat,NA,NA,NA,NA,Temperature,degC
+G. C. Wiles,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+NA,Wood,D18O,permil,Precipitation Isotope,Na,Na Precipitation Isotope,NA
+M. E. Davis,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+Ray W. Spear,Peat,NA,NA,NA,NA,Temperature,degC
+NA,MarineSediment,Uk37,NA,NA,NA,NA,NA
+Lonnie G. Thompson,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+Timothy J. Osborn,Wood,Tree Ring Standardized Growth Index,NA,NA,NA,NA,NA
+V. N. Mikhalenko,GlacierIce,K,ppb,NA,NA,NA,NA
+Dierk Hebbeln,MarineSediment,Mg/Ca,mmol/mol,NA,NA,NA,NA
+Edward R. Cook,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Jacek Raddatz,MarineSediment,37:2Alkenoneconcentration,g,NA,NA,Temperature,degC
+Jan Esper,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+E. Mosley-Thompson,GlacierIce,D18O,permil,Precipitation Isotope,Air Surface,Air Surface Precipitation Isotope,NA
+Stepan G. Shiyatov,Wood,Corrs,NA,NA,NA,NA,NA
+C.S. Moses,Coral,D18O,permil,NA,Sea Surface,NA,NA
+Frederick W. Taylor,Coral,D13C,permil,NA,NA,NA,NA
+M. Trachsel,Peat,NA,NA,NA,NA,Temperature,degC
+Edward R. Cook,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Edward R. Cook,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+B. H. Luckman,Wood,Residual,NA,NA,NA,NA,NA
+Keith R. Briffa,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+Jonathan G. Palmer,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+J. Luterbacher,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Takeshi Nakatsuka,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+J. Woollett,Wood,NA,NA,NA,NA,NA,NA
+D. Sauchyn,Wood,Segment,NA,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+M.R. Van Breukelen,Speleothem,D18O,permil,NA,Na,NA,NA
+NA,MarineSediment,Dry Bulk Density,g/cm3,NA,NA,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,DBD,g/cm3
+Gregory C. Wiles,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+Keith R. Briffa,Wood,Residual,NA,NA,NA,NA,NA
+Stefan Mulitza,MarineSediment,37:2Alkenoneconcentration,g,NA,NA,Temperature,degC
+B.H. Luckman,Wood,Core,NA,NA,NA,NA,NA
+Fritz H. Schweingruber,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+M. Sano,Wood,D18O,permil,NA,Na,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+Rob Wilson,Wood,Density,g/cm3,NA,NA,NA,NA
+S. J. Johnsen,GlacierIce,Dd,permil,NA,Air Condensationlevel,NA,NA
+NA,MarineSediment,37:2Alkenoneconcentration,ng/g,NA,NA,surface.temp,degC
+Stephen S. Howe,Coral,D18O,permil,NA,Sea Surface,NA,NA
+Lauren J. Davies,Ice-other,Dd,permil,NA,NA,temperature1,degC
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+K. J. Anchukaitis,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Timoth̩ Bolliet,MarineSediment,Mg/Ca,mmol/mol,NA,NA,Temperature,degC
+Rob Wilson,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+L. G. Thompson,GlacierIce,Sulfate,ppb,NA,NA,NA,NA
+V Ersek,Speleothem,D18O,permil,NA,Na,NA,NA
+John P. Cropper,Wood,Corrs,NA,NA,NA,NA,NA
+G. C. Jacoby,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+Stepan G. Shiyatov,Wood,NA,NA,NA,NA,NA,NA
+Keith R. Briffa,Wood,Segment,NA,NA,NA,NA,NA
+Elfi Mollier-Vogel,MarineSediment,Mg/Ca,mmol/mol,NA,NA,Temperature,degC
+Rosanne D’Arrigo,Wood,Corrs,NA,NA,NA,NA,NA
+Luc Beaufort,MarineSediment,Mg/Ca,mmol/mol,NA,NA,NA,NA
+NA,MarineSediment,Caco3,percent,NA,NA,surface.temp,degC
+NA,MarineSediment,Total Organic Carbon,percent,NA,NA,NA,NA
+Paul J. Krusic,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Ralph Schneider,MarineSediment,D18O,permil,NA,NA,NA,NA
+R. J. S. Wilson,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+P.- N. Lin,GlacierIce,Thickness,mwe,NA,NA,NA,NA
+Brendan M. Buckley,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+M. E. Davis,GlacierIce,Mg,ppb,NA,NA,NA,NA
+Brian H. Luckman,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+Markus Kienast,MarineSediment,D18O,permil,NA,NA,NA,NA
+Julian P. Sachs,MarineSediment,Uk37,NA,NA,NA,Temperature,degC
+K. A. Henderson,GlacierIce,D18O,permil,Precipitation Isotope,Air Surface,Air Surface Precipitation Isotope,NA
+Robert B. Dunbar,Coral,D13C,permil,NA,NA,NA,NA
+M.W. Salzer,Wood,NA,NA,NA,NA,NA,NA
+V. N. Mikhalenko,GlacierIce,Sulfate,ppb,NA,NA,NA,NA
+NA,MarineSediment,Ice-Rafted Debris,no/g,NA,NA,NA,NA
+B. Luckman,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+D. Frank,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+G. Wiles,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+Spruce W. Schoenemann,Ice-other,D18O,permil,NA,NA,NA,NA
+R. J. S. Wilson,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+C.P. Chilcott,Coral,D18O,permil,Water Temperature,Sea Surface,Sea Surface Water Temperature,NA
+NA,MarineSediment,Caco3,percent,NA,NA,surface.temp,degC
+Robert S. Harbert,Midden,NA,decimal degrees,NA,NA,NA,NA
+Lesleigh Anderson,LakeSediment,D18O,permil,Precipitation And Evaporation,Na,Na Precipitation And Evaporation,NA
+Masaki Sano,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Gregory C. Wiles,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+NA,MarineSediment,Ice-Rafted Debris,no/g,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,CaCO3,percent
+D.A. Graybill,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+S. T. Gray,Wood,NA,NA,NA,NA,NA,NA
+Charles Gunning,Wood,NA,NA,NA,NA,NA,NA
+Fritz H. Schweingruber,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+K. R. Briffa,Wood,Density,count,NA,NA,Temperature,degC
+Marian Fujak,LakeSediment,NA,mm,NA,NA,uncertainty_temperature,degC
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+G. C. Jacoby,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+I. M. Howat,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+B. H. Luckman,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+Trevor J. Porter,GroundIce,D-Excess,permil,NA,Na,temperature1,degC
+Andrew G. Bunn,Wood,Corrs,NA,NA,NA,NA,NA
+Mahyar Mohtadi,MarineSediment,Mg/Ca,mmol/mol,NA,NA,Temperature,degC
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+K Treydte,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Raphael Neukom,Wood,Tree Ring Standardized Growth Index,NA,NA,Na,NA,NA
+Rosanne D'Arrigo,Wood,Sample Count,count,NA,NA,NA,NA
+Spruce W. Schoenemann,Ice-other,D-Excess,permil,NA,NA,NA,NA
+C. A. Woodhouse,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+D. Sauchyn,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+Georg Hoffmann,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+A.P. Ballantyne,Wood,D18O,permil,Precipitation Amount,Na,Na Precipitation Amount,NA
+Masaki Sano,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Duane G. Froese,Ice-other,Dd,permil,NA,NA,NA,NA
+J. M. Lough,Coral,Calcification,g/cm/yr,NA,NA,NA,NA
+J. F. Bolzan,GlacierIce,D18O,permil,Precipitation Isotope,Air Surface,Air Surface Precipitation Isotope,NA
+Laia Andreu-Hayles,Wood,NA,NA,NA,NA,NA,NA
+E. Watson,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+Rosanne D’Arrigo,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+Teresa R. Krause,LakeSediment,Brgdgt,peak area,NA,NA,NA,NA
+Reynolds-Henne,Wood,D18O,permil,Temperature And Precipitation,Na,Na Temperature And Precipitation,NA
+B. Risebrobakken,MarineSediment,D18O,permil,Carbonate Ion Concentration,Na,Na Carbonate Ion Concentration,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+M. Sano,Wood,D18O,permil,Precipitation And Evaporation,Na,Na Precipitation And Evaporation,NA
+M. Khodri,Peat,NA,NA,NA,NA,Temperature,degC
+K.-L. Knudsen,Peat,NA,NA,NA,NA,Temperature,degC
+Tas Van Ommen,Wood,Tree Ring Standardized Growth Index,NA,NA,Na,NA,NA
+F. Biondi,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+E. Mosley-Thompson,GlacierIce,Ca,ppb,NA,NA,NA,NA
+B. M. Buckley,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,Dry Bulk Density,g/cm3,NA,NA,NA,NA
+D.A. Graybill,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+David J. Karoly,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+D.A. Graybill,Wood,Segment,NA,NA,NA,NA,NA
+M. Schwager,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+A.W. Tudhope,Coral,D18O,permil,Water Temperature,Sea Surface,Sea Surface Water Temperature,NA
+Raphael Neukom,Wood,Tree Ring Standardized Growth Index,NA,NA,Na,NA,NA
+A. Lloyd,Wood,NA,NA,NA,NA,NA,NA
+NA,MarineSediment,Mg/Ca,mmol/mol,NA,NA,surface.temp,degC
+Rosanne D. D'Arrigo,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp.error,degC
+I Voigt,MarineSediment,D18O,permil,Water Temperature,Subsurface  300 400M ,Subsurface  300 400M  Water Temperature,NA
+M.K. Hughes,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+Rosanne D’Arrigo,Wood,NA,NA,NA,NA,NA,NA
+Kendrick C. Taylor,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+Edward R. Cook,Wood,NA,NA,NA,NA,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+S.-P. Xie,Coral,Sr/Ca,mmol/mol,NA,Sea Surface,NA,NA
+Eric J. Steig,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+M.M. Joachimski,Coral,D18O,permil,NA,Sea Surface,NA,NA
+B.H. Luckman,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+Raphael Neukom,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+P. Moffasanchez,MarineSediment,NA,cm,NA,NA,D18O,permil
+Kurt F. Kipfmueller,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+Catherine R. Samson,MarineSediment,D13C,permil,NA,NA,Temperature,degC
+P. Moffasanchez,MarineSediment,D18O,permil,Carbonate Ion Concentration,Subsurface,D18O,permil
+Edward R. Cook,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Trevor J. Porter,GroundIce,D18O,permil,NA,Air Surface,uncertainty temperature1,degC
+Lauren J. Davies,GroundIce,Dd,permil,NA,Air Surface,uncertainty temperature1,degC
+V. S. Zagorodnov,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+Rosanne D. D'Arrigo,Wood,NA,NA,NA,NA,NA,NA
+Lucien Von Gunten,Peat,NA,NA,NA,NA,uncertainty.temperature,degC
+D. B. Fagre,Wood,Sample Count,count,NA,NA,NA,NA
+Brendan M. Buckley,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Fritz H. Schweingruber,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+Brian H Luckman,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+B. Stenni,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+Spruce W. Schoenemann,Ice-other,D18O,permil,NA,NA,uncertainty temperature1,degC
+R. A. O'Leary,Coral,Calcification,g/cm/yr,NA,NA,NA,NA
+B.H. Luckman,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+E. R. Cook,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Marc T. Mayes,LakeSediment,NA,degC,NA,NA,Temperature,degC
+R. J. S. Wilson,Wood,Sample Count,count,NA,NA,NA,NA
+Gerold Wefer,MarineSediment,37:2Alkenoneconcentration,g,NA,NA,NA,NA
+Takeshi Nakatsuka,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+Rob Wilson,Wood,Segment,NA,NA,NA,NA,NA
+NA,MarineSediment,Dry Bulk Density,g/cm3,NA,NA,surface.temp,degC
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+Gerold Wefer,MarineSediment,37:2Alkenoneconcentration,g,NA,NA,Temperature,degC
+Dj Kennett,Speleothem,D13C,permil,NA,Na,NA,NA
+Gordon Jacoby,Wood,Corrs,NA,NA,NA,NA,NA
+Kevin J. Anchukaitis,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Fritz H. Schweingruber,Wood,Sample Count,count,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+Kevin C. Nixon,Midden,NA,m,NA,NA,NA,NA
+B. H. Luckman,Wood,Corrs,NA,NA,NA,NA,NA
+Gordon C. Jacoby,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Brendan M. Buckley,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+N. K. Davi,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,Ice-Rafted Debris,no/g,NA,NA,surface.temp,degC
+NA,MarineSediment,Uk37,NA,NA,NA,surface.temp,degC
+Rob Wilson,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+E. Watson,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+Duane G. Froese,Ice-other,D-Excess,permil,NA,NA,temperature1,degC
+NA,MarineSediment,Mg/Ca,mmol/mol,NA,NA,surface.temp,degC
+L. J. Graumlich,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+G. C. Jacoby,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Masaki Sano,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,Ice-Rafted Debris,percent,NA,NA,surface.temp,degC
+Holger Kuhlmann,MarineSediment,D18O,permil,NA,NA,Temperature,degC
+M.E. Colenutt,Wood,Residual,NA,NA,NA,NA,NA
+Brendan M. Buckley,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Gordon Jacoby,Wood,NA,NA,NA,NA,NA,NA
+Gordon Jacoby,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+NA,MarineSediment,Foraminifera Abundance,percent,NA,NA,NA,NA
+G. C. Jacoby,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+D. B. Fagre,Wood,Core,NA,NA,NA,NA,NA
+Opel,GlacierIce,D18O,permil,Precipitation Isotope,Air Surface,Air Surface Precipitation Isotope,NA
+Jessica E. Carilli,Coral,D18O,permil,NA,Sea Surface,D18O,permil
+Håkan Grudd,Wood,Density,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+I Voigt,MarineSediment,D18O,permil,Carbonate Ion Concentration,Subsurface  300 400M ,Subsurface  300 400M  Carbonate Ion Concentration,NA
+Fritz H. Schweingruber,Wood,Corrs,NA,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+V. N. Mikhalenko,GlacierIce,Mg,ppb,NA,NA,NA,NA
+Scott St George,Wood,NA,NA,NA,NA,NA,NA
+Gordon Jacoby,Wood,Segment,NA,NA,NA,NA,NA
+F. Biondi,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+Spruce W. Schoenemann,GroundIce,D-Excess,permil,NA,Na,NA,NA
+G. C. Wiles,Wood,Residual,NA,NA,NA,NA,NA
+Ignacio Mundo,Wood,Tree Ring Standardized Growth Index,NA,NA,Na,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+A. Newton,MarineSediment,NA,cm,NA,NA,Temperature,degC
+I Voigt,MarineSediment,D18O,permil,Seawater Isotope,Na,Na Seawater Isotope,NA
+Fritz H. Schweingruber,Wood,Residual,NA,NA,NA,NA,NA
+Jo�Lle Gergis,Wood,Tree Ring Standardized Growth Index,NA,NA,Na,NA,NA
+D. Wagenbach,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+B. H. Luckman,Wood,Corrs,NA,NA,NA,NA,NA
+Anton Eisenhauer,Sclerosponge,D18O,permil,NA,Sea Surface,NA,NA
+John W. Williams,LakeSediment,Brgdgt,peak area,NA,NA,NA,NA
+Anne L. Cohen,MarineSediment,Mg/Ca,NA,NA,NA,NA,NA
+Henderson A.C.G.,LakeSediment,D18O,permil,Precipitation And Evaporation,Lake Water,Lake Water Precipitation And Evaporation,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+G. T. Pederson,Wood,Core,NA,NA,NA,NA,NA
+Jessica E. Tierney,LakeSediment,NA,degC,NA,NA,NA,NA
+Fritz H. Schweingruber,Wood,Residual,NA,NA,NA,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+Keith R. Briffa,Wood,NA,NA,NA,NA,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+NA,MarineSediment,Mg/Ca,mmol/mol,NA,NA,NA,NA
+Fritz H. Schweingruber,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+NA,MarineSediment,Mg/Ca,mmol/mol,NA,NA,surface.temp,degC
+Wolfgang Kuhnt,MarineSediment,D18O,permil,NA,NA,Temperature,degC
+B. H. Luckman,Wood,Residual,NA,NA,NA,NA,NA
+E. R. Cook,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Ann Holbourn,MarineSediment,D18O,permil,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+L. J. Graumlich,Wood,Segment,NA,NA,NA,NA,NA
+Andrew D. Moy,Wood,Tree Ring Standardized Growth Index,NA,NA,Na,NA,NA
+M. E. Davis,GlacierIce,Ammonium,ppb,NA,NA,NA,NA
+Vinther,GlacierIce,D18O,permil,NA,Air Surface,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+NA,LakeSediment,NA,permil,NA,NA,NA,NA
+Vinther,GlacierIce,D18O,permil,Precipitation Isotope,Air Surface,Air Surface Precipitation Isotope,NA
+Erika Mashig,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+Wolfgang Kuhnt,MarineSediment,Mg/Ca,mmol/mol,NA,NA,NA,NA
+W. E. Wright,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Terrence M. Quinn,Coral,D13C,permil,NA,NA,NA,NA
+William R. Howard,MarineSediment,D13C,permil,NA,NA,uncertainty.temperature,degC
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+C. Xu,Wood,D18O,permil,Precipitation And Evaporation,Na,Year,AD
+H. Wanner,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Spruce W. Schoenemann,GroundIce,Dd,permil,NA,Na,uncertainty temperature1,degC
+G. Wiles,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Masaki Sano,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Dirk Nuernberg,MarineSediment,D13C,permil,NA,NA,NA,NA
+Thompson,GlacierIce,D18O,permil,NA,Air Surface,NA,NA
+J.C. King,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+J. M. Lough,Coral,Calcification,g/cm/yr,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+Keith R. Briffa,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+David Frank,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+Stepan G. Shiyatov,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+B. M. Buckley,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Timothy J. Osborn,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Graf,GlacierIce,D18O,permil,Precipitation Isotope,Air Surface,Air Surface Precipitation Isotope,NA
+Takeshi Nakatsuka,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+Elfi Mollier-Vogel,MarineSediment,Mg/Ca,mmol/mol,NA,NA,NA,NA
+Paul J. Krusic,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,Mg/Ca,mmol/mol,NA,NA,NA,NA
+Catherine Kissel,MarineSediment,D18O,permil,NA,NA,NA,NA
+NA,MarineSediment,Total Organic Carbon,percent,NA,NA,surface.temp,degC
+Gregory C. Wiles,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+S. R. Managave,Wood,D18O,permil,Precipitation Isotope,Na,Na Precipitation Isotope,NA
+Brendan M. Buckley,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Catherine R. Samson,MarineSediment,D13C,permil,NA,NA,temperatureComposite,degC
+R. D. Darrigo,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Riza Yuliratno Setiawan,MarineSediment,D18O,permil,NA,NA,NA,NA
+Fidel González-Rouco,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+D. B. Fagre,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+Andrew G. Bunn,Wood,Segment,NA,NA,NA,NA,NA
+R. D'Arrigo,Wood,Sample Count,count,NA,NA,NA,NA
+J.E. Carilli,Coral,D18O,permil,NA,Na,NA,NA
+John P. Cropper,Wood,Residual,NA,NA,NA,NA,NA
+G. Wefer,Coral,D18O,permil,NA,Sea Surface,NA,NA
+Gordon C. Jacoby,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+NA,MarineSediment,Uk37,NA,NA,NA,surface.temp,degC
+Gordon Jacoby,Wood,Sample Count,count,NA,NA,NA,NA
+H. Kuhnert,Coral,D18O,permil,NA,Sea Surface,NA,NA
+NA,LakeSediment,NA,cm,NA,NA,NA,NA
+F. Wilhelms,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+I. Nicholas Mccave,Peat,NA,NA,NA,NA,Temperature,degC
+Jürgen Pätzold,Coral,D18O,permil,NA,Sea Surface,NA,NA
+Fritz H. Schweingruber,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+Jessica E. Carilli,Coral,D18O,permil,D18O Seawater,Sea Surface,D18O,permil
+Elisabeth L. Sikes,MarineSediment,D13C,permil,NA,NA,uncertainty.temperature,degC
+A Mangini,Speleothem,D18O,permil,NA,Na,NA,NA
+Ellen Druffel,Coral,D13C,permil,NA,NA,NA,NA
+S.L. Buchardt,Peat,NA,NA,NA,NA,Temperature,degC
+Scott St George,Wood,Segment,NA,NA,NA,NA,NA
+William R. Howard,MarineSediment,D18O,permil,NA,NA,NA,NA
+Peter W. Swarzenski,LakeSediment,NA,degC,NA,NA,Temperature,degC
+Rf Denniston,Speleothem,D18O,permil,Precipitation Isotope,Na,Na Precipitation Isotope,NA
+C.P. Chilcott,Coral,D18O,permil,D18O Seawater,Sea Surface,Sea Surface D18O Seawater,NA
+J.J.G. Reijmer,Coral,D13C,permil,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+NA,MarineSediment,Total Organic Carbon,percent,NA,NA,NA,NA
+P. M. Munz,MarineSediment,NA,mm,NA,NA,NA,NA
+B. M. Buckley,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Timothy J. Osborn,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+M. Pfeiffer,Coral,D18O,permil,NA,Sea Surface,NA,NA
+Takeshi Nakatsuka,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Keith R. Briffa,Wood,Residual,NA,NA,NA,NA,NA
+P.M. Brown,Wood,Corrs,NA,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+Robert S. Harbert,Midden,NA,decimal degrees,NA,NA,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+Rosanne D’Arrigo,Wood,Core,NA,NA,NA,NA,NA
+L.J. Graumlich,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+Matthew W. Salzer,Wood,Corrs,NA,NA,NA,NA,NA
+F. Biondi,Wood,Residual,NA,NA,NA,NA,NA
+Kristin Doering,MarineSediment,D18O,permil,NA,NA,Temperature,degC
+J. Cole-Dai,GlacierIce,D18O,permil,Precipitation Isotope,Air Surface,Air Surface Precipitation Isotope,NA
+Keith R. Briffa,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+R. A. O'Leary,Coral,Calcification,g/cm/yr,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+V. N. Mikhalenko,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+D. B. Fagre,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Kevin C. Nixon,Midden,NA,m,NA,NA,temperature1,degC
+Philip D. Jones,Wood,Corrs,NA,NA,NA,NA,NA
+G. C. Wiles,Wood,Sample Count,count,NA,NA,NA,NA
+Lauren J. Davies,GroundIce,D-Excess,permil,NA,Na,uncertainty temperature1,degC
+R. J. S. Wilson,Wood,Sample Count,count,NA,NA,NA,NA
+K. Saunders,LakeSediment,NA,NA,NA,NA,NA,NA
+Graf,GlacierIce,D18O,permil,NA,Air Surface,NA,NA
+Karl-Heinz Baumann,MarineSediment,D18O,permil,NA,NA,NA,NA
+James W. C. White,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+Sasiri Bandara,Ice-other,Dd,permil,NA,NA,uncertainty temperature1,degC
+Peter J. M _Ller,MarineSediment,37:2Alkenoneconcentration,g,NA,NA,NA,NA
+Keith R. Briffa,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+J.C. King,Wood,Segment,NA,NA,NA,NA,NA
+J.C. King,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Rosanne D'Arrigo,Wood,Core,NA,NA,NA,NA,NA
+C. A. Woodhouse,Wood,Corrs,NA,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+G. Wiles,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+R. J. S. Wilson,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+Fritz H. Schweingruber,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+E. Mosley-Thompson,GlacierIce,Ammonium,ppb,NA,NA,NA,NA
+V. N. Mikhalenko,GlacierIce,Ca,ppb,NA,NA,NA,NA
+Natacha Meyer,LakeSediment,NA,degC,NA,NA,Temperature,degC
+Jeroen Groeneveld,MarineSediment,D18O,permil,NA,NA,NA,NA
+Scott St George,Wood,Corrs,NA,NA,NA,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+Kaufman,GlacierIce,D18O,permil,NA,Air Surface,NA,NA
+Keith R. Briffa,Wood,NA,NA,NA,NA,NA,NA
+M. Sano,Wood,D18O,permil,Pdsi,Na,Year,AD
+Florian Böhm,Sclerosponge,D18O,permil,NA,Sea Surface,NA,NA
+Julie Elbert,Wood,Tree Ring Standardized Growth Index,NA,NA,Na,NA,NA
+Scott St George,Wood,NA,NA,NA,NA,NA,NA
+Hans R  Y,Peat,NA,NA,NA,NA,Temperature,degC
+Thompson,GlacierIce,D18O,permil,Precipitation Isotope,Air Surface,Air Surface Precipitation Isotope,NA
+R. Thunell,MarineSediment,NA,cm,NA,NA,NA,NA
+NA,MarineSediment,Biogenic Silica,percent,NA,NA,surface.temp,degC
+R. J. S. Wilson,Wood,Segment,NA,NA,NA,NA,NA
+S. Draschba,Coral,D18O,permil,NA,Sea Surface,NA,NA
+P.- N. Lin,GlacierIce,K,ppb,NA,NA,NA,NA
+Kevin J. Anchukaitis,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,Wood,D18O,permil,Precipitation Isotope,Na,Na Precipitation Isotope,NA
+Anne Verstege,Wood,Maximum Latewood Density,NA,NA,Air Surface,NA,NA
+T. M. Quinn,Coral,D18O,permil,Water Temperature,Sea Surface,Sea Surface Water Temperature,NA
+Spruce W. Schoenemann,GroundIce,D-Excess,permil,NA,Na,uncertainty temperature1,degC
+Luc Beaufort,MarineSediment,D18O,permil,NA,NA,Temperature,degC
+Catherine R. Samson,MarineSediment,D13C,permil,NA,NA,uncertainty.temperature,degC
+John W. Williams,LakeSediment,Brgdgt,peak area,NA,NA,soilTemp,degC
+Ann Holbourn,MarineSediment,D18O,permil,NA,NA,Temperature,degC
+B. H. Luckman,Wood,NA,NA,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+Kevin J. Anchukaitis,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Babette Hoogakker,Peat,NA,NA,NA,NA,Temperature,degC
+Masaki Sano,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Weiaybach,GlacierIce,D18O,permil,NA,Air Surface,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+L.E. Conkey,Wood,NA,NA,NA,NA,NA,NA
+Erika Mashig,Wood,NA,NA,NA,NA,NA,NA
+Philip D. Jones,Wood,Residual,NA,NA,NA,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+Gordon C. Jacoby,Wood,NA,NA,NA,NA,NA,NA
+Eugene A. Vaganov,Wood,Core,NA,NA,NA,NA,NA
+David Frank,Wood,Corrs,NA,NA,NA,NA,NA
+R. D'Arrigo,Wood,Segment,NA,NA,NA,NA,NA
+R. D'Arrigo,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+Harold C. Fritts,Wood,Core,NA,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+M.K. Hughes,Wood,Segment,NA,NA,NA,NA,NA
+Brendan M. Buckley,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+David J. Karoly,Wood,Tree Ring Standardized Growth Index,NA,NA,Na,NA,NA
+NA,MarineSediment,NA,cm,NA,NA,D18O,permil
+G. C. Wiles,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+Anne L. Cohen,MarineSediment,Mg/Ca,NA,NA,NA,Temperature,degC
+NA,MarineSediment,D18O,permil,Carbonate Ion Concentration,Near Surface,Near Surface Carbonate Ion Concentration,NA
+Julie Elbert,Wood,Tree Ring Standardized Growth Index,NA,NA,Na,NA,NA
+V. Gkinis,Peat,NA,NA,NA,NA,Temperature,degC
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+NA,MarineSediment,Mg/Ca,mmol/mol,NA,NA,surface.temp,degC
+A.G. Bunn,Wood,NA,NA,NA,NA,NA,NA
+Kristin Doering,MarineSediment,D18O,permil,NA,NA,NA,NA
+M. E. Davis,GlacierIce,Cl,ppb,NA,NA,NA,NA
+NA,MarineSediment,NA,permil PDB,NA,NA,NA,NA
+Yair Rosenthal,Peat,NA,NA,NA,NA,Temperature,degC
+Brian H Luckman,Wood,Residual,NA,NA,NA,NA,NA
+B.H. Luckman,Wood,Sample Count,count,NA,NA,NA,NA
+Masaki Sano,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Jan F. Schr̦Der,MarineSediment,D18O,permil,NA,NA,NA,NA
+T. F. Cooper,Coral,Calcification,g/cm/yr,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+NA,MarineSediment,D18O,permil PDB,NA,NA,deep.temp,degC
+Eric J. Steig,Ice-other,Dd,permil,NA,NA,temperature1,degC
+B.M. Vinther,Peat,NA,NA,NA,NA,Temperature,degC
+M. Kenigsberg,Wood,Residual,NA,NA,NA,NA,NA
+Alexandra Haase-Schramm,Sclerosponge,D18O,permil,NA,Sea Surface,NA,NA
+Philip D. Jones,Wood,NA,NA,NA,NA,NA,NA
+NA,MarineSediment,Caco3,percent,NA,NA,NA,NA
+Masaki Sano,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Scott St George,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+Fidel Gonz�Lez-Rouco,Wood,Tree Ring Standardized Growth Index,NA,NA,Na,NA,NA
+Julian P. Sachs,MarineSediment,Uk37,NA,NA,NA,NA,NA
+M. Sano,Wood,D18O,permil,NA,Surface,NA,NA
+John W. Williams,LakeSediment,Brgdgt,peak area,NA,NA,Temperature,degC
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+D.A. Graybill,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+Paul J. Krusic,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Gordon Jacoby,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+P.- N. Lin,GlacierIce,Ca,ppb,NA,NA,NA,NA
+Harold C. Fritts,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+Robert S. Harbert,Midden,NA,m,NA,NA,temperature1,degC
+Gordon C. Jacoby,Wood,Residual,NA,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+Lauren J. Davies,GroundIce,NA,cm,NA,NA,uncertainty temperature1,degC
+Yossi Loya,Coral,D18O,permil,NA,Sea Surface,NA,NA
+Zhonghui Liu,Peat,NA,NA,NA,NA,Temperature,degC
+D C Frank,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Keith R. Briffa,Wood,NA,NA,NA,NA,NA,NA
+Bertler,GlacierIce,Dd,permil,NA,Air Surface,NA,NA
+Timothy J. Osborn,Wood,Segment,NA,NA,NA,NA,NA
+Scott St George,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+C. Spötl,Speleothem,D18O,permil,NA,Air Condensationlevel,NA,NA
+Kevin J. Anchukaitis,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Paul J. Krusic,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+J.C. King,Wood,NA,NA,NA,NA,NA,NA
+G.H. Clarke,Peat,NA,NA,NA,NA,Temperature,degC
+B. H. Luckman,Wood,Segment,NA,NA,NA,NA,NA
+Stepan G. Shiyatov,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+Kim Cobb,Coral,D18O,permil,NA,Sea Surface,NA,NA
+Kevin K _Ssner,MarineSediment,D18O,permil,NA,NA,NA,NA
+Tebke B̦Schen,MarineSediment,D18O,permil,NA,NA,Temperature,degC
+J. S. Littell,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+J. Cole-Dai,GlacierIce,D18O,permil,NA,Air Surface,NA,NA
+Ann Holbourn,MarineSediment,D18O,permil,NA,NA,Temperature,degC
+Ke Lin,Coral,Sr/Ca,mmol/mol,NA,Sea Surface,NA,NA
+V. S. Zagorodnov,GlacierIce,Thickness,mwe,NA,NA,NA,NA
+Anne De Vernal,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+K. -B. Liu,GlacierIce,D18O,permil,Precipitation Isotope,Air Surface,Air Surface Precipitation Isotope,NA
+Fritz H. Schweingruber,Wood,Corrs,NA,NA,NA,NA,NA
+Rf Denniston,Speleothem,D13C,permil,NA,Na,NA,NA
+Eugene A. Vaganov,Wood,Sample Count,count,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+Keith R. Briffa,Wood,Core,NA,NA,NA,NA,NA
+Kevin J. Anchukaitis,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Yl Cai,Speleothem,NA,cm,NA,NA,NA,NA
+Jussi Griessinger,Wood,D18O,permil,NA,Na,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,CaCO3,percent
+Michael Grelaud,Peat,NA,NA,NA,NA,Temperature,degC
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+Tessa Vance,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Kerstin Treydte,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Casey Saenger,MarineSediment,Mg/Ca,NA,NA,NA,NA,NA
+Stepan G. Shiyatov,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Braddock K. Linsley,Wood,Tree Ring Standardized Growth Index,NA,NA,Na,NA,NA
+Robert S. Harbert,Midden,NA,decimal degrees,NA,NA,temperature1,degC
+Fritz H. Schweingruber,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+Samuel Toucanne,Peat,NA,NA,NA,NA,Temperature,degC
+Rainer Zahn,MarineSediment,37:2Alkenoneconcentration,g,NA,NA,Temperature,degC
+Sandrine Solignac,Peat,NA,NA,NA,NA,Temperature,degC
+NA,MarineSediment,Total Organic Carbon,percent,NA,NA,surface.temp,degC
+G.B. Shimmield,Coral,D18O,permil,Water Temperature,Sea Surface,Sea Surface Water Temperature,NA
+E. A. Vaganov,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Spruce W. Schoenemann,GroundIce,D-Excess,permil,NA,Na,temperature1,degC
+Graf,GlacierIce,D18O,permil,NA,Air Surface,NA,NA
+Jens Zinke,Wood,Tree Ring Standardized Growth Index,NA,NA,Na,NA,NA
+Elisabeth L. Sikes,MarineSediment,D18O,permil,NA,NA,temperatureComposite,degC
+Kevin C. Nixon,Midden,NA,decimal degrees,NA,NA,temperature1,degC
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+Harold C. Fritts,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+Wolf-Christian Dullo,Sclerosponge,D18O,permil,NA,Sea Surface,NA,NA
+Kristine L. Delong,Coral,Sr/Ca,mmol/mol,NA,Sea Surface,NA,NA
+Sasiri Bandara,Ice-other,Dd,permil,NA,NA,temperature1,degC
+Gregory C. Wiles,Wood,Tree Ring Width,cm,NA,NA,NA,NA
+D.E. Black,MarineSediment,D18O,permil,Carbonate Ion Concentration,Near Surface,Near Surface Carbonate Ion Concentration,NA
+Dirk N _Rnberg,MarineSediment,D18O,permil,NA,NA,Temperature,degC
+Björn E. Gunnarson,Wood,Density,NA,NA,Air Surface,NA,NA
+Thierry Corrège,Coral,Sr/Ca,mmol/mol,NA,Sea Surface,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+Raymond S. Bradley,LakeSediment,NA,m,NA,NA,NA,NA
+G. T. Pederson,Wood,Expressed Population Signal,NA,NA,NA,NA,NA
+G. C. Jacoby,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Rosanne D'Arrigo,Wood,Sample Count,count,NA,NA,NA,NA
+Lisa J. Graumlich,Wood,NA,NA,NA,NA,NA,NA
+Eric J. Steig,Ice-other,Dd,permil,NA,NA,NA,NA
+J. L. Betancourt,Wood,Segment,NA,NA,NA,NA,NA
+Elsa Cortijo,Peat,NA,NA,NA,NA,Temperature,degC
+O. Ch. Oidupaa,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,Caco3,percent,NA,NA,NA,NA
+Spruce W. Schoenemann,GroundIce,D18O,permil,NA,Na,uncertainty temperature1,degC
+Sarah N. Appleton,Wood,NA,NA,NA,NA,NA,NA
+Timothy J. Osborn,Wood,Residual,NA,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil,Water Temperature,Sea Surface,D18O,permil
+NA,MarineSediment,Uk37,NA,NA,NA,surface.temp,degC
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+I Voigt,MarineSediment,D18O,permil,Water Temperature,Na,Temperature,degC
+B. H. Luckman,Wood,Rbar (Mean Pair Correlation),NA,NA,NA,NA,NA
+R. A. Bantan,LakeSediment,D18O,permil,NA,Na,NA,NA
+K. J. Anchukaitis,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Mark Curran,Wood,Tree Ring Standardized Growth Index,NA,NA,Na,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+Nicole K Davi,Wood,Corrs,NA,NA,NA,NA,NA
+Jeroen Groeneveld,MarineSediment,D18O,permil,NA,NA,Temperature,degC
+P.- N. Lin,GlacierIce,Dust,permil,NA,NA,NA,NA
+Carsten R _Hlemann,MarineSediment,37:2Alkenoneconcentration,g,NA,NA,Temperature,degC
+Alexey Kaplan,Coral,Sr/Ca,mmol/mol,NA,Sea Surface,NA,NA
+M. Kenigsberg,Wood,Corrs,NA,NA,NA,NA,NA
+Joachim Reitner,Sclerosponge,D18O,permil,NA,Sea Surface,NA,NA
+William R. Howard,MarineSediment,D13C,permil,NA,NA,Temperature,degC
+NA,MarineSediment,Uk37,NA,NA,NA,surface.temp,degC
+D. B. Fagre,Wood,Corrs,NA,NA,NA,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+NA,MarineSediment,Caco3,percent,NA,NA,surface.temp,degC
+NA,MarineSediment,NA,permil PDB,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp.error,degC
+Julia E. Cole,Coral,D18O,permil,NA,Sea Surface,NA,NA
+Dieter Garbe-Sch̦Nberg,MarineSediment,Mg/Ca,mmol/mol,NA,NA,Temperature,degC
+Rob Wilson,Wood,NA,NA,NA,NA,NA,NA
+Kurt F. Kipfmueller,Wood,Segment,NA,NA,NA,NA,NA
+R. J. S. Wilson,Wood,Corrs,NA,NA,NA,NA,NA
+M. E. Davis,GlacierIce,Nitrate,ppb,NA,NA,NA,NA
+D. B. Fagre,Wood,NA,NA,NA,NA,NA,NA
+J. L. Betancourt,Wood,Core,NA,NA,NA,NA,NA
+E. R. Cook,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,Mg/Ca,mmol/mol,NA,NA,surface.temp,degC
+Paul J. Krusic,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+H. Schuhmacher,Coral,D18O,permil,NA,Sea Surface,NA,NA
+Stefan Schouten,LakeSediment,NA,m,NA,NA,NA,NA
+S. Falourd,GlacierIce,Dd,permil,NA,Air Condensationlevel,NA,NA
+Richard D. Van Dorp,Wood,NA,NA,NA,NA,NA,NA
+A. Maldonado,LakeSediment,NA,cm,NA,NA,Temperature,degC
+NA,MarineSediment,D18O,permil PDB,NA,NA,surface.temp,degC
+B. H. Luckman,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Graf,GlacierIce,D18O,permil,Precipitation Isotope,Air Surface,Air Surface Precipitation Isotope,NA
+Ricardo Villalba,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+M. E. Davis,GlacierIce,D18O,permil,NA,Air Surface,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+K. J. Anchukaitis,Wood,D18O,permil,NA,Na,NA,NA
+Pw Williams,Speleothem,D18O,permil,Precipitation Isotope,Na,Na Precipitation Isotope,NA
+M.K. Hughes,Wood,NA,NA,NA,NA,NA,NA
+G. Wiles,Wood,Core,NA,NA,NA,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+E. Mosley-Thompson,GlacierIce,Na,ppb,NA,NA,NA,NA
+Ralph R. Schneider,Peat,NA,NA,NA,NA,Temperature,degC
+P. Appleby,LakeSediment,NA,NA,NA,NA,Temperature,degC
+Fritz H. Schweingruber,Wood,Core,NA,NA,NA,NA,NA
+Dominic A. Hodgson,LakeSediment,NA,cm,NA,NA,NA,NA
+NA,MarineSediment,D18O,permil PDB,NA,NA,NA,NA
+Eric J. Steig,Ice-other,Dd,permil,NA,NA,uncertainty temperature1,degC
+D. Dissard,Coral,Sr/Ca,mmol/mol,NA,Sea Surface,NA,NA
+Fritz H. Schweingruber,Wood,Arstan Chronology,NA,NA,NA,NA,NA
+R. Parish,Wood,NA,NA,NA,NA,NA,NA
+K.K. Andersen,GlacierIce,D18O,permil,NA,Air Condensationlevel,NA,NA
+Thomas T. Veblen,Wood,NA,NA,NA,NA,NA,NA
+Stepan G. Shiyatov,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+NA,MarineSediment,D13C,permil PDB,NA,NA,surface.temp,degC
+S.B. Simonsen,Peat,NA,NA,NA,NA,Temperature,degC
+NA,MarineSediment,D13C,permil PDB,NA,NA,NA,NA
+Claude Hillaire-Marcel,Peat,NA,NA,NA,NA,Temperature,degC
+M. Grosjean,LakeSediment,NA,NA,NA,NA,Temperature,degC
+William R. Howard,MarineSediment,D13C,permil,NA,NA,NA,NA
+NA,MarineSediment,Caco3,percent,NA,NA,surface.temp,degC
+J. L. Betancourt,Wood,Tree Ring Standardized Growth Index,NA,NA,Air Surface,NA,NA
+Dirk N _Rnberg,MarineSediment,D13C,permil,NA,NA,Temperature,degC
+Stephan Steinke,MarineSediment,D18O,permil,NA,NA,Temperature,degC
